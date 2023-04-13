@@ -1,0 +1,451 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,team,meet,birth_date,event_id
+Margaret MacNeil,50 Freestyle SCY Female,50,Freestyle,SCY,Female,20.79,20.79,0 days 00:00:20.790000,2023-03-16,Louisiana State University,2023 NCAA Division I Women's Championship,2000-02-26,1
+Gretchen Walsh,50 Freestyle SCY Female,50,Freestyle,SCY,Female,20.83,20.83,0 days 00:00:20.830000,2023-02-15,University of Virginia,2023 ACC Championships,2003-01-29,1
+Katherine Douglass,50 Freestyle SCY Female,50,Freestyle,SCY,Female,20.95,20.95,0 days 00:00:20.950000,2023-02-15,University of Virginia,2023 ACC Championships,2001-11-17,1
+Gabriela Albiero,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.30,21.3,0 days 00:00:21.300000,2023-03-16,University of Louisville,2023 NCAA Division I Women's Championship,2002-01-16,1
+Teresa Ivan,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.46,21.46,0 days 00:00:21.460000,2023-03-16,Ohio State University,2023 NCAA Division I Women's Championship,2003-09-19,1
+Grace Countie,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.51,21.51,0 days 00:00:21.510000,2023-03-16,University of North Carolina Chapel Hill,2023 NCAA Division I Women's Championship,1999-11-10,1
+Katharine Berkoff,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.54,21.54,0 days 00:00:21.540000,2023-03-16,North Carolina State University,2023 NCAA Division I Women's Championship,2001-01-28,1
+Victoria Huske,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.54,21.54,0 days 00:00:21.540000,2022-11-17,Stanford University,NC State GAC Invitational,2002-12-07,1
+Claire Curzan,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.55,21.55,0 days 00:00:21.550000,2022-11-17,Stanford University,NC State GAC Invitational,2004-06-30,1
+Christiana Regenauer,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.58,21.58,0 days 00:00:21.580000,2023-02-15,University of Louisville,2023 ACC Championships,2001-09-09,1
+Jasmine Nocentini,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.59,21.59,0 days 00:00:21.590000,2022-11-16,Northwestern University,Purdue Invite 2022,2002-05-22,1
+Alexa Cuomo,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.61,21.61,0 days 00:00:21.610000,2023-03-16,University of Virginia,2023 NCAA Division I Women's Championship,2001-04-23,1
+Julia Dennis,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.73,21.73,0 days 00:00:21.730000,2023-03-16,University of Louisville,2023 NCAA Division I Women's Championship,2004-06-25,1
+Kalia Antoniou,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.74,21.74,0 days 00:00:21.740000,2023-02-15,University of Alabama,2023 SEC Championships,2000-04-06,1
+Amy Fulmer,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.74,21.74,0 days 00:00:21.740000,2023-03-16,Ohio State University,2023 NCAA Division I Women's Championship,2001-05-24,1
+Mona McSharry,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.74,21.74,0 days 00:00:21.740000,2023-02-15,University of Tennessee,2023 SEC Championships,2000-08-21,1
+Katherine Zenick,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.74,21.74,0 days 00:00:21.740000,2023-03-16,Ohio State University,2023 NCAA Division I Women's Championship,2001-11-14,1
+Jordan Crooks,50 Freestyle SCY Male,50,Freestyle,SCY,Male,17.93,17.93,0 days 00:00:17.930000,2023-02-15,University of Tennessee,2023 SEC Championships,2002-05-02,1
+Joshua Liendo,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.22,18.22,0 days 00:00:18.220000,2023-03-23,University of Florida,2023 NCAA Division I Men's Championships,2002-08-20,1
+Bjorn Seeliger,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.46,18.46,0 days 00:00:18.460000,2023-03-23,University of California Berkeley,2023 NCAA Division I Men's Championships,2000-01-11,1
+Youssef Ramadan,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.68,18.68,0 days 00:00:18.680000,2023-03-23,VA Tech,2023 NCAA Division I Men's Championships,2002-07-07,1
+Adam Chaney,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.71,18.71,0 days 00:00:18.710000,2023-02-15,University of Florida,2023 SEC Championships,2002-03-27,1
+Brooks Curry,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.72,18.72,0 days 00:00:18.720000,2023-03-23,Louisiana State University,2023 NCAA Division I Men's Championships,2001-01-20,1
+Nyls Korstanje,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.74,18.74,0 days 00:00:18.740000,2023-03-23,North Carolina State University,2023 NCAA Division I Men's Championships,1999-02-05,1
+John Alexy,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.77,18.77,0 days 00:00:18.770000,2023-03-23,University of California Berkeley,2023 NCAA Division I Men's Championships,2003-01-19,1
+Abdelrahman Elaraby,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.79,18.79,0 days 00:00:18.790000,2023-02-15,University of Louisville,2023 ACC Championships,2000-03-09,1
+Guilherme Santos,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.79,18.79,0 days 00:00:18.790000,2023-02-15,University of Tennessee,2023 SEC Championships,2003-03-01,1
+Jack Dolan,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.86,18.86,0 days 00:00:18.860000,2023-03-02,Arizona State University,2023 Men's Pac 12 Championships,2000-12-22,1
+Christopher Guiliano,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.88,18.88,0 days 00:00:18.880000,2023-02-17,University of Notre Dame,2023 ACC Championships,2003-06-25,1
+Noah Henderson,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.88,18.88,0 days 00:00:18.880000,2023-03-23,North Carolina State University,2023 NCAA Division I Men's Championships,2001-05-11,1
+Van Mathias,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.89,18.89,0 days 00:00:18.890000,2023-03-23,Indiana University,2023 NCAA Division I Men's Championships,2000-08-24,1
+Matthew Brownstead,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.92,18.92,0 days 00:00:18.920000,2023-03-23,University of Virginia,2023 NCAA Division I Men's Championships,2002-06-12,1
+David Curtiss,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.93,18.93,0 days 00:00:18.930000,2023-03-23,North Carolina State University,2023 NCAA Division I Men's Championships,2002-07-04,1
+Gretchen Walsh,100 Freestyle SCY Female,100,Freestyle,SCY,Female,45.61,45.61,0 days 00:00:45.610000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2003-01-29,2
+Katherine Douglass,100 Freestyle SCY Female,100,Freestyle,SCY,Female,45.86,45.86,0 days 00:00:45.860000,2023-02-18,University of Virginia,2023 ACC Championships,2001-11-17,2
+Margaret MacNeil,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.27,46.27,0 days 00:00:46.270000,2023-02-18,Louisiana State University,2023 SEC Championships,2000-02-26,2
+Victoria Huske,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.46,46.46,0 days 00:00:46.460000,2023-03-18,Stanford University,2023 NCAA Division I Women's Championship,2002-12-07,2
+Gabriela Albiero,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.80,46.8,0 days 00:00:46.800000,2023-03-18,University of Louisville,2023 NCAA Division I Women's Championship,2002-01-16,2
+Katharine Berkoff,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.87,46.87,0 days 00:00:46.870000,2023-03-18,North Carolina State University,2023 NCAA Division I Women's Championship,2001-01-28,2
+Amy Fulmer,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.02,47.02,0 days 00:00:47.020000,2023-02-18,Ohio State University,2023 Women's Big Ten Championships,2001-05-24,2
+Katherine Zenick,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.14,47.14,0 days 00:00:47.140000,2023-03-18,Ohio State University,2023 NCAA Division I Women's Championship,2001-11-14,2
+Taylor Ruck,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.18,47.18,0 days 00:00:47.180000,2022-12-15,Stanford University,2022 SC World Champs,2000-05-28,2
+Christiana Regenauer,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.33,47.33,0 days 00:00:47.330000,2023-03-18,University of Louisville,2023 NCAA Division I Women's Championship,2001-09-09,2
+Kelly Pash,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.35,47.35,0 days 00:00:47.350000,2022-12-03,University of Texas,Minnesota Invite,2001-03-27,2
+Laticia-Leigh Transom,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.39,47.39,0 days 00:00:47.390000,2023-03-18,University of Hawaii,2023 NCAA Division I Women's Championship,2001-04-10,2
+Maxine Parker,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.42,47.42,0 days 00:00:47.420000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2002-06-14,2
+Kalia Antoniou,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.46,47.46,0 days 00:00:47.460000,2023-02-18,University of Alabama,2023 SEC Championships,2000-04-06,2
+Lindsay Flynn,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.50,47.5,0 days 00:00:47.500000,2023-02-18,University of Michigan,2023 Women's Big Ten Championships,2002-10-01,2
+Chloe Stepanek,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.67,47.67,0 days 00:00:47.670000,2023-02-25,Texas A&M University,TAMU Last Chance 2023,2002-02-17,2
+Joshua Liendo,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.28,40.28,0 days 00:00:40.280000,2023-03-25,University of Florida,2023 NCAA Division I Men's Championships,2002-08-20,2
+John Alexy,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.88,40.88,0 days 00:00:40.880000,2023-03-25,University of California Berkeley,2023 NCAA Division I Men's Championships,2003-01-19,2
+Bjorn Seeliger,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.90,40.9,0 days 00:00:40.900000,2023-03-04,University of California Berkeley,2023 Men's Pac 12 Championships,2000-01-11,2
+Jordan Crooks,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.92,40.92,0 days 00:00:40.920000,2023-03-25,University of Tennessee,2023 NCAA Division I Men's Championships,2002-05-02,2
+Ruslan Gaziev,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.98,40.98,0 days 00:00:40.980000,2023-03-25,Ohio State University,2023 NCAA Division I Men's Championships,1999-08-16,2
+Brooks Curry,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.03,41.03,0 days 00:00:41.030000,2023-03-25,Louisiana State University,2023 NCAA Division I Men's Championships,2001-01-20,2
+Youssef Ramadan,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.15,41.15,0 days 00:00:41.150000,2023-03-25,VA Tech,2023 NCAA Division I Men's Championships,2002-07-07,2
+Van Mathias,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.33,41.33,0 days 00:00:41.330000,2023-03-25,Indiana University,2023 NCAA Division I Men's Championships,2000-08-24,2
+Guilherme Santos,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.43,41.43,0 days 00:00:41.430000,2023-02-18,University of Tennessee,2023 SEC Championships,2003-03-01,2
+Christopher Guiliano,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.48,41.48,0 days 00:00:41.480000,2023-03-25,University of Notre Dame,2023 NCAA Division I Men's Championships,2003-06-25,2
+Macguire McDuff,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.59,41.59,0 days 00:00:41.590000,2023-02-18,University of Florida,2023 SEC Championships,2003-02-28,2
+Leon Marchand,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.61,41.61,0 days 00:00:41.610000,2023-03-04,Arizona State University,2023 Men's Pac 12 Championships,2002-05-17,2
+Jonathan Kulow,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.66,41.66,0 days 00:00:41.660000,2023-03-25,Arizona State University,2023 NCAA Division I Men's Championships,2004-08-11,2
+Grant House,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.69,41.69,0 days 00:00:41.690000,2023-03-04,Arizona State University,2023 Men's Pac 12 Championships,1998-06-19,2
+Matthew Brownstead,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.72,41.72,0 days 00:00:41.720000,2023-02-18,University of Virginia,2023 ACC Championships,2002-06-12,2
+Adam Chaney,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.75,41.75,0 days 00:00:41.750000,2023-03-25,University of Florida,2023 NCAA Division I Men's Championships,2002-03-27,2
+Alexandra Walsh,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.63,101.63,0 days 00:01:41.630000,2023-02-16,University of Virginia,2023 ACC Championships,2001-07-31,3
+Taylor Ruck,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.27,102.27,0 days 00:01:42.270000,2022-12-18,Stanford University,2022 SC World Champs,2000-05-28,3
+Victoria Huske,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.28,102.28,0 days 00:01:42.280000,2023-03-15,Stanford University,2023 NCAA Division I Women's Championship,2002-12-07,3
+Aimee Canny,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.34,102.34,0 days 00:01:42.340000,2023-03-15,University of Virginia,2023 NCAA Division I Women's Championship,2003-11-21,3
+Brooklyn Douthwright,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.41,102.41,0 days 00:01:42.410000,2023-03-17,University of Tennessee,2023 NCAA Division I Women's Championship,2003-05-20,3
+Kelly Pash,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.73,102.73,0 days 00:01:42.730000,2023-01-27,University of Texas,TEX vs NCS Friday,2001-03-27,3
+Anna Peplowski,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.86,102.86,0 days 00:01:42.860000,2023-03-15,Indiana University,2023 NCAA Division I Women's Championship,2002-09-25,3
+Kayla Wilson,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.90,102.9,0 days 00:01:42.900000,2023-03-17,Stanford University,2023 NCAA Division I Women's Championship,2004-02-15,3
+Amy Fulmer,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.94,102.94,0 days 00:01:42.940000,2023-02-15,Ohio State University,2023 Women's Big Ten Championships,2001-05-24,3
+Gretchen Walsh,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.24,103.24,0 days 00:01:43.240000,2023-02-04,University of Virginia,Cavalier Invite,2003-01-29,3
+Maxine Parker,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.28,103.28,0 days 00:01:43.280000,2023-03-17,University of Virginia,2023 NCAA Division I Women's Championship,2002-06-14,3
+Emma Atkinson,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.31,103.31,0 days 00:01:43.310000,2023-02-16,VA Tech,2023 ACC Championships,2001-10-13,3
+Chloe Stepanek,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.37,103.37,0 days 00:01:43.370000,2023-02-16,Texas A&M University,2023 SEC Championships,2002-02-17,3
+Abbey Webb,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.48,103.48,0 days 00:01:43.480000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,2001-01-21,3
+Micayla Cronk,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.77,103.77,0 days 00:01:43.770000,2023-02-16,University of Florida,2023 SEC Championships,2003-05-20,3
+Ekaterina Nikonova,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.83,103.83,0 days 00:01:43.830000,2023-03-15,University of Florida,2023 NCAA Division I Women's Championship,2003-04-25,3
+Luke Hobson,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:29.63,89.63,0 days 00:01:29.630000,2023-03-22,University of Texas,2023 NCAA Division I Men's Championships,2003-06-25,3
+Grant House,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.67,90.67,0 days 00:01:30.670000,2023-03-03,Arizona State University,2023 Men's Pac 12 Championships,1998-06-19,3
+Gabriel Jett,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.74,90.74,0 days 00:01:30.740000,2023-03-24,University of California Berkeley,2023 NCAA Division I Men's Championships,2002-10-14,3
+Leon Marchand,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.77,90.77,0 days 00:01:30.770000,2023-03-01,Arizona State University,2023 Men's Pac 12 Championships,2002-05-17,3
+Jack Dahlgren,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.17,91.17,0 days 00:01:31.170000,2023-02-14,University of Missouri,2023 SEC Championships,2000-01-10,3
+Charlie Hawke,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.20,91.2,0 days 00:01:31.200000,2023-02-16,University of Alabama,2023 SEC Championships,2002-09-03,3
+Brooks Curry,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.30,91.3,0 days 00:01:31.300000,2023-03-24,Louisiana State University,2023 NCAA Division I Men's Championships,2001-01-20,3
+Wen Zhang,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.42,91.42,0 days 00:01:31.420000,2023-02-24,U.S. Air Force Academy (M),2023 WAC Championships,2001-01-09,3
+Lukas Miller,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.55,91.55,0 days 00:01:31.550000,2023-03-22,North Carolina State University,2023 NCAA Division I Men's Championships,2002-04-26,3
+Macguire McDuff,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.56,91.56,0 days 00:01:31.560000,2023-03-22,University of Florida,2023 NCAA Division I Men's Championships,2003-02-28,3
+Jacob Newmark,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.61,91.61,0 days 00:01:31.610000,2023-02-24,University of Wisconsin Madison,2023 Men's Big Ten Championships,2002-03-03,3
+Julian Hill,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.74,91.74,0 days 00:01:31.740000,2023-03-24,Arizona State University,2023 NCAA Division I Men's Championships,2000-12-12,3
+Patrick Sammon,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.82,91.82,0 days 00:01:31.820000,2023-03-03,Arizona State University,2023 Men's Pac 12 Championships,2003-08-06,3
+Ruslan Gaziev,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.94,91.94,0 days 00:01:31.940000,2023-02-24,Ohio State University,2023 Men's Big Ten Championships,1999-08-16,3
+Coby Carrozza,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.06,92.06,0 days 00:01:32.060000,2023-03-24,University of Texas,2023 NCAA Division I Men's Championships,2001-05-07,3
+Christopher Guiliano,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.08,92.08,0 days 00:01:32.080000,2023-03-22,University of Notre Dame,2023 NCAA Division I Men's Championships,2003-06-25,3
+Erica Sullivan,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.88,275.88,0 days 00:04:35.880000,2023-01-27,University of Texas,TEX vs NCS Friday,2000-08-09,4
+Rachel Stege,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.31,276.31,0 days 00:04:36.310000,2023-02-15,University of Georgia,2023 SEC Championships,2003-04-11,4
+Kristen Stege,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.35,276.35,0 days 00:04:36.350000,2023-02-15,University of Tennessee,2023 SEC Championships,2001-06-01,4
+Kensey McMahon,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.62,276.62,0 days 00:04:36.620000,2023-03-16,University of Alabama,2023 NCAA Division I Women's Championship,1999-10-29,4
+Abby Carlson,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.96,276.96,0 days 00:04:36.960000,2023-03-16,University of Wisconsin Madison,2023 NCAA Division I Women's Championship,2003-08-01,4
+Olivia Bray,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.02,277.02,0 days 00:04:37.020000,2023-03-16,University of Texas,2023 NCAA Division I Women's Championship,2001-11-20,4
+Julia Mrozinski,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.34,277.34,0 days 00:04:37.340000,2023-03-16,University of Tennessee,2023 NCAA Division I Women's Championship,2000-02-16,4
+Emma Weyant,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.96,277.96,0 days 00:04:37.960000,2023-02-15,University of Florida,2023 SEC Championships,2001-12-24,4
+DENIZ ERTAN,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.04,278.04,0 days 00:04:38.040000,2023-02-15,Georgia Institute of Technology,2023 ACC Championships,2004-01-01,4
+Margaret Nelson,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.04,278.04,0 days 00:04:38.040000,2023-02-15,University of Virginia,2023 ACC Championships,2001-07-28,4
+Isabella Gati,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.18,278.18,0 days 00:04:38.180000,2023-02-15,University of Kentucky,2023 SEC Championships,1999-11-23,4
+Lindsay Looney,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.29,278.29,0 days 00:04:38.290000,2023-02-23,Arizona State University,2023 Women's Pac 12 Championships,2001-08-02,4
+Alexandra Walsh,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.34,278.34,0 days 00:04:38.340000,2022-11-17,University of Virginia,Tennessee Invitational,2001-07-31,4
+Morgan Tankersley,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.36,278.36,0 days 00:04:38.360000,2023-02-23,Stanford University,2023 Women's Pac 12 Championships,1999-07-26,4
+Dune Coetzee,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.54,278.54,0 days 00:04:38.540000,2023-03-16,University of Georgia,2023 NCAA Division I Women's Championship,2002-05-14,4
+Anna Kalandadze,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.86,278.86,0 days 00:04:38.860000,2023-02-16,University of Pennsylvania,2023 Women's Ivy League Championships,2001-07-21,4
+Luke Hobson,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:07.37,247.37,0 days 00:04:07.370000,2023-03-23,University of Texas,2023 NCAA Division I Men's Championships,2003-06-25,4
+Leon Marchand,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:07.81,247.81,0 days 00:04:07.810000,2023-02-04,Arizona State University,ASU vs UofA,2002-05-17,4
+David Johnston,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.79,248.79,0 days 00:04:08.790000,2023-03-23,University of Texas,2023 NCAA Division I Men's Championships,2001-10-28,4
+Jacob Magahey,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.24,249.24,0 days 00:04:09.240000,2023-03-23,University of Georgia,2023 NCAA Division I Men's Championships,2001-09-14,4
+Gabriel Jett,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.66,249.66,0 days 00:04:09.660000,2023-03-02,University of California Berkeley,2023 Men's Pac 12 Championships,2002-10-14,4
+Jacob Mitchell,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.85,249.85,0 days 00:04:09.850000,2023-02-15,University of Florida,2023 SEC Championships,2001-12-22,4
+Jacob Newmark,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.12,250.12,0 days 00:04:10.120000,2023-03-23,University of Wisconsin Madison,2023 NCAA Division I Men's Championships,2002-03-03,4
+Alfonso Mestre,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.15,250.15,0 days 00:04:10.150000,2023-02-15,University of Florida,2023 SEC Championships,2001-09-24,4
+Carson Foster,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.31,250.31,0 days 00:04:10.310000,2022-12-01,University of Texas,Minnesota Invite,2001-10-26,4
+Lucas Henveaux,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.50,250.5,0 days 00:04:10.500000,2023-03-23,University of California Berkeley,2023 NCAA Division I Men's Championships,2000-09-25,4
+NOAH MILLARD,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.62,250.62,0 days 00:04:10.620000,2023-02-23,Yale University,2023 Men's Ivy League Championships,2002-12-18,4
+Ross Dant,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.81,251.81,0 days 00:04:11.810000,2023-03-23,North Carolina State University,2023 NCAA Division I Men's Championships,2000-12-15,4
+Coby Carrozza,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.05,252.05,0 days 00:04:12.050000,2023-03-23,University of Texas,2023 NCAA Division I Men's Championships,2001-05-07,4
+Mason Mathias,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.15,252.15,0 days 00:04:12.150000,2023-03-23,Auburn University,2023 NCAA Division I Men's Championships,2002-09-13,4
+Julian Hill,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.21,252.21,0 days 00:04:12.210000,2023-03-02,Arizona State University,2023 Men's Pac 12 Championships,2000-12-12,4
+James Plage,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.33,252.33,0 days 00:04:12.330000,2023-02-15,North Carolina State University,2023 ACC Championships,2002-08-16,4
+Erica Sullivan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:33.66,573.66,0 days 00:09:33.660000,2023-01-28,University of Texas,TEX vs NCS Saturday,2000-08-09,5
+Kensey McMahon,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:34.36,574.36,0 days 00:09:34.360000,2023-01-20,University of Alabama,Auburn vs Alabama,1999-10-29,5
+Maya Geringer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:38.23,578.23,0 days 00:09:38.230000,2023-01-28,Ohio State University,2023 Tim Welsh Classic,2002-01-03,5
+Tonni McNeese,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:39.54,579.54,0 days 00:09:39.540000,2023-01-21,University of Kentucky,UK vs UL,2001-04-01,5
+Marlene Kahler,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.38,581.38,0 days 00:09:41.380000,2023-02-10,University of Southern California,University of Utah at University of Southern California,2001-05-15,5
+Lola Mull,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.77,581.77,0 days 00:09:41.770000,2023-01-27,Northwestern University,"Northwestern vs Iowa, Minnesota, and Purdue",2002-08-06,5
+Emily Hetzer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.95,581.95,0 days 00:09:41.950000,2023-01-20,Auburn University,Auburn vs Alabama,2000-04-05,5
+Abigail McCulloh,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.30,582.3,0 days 00:09:42.300000,2022-10-28,University of Georgia,Florida vs Georgia,2002-12-31,5
+Ching Hwee Gan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.62,582.62,0 days 00:09:42.620000,2022-11-19,Indiana University,Ohio State Fall Invitational 2022,2003-07-22,5
+Averee Preble,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.67,582.67,0 days 00:09:42.670000,2023-01-20,Auburn University,Auburn vs Alabama,2001-05-01,5
+Abigail Pfeifer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.18,583.18,0 days 00:09:43.180000,2023-01-28,University of Texas,TEX vs NCS Saturday,2002-07-10,5
+Hayden Miller,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.68,583.68,0 days 00:09:43.680000,2022-10-22,University of Florida,Virginia vs Florida,2004-08-25,5
+Mariah Denigan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.69,584.69,0 days 00:09:44.690000,2022-11-19,Indiana University,Ohio State Fall Invitational 2022,2003-05-30,5
+Anna Auld,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.17,585.17,0 days 00:09:45.170000,2022-11-05,University of Florida,Florida vs. Tennessee,2003-06-20,5
+Olivia McMurray,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.39,586.39,0 days 00:09:46.390000,2023-01-28,University of Texas,TEX vs NCS Saturday,2003-02-21,5
+Kristen Stege,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.49,586.49,0 days 00:09:46.490000,2023-01-21,University of Tennessee,University of Georgia vs University of Tennessee,2001-06-01,5
+David Johnston,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:41.61,521.61,0 days 00:08:41.610000,2022-11-30,University of Texas,Minnesota Invite,2001-10-28,5
+John Gallant,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:44.48,524.48,0 days 00:08:44.480000,2023-01-28,North Carolina State University,TEX vs NCS Saturday,2001-07-19,5
+Lucas Henveaux,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:45.39,525.39,0 days 00:08:45.390000,2023-02-18,University of California Berkeley,Cal v Stanford (Men),2000-09-25,5
+Charles Clark,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:47.54,527.54,0 days 00:08:47.540000,2022-12-17,Ohio State University,2022 SC World Champs,2002-06-17,5
+Zalan Sarkany,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:49.31,529.31,0 days 00:08:49.310000,2023-02-04,Arizona State University,ASU vs UofA,2003-10-15,5
+Matthew Chai,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:49.82,529.82,0 days 00:08:49.820000,2023-02-18,University of California Berkeley,Cal v Stanford (Men),2003-11-28,5
+Luke Hobson,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:50.10,530.1,0 days 00:08:50.100000,2023-01-28,University of Texas,TEX vs NCS Saturday,2003-06-25,5
+Alec Enyeart,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:50.62,530.62,0 days 00:08:50.620000,2022-10-07,University of Texas,TEX vs TCU,2004-01-26,5
+Mason Mathias,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:51.45,531.45,0 days 00:08:51.450000,2023-01-20,Auburn University,Auburn vs Alabama,2002-09-13,5
+Yu Tong Wu,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:51.64,531.64,0 days 00:08:51.640000,2023-02-24,Columbia University,2023 Men's Ivy League Championships,2004-08-05,5
+James Plage,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:53.27,533.27,0 days 00:08:53.270000,2023-01-28,North Carolina State University,TEX vs NCS Saturday,2002-08-16,5
+Nicholas Caruso,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:53.74,533.74,0 days 00:08:53.740000,2023-01-21,University of Kentucky,UK vs UL,2003-07-11,5
+Cole Kuster,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:54.25,534.25,0 days 00:08:54.250000,2023-02-24,Harvard University,2023 Men's Ivy League Championships,2001-05-04,5
+Bar Soloveychik,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:54.69,534.69,0 days 00:08:54.690000,2023-01-27,University of Minnesota,"Northwestern vs Iowa, Minnesota, and Purdue",2000-08-15,5
+John Ehling,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:54.78,534.78,0 days 00:08:54.780000,2023-02-24,Princeton University,2023 Men's Ivy League Championships,2001-03-22,5
+Alexander LYUBAVSKIY,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.03,535.03,0 days 00:08:55.030000,2023-01-13,University of Texas,Alabama-Texas-Ohio State Double Dual,2004-02-14,5
+Kensey McMahon,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:43.84,943.84,0 days 00:15:43.840000,2023-03-18,University of Alabama,2023 NCAA Division I Women's Championship,1999-10-29,6
+Ching Hwee Gan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:46.28,946.28,0 days 00:15:46.280000,2023-03-18,Indiana University,2023 NCAA Division I Women's Championship,2003-07-22,6
+Paige McKenna,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:46.90,946.9,0 days 00:15:46.900000,2023-02-18,University of Wisconsin Madison,2023 Women's Big Ten Championships,2003-04-17,6
+Erica Sullivan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:49.16,949.16,0 days 00:15:49.160000,2023-02-25,University of Texas,2023 Big 12 Championships,2000-08-09,6
+Kristen Stege,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:50.24,950.24,0 days 00:15:50.240000,2023-03-18,University of Tennessee,2023 NCAA Division I Women's Championship,2001-06-01,6
+Alyssa Breslin,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:50.80,950.8,0 days 00:15:50.800000,2023-03-18,University of Tennessee,2023 NCAA Division I Women's Championship,2002-06-28,6
+Mariah Denigan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:52.18,952.18,0 days 00:15:52.180000,2023-03-18,Indiana University,2023 NCAA Division I Women's Championship,2003-05-30,6
+Anna Kalandadze,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:53.88,953.88,0 days 00:15:53.880000,2023-02-18,University of Pennsylvania,2023 Women's Ivy League Championships,2001-07-21,6
+Rachel Stege,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:54.55,954.55,0 days 00:15:54.550000,2023-03-18,University of Georgia,2023 NCAA Division I Women's Championship,2003-04-11,6
+Liberty Williams,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:55.29,955.29,0 days 00:15:55.290000,2023-03-18,University of Louisville,2023 NCAA Division I Women's Championship,2001-12-30,6
+DENIZ ERTAN,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:55.77,955.77,0 days 00:15:55.770000,2023-02-18,Georgia Institute of Technology,2023 ACC Championships,2004-01-01,6
+Madelyn Donohoe,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:56.83,956.83,0 days 00:15:56.830000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2001-11-16,6
+Abigail McCulloh,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:57.08,957.08,0 days 00:15:57.080000,2022-11-19,University of Georgia,Georgia Fall Invitational,2002-12-31,6
+Hayden Miller,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.21,959.21,0 days 00:15:59.210000,2023-02-18,University of Florida,2023 SEC Championships,2004-08-25,6
+Emma Weyant,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:01.59,961.59,0 days 00:16:01.590000,2023-03-18,University of Florida,2023 NCAA Division I Women's Championship,2001-12-24,6
+Maya Geringer,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:01.77,961.77,0 days 00:16:01.770000,2023-03-18,Ohio State University,2023 NCAA Division I Women's Championship,2002-01-03,6
+John Gallant,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:28.94,868.94,0 days 00:14:28.940000,2023-03-25,North Carolina State University,2023 NCAA Division I Men's Championships,2001-07-19,6
+Ross Dant,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:30.32,870.32,0 days 00:14:30.320000,2023-03-25,North Carolina State University,2023 NCAA Division I Men's Championships,2000-12-15,6
+Levi Sandidge,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:31.47,871.47,0 days 00:14:31.470000,2023-02-18,University of Kentucky,2023 SEC Championships,2004-05-11,6
+Jacob Magahey,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:33.82,873.82,0 days 00:14:33.820000,2023-03-25,University of Georgia,2023 NCAA Division I Men's Championships,2001-09-14,6
+David Johnston,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:35.51,875.51,0 days 00:14:35.510000,2023-03-25,University of Texas,2023 NCAA Division I Men's Championships,2001-10-28,6
+Tyler Watson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:38.50,878.5,0 days 00:14:38.500000,2023-02-18,University of Florida,2023 SEC Championships,2001-02-15,6
+Jack Hoagland,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:38.64,878.64,0 days 00:14:38.640000,2023-03-25,University of Notre Dame,2023 NCAA Division I Men's Championships,2000-11-12,6
+Victor Johansson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:39.63,879.63,0 days 00:14:39.630000,2022-11-18,University of Alabama,Art Adamson Invitational 2022,1998-09-13,6
+Charles Clark,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:41.43,881.43,0 days 00:14:41.430000,2023-03-25,Ohio State University,2023 NCAA Division I Men's Championships,2002-06-17,6
+Mert Kilavuz,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:41.50,881.5,0 days 00:14:41.500000,2023-02-18,Georgia Institute of Technology,2023 ACC Championships,2003-08-26,6
+Zalan Sarkany,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:41.65,881.65,0 days 00:14:41.650000,2023-03-04,Arizona State University,2023 Men's Pac 12 Championships,2003-10-15,6
+Mason Mathias,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:42.99,882.99,0 days 00:14:42.990000,2023-02-18,Auburn University,2023 SEC Championships,2002-09-13,6
+Alec Enyeart,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:43.39,883.39,0 days 00:14:43.390000,2022-12-03,University of Texas,Minnesota Invite,2004-01-26,6
+Eric Brown,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:44.06,884.06,0 days 00:14:44.060000,2023-02-18,University of Florida,2023 SEC Championships,2002-10-01,6
+Lucas Henveaux,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:44.14,884.14,0 days 00:14:44.140000,2023-03-25,University of California Berkeley,2023 NCAA Division I Men's Championships,2000-09-25,6
+Alfonso Mestre,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:44.50,884.5,0 days 00:14:44.500000,2023-03-25,University of Florida,2023 NCAA Division I Men's Championships,2001-09-24,6
+Gretchen Walsh,100 Backstroke SCY Female,100,Backstroke,SCY,Female,48.26,48.26,0 days 00:00:48.260000,2023-03-17,University of Virginia,2023 NCAA Division I Women's Championship,2003-01-29,12
+Katharine Berkoff,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.13,49.13,0 days 00:00:49.130000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,2001-01-28,12
+Claire Curzan,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.46,49.46,0 days 00:00:49.460000,2023-02-24,Stanford University,2023 Women's Pac 12 Championships,2004-06-30,12
+Phoebe Bacon,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.47,50.47,0 days 00:00:50.470000,2023-03-17,University of Wisconsin Madison,2023 NCAA Division I Women's Championship,2002-08-12,12
+Katherine Douglass,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.47,50.47,0 days 00:00:50.470000,2023-02-04,University of Virginia,Cavalier Invite,2001-11-17,12
+Olivia Bray,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.61,50.61,0 days 00:00:50.610000,2023-03-17,University of Texas,2023 NCAA Division I Women's Championship,2001-11-20,12
+Margaret MacNeil,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.70,50.7,0 days 00:00:50.700000,2022-11-17,Louisiana State University,Art Adamson Invitational 2022,2000-02-26,12
+Isabelle Stadden,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.73,50.73,0 days 00:00:50.730000,2023-03-17,University of California Berkeley,2023 NCAA Division I Women's Championship,2002-07-09,12
+Grace Countie,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.81,50.81,0 days 00:00:50.810000,2023-03-17,University of North Carolina Chapel Hill,2023 NCAA Division I Women's Championship,1999-11-10,12
+Rhyan White,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.84,50.84,0 days 00:00:50.840000,2022-11-17,University of Alabama,Art Adamson Invitational 2022,2000-01-25,12
+Reilly Tiltmann,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.90,50.9,0 days 00:00:50.900000,2023-02-03,University of Virginia,Cavalier Invite,2003-07-30,12
+Josephine Fuller,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.00,51.0,0 days 00:00:51,2023-03-17,University of Tennessee,2023 NCAA Division I Women's Championship,2003-05-02,12
+Emma Muzzy,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.26,51.26,0 days 00:00:51.260000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,2000-11-21,12
+Alexandra Walsh,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.28,51.28,0 days 00:00:51.280000,2022-12-18,University of Virginia,2022 SC World Champs,2001-07-31,12
+Helen Noble,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.32,51.32,0 days 00:00:51.320000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,2004-03-16,12
+Eboni McCarty,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.35,51.35,0 days 00:00:51.350000,2023-02-17,University of Georgia,2023 SEC Championships,2003-03-19,12
+Brendan Burns,100 Backstroke SCY Male,100,Backstroke,SCY,Male,43.61,43.61,0 days 00:00:43.610000,2023-03-24,Indiana University,2023 NCAA Division I Men's Championships,2001-05-29,12
+Kacper Stokowski,100 Backstroke SCY Male,100,Backstroke,SCY,Male,43.83,43.83,0 days 00:00:43.830000,2023-03-24,North Carolina State University,2023 NCAA Division I Men's Championships,1999-01-06,12
+Destin Lasco,100 Backstroke SCY Male,100,Backstroke,SCY,Male,43.93,43.93,0 days 00:00:43.930000,2023-03-24,University of California Berkeley,2023 NCAA Division I Men's Championships,2001-08-07,12
+Adam Chaney,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.17,44.17,0 days 00:00:44.170000,2023-02-17,University of Florida,2023 SEC Championships,2002-03-27,12
+Andrei Ungur,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.58,44.58,0 days 00:00:44.580000,2023-03-24,University of Utah,2023 NCAA Division I Men's Championships,1998-10-17,12
+Youssef Ramadan,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.59,44.59,0 days 00:00:44.590000,2023-02-17,VA Tech,2023 ACC Championships,2002-07-07,12
+Jack Dolan,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.62,44.62,0 days 00:00:44.620000,2023-03-24,Arizona State University,2023 NCAA Division I Men's Championships,2000-12-22,12
+Ruard Van Renen,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.67,44.67,0 days 00:00:44.670000,2023-03-24,Southern Illinois Univ at Carbondale (M),2023 NCAA Division I Men's Championships,2003-05-16,12
+Leon Marchand,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.77,44.77,0 days 00:00:44.770000,2023-02-04,Arizona State University,ASU vs UofA,2002-05-17,12
+Owen McDonald,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.85,44.85,0 days 00:00:44.850000,2023-03-24,Arizona State University,2023 NCAA Division I Men's Championships,2004-03-11,12
+Nathaniel Stoffle,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.89,44.89,0 days 00:00:44.890000,2023-02-17,Auburn University,2023 SEC Championships,2002-09-05,12
+Bjorn Seeliger,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.00,45.0,0 days 00:00:45,2023-03-24,University of California Berkeley,2023 NCAA Division I Men's Championships,2000-01-11,12
+Giovanni Izzo,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.03,45.03,0 days 00:00:45.030000,2023-03-24,North Carolina State University,2023 NCAA Division I Men's Championships,1998-01-01,12
+Aidan Stoffle,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.09,45.09,0 days 00:00:45.090000,2023-03-24,Auburn University,2023 NCAA Division I Men's Championships,2000-08-21,12
+Tommy Janton,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.12,45.12,0 days 00:00:45.120000,2023-03-24,University of Notre Dame,2023 NCAA Division I Men's Championships,2004-02-23,12
+Bradley Dunham,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.13,45.13,0 days 00:00:45.130000,2023-03-24,University of Georgia,2023 NCAA Division I Men's Championships,2000-05-01,12
+Claire Curzan,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:47.43,107.43,0 days 00:01:47.430000,2023-02-25,Stanford University,2023 Women's Pac 12 Championships,2004-06-30,13
+Isabelle Stadden,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.75,108.75,0 days 00:01:48.750000,2023-02-25,University of California Berkeley,2023 Women's Pac 12 Championships,2002-07-09,13
+Phoebe Bacon,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.28,109.28,0 days 00:01:49.280000,2023-03-18,University of Wisconsin Madison,2023 NCAA Division I Women's Championship,2002-08-12,13
+Olivia Bray,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.09,110.09,0 days 00:01:50.090000,2023-02-25,University of Texas,2023 Big 12 Championships,2001-11-20,13
+Josephine Fuller,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.12,110.12,0 days 00:01:50.120000,2022-11-19,University of Tennessee,Tennessee Invitational,2003-05-02,13
+Helen Noble,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.24,110.24,0 days 00:01:50.240000,2023-02-18,North Carolina State University,2023 ACC Championships,2004-03-16,13
+Reilly Tiltmann,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.84,110.84,0 days 00:01:50.840000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2003-07-30,13
+Emma Muzzy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.96,110.96,0 days 00:01:50.960000,2023-02-18,North Carolina State University,2023 ACC Championships,2000-11-21,13
+Anna Peplowski,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.32,111.32,0 days 00:01:51.320000,2023-03-18,Indiana University,2023 NCAA Division I Women's Championship,2002-09-25,13
+Gretchen Walsh,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.42,111.42,0 days 00:01:51.420000,2023-01-14,University of Virginia,Virginia vs Virginia Tech,2003-01-29,13
+Rhyan White,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.53,111.53,0 days 00:01:51.530000,2022-11-18,University of Alabama,Art Adamson Invitational 2022,2000-01-25,13
+Daisy Platts,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.63,111.63,0 days 00:01:51.630000,2023-02-18,Auburn University,2023 SEC Championships,2000-06-03,13
+Taylor Ruck,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.66,111.66,0 days 00:01:51.660000,2022-11-19,Stanford University,NC State GAC Invitational,2000-05-28,13
+Paige Hetrick,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.70,111.7,0 days 00:01:51.700000,2023-02-18,University of Louisville,2023 ACC Championships,2002-02-01,13
+Sophie Lindner,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.72,111.72,0 days 00:01:51.720000,2023-03-18,University of North Carolina Chapel Hill,2023 NCAA Division I Women's Championship,2000-05-15,13
+Ella Varga,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.74,111.74,0 days 00:01:51.740000,2023-02-18,Louisiana State University,2023 SEC Championships,2004-01-22,13
+Destin Lasco,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:35.87,95.87,0 days 00:01:35.870000,2023-03-25,University of California Berkeley,2023 NCAA Division I Men's Championships,2001-08-07,13
+Hugo Gonzalez de Oliveira,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:36.72,96.72,0 days 00:01:36.720000,2023-03-25,University of California Berkeley,2023 NCAA Division I Men's Championships,1999-02-19,13
+Hubert Kos,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.96,97.96,0 days 00:01:37.960000,2023-03-25,Arizona State University,2023 NCAA Division I Men's Championships,2003-03-28,13
+Brendan Burns,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.22,98.22,0 days 00:01:38.220000,2023-02-25,Indiana University,2023 Men's Big Ten Championships,2001-05-29,13
+Carson Foster,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.37,98.37,0 days 00:01:38.370000,2023-03-25,University of Texas,2023 NCAA Division I Men's Championships,2001-10-26,13
+Ian Grum,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.39,98.39,0 days 00:01:38.390000,2023-03-25,University of Georgia,2023 NCAA Division I Men's Championships,2001-06-23,13
+Jack Dahlgren,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.62,98.62,0 days 00:01:38.620000,2023-03-25,University of Missouri,2023 NCAA Division I Men's Championships,2000-01-10,13
+Colby Mefford,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.83,98.83,0 days 00:01:38.830000,2023-03-04,University of California Berkeley,2023 Men's Pac 12 Championships,2001-05-02,13
+Bradley Dunham,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.90,98.9,0 days 00:01:38.900000,2023-02-18,University of Georgia,2023 SEC Championships,2000-05-01,13
+Owen McDonald,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.01,99.01,0 days 00:01:39.010000,2023-03-04,Arizona State University,2023 Men's Pac 12 Championships,2004-03-11,13
+Kacper Stokowski,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.27,99.27,0 days 00:01:39.270000,2023-03-25,North Carolina State University,2023 NCAA Division I Men's Championships,1999-01-06,13
+Aidan Stoffle,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.30,99.3,0 days 00:01:39.300000,2023-03-25,Auburn University,2023 NCAA Division I Men's Championships,2000-08-21,13
+Tommy Janton,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.45,99.45,0 days 00:01:39.450000,2023-03-25,University of Notre Dame,2023 NCAA Division I Men's Championships,2004-02-23,13
+Nicolas Garcia,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.49,99.49,0 days 00:01:39.490000,2023-02-18,VA Tech,2023 ACC Championships,2002-06-18,13
+Ruard Van Renen,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.73,99.73,0 days 00:01:39.730000,2023-03-25,Southern Illinois Univ at Carbondale (M),2023 NCAA Division I Men's Championships,2003-05-16,13
+Baylor Nelson,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.79,99.79,0 days 00:01:39.790000,2023-02-18,Texas A&M University,2023 SEC Championships,2003-06-23,13
+Kaitlyn Dobler,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,56.94,56.94,0 days 00:00:56.940000,2022-11-17,University of Southern California,Art Adamson Invitational 2022,2002-02-15,15
+Lydia Jacoby,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.03,57.03,0 days 00:00:57.030000,2023-03-17,University of Texas,2023 NCAA Division I Women's Championship,2004-02-29,15
+Mona McSharry,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.16,57.16,0 days 00:00:57.160000,2023-03-17,University of Tennessee,2023 NCAA Division I Women's Championship,2000-08-21,15
+Anna Elendt,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.29,57.29,0 days 00:00:57.290000,2023-03-17,University of Texas,2023 NCAA Division I Women's Championship,2001-09-04,15
+Alexandra Walsh,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.64,57.64,0 days 00:00:57.640000,2023-02-17,University of Virginia,2023 ACC Championships,2001-07-31,15
+Heather Maccausland,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.74,57.74,0 days 00:00:57.740000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,2001-09-27,15
+Josephine Panitz,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.88,57.88,0 days 00:00:57.880000,2023-03-17,Ohio State University,2023 NCAA Division I Women's Championship,2001-10-11,15
+Hannah Bach,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.08,58.08,0 days 00:00:58.080000,2023-03-17,Ohio State University,2023 NCAA Division I Women's Championship,2000-12-01,15
+Katherine Douglass,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.14,58.14,0 days 00:00:58.140000,2022-11-18,University of Virginia,Tennessee Invitational,2001-11-17,15
+Jasmine Nocentini,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.31,58.31,0 days 00:00:58.310000,2022-11-17,Northwestern University,Purdue Invite 2022,2002-05-22,15
+Letitia Sim,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.48,58.48,0 days 00:00:58.480000,2023-03-17,University of Michigan,2023 NCAA Division I Women's Championship,2003-03-03,15
+Andrea Podmanikova,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.56,58.56,0 days 00:00:58.560000,2022-11-18,North Carolina State University,NC State GAC Invitational,1998-02-23,15
+Emma Weber,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.61,58.61,0 days 00:00:58.610000,2023-02-17,University of Virginia,2023 ACC Championships,2004-01-13,15
+Zoie Hartman,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.65,58.65,0 days 00:00:58.650000,2023-02-17,University of Georgia,2023 SEC Championships,2000-12-20,15
+Avery Wiseman,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.69,58.69,0 days 00:00:58.690000,2023-02-17,University of Alabama,2023 SEC Championships,2002-04-07,15
+Kaelyn Gridley,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.76,58.76,0 days 00:00:58.760000,2023-03-17,Duke University,2023 NCAA Division I Women's Championship,2004-07-17,15
+Maxwell McHugh,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.00,50.0,0 days 00:00:50,2023-03-24,University of Minnesota,2023 NCAA Division I Men's Championships,1999-12-31,15
+Van Mathias,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.57,50.57,0 days 00:00:50.570000,2023-03-24,Indiana University,2023 NCAA Division I Men's Championships,2000-08-24,15
+Aleksas Savickas,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.73,50.73,0 days 00:00:50.730000,2023-02-17,University of Florida,2023 SEC Championships,2003-01-13,15
+Liam Bell,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.76,50.76,0 days 00:00:50.760000,2023-03-24,University of California Berkeley,2023 NCAA Division I Men's Championships,2000-09-18,15
+Denis Petrashov,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.78,50.78,0 days 00:00:50.780000,2023-03-24,University of Louisville,2023 NCAA Division I Men's Championships,2000-02-01,15
+Caspar Corbeau,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.79,50.79,0 days 00:00:50.790000,2023-03-24,University of Texas,2023 NCAA Division I Men's Championships,2001-04-03,15
+Dillon Hillis,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.80,50.8,0 days 00:00:50.800000,2023-03-24,University of Florida,2023 NCAA Division I Men's Championships,2000-09-15,15
+Noah Nichols,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.82,50.82,0 days 00:00:50.820000,2023-02-17,University of Virginia,2023 ACC Championships,2002-04-20,15
+Joshua Matheny,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.99,50.99,0 days 00:00:50.990000,2023-03-24,Indiana University,2023 NCAA Division I Men's Championships,2002-10-16,15
+Reece Whitley,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.00,51.0,0 days 00:00:51,2023-03-24,University of California Berkeley,2023 NCAA Division I Men's Championships,2000-01-03,15
+Leon Marchand,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.01,51.01,0 days 00:00:51.010000,2023-01-21,Arizona State University,ASU vs Cal,2002-05-17,15
+Derek Maas,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.05,51.05,0 days 00:00:51.050000,2023-03-24,University of Alabama,2023 NCAA Division I Men's Championships,2001-04-08,15
+Christopher Mikuta,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.06,51.06,0 days 00:00:51.060000,2023-03-24,Auburn University,2023 NCAA Division I Men's Championships,2001-09-28,15
+Ron Polonsky,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.14,51.14,0 days 00:00:51.140000,2023-03-24,Stanford University,2023 NCAA Division I Men's Championships,2001-03-28,15
+Brian Benzing,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.25,51.25,0 days 00:00:51.250000,2023-02-24,Towson University,2023 CAA Championships,2001-08-09,15
+Cooper Van Der Laan,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.26,51.26,0 days 00:00:51.260000,2023-03-03,University of Pittsburgh,American Short Course- Men's Last Chance Meet,1998-12-16,15
+Katherine Douglass,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:01.29,121.29,0 days 00:02:01.290000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2001-11-17,16
+Anna Elendt,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.26,123.26,0 days 00:02:03.260000,2023-03-18,University of Texas,2023 NCAA Division I Women's Championship,2001-09-04,16
+Alexandra Walsh,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.68,123.68,0 days 00:02:03.680000,2023-02-18,University of Virginia,2023 ACC Championships,2001-07-31,16
+Lydia Jacoby,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:04.32,124.32,0 days 00:02:04.320000,2023-02-25,University of Texas,2023 Big 12 Championships,2004-02-29,16
+Margaret Nelson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:04.33,124.33,0 days 00:02:04.330000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2001-07-28,16
+Mona McSharry,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:04.59,124.59,0 days 00:02:04.590000,2023-03-18,University of Tennessee,2023 NCAA Division I Women's Championship,2000-08-21,16
+Zoie Hartman,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.48,125.48,0 days 00:02:05.480000,2023-02-18,University of Georgia,2023 SEC Championships,2000-12-20,16
+Noelle Peplowski,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.52,125.52,0 days 00:02:05.520000,2022-11-19,Indiana University,Ohio State Fall Invitational 2022,2000-05-01,16
+Kaitlyn Dobler,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.66,125.66,0 days 00:02:05.660000,2023-02-25,University of Southern California,2023 Women's Pac 12 Championships,2002-02-15,16
+Avery Wiseman,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.85,125.85,0 days 00:02:05.850000,2023-02-18,University of Alabama,2023 SEC Championships,2002-04-07,16
+Kaelyn Gridley,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.26,126.26,0 days 00:02:06.260000,2023-03-18,Duke University,2023 NCAA Division I Women's Championship,2004-07-17,16
+Sarah Foley,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.58,126.58,0 days 00:02:06.580000,2023-03-18,Duke University,2023 NCAA Division I Women's Championship,2002-03-22,16
+Nina Kucheran,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.59,126.59,0 days 00:02:06.590000,2023-03-18,University of Florida,2023 NCAA Division I Women's Championship,2000-07-03,16
+Isabelle Odgers,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.66,126.66,0 days 00:02:06.660000,2023-02-25,University of Southern California,2023 Women's Pac 12 Championships,2000-09-25,16
+Anna Keating,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.73,126.73,0 days 00:02:06.730000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2002-08-18,16
+Andrea Podmanikova,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.77,126.77,0 days 00:02:06.770000,2022-11-19,North Carolina State University,NC State GAC Invitational,1998-02-23,16
+Leon Marchand,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:46.91,106.91,0 days 00:01:46.910000,2023-03-25,Arizona State University,2023 NCAA Division I Men's Championships,2002-05-17,16
+Caspar Corbeau,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.15,109.15,0 days 00:01:49.150000,2023-03-25,University of Texas,2023 NCAA Division I Men's Championships,2001-04-03,16
+Maxwell McHugh,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.91,109.91,0 days 00:01:49.910000,2023-03-25,University of Minnesota,2023 NCAA Division I Men's Championships,1999-12-31,16
+Aleksas Savickas,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.08,110.08,0 days 00:01:50.080000,2023-02-18,University of Florida,2023 SEC Championships,2003-01-13,16
+Joshua Matheny,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.12,110.12,0 days 00:01:50.120000,2023-03-25,Indiana University,2023 NCAA Division I Men's Championships,2002-10-16,16
+Matthew Fallon,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.28,110.28,0 days 00:01:50.280000,2022-12-04,University of Pennsylvania,Zippy Invitational,2002-10-03,16
+Denis Petrashov,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.51,110.51,0 days 00:01:50.510000,2023-02-18,University of Louisville,2023 ACC Championships,2000-02-01,16
+Andres Puente Bustamante,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.86,110.86,0 days 00:01:50.860000,2023-03-25,Texas A&M University,2023 NCAA Division I Men's Championships,2001-03-06,16
+Carles Coll Marti,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.90,110.9,0 days 00:01:50.900000,2023-02-18,VA Tech,2023 ACC Championships,2001-10-15,16
+Jason Louser,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.90,110.9,0 days 00:01:50.900000,2023-03-25,University of California Berkeley,2023 NCAA Division I Men's Championships,2001-05-30,16
+Reece Whitley,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.02,111.02,0 days 00:01:51.020000,2023-02-18,University of California Berkeley,Cal v Stanford (Men),2000-01-03,16
+Alexander Sanchez,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.09,111.09,0 days 00:01:51.090000,2022-11-18,Texas A&M University,Art Adamson Invitational 2022,2002-07-17,16
+Dillon Hillis,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.14,111.14,0 days 00:01:51.140000,2023-02-18,University of Florida,2023 SEC Championships,2000-09-15,16
+Derek Maas,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.53,111.53,0 days 00:01:51.530000,2023-03-25,University of Alabama,2023 NCAA Division I Men's Championships,2001-04-08,16
+David Schlicht,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.81,111.81,0 days 00:01:51.810000,2023-03-25,Arizona State University,2023 NCAA Division I Men's Championships,1999-09-03,16
+Lyubomir Epitropov,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.83,111.83,0 days 00:01:51.830000,2023-02-18,University of Tennessee,2023 SEC Championships,1999-04-27,16
+Katherine Douglass,100 Butterfly SCY Female,100,Butterfly,SCY,Female,48.46,48.46,0 days 00:00:48.460000,2023-03-17,University of Virginia,2023 NCAA Division I Women's Championship,2001-11-17,18
+Margaret MacNeil,100 Butterfly SCY Female,100,Butterfly,SCY,Female,48.51,48.51,0 days 00:00:48.510000,2023-03-17,Louisiana State University,2023 NCAA Division I Women's Championship,2000-02-26,18
+Victoria Huske,100 Butterfly SCY Female,100,Butterfly,SCY,Female,48.96,48.96,0 days 00:00:48.960000,2023-03-17,Stanford University,2023 NCAA Division I Women's Championship,2002-12-07,18
+Gretchen Walsh,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.34,49.34,0 days 00:00:49.340000,2023-02-16,University of Virginia,2023 ACC Championships,2003-01-29,18
+Emma Sticklen,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.79,49.79,0 days 00:00:49.790000,2023-01-27,University of Texas,TEX vs NCS Friday,2002-06-27,18
+Claire Curzan,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.93,49.93,0 days 00:00:49.930000,2022-11-18,Stanford University,NC State GAC Invitational,2004-06-30,18
+Gabriela Albiero,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.04,50.04,0 days 00:00:50.040000,2023-02-16,University of Louisville,2023 ACC Championships,2002-01-16,18
+Olivia Bray,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.07,50.07,0 days 00:00:50.070000,2023-02-24,University of Texas,2023 Big 12 Championships,2001-11-20,18
+Kylee Alons,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.44,50.44,0 days 00:00:50.440000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,1999-09-30,18
+Abigail Arens,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.60,50.6,0 days 00:00:50.600000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,2002-03-09,18
+Katherine Zenick,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.84,50.84,0 days 00:00:50.840000,2023-03-17,Ohio State University,2023 NCAA Division I Women's Championship,2001-11-14,18
+Miriam Guevara,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.91,50.91,0 days 00:00:50.910000,2023-03-17,Northwestern University,2023 NCAA Division I Women's Championship,2000-07-07,18
+Meghan Lee,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.01,51.01,0 days 00:00:51.010000,2023-02-16,Auburn University,2023 SEC Championships,2001-12-27,18
+Kelly Pash,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.01,51.01,0 days 00:00:51.010000,2022-12-02,University of Texas,Minnesota Invite,2001-03-27,18
+Christiana Regenauer,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.03,51.03,0 days 00:00:51.030000,2023-02-16,University of Louisville,2023 ACC Championships,2001-09-09,18
+Alexa Cuomo,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.18,51.18,0 days 00:00:51.180000,2023-03-17,University of Virginia,2023 NCAA Division I Women's Championship,2001-04-23,18
+Tristen Ulett,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.18,51.18,0 days 00:00:51.180000,2023-03-17,University of Louisville,2023 NCAA Division I Women's Championship,2002-07-10,18
+Youssef Ramadan,100 Butterfly SCY Male,100,Butterfly,SCY,Male,43.15,43.15,0 days 00:00:43.150000,2023-03-24,VA Tech,2023 NCAA Division I Men's Championships,2002-07-07,18
+Joshua Liendo,100 Butterfly SCY Male,100,Butterfly,SCY,Male,43.40,43.4,0 days 00:00:43.400000,2023-03-24,University of Florida,2023 NCAA Division I Men's Championships,2002-08-20,18
+Jordan Crooks,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.04,44.04,0 days 00:00:44.040000,2023-02-16,University of Tennessee,2023 SEC Championships,2002-05-02,18
+Tomer Frankel,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.04,44.04,0 days 00:00:44.040000,2023-03-24,Indiana University,2023 NCAA Division I Men's Championships,2000-10-18,18
+Andrei Minakov,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.17,44.17,0 days 00:00:44.170000,2023-03-24,Stanford University,2023 NCAA Division I Men's Championships,2002-03-17,18
+Aiden Hayes,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.35,44.35,0 days 00:00:44.350000,2023-03-24,North Carolina State University,2023 NCAA Division I Men's Championships,2003-05-27,18
+Gal Cohen Groumi,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.50,44.5,0 days 00:00:44.500000,2023-02-24,University of Michigan,2023 Men's Big Ten Championships,2002-04-22,18
+Lukas Miller,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.50,44.5,0 days 00:00:44.500000,2023-03-03,North Carolina State University,UNC Men's Last Chance Meet,2002-04-26,18
+Nyls Korstanje,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.56,44.56,0 days 00:00:44.560000,2023-03-24,North Carolina State University,2023 NCAA Division I Men's Championships,1999-02-05,18
+Brendan Burns,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.60,44.6,0 days 00:00:44.600000,2023-03-24,Indiana University,2023 NCAA Division I Men's Championships,2001-05-29,18
+Kacper Stokowski,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.65,44.65,0 days 00:00:44.650000,2023-03-24,North Carolina State University,2023 NCAA Division I Men's Championships,1999-01-06,18
+Victor Baganha,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.75,44.75,0 days 00:00:44.750000,2023-03-24,Pennsylvania State University,2023 NCAA Division I Men's Championships,2002-09-13,18
+Oludare Rose,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.75,44.75,0 days 00:00:44.750000,2023-03-24,University of California Berkeley,2023 NCAA Division I Men's Championships,2002-11-01,18
+Aaron Sequeira,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.87,44.87,0 days 00:00:44.870000,2023-03-24,Stanford University,2023 NCAA Division I Men's Championships,2001-10-01,18
+Arsenio Bustos,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.89,44.89,0 days 00:00:44.890000,2023-03-24,North Carolina State University,2023 NCAA Division I Men's Championships,2003-01-28,18
+Umitcan Gures,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.91,44.91,0 days 00:00:44.910000,2023-02-24,Harvard University,2023 Men's Ivy League Championships,1999-06-24,18
+Emma Sticklen,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:49.95,109.95,0 days 00:01:49.950000,2023-03-18,University of Texas,2023 NCAA Division I Women's Championship,2002-06-27,19
+Alexandra Walsh,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:50.23,110.23,0 days 00:01:50.230000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2001-07-31,19
+Kelly Pash,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.45,111.45,0 days 00:01:51.450000,2023-02-04,University of Texas,Sterkel Classic,2001-03-27,19
+Dakota Luther,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.58,111.58,0 days 00:01:51.580000,2023-01-28,University of Texas,TEX vs NCS Saturday,1999-11-07,19
+Lindsay Looney,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.25,112.25,0 days 00:01:52.250000,2023-03-18,Arizona State University,2023 NCAA Division I Women's Championship,2001-08-02,19
+Charlotte Hook,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.48,112.48,0 days 00:01:52.480000,2022-11-19,Stanford University,NC State GAC Invitational,2004-01-29,19
+Abigail Arens,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.91,112.91,0 days 00:01:52.910000,2023-02-17,North Carolina State University,2023 ACC Championships,2002-03-09,19
+Abigail Hay,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.21,113.21,0 days 00:01:53.210000,2023-03-18,University of Louisville,2023 NCAA Division I Women's Championship,2001-04-18,19
+Abigail Harter,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.28,113.28,0 days 00:01:53.280000,2023-03-18,University of Virginia,2023 NCAA Division I Women's Championship,2002-02-06,19
+Rachel Klinker,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.57,113.57,0 days 00:01:53.570000,2023-02-25,University of California Berkeley,2023 Women's Pac 12 Championships,2000-10-08,19
+Martina Peroni,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.76,113.76,0 days 00:01:53.760000,2023-01-27,Duke University,UNC vs Duke,2003-11-21,19
+Lillian Nordmann,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.89,113.89,0 days 00:01:53.890000,2023-02-25,Stanford University,2023 Women's Pac 12 Championships,2002-08-05,19
+Katelyn Crom,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.94,113.94,0 days 00:01:53.940000,2023-02-18,University of Michigan,2023 Women's Big Ten Championships,2003-11-02,19
+Sara Stotler,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.94,113.94,0 days 00:01:53.940000,2023-03-18,University of Tennessee,2023 NCAA Division I Women's Championship,2003-07-21,19
+Claire Curzan,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.05,114.05,0 days 00:01:54.050000,2023-01-20,Stanford University,ASU vs Stanford,2004-06-30,19
+Elizabeth Vannote,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.07,114.07,0 days 00:01:54.070000,2023-01-27,University of North Carolina Chapel Hill,UNC vs Duke,2001-10-08,19
+Aiden Hayes,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.79,98.79,0 days 00:01:38.790000,2023-03-25,North Carolina State University,2023 NCAA Division I Men's Championships,2003-05-27,19
+Brendan Burns,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.97,98.97,0 days 00:01:38.970000,2023-03-25,Indiana University,2023 NCAA Division I Men's Championships,2001-05-29,19
+Gabriel Jett,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.27,99.27,0 days 00:01:39.270000,2023-03-04,University of California Berkeley,2023 Men's Pac 12 Championships,2002-10-14,19
+Alexander Colson,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.55,99.55,0 days 00:01:39.550000,2023-03-04,Arizona State University,2023 Men's Pac 12 Championships,2001-01-08,19
+Leon Marchand,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.57,99.57,0 days 00:01:39.570000,2022-11-19,Arizona State University,NC State GAC Invitational,2002-05-17,19
+Oludare Rose,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.89,99.89,0 days 00:01:39.890000,2023-03-25,University of California Berkeley,2023 NCAA Division I Men's Championships,2002-11-01,19
+Gal Cohen Groumi,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.21,100.21,0 days 00:01:40.210000,2023-02-25,University of Michigan,2023 Men's Big Ten Championships,2002-04-22,19
+Tomer Frankel,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.34,100.34,0 days 00:01:40.340000,2023-03-25,Indiana University,2023 NCAA Division I Men's Championships,2000-10-18,19
+Noah Bowers,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.82,100.82,0 days 00:01:40.820000,2023-03-25,North Carolina State University,2023 NCAA Division I Men's Championships,2001-06-07,19
+Carson Foster,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.83,100.83,0 days 00:01:40.830000,2023-01-28,University of Texas,TEX vs NCS Saturday,2001-10-26,19
+Raunak Khosla,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.94,100.94,0 days 00:01:40.940000,2023-03-25,Princeton University,2023 NCAA Division I Men's Championships,2000-06-29,19
+Clement Secchi,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.07,101.07,0 days 00:01:41.070000,2023-02-17,University of Missouri,2023 SEC Championships,2000-05-04,19
+Andrew Gray,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.20,101.2,0 days 00:01:41.200000,2023-03-04,Arizona State University,2023 Men's Pac 12 Championships,2001-03-28,19
+Joaquin Gonzalez Pinero,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.37,101.37,0 days 00:01:41.370000,2023-02-17,University of Florida,2023 SEC Championships,2002-11-06,19
+Martin Espernberger,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.39,101.39,0 days 00:01:41.390000,2023-03-25,University of Tennessee,2023 NCAA Division I Men's Championships,2003-12-20,19
+Benjamin Miller,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.43,101.43,0 days 00:01:41.430000,2023-02-25,Northwestern University,2023 Men's Big Ten Championships,2000-10-09,19
+Katherine Douglass,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:48.37,108.37,0 days 00:01:48.370000,2023-03-16,University of Virginia,2023 NCAA Division I Women's Championship,2001-11-17,21
+Victoria Huske,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:50.06,110.06,0 days 00:01:50.060000,2023-03-16,Stanford University,2023 NCAA Division I Women's Championship,2002-12-07,21
+Alexandra Walsh,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:50.07,110.07,0 days 00:01:50.070000,2023-03-16,University of Virginia,2023 NCAA Division I Women's Championship,2001-07-31,21
+Margaret Nelson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.13,113.13,0 days 00:01:53.130000,2023-03-16,University of Virginia,2023 NCAA Division I Women's Championship,2001-07-28,21
+Phoebe Bacon,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.56,113.56,0 days 00:01:53.560000,2023-03-16,University of Wisconsin Madison,2023 NCAA Division I Women's Championship,2002-08-12,21
+Zoie Hartman,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.58,113.58,0 days 00:01:53.580000,2023-02-15,University of Georgia,2023 SEC Championships,2000-12-20,21
+Kelly Pash,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.81,113.81,0 days 00:01:53.810000,2023-01-27,University of Texas,TEX vs NCS Friday,2001-03-27,21
+Lea Polonsky,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.02,114.02,0 days 00:01:54.020000,2023-02-23,University of California Berkeley,2023 Women's Pac 12 Championships,2002-05-25,21
+Abigail Hay,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.03,114.03,0 days 00:01:54.030000,2023-03-16,University of Louisville,2023 NCAA Division I Women's Championship,2001-04-18,21
+Josephine Fuller,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.09,114.09,0 days 00:01:54.090000,2023-02-15,University of Tennessee,2023 SEC Championships,2003-05-02,21
+Emma Sticklen,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.09,114.09,0 days 00:01:54.090000,2023-03-16,University of Texas,2023 NCAA Division I Women's Championship,2002-06-27,21
+Sarah Foley,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.12,114.12,0 days 00:01:54.120000,2023-02-15,Duke University,2023 ACC Championships,2002-03-22,21
+Abigail Harter,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.83,114.83,0 days 00:01:54.830000,2023-02-15,University of Virginia,2023 ACC Championships,2002-02-06,21
+Lucerne Bell,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.89,114.89,0 days 00:01:54.890000,2023-03-16,Stanford University,2023 NCAA Division I Women's Championship,2004-08-05,21
+Abigail Arens,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.93,114.93,0 days 00:01:54.930000,2023-02-15,North Carolina State University,2023 ACC Championships,2002-03-09,21
+Josephine Panitz,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.96,114.96,0 days 00:01:54.960000,2023-02-16,Ohio State University,2023 Women's Big Ten Championships,2001-10-11,21
+Leon Marchand,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:36.34,96.34,0 days 00:01:36.340000,2023-03-23,Arizona State University,2023 NCAA Division I Men's Championships,2002-05-17,21
+Destin Lasco,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:38.10,98.1,0 days 00:01:38.100000,2023-03-23,University of California Berkeley,2023 NCAA Division I Men's Championships,2001-08-07,21
+Hugo Gonzalez de Oliveira,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:38.72,98.72,0 days 00:01:38.720000,2023-03-02,University of California Berkeley,2023 Men's Pac 12 Championships,1999-02-19,21
+Carson Foster,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.93,99.93,0 days 00:01:39.930000,2023-03-23,University of Texas,2023 NCAA Division I Men's Championships,2001-10-26,21
+Arsenio Bustos,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.24,100.24,0 days 00:01:40.240000,2023-03-23,North Carolina State University,2023 NCAA Division I Men's Championships,2003-01-28,21
+Ron Polonsky,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.42,100.42,0 days 00:01:40.420000,2023-03-02,Stanford University,2023 Men's Pac 12 Championships,2001-03-28,21
+Baylor Nelson,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.86,100.86,0 days 00:01:40.860000,2023-02-15,Texas A&M University,2023 SEC Championships,2003-06-23,21
+Carles Coll Marti,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.02,101.02,0 days 00:01:41.020000,2023-02-15,VA Tech,2023 ACC Championships,2001-10-15,21
+Jacob Foster,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.03,101.03,0 days 00:01:41.030000,2023-03-23,University of Texas,2023 NCAA Division I Men's Championships,2000-09-06,21
+Raunak Khosla,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.11,101.11,0 days 00:01:41.110000,2023-02-23,Princeton University,2023 Men's Ivy League Championships,2000-06-29,21
+Giovanni Izzo,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.13,101.13,0 days 00:01:41.130000,2023-02-15,North Carolina State University,2023 ACC Championships,1998-01-01,21
+Gal Cohen Groumi,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.20,101.2,0 days 00:01:41.200000,2023-02-23,University of Michigan,2023 Men's Big Ten Championships,2002-04-22,21
+Grant House,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.35,101.35,0 days 00:01:41.350000,2023-03-23,Arizona State University,2023 NCAA Division I Men's Championships,1998-06-19,21
+David Schlicht,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.50,101.5,0 days 00:01:41.500000,2023-03-23,Arizona State University,2023 NCAA Division I Men's Championships,1999-09-03,21
+Owen McDonald,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.60,101.6,0 days 00:01:41.600000,2023-03-02,Arizona State University,2023 Men's Pac 12 Championships,2004-03-11,21
+Hubert Kos,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.61,101.61,0 days 00:01:41.610000,2023-03-23,Arizona State University,2023 NCAA Division I Men's Championships,2003-03-28,21
+Alexandra Walsh,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,3:57.24,237.24,0 days 00:03:57.240000,2023-03-17,University of Virginia,2023 NCAA Division I Women's Championship,2001-07-31,22
+Margaret Nelson,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,3:59.33,239.33,0 days 00:03:59.330000,2023-02-16,University of Virginia,2023 ACC Championships,2001-07-28,22
+Emma Weyant,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.18,241.18,0 days 00:04:01.180000,2023-02-16,University of Florida,2023 SEC Championships,2001-12-24,22
+Felicia Pasadyn,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.62,243.62,0 days 00:04:03.620000,2023-02-17,Ohio State University,2023 Women's Big Ten Championships,2003-05-24,22
+Mabel Zavaros,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.08,244.08,0 days 00:04:04.080000,2023-03-17,University of Florida,2023 NCAA Division I Women's Championship,2000-03-29,22
+Lauren Poole,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.62,244.62,0 days 00:04:04.620000,2023-02-16,University of Kentucky,2023 SEC Championships,2000-11-05,22
+Grace Sheble,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.65,244.65,0 days 00:04:04.650000,2023-03-17,North Carolina State University,2023 NCAA Division I Women's Championship,2002-12-27,22
+Megan Van Berkom,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.86,244.86,0 days 00:04:04.860000,2023-02-17,University of Minnesota,2023 Women's Big Ten Championships,2001-12-18,22
+Abigail Hay,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.23,245.23,0 days 00:04:05.230000,2023-02-16,University of Louisville,2023 ACC Championships,2001-04-18,22
+Lea Polonsky,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.27,245.27,0 days 00:04:05.270000,2023-02-24,University of California Berkeley,2023 Women's Pac 12 Championships,2002-05-25,22
+Kelly Pash,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.55,245.55,0 days 00:04:05.550000,2023-02-24,University of Texas,2023 Big 12 Championships,2001-03-27,22
+Lucerne Bell,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.56,245.56,0 days 00:04:05.560000,2023-03-17,Stanford University,2023 NCAA Division I Women's Championship,2004-08-05,22
+Giulia Goerigk,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.75,245.75,0 days 00:04:05.750000,2022-11-17,Texas A&M University,Art Adamson Invitational 2022,2002-09-09,22
+Nicole Maier,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.84,245.84,0 days 00:04:05.840000,2023-03-17,Miami University (Ohio),2023 NCAA Division I Women's Championship,2000-04-09,22
+Paige Maceachern,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.17,246.17,0 days 00:04:06.170000,2023-02-24,Los Angeles University of California,2023 Women's Pac 12 Championships,2002-12-10,22
+Zoe Dixon,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.18,246.18,0 days 00:04:06.180000,2023-02-16,University of Florida,2023 SEC Championships,2004-04-29,22
+Leon Marchand,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:28.82,208.82,0 days 00:03:28.820000,2023-03-24,Arizona State University,2023 NCAA Division I Men's Championships,2002-05-17,22
+Hugo Gonzalez de Oliveira,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:34.66,214.66,0 days 00:03:34.660000,2023-03-24,University of California Berkeley,2023 NCAA Division I Men's Championships,1999-02-19,22
+Carson Foster,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:35.29,215.29,0 days 00:03:35.290000,2022-12-17,University of Texas,2022 SC World Champs,2001-10-26,22
+Hubert Kos,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.86,216.86,0 days 00:03:36.860000,2023-03-24,Arizona State University,2023 NCAA Division I Men's Championships,2003-03-28,22
+Jason Louser,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.60,217.6,0 days 00:03:37.600000,2023-03-03,University of California Berkeley,2023 Men's Pac 12 Championships,2001-05-30,22
+David Johnston,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.90,217.9,0 days 00:03:37.900000,2023-03-24,University of Texas,2023 NCAA Division I Men's Championships,2001-10-28,22
+David Schlicht,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.03,218.03,0 days 00:03:38.030000,2023-03-24,Arizona State University,2023 NCAA Division I Men's Championships,1999-09-03,22
+Baylor Nelson,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.11,218.11,0 days 00:03:38.110000,2023-03-24,Texas A&M University,2023 NCAA Division I Men's Championships,2003-06-23,22
+Ian Grum,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.75,218.75,0 days 00:03:38.750000,2023-03-24,University of Georgia,2023 NCAA Division I Men's Championships,2001-06-23,22
+Anze Fers Erzen,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.05,219.05,0 days 00:03:39.050000,2022-11-17,Texas A&M University,Art Adamson Invitational 2022,1999-03-03,22
+Jacob Foster,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.09,219.09,0 days 00:03:39.090000,2023-03-24,University of Texas,2023 NCAA Division I Men's Championships,2000-09-06,22
+Mason Laur,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.60,219.6,0 days 00:03:39.600000,2023-03-24,University of Florida,2023 NCAA Division I Men's Championships,2002-08-22,22
+Dominik Mark  Torok,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.96,219.96,0 days 00:03:39.960000,2023-02-24,University of Wisconsin Madison,2023 Men's Big Ten Championships,2002-06-16,22
+Jared Daigle,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.35,220.35,0 days 00:03:40.350000,2023-03-24,University of Michigan,2023 NCAA Division I Men's Championships,2000-04-01,22
+Jack Hoagland,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.82,220.82,0 days 00:03:40.820000,2023-03-24,University of Notre Dame,2023 NCAA Division I Men's Championships,2000-11-12,22
+Giovanni Linscheer,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.90,220.9,0 days 00:03:40.900000,2023-02-16,University of Florida,2023 SEC Championships,2004-04-04,22
