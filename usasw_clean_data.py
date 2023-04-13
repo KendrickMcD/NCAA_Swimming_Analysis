@@ -101,6 +101,44 @@ def clean_ncaa_record_data(csv_file):
     # Convert distance to integer
     df['distance'] = df['distance'].astype(int)
 
+    # Remove rows that share a meet_id, athlete_id, and event_id
+    df = df.drop_duplicates(
+        subset=['meet_id', 'athlete_id', 'event_id'], keep='first').reset_index(drop=True)
+
+    # Sort the dataframe by event_id, gender, and time in ascending order
+    df = df.sort_values(['event_id', 'gender', 'time_(seconds)'])
+
+    # Calculate the time difference between consecutive records within each event/gender group
+    time_diff = df.groupby(['event_id', 'gender'])['time_(seconds)'].diff()
+    time_diff = time_diff.fillna(0)
+    time_diff = time_diff[1:]
+    time_diff = pd.concat([time_diff, pd.Series([np.nan])], ignore_index=True)
+
+    # For the last record within each event/gender group, set the record_broken_by value to NaN
+    last_record_mask = df.groupby(['event_id', 'gender']).tail(1).index
+    time_diff[last_record_mask] = np.nan
+
+    # For records that are not new records, set the record_broken_by value to 0
+    time_diff[time_diff <= 0] = 0
+
+    # Add the record_broken_by column to the dataframe
+    df['record_broken_by'] = time_diff
+
+    for i in range(len(df)):
+        val = df.loc[i, 'record_broken_by']
+        # if val = NaN or 0, set record_broken_by to 'No Earlier Record'
+        if np.isnan(val):
+            df.loc[i, 'record_broken_by'] = 'No Earlier Record'
+            df.loc[i, 'record_improvement_%'] = 'No Earlier Record'
+        else:
+            # Otherwise, set record_broken_by to the time difference between the record and the next record
+            # and calculate the percentage improvement
+            df.loc[i, 'record_broken_by'] = \
+                df.loc[i, 'record_broken_by']
+            df.loc[i, 'record_improvement_%'] = \
+                (df.loc[i, 'record_broken_by'] /
+                 df.loc[i+1, 'time_(seconds)'])*100
+
     return df
 
 # Clean NCAA swimming data
@@ -199,11 +237,17 @@ def clean_ncaa_swimming_data(csv_file):
 
 
 def calculate_record_stats(df):
+
+    # Remove rows that share a meet_id, athlete_id, and event_id
+    df = df.drop_duplicates(
+        subset=['meet_id', 'athlete_id', 'event_id'], keep='first').reset_index(drop=True)
+
     # Sort the dataframe by event_id, gender, and time in ascending order
     df = df.sort_values(['event_id', 'gender', 'time_(seconds)'])
 
     # Calculate the time difference between consecutive records within each event/gender group
     time_diff = df.groupby(['event_id', 'gender'])['time_(seconds)'].diff()
+    time_diff = time_diff.fillna(0)
     time_diff = time_diff[1:]
     time_diff = pd.concat([time_diff, pd.Series([np.nan])], ignore_index=True)
 
@@ -217,17 +261,17 @@ def calculate_record_stats(df):
     # Add the record_broken_by column to the dataframe
     df['record_broken_by'] = time_diff
 
-    # Set n/a values to "No Earlier Record" and calculate the record improvement
-    #  as a percentage of the previous record
     for i in range(len(df)):
         val = df.loc[i, 'record_broken_by']
         # if val = NaN or 0, set record_broken_by to 'No Earlier Record'
         if np.isnan(val):
             df.loc[i, 'record_broken_by'] = 'No Earlier Record'
-            df.loc[i, 'record_improvement'] = np.nan
+            df.loc[i, 'record_improvement_%'] = 'No Earlier Record'
         else:
             df.loc[i, 'record_broken_by'] = \
                 df.loc[i, 'record_broken_by']
-            df.loc[i, 'record_improvement'] = \
+            df.loc[i, 'record_improvement_%'] = \
                 (df.loc[i, 'record_broken_by'] /
                  df.loc[i+1, 'time_(seconds)'])*100
+
+    return df
