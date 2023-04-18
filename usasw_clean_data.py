@@ -128,8 +128,7 @@ def clean_ncaa_record_data(csv_file):
         val = df.loc[i, 'record_broken_by']
         # if val = NaN or 0, set record_broken_by to 'No Earlier Record'
         if np.isnan(val):
-            df.loc[i, 'record_broken_by'] = 'No Earlier Record'
-            df.loc[i, 'record_improvement_%'] = 'No Earlier Record'
+            pass
         else:
             # Otherwise, set record_broken_by to the time difference between the record and the next record
             # and calculate the percentage improvement
