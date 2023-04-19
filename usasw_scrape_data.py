@@ -133,7 +133,13 @@ def fill_out_form(driver, start_year, end_year, top_n):
 
 # Get NCAA results from USA Swimming
 
-def get_NCAA_results(driver, top_n, start_year, end_year=None):
+def get_NCAA_results(top_n, start_year, end_year=None):
+
+    # Set up the Chrome driver
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Use headless mode
+    driver = webdriver.Chrome(options=chrome_options)
+
     url = 'https://www.usaswimming.org/times/otherorganizations/ncaa-division-i/top-times-report'
     driver.get(url)
 
@@ -213,7 +219,7 @@ def get_NCAA_results(driver, top_n, start_year, end_year=None):
     if os.path.isfile(pdf_filename):
         os.remove(pdf_filename)
 
-    return new_csv_filename
+    return df, new_csv_filename
 
 
 if __name__ == "__main__":
@@ -238,5 +244,5 @@ if __name__ == "__main__":
         print("Please enter a valid number of results per event (e.g., 100).")
 
     # Call the main function
-    file = get_NCAA_results(driver, top_n, start_year, end_year)
+    file = get_NCAA_results(top_n, start_year, end_year)[1]
     print(f"Downloaded and cleaned results from {start_year} as {file}.")

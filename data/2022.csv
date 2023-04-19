@@ -1,0 +1,449 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Katherine Douglass,50 Freestyle SCY Female,50,Freestyle,SCY,Female,20.84,20.84,0 days 00:00:20.840000,2022-03-17,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-11-17,1
+Gretchen Walsh,50 Freestyle SCY Female,50,Freestyle,SCY,Female,20.95,20.95,0 days 00:00:20.950000,2022-03-17,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2003-01-29,1
+Margaret MacNeil,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.32,21.32,0 days 00:00:21.320000,2022-02-17,2022.0,University of Michigan,2022 B1G Women's Championship,2000-02-26,1
+Victoria Huske,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.43,21.43,0 days 00:00:21.430000,2022-02-24,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,2002-12-07,1
+Morgan Scott,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.43,21.43,0 days 00:00:21.430000,2022-03-17,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,2000-05-22,1
+Grace Countie,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.44,21.44,0 days 00:00:21.440000,2022-03-17,2022.0,University of North Carolina Chapel Hill,2022 NCAA DI Women's Swimming,1999-11-10,1
+Cora Dupre,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.47,21.47,0 days 00:00:21.470000,2022-03-17,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,2001-05-07,1
+Katharine Berkoff,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.55,21.55,0 days 00:00:21.550000,2022-03-17,2022.0,North Carolina State University,2022 NCAA DI Women's Swimming,2001-01-28,1
+Anna-julia Kutsch,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.60,21.6,0 days 00:00:21.600000,2022-02-16,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2000-12-21,1
+Kylee Alons,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.62,21.62,0 days 00:00:21.620000,2022-03-17,2022.0,North Carolina State University,2022 NCAA DI Women's Swimming,1999-09-30,1
+Kalia Antoniou,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.64,21.64,0 days 00:00:21.640000,2022-03-17,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,2000-04-06,1
+Gabriela Albiero,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.69,21.69,0 days 00:00:21.690000,2022-03-17,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2002-01-16,1
+Amy Fulmer,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.71,21.71,0 days 00:00:21.710000,2022-02-17,2022.0,Ohio State University,2022 B1G Women's Championship,2001-05-24,1
+Jasmine Nocentini,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.78,21.78,0 days 00:00:21.780000,2022-02-17,2022.0,Northwestern University,2022 B1G Women's Championship,2002-05-22,1
+Madeline Smith,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.79,21.79,0 days 00:00:21.790000,2022-03-17,2022.0,Northwestern University,2022 NCAA DI Women's Swimming,1999-03-07,1
+Alexa Cuomo,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.80,21.8,0 days 00:00:21.800000,2022-03-17,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-04-23,1
+Bjorn Seeliger,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.27,18.27,0 days 00:00:18.270000,2022-03-24,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2000-01-11,1
+Jordan Crooks,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.53,18.53,0 days 00:00:18.530000,2022-02-16,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2002-05-02,1
+Brooks Curry,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.56,18.56,0 days 00:00:18.560000,2022-03-24,2022.0,Louisiana State University,2022 NCAA Division I Men's Swimming Championships,2001-01-20,1
+Matthew Brownstead,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.60,18.6,0 days 00:00:18.600000,2022-03-24,2022.0,University of Virginia,2022 NCAA Division I Men's Swimming Championships,2002-06-12,1
+Drew Kibler,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.60,18.6,0 days 00:00:18.600000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2000-03-09,1
+Cameron Auchinachie,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.63,18.63,0 days 00:00:18.630000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,1998-12-16,1
+Nyls Korstanje,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.66,18.66,0 days 00:00:18.660000,2022-03-24,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,1999-02-05,1
+David Curtiss,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.74,18.74,0 days 00:00:18.740000,2022-02-16,2022.0,North Carolina State University,2022 ACC Championship,2002-07-04,1
+Adam Chaney,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.75,18.75,0 days 00:00:18.750000,2022-03-24,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2002-03-27,1
+Youssef Ramadan,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.79,18.79,0 days 00:00:18.790000,2022-03-24,2022.0,VA Tech,2022 NCAA Division I Men's Swimming Championships,2002-07-07,1
+Noah Henderson,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.80,18.8,0 days 00:00:18.800000,2022-03-24,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,2001-05-11,1
+Abdelrahman Elaraby,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.83,18.83,0 days 00:00:18.830000,2022-02-16,2022.0,University of Louisville,2022 ACC Championship,2000-03-09,1
+Joseph Armstrong,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.93,18.93,0 days 00:00:18.930000,2022-02-24,2022.0,Ohio State University,2022 B1G Men's Swimming & Divi,2001-01-24,1
+Jack Dolan,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.97,18.97,0 days 00:00:18.970000,2022-03-03,2022.0,Arizona State University,2022 MEN'S PAC-12 SWIMMING/DIV,2000-12-22,1
+Bruno Blaskovic,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.98,18.98,0 days 00:00:18.980000,2022-03-24,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,1998-08-02,1
+Willie Davis,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.99,18.99,0 days 00:00:18.990000,2022-03-24,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2000-02-11,1
+Gretchen Walsh,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.05,46.05,0 days 00:00:46.050000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2003-01-29,2
+Katherine Douglass,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.62,46.62,0 days 00:00:46.620000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-11-17,2
+Morgan Scott,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.78,46.78,0 days 00:00:46.780000,2022-03-19,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,2000-05-22,2
+Victoria Huske,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.82,46.82,0 days 00:00:46.820000,2022-03-19,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2002-12-07,2
+Katharine Berkoff,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.89,46.89,0 days 00:00:46.890000,2022-03-19,2022.0,North Carolina State University,2022 NCAA DI Women's Swimming,2001-01-28,2
+Cora Dupre,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.08,47.08,0 days 00:00:47.080000,2022-03-19,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,2001-05-07,2
+Margaret MacNeil,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.10,47.1,0 days 00:00:47.100000,2022-02-19,2022.0,University of Michigan,2022 B1G Women's Championship,2000-02-26,2
+Taylor Ruck,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.13,47.13,0 days 00:00:47.130000,2022-02-26,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,2000-05-28,2
+Laticia-Leigh Transom,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.21,47.21,0 days 00:00:47.210000,2022-02-26,2022.0,University of Southern California,2022 PAC-12 WOMEN'S SWIMMING &,2001-04-10,2
+Gabriela Albiero,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.32,47.32,0 days 00:00:47.320000,2022-03-19,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2002-01-16,2
+Iszac Henig,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.32,47.32,0 days 00:00:47.320000,2022-03-19,2022.0,Yale University,2022 NCAA DI Women's Swimming,2000-07-05,2
+Grace Countie,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.36,47.36,0 days 00:00:47.360000,2022-03-19,2022.0,University of North Carolina Chapel Hill,2022 NCAA DI Women's Swimming,1999-11-10,2
+Lia Thomas,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.37,47.37,0 days 00:00:47.370000,2022-03-19,2022.0,University of Pennsylvania,2022 NCAA DI Women's Swimming,1999-05-13,2
+Katherine Zenick,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.40,47.4,0 days 00:00:47.400000,2022-02-19,2022.0,Ohio State University,2022 B1G Women's Championship,2001-11-14,2
+Amy Fulmer,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.46,47.46,0 days 00:00:47.460000,2022-02-19,2022.0,Ohio State University,2022 B1G Women's Championship,2001-05-24,2
+Lindsay Flynn,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.50,47.5,0 days 00:00:47.500000,2022-03-19,2022.0,University of Michigan,2022 NCAA DI Women's Swimming,2002-10-01,2
+Bjorn Seeliger,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.75,40.75,0 days 00:00:40.750000,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2000-01-11,2
+Brooks Curry,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.84,40.84,0 days 00:00:40.840000,2022-03-26,2022.0,Louisiana State University,2022 NCAA Division I Men's Swimming Championships,2001-01-20,2
+Andrei Minakov,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.09,41.09,0 days 00:00:41.090000,2022-03-26,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,2002-03-17,2
+Jordan Crooks,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.16,41.16,0 days 00:00:41.160000,2022-03-26,2022.0,University of Tennessee,2022 NCAA Division I Men's Swimming Championships,2002-05-02,2
+Matthew Brownstead,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.22,41.22,0 days 00:00:41.220000,2022-03-26,2022.0,University of Virginia,2022 NCAA Division I Men's Swimming Championships,2002-06-12,2
+Drew Kibler,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.33,41.33,0 days 00:00:41.330000,2022-03-26,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2000-03-09,2
+Matthew King,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.34,41.34,0 days 00:00:41.340000,2022-03-26,2022.0,University of Virginia,2022 NCAA Division I Men's Swimming Championships,2002-02-19,2
+Dean Farris,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.42,41.42,0 days 00:00:41.420000,2022-03-26,2022.0,Harvard University,2022 NCAA Division I Men's Swimming Championships,1997-11-14,2
+Daniel Krueger,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.45,41.45,0 days 00:00:41.450000,2021-12-04,2022.0,University of Texas,Minnesota Invite 2021,1999-06-11,2
+Grant House,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.48,41.48,0 days 00:00:41.480000,2022-03-26,2022.0,Arizona State University,2022 NCAA Division I Men's Swimming Championships,1998-06-19,2
+Joseph Armstrong,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.54,41.54,0 days 00:00:41.540000,2022-02-26,2022.0,Ohio State University,2022 B1G Men's Swimming & Divi,2001-01-24,2
+Ruslan Gaziev,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.56,41.56,0 days 00:00:41.560000,2022-03-26,2022.0,Ohio State University,2022 NCAA Division I Men's Swimming Championships,1999-08-16,2
+Cameron Auchinachie,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.62,41.62,0 days 00:00:41.620000,2022-03-26,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,1998-12-16,2
+Rafael Miroslaw,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.63,41.63,0 days 00:00:41.630000,2022-03-26,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,2001-03-25,2
+Lukas Miller,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.65,41.65,0 days 00:00:41.650000,2022-03-26,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,2002-04-26,2
+Gianluca Urlando,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.71,41.71,0 days 00:00:41.710000,2022-03-26,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2002-03-16,2
+Taylor Ruck,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.12,101.12,0 days 00:01:41.120000,2022-03-18,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2000-05-28,3
+Isabel Ivey,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.35,101.35,0 days 00:01:41.350000,2022-03-16,2022.0,University of California Berkeley,2022 NCAA DI Women's Swimming,2000-11-22,3
+Victoria Huske,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.93,101.93,0 days 00:01:41.930000,2022-03-16,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2002-12-07,3
+Lia Thomas,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.93,101.93,0 days 00:01:41.930000,2021-12-04,2022.0,University of Pennsylvania,2021 Zippy Invitational,1999-05-13,3
+Alexandra Walsh,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.28,102.28,0 days 00:01:42.280000,2022-02-17,2022.0,University of Virginia,2022 ACC Championship,2001-07-31,3
+Kelly Pash,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.38,102.38,0 days 00:01:42.380000,2022-03-18,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2001-03-27,3
+Chloe Stepanek,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.40,102.4,0 days 00:01:42.400000,2022-02-15,2022.0,Texas A&M University,2022 SEC Swimming & Diving Cha,2002-02-17,3
+Laticia-Leigh Transom,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.49,102.49,0 days 00:01:42.490000,2022-02-25,2022.0,University of Southern California,2022 PAC-12 WOMEN'S SWIMMING &,2001-04-10,3
+Riley Gaines,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.62,102.62,0 days 00:01:42.620000,2022-02-17,2022.0,University of Kentucky,2022 SEC Swimming & Diving Cha,2000-04-21,3
+Lillian Nordmann,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.63,102.63,0 days 00:01:42.630000,2022-03-18,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2002-08-05,3
+Reilly Tiltmann,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.17,103.17,0 days 00:01:43.170000,2022-03-16,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2003-07-30,3
+Julia Mrozinski,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.21,103.21,0 days 00:01:43.210000,2022-02-15,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2000-02-16,3
+Brooklyn Douthwright,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.45,103.45,0 days 00:01:43.450000,2022-02-17,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2003-05-20,3
+Amy Fulmer,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.46,103.46,0 days 00:01:43.460000,2022-02-16,2022.0,Ohio State University,2022 B1G Women's Championship,2001-05-24,3
+Anna Peplowski,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.53,103.53,0 days 00:01:43.530000,2022-02-16,2022.0,Indiana University,2022 B1G Women's Championship,2002-09-25,3
+Morgan Tankersley,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.53,103.53,0 days 00:01:43.530000,2022-03-18,2022.0,Stanford University,2022 NCAA DI Women's Swimming,1999-07-26,3
+Grant House,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.23,90.23,0 days 00:01:30.230000,2022-03-04,2022.0,Arizona State University,2022 MEN'S PAC-12 SWIMMING/DIV,1998-06-19,3
+Drew Kibler,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.28,90.28,0 days 00:01:30.280000,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2000-03-09,3
+Kieran Smith,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.42,90.42,0 days 00:01:30.420000,2022-02-15,2022.0,University of Florida,2022 SEC Swimming & Diving Cha,2000-05-20,3
+Matthew Sates,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.72,90.72,0 days 00:01:30.720000,2022-03-25,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2003-07-28,3
+Lukas Miller,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.16,91.16,0 days 00:01:31.160000,2022-03-25,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,2002-04-26,3
+Brooks Curry,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.39,91.39,0 days 00:01:31.390000,2022-02-17,2022.0,Louisiana State University,2022 SEC Swimming & Diving Cha,2001-01-20,3
+Andrei Minakov,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.49,91.49,0 days 00:01:31.490000,2022-03-23,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,2002-03-17,3
+Trenton Julian,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.57,91.57,0 days 00:01:31.570000,2022-03-23,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-12-09,3
+Rafael Miroslaw,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.89,91.89,0 days 00:01:31.890000,2022-02-23,2022.0,Indiana University,2022 B1G Men's Swimming & Divi,2001-03-25,3
+Murilo Sartori,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.99,91.99,0 days 00:01:31.990000,2022-03-25,2022.0,University of Louisville,2022 NCAA Division I Men's Swimming Championships,2002-05-18,3
+Jack Dahlgren,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.01,92.01,0 days 00:01:32.010000,2022-03-25,2022.0,University of Missouri,2022 NCAA Division I Men's Swimming Championships,2000-01-10,3
+Robert Freeman,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.17,92.17,0 days 00:01:32.170000,2022-03-25,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2000-03-24,3
+Wen Zhang,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.21,92.21,0 days 00:01:32.210000,2022-02-25,2022.0,U.S. Air Force Academy (M),2022 WAC Swimming & Diving Ch,2001-01-09,3
+Ruslan Gaziev,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.24,92.24,0 days 00:01:32.240000,2022-03-25,2022.0,Ohio State University,2022 NCAA Division I Men's Swimming Championships,1999-08-16,3
+Jacob Magahey,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.24,92.24,0 days 00:01:32.240000,2022-02-17,2022.0,University of Georgia,2022 SEC Swimming & Diving Cha,2001-09-14,3
+Luke Hobson,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.31,92.31,0 days 00:01:32.310000,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2003-06-25,3
+Lia Thomas,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:33.24,273.24,0 days 00:04:33.240000,2022-03-17,2022.0,University of Pennsylvania,2022 NCAA DI Women's Swimming,1999-05-13,4
+Emma Nordin,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.87,274.87,0 days 00:04:34.870000,2021-11-18,2022.0,Arizona State University,2021 NC State GAC Fall Invitat,1999-11-01,4
+Emma Weyant,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.99,274.99,0 days 00:04:34.990000,2022-03-17,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-12-24,4
+Erica Sullivan,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.92,275.92,0 days 00:04:35.920000,2022-03-17,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2000-08-09,4
+Julia Mrozinski,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.95,275.95,0 days 00:04:35.950000,2022-02-16,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2000-02-16,4
+Brooke Forde,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.18,276.18,0 days 00:04:36.180000,2022-03-17,2022.0,Stanford University,2022 NCAA DI Women's Swimming,1999-03-04,4
+Genevieve Pfeifer,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.29,277.29,0 days 00:04:37.290000,2022-03-17,2022.0,University of Texas,2022 NCAA DI Women's Swimming,1999-04-19,4
+Paige McKenna,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.35,277.35,0 days 00:04:37.350000,2022-03-17,2022.0,University of Wisconsin Madison,2022 NCAA DI Women's Swimming,2003-04-17,4
+Kensey McMahon,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.34,278.34,0 days 00:04:38.340000,2022-02-16,2022.0,University of Alabama,2022 SEC Swimming & Diving Cha,1999-10-29,4
+Lola Mull,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.37,278.37,0 days 00:04:38.370000,2022-03-17,2022.0,Northwestern University,2022 NCAA DI Women's Swimming,2002-08-06,4
+Kristen Stege,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.50,278.5,0 days 00:04:38.500000,2022-02-16,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2001-06-01,4
+Tylor Mathieu,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.62,278.62,0 days 00:04:38.620000,2022-03-17,2022.0,University of Florida,2022 NCAA DI Women's Swimming,2000-12-21,4
+Morgan Tankersley,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.65,278.65,0 days 00:04:38.650000,2022-03-17,2022.0,Stanford University,2022 NCAA DI Women's Swimming,1999-07-26,4
+Dune Coetzee,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.78,278.78,0 days 00:04:38.780000,2022-03-17,2022.0,University of Georgia,2022 NCAA DI Women's Swimming,2002-05-14,4
+Liberty Williams,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.79,278.79,0 days 00:04:38.790000,2022-01-22,2022.0,University of Louisville,Louisville vs Kentucky,2001-12-30,4
+Erica Laning,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.80,278.8,0 days 00:04:38.800000,2022-02-24,2022.0,Arizona State University,2022 PAC-12 WOMEN'S SWIMMING &,1999-05-28,4
+Matthew Sates,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:06.61,246.61,0 days 00:04:06.610000,2022-03-24,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2003-07-28,4
+Jacob Magahey,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:07.39,247.39,0 days 00:04:07.390000,2022-03-24,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2001-09-14,4
+Luke Hobson,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.42,248.42,0 days 00:04:08.420000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2003-06-25,4
+Kieran Smith,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.68,248.68,0 days 00:04:08.680000,2022-03-24,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2000-05-20,4
+Alfonso Mestre,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.74,249.74,0 days 00:04:09.740000,2022-03-24,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2001-09-24,4
+Brooks Fail,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.05,250.05,0 days 00:04:10.050000,2022-03-24,2022.0,University of Arizona,2022 NCAA Division I Men's Swimming Championships,1999-07-26,4
+Ross Dant,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.35,250.35,0 days 00:04:10.350000,2022-02-16,2022.0,North Carolina State University,2022 ACC Championship,2000-12-15,4
+David Johnston,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.96,250.96,0 days 00:04:10.960000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-10-28,4
+Preston Forst,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.56,251.56,0 days 00:04:11.560000,2022-03-24,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,2001-06-28,4
+Robert Finke,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.74,251.74,0 days 00:04:11.740000,2022-03-24,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,1999-11-06,4
+Coby Carrozza,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.09,252.09,0 days 00:04:12.090000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-05-07,4
+Jacob Newmark,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.43,252.43,0 days 00:04:12.430000,2022-02-24,2022.0,University of Wisconsin Madison,2022 B1G Men's Swimming & Divi,2002-03-03,4
+James Plage,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.57,252.57,0 days 00:04:12.570000,2022-02-16,2022.0,North Carolina State University,2022 ACC Championship,2002-08-16,4
+Kevin Callan,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.60,252.6,0 days 00:04:12.600000,2021-12-02,2022.0,University of Michigan,Minnesota Invite 2021,1999-10-06,4
+Robert Freeman,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.70,252.7,0 days 00:04:12.700000,2022-03-24,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2000-03-24,4
+Bar Soloveychik,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.76,252.76,0 days 00:04:12.760000,2022-03-24,2022.0,University of Minnesota,2022 NCAA Division I Men's Swimming Championships,2000-08-15,4
+Liberty Williams,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:33.23,573.23,0 days 00:09:33.230000,2022-01-14,2022.0,University of Louisville,IU - Louisville,2001-12-30,5
+Lola Mull,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:34.56,574.56,0 days 00:09:34.560000,2022-01-28,2022.0,Northwestern University,2022 Minnesota Triple Duals 2.,2002-08-06,5
+Erica Sullivan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:40.86,580.86,0 days 00:09:40.860000,2022-01-29,2022.0,University of Texas,UT v UNC,2000-08-09,5
+Kristen Stege,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.33,582.33,0 days 00:09:42.330000,2022-01-22,2022.0,University of Tennessee,UGA vs UT 2022,2001-06-01,5
+Kaitlynn Sims,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.66,582.66,0 days 00:09:42.660000,2021-11-05,2022.0,University of Michigan,Purdue vs. UM vs. Mizzou 2021,2000-11-27,5
+Emma Weyant,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.71,582.71,0 days 00:09:42.710000,2021-11-05,2022.0,University of Virginia,Virginia vs Texas,2001-12-24,5
+Maya Geringer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.22,583.22,0 days 00:09:43.220000,2022-01-28,2022.0,Ohio State University,Ohio State vs Michigan,2002-01-03,5
+Catherine Buroker,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.54,583.54,0 days 00:09:43.540000,2022-02-18,2022.0,University of Pennsylvania,2022 Women's Ivy League Champi,2000-03-04,5
+Elise Bauer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.77,583.77,0 days 00:09:43.770000,2021-10-29,2022.0,University of Florida,UF vs. Georgia 102921,2002-05-22,5
+Abigail McCulloh,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.84,584.84,0 days 00:09:44.840000,2021-10-22,2022.0,University of Georgia,UGA vs UNC 2021,2002-12-31,5
+Chase Travis,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.95,584.95,0 days 00:09:44.950000,2022-01-22,2022.0,VA Tech,Virginia Tech vs Penn State,2002-07-18,5
+Paige McKenna,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:47.70,587.7,0 days 00:09:47.700000,2021-11-05,2022.0,University of Wisconsin Madison,Minnesota vs Wisconsin,2003-04-17,5
+Brooke Travis,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:48.73,588.73,0 days 00:09:48.730000,2022-03-16,2022.0,North Carolina State University,2022 NCAA DI Women's Swimming,2000-06-18,5
+Ching Hwee Gan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:49.08,589.08,0 days 00:09:49.080000,2022-01-14,2022.0,Indiana University,IU - Louisville,2003-07-22,5
+Anna Auld,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:49.67,589.67,0 days 00:09:49.670000,2022-01-22,2022.0,University of Florida,UF vs. Auburn 012222,2003-06-20,5
+Anna Kalandadze,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:50.05,590.05,0 days 00:09:50.050000,2022-02-18,2022.0,University of Pennsylvania,2022 Women's Ivy League Champi,2001-07-21,5
+Luke Hobson,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:43.66,523.66,0 days 00:08:43.660000,2022-02-04,2022.0,University of Texas,2022 SMU v TEXAS,2003-06-25,5
+David Johnston,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:43.96,523.96,0 days 00:08:43.960000,2022-02-04,2022.0,University of Texas,2022 SMU v TEXAS,2001-10-28,5
+Grant Shoults,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:46.79,526.79,0 days 00:08:46.790000,2022-02-19,2022.0,Stanford University,CAL @ Stanford Men,1997-06-06,5
+Jacob Foster,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:49.85,529.85,0 days 00:08:49.850000,2022-02-04,2022.0,University of Texas,2022 SMU v TEXAS,2000-09-06,5
+James Brinegar,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:51.20,531.2,0 days 00:08:51.200000,2022-01-14,2022.0,Indiana University,IU - Louisville,1999-09-15,5
+Brooks Fail,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:51.73,531.73,0 days 00:08:51.730000,2022-02-05,2022.0,University of Arizona,Arizona vs. ASU,1999-07-26,5
+Charles Clark,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:51.82,531.82,0 days 00:08:51.820000,2022-01-28,2022.0,Ohio State University,Ohio State vs Michigan,2002-06-17,5
+Shane Washart,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:52.09,532.09,0 days 00:08:52.090000,2022-02-25,2022.0,Harvard University,2022 MENS IVY LEAGUE SWIMMING,2003-05-20,5
+Jacob Magahey,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.24,535.24,0 days 00:08:55.240000,2021-10-29,2022.0,University of Georgia,UF vs. Georgia 102921,2001-09-14,5
+Dylan Porges Avila,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.68,535.68,0 days 00:08:55.680000,2022-02-25,2022.0,Princeton University,2022 MENS IVY LEAGUE SWIMMING,2000-08-17,5
+Coby Carrozza,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.73,535.73,0 days 00:08:55.730000,2022-01-21,2022.0,University of Texas,Texas Men vs. TCU Men,2001-05-07,5
+Robert Freeman,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.93,535.93,0 days 00:08:55.930000,2022-01-22,2022.0,University of Florida,UF vs. Auburn 012222,2000-03-24,5
+Arik Katz,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:56.05,536.05,0 days 00:08:56.050000,2022-02-25,2022.0,Harvard University,2022 MENS IVY LEAGUE SWIMMING,2001-10-14,5
+Robert Finke,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:56.58,536.58,0 days 00:08:56.580000,2022-01-22,2022.0,University of Florida,UF vs. Auburn 012222,1999-11-06,5
+Michael Calvillo,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.69,537.69,0 days 00:08:57.690000,2022-01-14,2022.0,Indiana University,IU - Louisville,2000-09-12,5
+Ross Dant,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.20,538.2,0 days 00:08:58.200000,2022-01-22,2022.0,North Carolina State University,Virginia vs. NC State,2000-12-15,5
+Paige McKenna,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:40.84,940.84,0 days 00:15:40.840000,2022-03-19,2022.0,University of Wisconsin Madison,2022 NCAA DI Women's Swimming,2003-04-17,6
+Kristen Stege,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:42.37,942.37,0 days 00:15:42.370000,2022-02-19,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2001-06-01,6
+Liberty Williams,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:43.21,943.21,0 days 00:15:43.210000,2022-02-19,2022.0,University of Louisville,2022 ACC Championship,2001-12-30,6
+Erica Sullivan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:45.94,945.94,0 days 00:15:45.940000,2022-03-19,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2000-08-09,6
+Emma Nordin,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:47.15,947.15,0 days 00:15:47.150000,2021-11-20,2022.0,Arizona State University,2021 NC State GAC Fall Invitat,1999-11-01,6
+Kensey McMahon,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:47.60,947.6,0 days 00:15:47.600000,2022-03-19,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,1999-10-29,6
+Genevieve Pfeifer,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:48.34,948.34,0 days 00:15:48.340000,2022-03-19,2022.0,University of Texas,2022 NCAA DI Women's Swimming,1999-04-19,6
+Caroline Pennington,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:48.69,948.69,0 days 00:15:48.690000,2022-02-26,2022.0,University of Southern California,2022 PAC-12 WOMEN'S SWIMMING &,2003-03-10,6
+Abigail McCulloh,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:49.87,949.87,0 days 00:15:49.870000,2022-03-19,2022.0,University of Georgia,2022 NCAA DI Women's Swimming,2002-12-31,6
+Lola Mull,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:51.38,951.38,0 days 00:15:51.380000,2022-02-19,2022.0,Northwestern University,2022 B1G Women's Championship,2002-08-06,6
+Ching Hwee Gan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:53.81,953.81,0 days 00:15:53.810000,2022-02-19,2022.0,Indiana University,2022 B1G Women's Championship,2003-07-22,6
+Madelyn Donohoe,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:55.14,955.14,0 days 00:15:55.140000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-11-16,6
+Lia Thomas,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.71,959.71,0 days 00:15:59.710000,2021-12-05,2022.0,University of Pennsylvania,2021 Zippy Invitational,1999-05-13,6
+Maya Geringer,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.82,959.82,0 days 00:15:59.820000,2022-03-19,2022.0,Ohio State University,2022 NCAA DI Women's Swimming,2002-01-03,6
+Chase Travis,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:00.54,960.54,0 days 00:16:00.540000,2022-02-19,2022.0,VA Tech,2022 ACC Championship,2002-07-18,6
+Aurora Roghair,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:01.55,961.55,0 days 00:16:01.550000,2022-02-26,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,2003-03-19,6
+Robert Finke,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:22.28,862.28,0 days 00:14:22.280000,2022-03-26,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,1999-11-06,6
+John Gallant,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:31.34,871.34,0 days 00:14:31.340000,2022-03-26,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,2001-07-19,6
+Ross Dant,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:31.72,871.72,0 days 00:14:31.720000,2022-03-26,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,2000-12-15,6
+David Johnston,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:32.40,872.4,0 days 00:14:32.400000,2022-03-05,2022.0,University of Texas,2022 ST American Short Course Champs,2001-10-28,6
+Jacob Magahey,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:33.53,873.53,0 days 00:14:33.530000,2022-03-26,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2001-09-14,6
+James Brinegar,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:33.76,873.76,0 days 00:14:33.760000,2022-03-26,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,1999-09-15,6
+Brooks Fail,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:35.33,875.33,0 days 00:14:35.330000,2022-03-26,2022.0,University of Arizona,2022 NCAA Division I Men's Swimming Championships,1999-07-26,6
+Charles Clark,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:35.38,875.38,0 days 00:14:35.380000,2022-03-26,2022.0,Ohio State University,2022 NCAA Division I Men's Swimming Championships,2002-06-17,6
+Grant Shoults,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:38.18,878.18,0 days 00:14:38.180000,2022-03-26,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,1997-06-06,6
+Robert Freeman,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:39.74,879.74,0 days 00:14:39.740000,2022-02-19,2022.0,University of Florida,2022 SEC Swimming & Diving Cha,2000-03-24,6
+Alfonso Mestre,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:39.82,879.82,0 days 00:14:39.820000,2022-03-26,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2001-09-24,6
+Luke Hobson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.15,880.15,0 days 00:14:40.150000,2021-12-04,2022.0,University of Texas,Minnesota Invite 2021,2003-06-25,6
+Tyler Watson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.45,880.45,0 days 00:14:40.450000,2022-02-19,2022.0,University of Florida,2022 SEC Swimming & Diving Cha,2001-02-15,6
+Yigit Aslan,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.77,880.77,0 days 00:14:40.770000,2021-12-04,2022.0,University of Wisconsin Madison,Minnesota Invite 2021,2003-03-11,6
+Mert Kilavuz,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.99,880.99,0 days 00:14:40.990000,2022-03-26,2022.0,Georgia Institute of Technology,2022 NCAA Division I Men's Swimming Championships,2003-08-26,6
+Alexander Zettle,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:41.04,881.04,0 days 00:14:41.040000,2021-12-04,2022.0,University of Texas,Minnesota Invite 2021,1999-10-31,6
+Katharine Berkoff,100 Backstroke SCY Female,100,Backstroke,SCY,Female,48.74,48.74,0 days 00:00:48.740000,2022-03-18,2022.0,North Carolina State University,2022 NCAA DI Women's Swimming,2001-01-28,12
+Gretchen Walsh,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.00,49.0,0 days 00:00:49,2022-03-18,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2003-01-29,12
+Regan Smith,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.23,49.23,0 days 00:00:49.230000,2022-02-25,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,2002-02-09,12
+Rhyan White,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.15,50.15,0 days 00:00:50.150000,2021-11-18,2022.0,University of Alabama,2021 Tennessee Invitational,2000-01-25,12
+Margaret MacNeil,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.33,50.33,0 days 00:00:50.330000,2021-12-02,2022.0,University of Michigan,Minnesota Invite 2021,2000-02-26,12
+Reilly Tiltmann,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.42,50.42,0 days 00:00:50.420000,2022-02-18,2022.0,University of Virginia,2022 ACC Championship,2003-07-30,12
+Olivia Bray,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.69,50.69,0 days 00:00:50.690000,2022-03-18,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2001-11-20,12
+Grace Countie,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.77,50.77,0 days 00:00:50.770000,2022-03-18,2022.0,University of North Carolina Chapel Hill,2022 NCAA DI Women's Swimming,1999-11-10,12
+Isabelle Stadden,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.81,50.81,0 days 00:00:50.810000,2022-03-18,2022.0,University of California Berkeley,2022 NCAA DI Women's Swimming,2002-07-09,12
+Phoebe Bacon,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.83,50.83,0 days 00:00:50.830000,2022-03-18,2022.0,University of Wisconsin Madison,2022 NCAA DI Women's Swimming,2002-08-12,12
+Taylor Ruck,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.07,51.07,0 days 00:00:51.070000,2022-03-18,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2000-05-28,12
+Kylee Alons,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.16,51.16,0 days 00:00:51.160000,2022-02-18,2022.0,North Carolina State University,2022 ACC Championship,1999-09-30,12
+Lucie Nordmann,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.20,51.2,0 days 00:00:51.200000,2022-03-18,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2000-05-01,12
+Aria Bernal,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.24,51.24,0 days 00:00:51.240000,2022-03-18,2022.0,University of Arizona,2022 NCAA DI Women's Swimming,2000-06-21,12
+Sarah Thompson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.35,51.35,0 days 00:00:51.350000,2022-02-18,2022.0,University of Missouri,2022 SEC Swimming & Diving Cha,1998-09-03,12
+Sophie Lindner,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.38,51.38,0 days 00:00:51.380000,2022-03-18,2022.0,University of North Carolina Chapel Hill,2022 NCAA DI Women's Swimming,2000-05-15,12
+Gianluca Urlando,100 Backstroke SCY Male,100,Backstroke,SCY,Male,43.35,43.35,0 days 00:00:43.350000,2022-03-25,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2002-03-16,12
+Kacper Stokowski,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.04,44.04,0 days 00:00:44.040000,2022-03-25,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,1999-01-06,12
+Brendan Burns,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.15,44.15,0 days 00:00:44.150000,2022-03-25,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,2001-05-29,12
+Adam Chaney,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.35,44.35,0 days 00:00:44.350000,2022-03-25,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2002-03-27,12
+Joseph Armstrong,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.36,44.36,0 days 00:00:44.360000,2022-02-24,2022.0,Ohio State University,2022 B1G Men's Swimming & Divi,2001-01-24,12
+Destin Lasco,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.36,44.36,0 days 00:00:44.360000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2001-08-07,12
+Nicolas Albiero,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.54,44.54,0 days 00:00:44.540000,2022-03-25,2022.0,University of Louisville,2022 NCAA Division I Men's Swimming Championships,1999-06-08,12
+Dean Farris,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.55,44.55,0 days 00:00:44.550000,2022-03-25,2022.0,Harvard University,2022 NCAA Division I Men's Swimming Championships,1997-11-14,12
+Bjorn Seeliger,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.58,44.58,0 days 00:00:44.580000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2000-01-11,12
+Matthew Menke,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.66,44.66,0 days 00:00:44.660000,2022-03-25,2022.0,University of Alabama,2022 NCAA Division I Men's Swimming Championships,2000-10-10,12
+Gabriel Fantoni,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.70,44.7,0 days 00:00:44.700000,2022-03-25,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,1998-07-22,12
+Leon MacAlister,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.75,44.75,0 days 00:00:44.750000,2022-03-04,2022.0,Stanford University,2022 MEN'S PAC-12 SWIMMING/DIV,2000-07-25,12
+Daniel Carr,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.94,44.94,0 days 00:00:44.940000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-09-08,12
+Cameron Auchinachie,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.98,44.98,0 days 00:00:44.980000,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,1998-12-16,12
+Bryce Mefford,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.03,45.03,0 days 00:00:45.030000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-10-03,12
+Andrei Ungur,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.05,45.05,0 days 00:00:45.050000,2022-03-25,2022.0,University of Utah,2022 NCAA Division I Men's Swimming Championships,1998-10-17,12
+Regan Smith,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:47.76,107.76,0 days 00:01:47.760000,2022-03-19,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2002-02-09,13
+Phoebe Bacon,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.29,109.29,0 days 00:01:49.290000,2022-03-19,2022.0,University of Wisconsin Madison,2022 NCAA DI Women's Swimming,2002-08-12,13
+Rhyan White,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.36,109.36,0 days 00:01:49.360000,2022-03-19,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,2000-01-25,13
+Isabelle Stadden,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.45,109.45,0 days 00:01:49.450000,2022-03-19,2022.0,University of California Berkeley,2022 NCAA DI Women's Swimming,2002-07-09,13
+Reilly Tiltmann,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.63,109.63,0 days 00:01:49.630000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2003-07-30,13
+Taylor Ruck,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.73,109.73,0 days 00:01:49.730000,2022-02-26,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,2000-05-28,13
+Emma Atkinson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.86,109.86,0 days 00:01:49.860000,2022-03-19,2022.0,VA Tech,2022 NCAA DI Women's Swimming,2001-10-13,13
+Emma Muzzy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.62,110.62,0 days 00:01:50.620000,2022-02-19,2022.0,North Carolina State University,2022 ACC Championship,2000-11-21,13
+Caitlin Brooks,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.73,110.73,0 days 00:01:50.730000,2022-02-19,2022.0,University of Kentucky,2022 SEC Swimming & Diving Cha,2000-09-12,13
+Olivia Bray,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.09,111.09,0 days 00:01:51.090000,2022-02-26,2022.0,University of Texas,2022 Big 12 Swimming & Diving,2001-11-20,13
+Lucie Nordmann,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.16,111.16,0 days 00:01:51.160000,2021-11-20,2022.0,Stanford University,2021 NC State GAC Fall Invitat,2000-05-01,13
+Kathleen Moore,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.61,111.61,0 days 00:01:51.610000,2022-03-19,2022.0,North Carolina State University,2022 NCAA DI Women's Swimming,1999-03-25,13
+Katharine Berkoff,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.62,111.62,0 days 00:01:51.620000,2021-11-20,2022.0,North Carolina State University,2021 NC State GAC Fall Invitat,2001-01-28,13
+Sophia Sorenson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.99,111.99,0 days 00:01:51.990000,2022-03-19,2022.0,University of Kentucky,2022 NCAA DI Women's Swimming,2000-05-21,13
+Paige Hetrick,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.05,112.05,0 days 00:01:52.050000,2022-03-19,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2002-02-01,13
+Sophie Lindner,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.12,112.12,0 days 00:01:52.120000,2022-03-19,2022.0,University of North Carolina Chapel Hill,2022 NCAA DI Women's Swimming,2000-05-15,13
+Destin Lasco,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.71,97.71,0 days 00:01:37.710000,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2001-08-07,13
+Carson Foster,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.00,98.0,0 days 00:01:38,2022-03-26,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-10-26,13
+Daniel Carr,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.28,98.28,0 days 00:01:38.280000,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-09-08,13
+Jack Dahlgren,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.85,98.85,0 days 00:01:38.850000,2022-03-26,2022.0,University of Missouri,2022 NCAA Division I Men's Swimming Championships,2000-01-10,13
+Bryce Mefford,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.94,98.94,0 days 00:01:38.940000,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-10-03,13
+Leon MacAlister,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.95,98.95,0 days 00:01:38.950000,2022-03-26,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,2000-07-25,13
+Kieran Smith,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.99,98.99,0 days 00:01:38.990000,2022-03-26,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2000-05-20,13
+Samuel Tornqvist,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.20,99.2,0 days 00:01:39.200000,2022-02-19,2022.0,VA Tech,2022 ACC Championship,1997-11-05,13
+Jack Aikins,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.26,99.26,0 days 00:01:39.260000,2022-03-26,2022.0,University of Virginia,2022 NCAA Division I Men's Swimming Championships,2002-10-11,13
+Kacper Stokowski,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.27,99.27,0 days 00:01:39.270000,2022-03-26,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,1999-01-06,13
+Hunter Tapp,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.30,99.3,0 days 00:01:39.300000,2022-03-26,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,2001-04-11,13
+Brendan Burns,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.34,99.34,0 days 00:01:39.340000,2022-02-26,2022.0,Indiana University,2022 B1G Men's Swimming & Divi,2001-05-29,13
+Justin Grender,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.49,99.49,0 days 00:01:39.490000,2022-03-26,2022.0,University of Virginia,2022 NCAA Division I Men's Swimming Championships,2000-04-11,13
+Jacob Newmark,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.50,99.5,0 days 00:01:39.500000,2022-02-26,2022.0,University of Wisconsin Madison,2022 B1G Men's Swimming & Divi,2002-03-03,13
+Ethan Gogulski,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.58,99.58,0 days 00:01:39.580000,2022-02-19,2022.0,Texas A&M University,2022 SEC Swimming & Diving Cha,2000-02-22,13
+Nicolas Albiero,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.63,99.63,0 days 00:01:39.630000,2022-02-19,2022.0,University of Louisville,2022 ACC Championship,1999-06-08,13
+Sophie Hansson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,56.72,56.72,0 days 00:00:56.720000,2022-02-18,2022.0,North Carolina State University,2022 ACC Championship,1998-08-02,15
+Alexis Wenger,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,56.76,56.76,0 days 00:00:56.760000,2022-02-18,2022.0,University of Virginia,2022 ACC Championship,2000-06-08,15
+Anna Elendt,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,56.88,56.88,0 days 00:00:56.880000,2022-03-18,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2001-09-04,15
+Kaitlyn Dobler,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,56.93,56.93,0 days 00:00:56.930000,2022-03-18,2022.0,University of Southern California,2022 NCAA DI Women's Swimming,2002-02-15,15
+Mona McSharry,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.18,57.18,0 days 00:00:57.180000,2022-03-18,2022.0,University of Tennessee,2022 NCAA DI Women's Swimming,2000-08-21,15
+Hannah Bach,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.32,57.32,0 days 00:00:57.320000,2022-03-18,2022.0,Ohio State University,2022 NCAA DI Women's Swimming,2000-12-01,15
+Avery Wiseman,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.79,57.79,0 days 00:00:57.790000,2021-11-19,2022.0,University of Alabama,2021 Tennessee Invitational,2002-04-07,15
+Andrea Podmanikova,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.90,57.9,0 days 00:00:57.900000,2022-02-18,2022.0,North Carolina State University,2022 ACC Championship,1998-02-23,15
+Sophie Angus,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.00,58.0,0 days 00:00:58,2022-03-18,2022.0,Northwestern University,2022 NCAA DI Women's Swimming,1999-03-12,15
+Tara Vovk,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.01,58.01,0 days 00:00:58.010000,2022-03-18,2022.0,Northwestern University,2022 NCAA DI Women's Swimming,2000-02-15,15
+Letitia Sim,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.34,58.34,0 days 00:00:58.340000,2022-03-18,2022.0,University of Michigan,2022 NCAA DI Women's Swimming,2003-03-03,15
+Zoie Hartman,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.35,58.35,0 days 00:00:58.350000,2022-02-18,2022.0,University of Georgia,2022 SEC Swimming & Diving Cha,2000-12-20,15
+Alexandra Walsh,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.36,58.36,0 days 00:00:58.360000,2022-02-05,2022.0,University of Virginia,2022 Cavalier Invitational,2001-07-31,15
+Katherine Douglass,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.64,58.64,0 days 00:00:58.640000,2021-11-19,2022.0,University of Virginia,2021 Tennessee Invitational,2001-11-17,15
+Vanessa Herrmann,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.85,58.85,0 days 00:00:58.850000,2022-02-18,2022.0,University of Arkansas,2022 SEC Swimming & Diving Cha,2000-05-15,15
+Klara Thormalm,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.99,58.99,0 days 00:00:58.990000,2022-03-18,2022.0,San Diego State University,2022 NCAA DI Women's Swimming,1998-03-29,15
+Maxwell McHugh,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,49.90,49.9,0 days 00:00:49.900000,2022-03-25,2022.0,University of Minnesota,2022 NCAA Division I Men's Swimming Championships,1999-12-31,15
+Caspar Corbeau,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.49,50.49,0 days 00:00:50.490000,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-04-03,15
+Liam Bell,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.50,50.5,0 days 00:00:50.500000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2000-09-18,15
+Derek Maas,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.78,50.78,0 days 00:00:50.780000,2022-02-18,2022.0,University of Alabama,2022 SEC Swimming & Diving Cha,2001-04-08,15
+Reece Whitley,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.84,50.84,0 days 00:00:50.840000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2000-01-03,15
+Trent Pellini,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.93,50.93,0 days 00:00:50.930000,2022-03-25,2022.0,University of Southern California,2022 NCAA Division I Men's Swimming Championships,1998-09-10,15
+Evgenii Somov,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.13,51.13,0 days 00:00:51.130000,2022-02-18,2022.0,University of Louisville,2022 ACC Championship,1999-01-28,15
+Jarel Dillard,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.23,51.23,0 days 00:00:51.230000,2022-02-18,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2000-05-04,15
+Kevin Houseman,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.23,51.23,0 days 00:00:51.230000,2022-02-25,2022.0,Northwestern University,2022 B1G Men's Swimming & Divi,2001-04-28,15
+Dillon Hillis,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.24,51.24,0 days 00:00:51.240000,2022-03-25,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2000-09-15,15
+Christopher Mikuta,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.32,51.32,0 days 00:00:51.320000,2022-03-25,2022.0,Auburn University,2022 NCAA Division I Men's Swimming Championships,2001-09-28,15
+Cooper Van Der Laan,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.42,51.42,0 days 00:00:51.420000,2021-11-19,2022.0,University of Pittsburgh,2021 Ohio State Fall Invitatio,1998-12-16,15
+Matthew Fallon,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.45,51.45,0 days 00:00:51.450000,2021-12-04,2022.0,University of Pennsylvania,2021 Zippy Invitational,2002-10-03,15
+Brian Benzing,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.47,51.47,0 days 00:00:51.470000,2022-03-25,2022.0,Towson University,2022 NCAA Division I Men's Swimming Championships,2001-08-09,15
+Benjamin Patton,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.50,51.5,0 days 00:00:51.500000,2021-11-18,2022.0,University of Missouri,2021 Mizzou Invitational,2000-04-27,15
+Joshua Bottelberghe,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.61,51.61,0 days 00:00:51.610000,2022-02-18,2022.0,University of Notre Dame,2022 ACC Championship,1999-11-15,15
+Katherine Douglass,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:02.19,122.19,0 days 00:02:02.190000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-11-17,16
+Alexandra Walsh,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.02,123.02,0 days 00:02:03.020000,2022-02-19,2022.0,University of Virginia,2022 ACC Championship,2001-07-31,16
+Sophie Hansson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.75,123.75,0 days 00:02:03.750000,2022-02-19,2022.0,North Carolina State University,2022 ACC Championship,1998-08-02,16
+Anna Elendt,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.92,123.92,0 days 00:02:03.920000,2022-02-26,2022.0,University of Texas,2022 Big 12 Swimming & Diving,2001-09-04,16
+Margaret Nelson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:04.95,124.95,0 days 00:02:04.950000,2022-02-19,2022.0,University of Virginia,2022 ACC Championship,2001-07-28,16
+Avery Wiseman,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.46,125.46,0 days 00:02:05.460000,2021-11-20,2022.0,University of Alabama,2021 Tennessee Invitational,2002-04-07,16
+Sarah Foley,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.78,125.78,0 days 00:02:05.780000,2022-03-19,2022.0,Duke University,2022 NCAA DI Women's Swimming,2002-03-22,16
+Gillian Davey,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.03,126.03,0 days 00:02:06.030000,2022-03-19,2022.0,University of Kentucky,2022 NCAA DI Women's Swimming,2001-08-21,16
+Zoie Hartman,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.27,126.27,0 days 00:02:06.270000,2022-02-19,2022.0,University of Georgia,2022 SEC Swimming & Diving Cha,2000-12-20,16
+Isabelle Odgers,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.42,126.42,0 days 00:02:06.420000,2022-02-26,2022.0,University of Southern California,2022 PAC-12 WOMEN'S SWIMMING &,2000-09-25,16
+Lauren Poole,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.52,126.52,0 days 00:02:06.520000,2022-03-19,2022.0,University of Kentucky,2022 NCAA DI Women's Swimming,2000-11-05,16
+Alexis Wenger,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.53,126.53,0 days 00:02:06.530000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2000-06-08,16
+Kaitlyn Dobler,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.56,126.56,0 days 00:02:06.560000,2021-11-19,2022.0,University of Southern California,Art Adamson Invitational,2002-02-15,16
+Andrea Podmanikova,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.78,126.78,0 days 00:02:06.780000,2022-02-19,2022.0,North Carolina State University,2022 ACC Championship,1998-02-23,16
+Brearna Crawford,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.86,126.86,0 days 00:02:06.860000,2022-02-19,2022.0,Indiana University,2022 B1G Women's Championship,2003-01-21,16
+Anna Keating,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.89,126.89,0 days 00:02:06.890000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2002-08-18,16
+Leon Marchand,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:48.20,108.2,0 days 00:01:48.200000,2022-03-26,2022.0,Arizona State University,2022 NCAA Division I Men's Swimming Championships,2002-05-17,16
+Maxwell McHugh,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:48.76,108.76,0 days 00:01:48.760000,2022-03-26,2022.0,University of Minnesota,2022 NCAA Division I Men's Swimming Championships,1999-12-31,16
+Matthew Fallon,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.03,109.03,0 days 00:01:49.030000,2022-03-26,2022.0,University of Pennsylvania,2022 NCAA Division I Men's Swimming Championships,2002-10-03,16
+Carles Coll Marti,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.69,109.69,0 days 00:01:49.690000,2022-03-26,2022.0,VA Tech,2022 NCAA Division I Men's Swimming Championships,2001-10-15,16
+Reece Whitley,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.96,109.96,0 days 00:01:49.960000,2022-02-19,2022.0,University of California Berkeley,CAL @ Stanford Men,2000-01-03,16
+Caspar Corbeau,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.51,110.51,0 days 00:01:50.510000,2022-03-26,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-04-03,16
+Hugo Gonzalez de Oliveira,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.57,110.57,0 days 00:01:50.570000,2022-03-05,2022.0,University of California Berkeley,2022 MEN'S PAC-12 SWIMMING/DIV,1999-02-19,16
+Caio Pumputis,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.61,110.61,0 days 00:01:50.610000,2022-03-26,2022.0,Georgia Institute of Technology,2022 NCAA Division I Men's Swimming Championships,1999-01-08,16
+Joshua Matheny,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.65,110.65,0 days 00:01:50.650000,2022-02-26,2022.0,Indiana University,2022 B1G Men's Swimming & Divi,2002-10-16,16
+Daniel Roy,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.17,111.17,0 days 00:01:51.170000,2022-03-26,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,2000-01-17,16
+Liam Bell,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.36,111.36,0 days 00:01:51.360000,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2000-09-18,16
+Jacob Foster,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.40,111.4,0 days 00:01:51.400000,2022-03-26,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2000-09-06,16
+Derek Maas,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.56,111.56,0 days 00:01:51.560000,2022-02-19,2022.0,University of Alabama,2022 SEC Swimming & Diving Cha,2001-04-08,16
+Christopher O'Grady,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.67,111.67,0 days 00:01:51.670000,2022-03-05,2022.0,University of Southern California,2022 MEN'S PAC-12 SWIMMING/DIV,2002-10-04,16
+Ron Polonsky,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.73,111.73,0 days 00:01:51.730000,2022-03-05,2022.0,Stanford University,2022 MEN'S PAC-12 SWIMMING/DIV,2001-03-28,16
+Ananias Pouch,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.73,111.73,0 days 00:01:51.730000,2022-03-26,2022.0,VA Tech,2022 NCAA Division I Men's Swimming Championships,2000-11-15,16
+Katherine Douglass,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.04,49.04,0 days 00:00:49.040000,2022-03-18,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-11-17,18
+Victoria Huske,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.17,49.17,0 days 00:00:49.170000,2022-03-18,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2002-12-07,18
+Margaret MacNeil,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.18,49.18,0 days 00:00:49.180000,2022-03-18,2022.0,University of Michigan,2022 NCAA DI Women's Swimming,2000-02-26,18
+Regan Smith,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.87,49.87,0 days 00:00:49.870000,2022-02-25,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,2002-02-09,18
+Ellen Walshe,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.24,50.24,0 days 00:00:50.240000,2021-11-19,2022.0,University of Tennessee,2021 Tennessee Invitational,2001-09-29,18
+Emma Sticklen,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.29,50.29,0 days 00:00:50.290000,2022-03-18,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2002-06-27,18
+Kylee Alons,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.64,50.64,0 days 00:00:50.640000,2022-03-18,2022.0,North Carolina State University,2022 NCAA DI Women's Swimming,1999-09-30,18
+Olivia Carter,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.82,50.82,0 days 00:00:50.820000,2022-03-18,2022.0,University of Michigan,2022 NCAA DI Women's Swimming,2000-07-22,18
+Gabriela Albiero,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.84,50.84,0 days 00:00:50.840000,2022-03-18,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2002-01-16,18
+Rhyan White,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.85,50.85,0 days 00:00:50.850000,2022-03-18,2022.0,University of Alabama,2022 NCAA DI Women's Swimming,2000-01-25,18
+Olivia Bray,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.97,50.97,0 days 00:00:50.970000,2022-03-18,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2001-11-20,18
+Dakota Luther,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.01,51.01,0 days 00:00:51.010000,2022-03-18,2022.0,University of Georgia,2022 NCAA DI Women's Swimming,1999-11-07,18
+Tristen Ulett,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.02,51.02,0 days 00:00:51.020000,2022-03-18,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2002-07-10,18
+Alexa Cuomo,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.22,51.22,0 days 00:00:51.220000,2022-03-18,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-04-23,18
+Gertrude Rothrock,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.26,51.26,0 days 00:00:51.260000,2022-02-17,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,1999-08-04,18
+Katherine Zenick,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.35,51.35,0 days 00:00:51.350000,2022-02-18,2022.0,Ohio State University,2022 B1G Women's Championship,2001-11-14,18
+Andrei Minakov,100 Butterfly SCY Male,100,Butterfly,SCY,Male,43.71,43.71,0 days 00:00:43.710000,2022-03-25,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,2002-03-17,18
+Gianluca Urlando,100 Butterfly SCY Male,100,Butterfly,SCY,Male,43.80,43.8,0 days 00:00:43.800000,2022-03-25,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2002-03-16,18
+Youssef Ramadan,100 Butterfly SCY Male,100,Butterfly,SCY,Male,43.90,43.9,0 days 00:00:43.900000,2022-03-25,2022.0,VA Tech,2022 NCAA Division I Men's Swimming Championships,2002-07-07,18
+Nyls Korstanje,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.17,44.17,0 days 00:00:44.170000,2022-03-25,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,1999-02-05,18
+Tomer Frankel,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.38,44.38,0 days 00:00:44.380000,2022-03-25,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,2000-10-18,18
+Brendan Burns,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.54,44.54,0 days 00:00:44.540000,2022-03-25,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,2001-05-29,18
+Nicolas Albiero,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.61,44.61,0 days 00:00:44.610000,2022-03-25,2022.0,University of Louisville,2022 NCAA Division I Men's Swimming Championships,1999-06-08,18
+Umitcan Gures,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.63,44.63,0 days 00:00:44.630000,2022-03-25,2022.0,Harvard University,2022 NCAA Division I Men's Swimming Championships,1999-06-24,18
+Antani Ivanov,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.73,44.73,0 days 00:00:44.730000,2022-02-17,2022.0,VA Tech,2022 ACC Championship,1999-07-17,18
+Alex Quach,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.74,44.74,0 days 00:00:44.740000,2022-02-25,2022.0,Ohio State University,2022 B1G Men's Swimming & Divi,2001-07-24,18
+Aiden Hayes,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.75,44.75,0 days 00:00:44.750000,2022-03-25,2022.0,North Carolina State University,2022 NCAA Division I Men's Swimming Championships,2003-05-27,18
+Gal Cohen Groumi,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.82,44.82,0 days 00:00:44.820000,2022-03-25,2022.0,University of Michigan,2022 NCAA Division I Men's Swimming Championships,2002-04-22,18
+Jan Friese,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.86,44.86,0 days 00:00:44.860000,2022-02-17,2022.0,University of Florida,2022 SEC Swimming & Diving Cha,1999-01-08,18
+Alvin Jiang,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.00,45.0,0 days 00:00:45,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,1998-12-03,18
+Alexander Colson,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.02,45.02,0 days 00:00:45.020000,2022-03-04,2022.0,Arizona State University,2022 MEN'S PAC-12 SWIMMING/DIV,2001-01-08,18
+William Kovac,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.05,45.05,0 days 00:00:45.050000,2022-03-25,2022.0,University of Missouri,2022 NCAA Division I Men's Swimming Championships,2000-06-27,18
+Alexandra Walsh,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:50.79,110.79,0 days 00:01:50.790000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-07-31,19
+Regan Smith,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:50.99,110.99,0 days 00:01:50.990000,2022-02-26,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,2002-02-09,19
+Olivia Carter,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.19,111.19,0 days 00:01:51.190000,2022-03-19,2022.0,University of Michigan,2022 NCAA DI Women's Swimming,2000-07-22,19
+Emma Sticklen,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.45,111.45,0 days 00:01:51.450000,2022-03-19,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2002-06-27,19
+Riley Gaines,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.51,111.51,0 days 00:01:51.510000,2022-02-18,2022.0,University of Kentucky,2022 SEC Swimming & Diving Cha,2000-04-21,19
+Dakota Luther,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.64,111.64,0 days 00:01:51.640000,2022-03-19,2022.0,University of Georgia,2022 NCAA DI Women's Swimming,1999-11-07,19
+Kelly Pash,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.01,112.01,0 days 00:01:52.010000,2022-03-19,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2001-03-27,19
+Olivia Bray,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.14,112.14,0 days 00:01:52.140000,2022-02-05,2022.0,University of Texas,Texas Women vs. Rice Women,2001-11-20,19
+Rachel Klinker,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.19,112.19,0 days 00:01:52.190000,2022-03-19,2022.0,University of California Berkeley,2022 NCAA DI Women's Swimming,2000-10-08,19
+Lillian Nordmann,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.20,113.2,0 days 00:01:53.200000,2022-03-19,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2002-08-05,19
+Lindsay Looney,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.25,113.25,0 days 00:01:53.250000,2022-03-19,2022.0,Arizona State University,2022 NCAA DI Women's Swimming,2001-08-02,19
+Abigail Harter,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.38,113.38,0 days 00:01:53.380000,2022-03-19,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2002-02-06,19
+Tristen Ulett,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.63,113.63,0 days 00:01:53.630000,2022-03-19,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2002-07-10,19
+Megan Van Berkom,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.89,113.89,0 days 00:01:53.890000,2022-02-19,2022.0,University of Minnesota,2022 B1G Women's Championship,2001-12-18,19
+Ellen Walshe,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.96,113.96,0 days 00:01:53.960000,2021-11-20,2022.0,University of Tennessee,2021 Tennessee Invitational,2001-09-29,19
+Abigail Arens,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.11,114.11,0 days 00:01:54.110000,2022-02-18,2022.0,North Carolina State University,2022 ACC Championship,2002-03-09,19
+Nicolas Albiero,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:37.92,97.92,0 days 00:01:37.920000,2022-02-18,2022.0,University of Louisville,2022 ACC Championship,1999-06-08,19
+Brendan Burns,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.71,98.71,0 days 00:01:38.710000,2022-03-26,2022.0,Indiana University,2022 NCAA Division I Men's Swimming Championships,2001-05-29,19
+Gianluca Urlando,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.82,98.82,0 days 00:01:38.820000,2022-03-26,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2002-03-16,19
+Trenton Julian,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.00,99.0,0 days 00:01:39,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-12-09,19
+Antani Ivanov,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.73,99.73,0 days 00:01:39.730000,2022-02-18,2022.0,VA Tech,2022 ACC Championship,1999-07-17,19
+Matthew Sates,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.88,99.88,0 days 00:01:39.880000,2022-02-18,2022.0,University of Georgia,2022 SEC Swimming & Diving Cha,2003-07-28,19
+Christian Ferraro,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.09,100.09,0 days 00:01:40.090000,2022-03-26,2022.0,Georgia Institute of Technology,2022 NCAA Division I Men's Swimming Championships,1997-11-13,19
+Mason Wilby,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.15,100.15,0 days 00:01:40.150000,2022-02-18,2022.0,University of Kentucky,2022 SEC Swimming & Diving Cha,1999-11-18,19
+Gabriel Jett,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.22,100.22,0 days 00:01:40.220000,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2002-10-14,19
+Alexander Colson,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.28,100.28,0 days 00:01:40.280000,2022-03-05,2022.0,Arizona State University,2022 MEN'S PAC-12 SWIMMING/DIV,2001-01-08,19
+Aiden Hayes,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.39,100.39,0 days 00:01:40.390000,2022-02-18,2022.0,North Carolina State University,2022 ACC Championship,2003-05-27,19
+Gal Cohen Groumi,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.59,100.59,0 days 00:01:40.590000,2022-02-26,2022.0,University of Michigan,2022 B1G Men's Swimming & Divi,2002-04-22,19
+William Kovac,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.78,100.78,0 days 00:01:40.780000,2021-11-19,2022.0,University of Missouri,2021 Mizzou Invitational,2000-06-27,19
+Leon Marchand,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.86,100.86,0 days 00:01:40.860000,2021-11-20,2022.0,Arizona State University,2021 NC State GAC Fall Invitat,2002-05-17,19
+Oludare Rose,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.06,101.06,0 days 00:01:41.060000,2022-03-26,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2002-11-01,19
+Raunak Khosla,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.07,101.07,0 days 00:01:41.070000,2022-03-26,2022.0,Princeton University,2022 NCAA Division I Men's Swimming Championships,2000-06-29,19
+Alexandra Walsh,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:50.08,110.08,0 days 00:01:50.080000,2022-03-17,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-07-31,21
+Victoria Huske,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:51.81,111.81,0 days 00:01:51.810000,2022-03-17,2022.0,Stanford University,2022 NCAA DI Women's Swimming,2002-12-07,21
+Katherine Douglass,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.21,112.21,0 days 00:01:52.210000,2021-11-18,2022.0,University of Virginia,2021 Tennessee Invitational,2001-11-17,21
+Ellen Walshe,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.97,112.97,0 days 00:01:52.970000,2022-02-16,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2001-09-29,21
+Isabel Ivey,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.02,113.02,0 days 00:01:53.020000,2022-03-17,2022.0,University of California Berkeley,2022 NCAA DI Women's Swimming,2000-11-22,21
+Zoie Hartman,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.15,113.15,0 days 00:01:53.150000,2022-03-17,2022.0,University of Georgia,2022 NCAA DI Women's Swimming,2000-12-20,21
+Kelly Pash,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.31,113.31,0 days 00:01:53.310000,2022-03-17,2022.0,University of Texas,2022 NCAA DI Women's Swimming,2001-03-27,21
+Brooke Forde,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.23,114.23,0 days 00:01:54.230000,2022-02-24,2022.0,Stanford University,2022 PAC-12 WOMEN'S SWIMMING &,1999-03-04,21
+Kristen Romano,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.31,114.31,0 days 00:01:54.310000,2022-03-17,2022.0,Ohio State University,2022 NCAA DI Women's Swimming,1999-09-24,21
+Abigail Hay,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.33,114.33,0 days 00:01:54.330000,2022-03-17,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2001-04-18,21
+Sarah Foley,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.38,114.38,0 days 00:01:54.380000,2022-03-17,2022.0,Duke University,2022 NCAA DI Women's Swimming,2002-03-22,21
+Phoebe Bacon,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.39,114.39,0 days 00:01:54.390000,2022-03-17,2022.0,University of Wisconsin Madison,2022 NCAA DI Women's Swimming,2002-08-12,21
+Margaret Nelson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.48,114.48,0 days 00:01:54.480000,2022-03-17,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-07-28,21
+Lea Polonsky,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.77,114.77,0 days 00:01:54.770000,2022-03-17,2022.0,University of California Berkeley,2022 NCAA DI Women's Swimming,2002-05-25,21
+Megan Van Berkom,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.92,114.92,0 days 00:01:54.920000,2022-02-17,2022.0,University of Minnesota,2022 B1G Women's Championship,2001-12-18,21
+Abigail Harter,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.08,115.08,0 days 00:01:55.080000,2022-03-17,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2002-02-06,21
+Leon Marchand,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:37.69,97.69,0 days 00:01:37.690000,2022-03-24,2022.0,Arizona State University,2022 NCAA Division I Men's Swimming Championships,2002-05-17,21
+Destin Lasco,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:38.21,98.21,0 days 00:01:38.210000,2022-03-24,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2001-08-07,21
+Gianluca Urlando,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.22,99.22,0 days 00:01:39.220000,2022-03-24,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2002-03-16,21
+Carles Coll Marti,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.63,99.63,0 days 00:01:39.630000,2022-03-24,2022.0,VA Tech,2022 NCAA Division I Men's Swimming Championships,2001-10-15,21
+Hugo Gonzalez de Oliveira,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.82,99.82,0 days 00:01:39.820000,2022-03-24,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1999-02-19,21
+Ron Polonsky,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.96,99.96,0 days 00:01:39.960000,2022-03-24,2022.0,Stanford University,2022 NCAA Division I Men's Swimming Championships,2001-03-28,21
+Carson Foster,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.07,100.07,0 days 00:01:40.070000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-10-26,21
+Trenton Julian,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.35,100.35,0 days 00:01:40.350000,2022-03-24,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-12-09,21
+Grant House,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.53,100.53,0 days 00:01:40.530000,2022-03-24,2022.0,Arizona State University,2022 NCAA Division I Men's Swimming Championships,1998-06-19,21
+Jacob Foster,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.63,100.63,0 days 00:01:40.630000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2000-09-06,21
+Caspar Corbeau,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.98,100.98,0 days 00:01:40.980000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-04-03,21
+Gal Cohen Groumi,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.09,101.09,0 days 00:01:41.090000,2022-03-24,2022.0,University of Michigan,2022 NCAA Division I Men's Swimming Championships,2002-04-22,21
+Raunak Khosla,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.24,101.24,0 days 00:01:41.240000,2022-03-24,2022.0,Princeton University,2022 NCAA Division I Men's Swimming Championships,2000-06-29,21
+Jason Louser,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.76,101.76,0 days 00:01:41.760000,2022-03-03,2022.0,University of California Berkeley,2022 MEN'S PAC-12 SWIMMING/DIV,2001-05-30,21
+Caio Pumputis,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.13,102.13,0 days 00:01:42.130000,2022-03-24,2022.0,Georgia Institute of Technology,2022 NCAA Division I Men's Swimming Championships,1999-01-08,21
+Braden Vines,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.35,102.35,0 days 00:01:42.350000,2022-03-24,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,1999-12-29,21
+Alexandra Walsh,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,3:57.25,237.25,0 days 00:03:57.250000,2022-03-18,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-07-31,22
+Brooke Forde,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:00.41,240.41,0 days 00:04:00.410000,2022-03-18,2022.0,Stanford University,2022 NCAA DI Women's Swimming,1999-03-04,22
+Ellen Walshe,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.53,241.53,0 days 00:04:01.530000,2022-02-17,2022.0,University of Tennessee,2022 SEC Swimming & Diving Cha,2001-09-29,22
+Margaret Nelson,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.11,242.11,0 days 00:04:02.110000,2022-02-17,2022.0,University of Virginia,2022 ACC Championship,2001-07-28,22
+Kristen Romano,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.13,242.13,0 days 00:04:02.130000,2022-03-18,2022.0,Ohio State University,2022 NCAA DI Women's Swimming,1999-09-24,22
+Emma Weyant,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.17,243.17,0 days 00:04:03.170000,2022-03-18,2022.0,University of Virginia,2022 NCAA DI Women's Swimming,2001-12-24,22
+Lauren Poole,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.36,243.36,0 days 00:04:03.360000,2022-02-17,2022.0,University of Kentucky,2022 SEC Swimming & Diving Cha,2000-11-05,22
+Megan Van Berkom,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.45,243.45,0 days 00:04:03.450000,2022-02-18,2022.0,University of Minnesota,2022 B1G Women's Championship,2001-12-18,22
+Lea Polonsky,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.90,243.9,0 days 00:04:03.900000,2022-02-25,2022.0,University of California Berkeley,2022 PAC-12 WOMEN'S SWIMMING &,2002-05-25,22
+Mabel Zavaros,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.43,244.43,0 days 00:04:04.430000,2022-03-18,2022.0,University of Florida,2022 NCAA DI Women's Swimming,2000-03-29,22
+Bailey Bonnett,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.86,244.86,0 days 00:04:04.860000,2022-03-18,2022.0,University of Kentucky,2022 NCAA DI Women's Swimming,1998-10-30,22
+Reka Gyorgy,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.95,244.95,0 days 00:04:04.950000,2022-03-18,2022.0,VA Tech,2022 NCAA DI Women's Swimming,1996-05-25,22
+Gillian Davey,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.28,245.28,0 days 00:04:05.280000,2022-02-17,2022.0,University of Kentucky,2022 SEC Swimming & Diving Cha,2001-08-21,22
+Alexis Yager,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.50,245.5,0 days 00:04:05.500000,2021-11-19,2022.0,University of Tennessee,2021 Tennessee Invitational,1998-10-22,22
+Grace Sheble,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.61,245.61,0 days 00:04:05.610000,2022-02-17,2022.0,North Carolina State University,2022 ACC Championship,2002-12-27,22
+Abigail Hay,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.35,246.35,0 days 00:04:06.350000,2022-03-18,2022.0,University of Louisville,2022 NCAA DI Women's Swimming,2001-04-18,22
+Hugo Gonzalez de Oliveira,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:32.88,212.88,0 days 00:03:32.880000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1999-02-19,22
+Carson Foster,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:33.79,213.79,0 days 00:03:33.790000,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-10-26,22
+Leon Marchand,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:34.08,214.08,0 days 00:03:34.080000,2022-03-25,2022.0,Arizona State University,2022 NCAA Division I Men's Swimming Championships,2002-05-17,22
+Robert Finke,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.83,216.83,0 days 00:03:36.830000,2022-03-25,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,1999-11-06,22
+Jacob Foster,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.33,217.33,0 days 00:03:37.330000,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2000-09-06,22
+Jason Louser,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.23,218.23,0 days 00:03:38.230000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,2001-05-30,22
+Brooks Fail,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.55,218.55,0 days 00:03:38.550000,2022-03-25,2022.0,University of Arizona,2022 NCAA Division I Men's Swimming Championships,1999-07-26,22
+David Johnston,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.90,218.9,0 days 00:03:38.900000,2022-03-25,2022.0,University of Texas,2022 NCAA Division I Men's Swimming Championships,2001-10-28,22
+Ian Grum,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.01,219.01,0 days 00:03:39.010000,2022-03-25,2022.0,University of Georgia,2022 NCAA Division I Men's Swimming Championships,2001-06-23,22
+Kieran Smith,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.33,219.33,0 days 00:03:39.330000,2022-02-17,2022.0,University of Florida,2022 SEC Swimming & Diving Cha,2000-05-20,22
+Ron Polonsky,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.49,219.49,0 days 00:03:39.490000,2022-03-04,2022.0,Stanford University,2022 MEN'S PAC-12 SWIMMING/DIV,2001-03-28,22
+Sean Grieshop,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.62,219.62,0 days 00:03:39.620000,2022-03-25,2022.0,University of California Berkeley,2022 NCAA Division I Men's Swimming Championships,1998-11-23,22
+Caleb Aman,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.76,219.76,0 days 00:03:39.760000,2022-03-25,2022.0,University of Wisconsin Madison,2022 NCAA Division I Men's Swimming Championships,2000-03-11,22
+Raunak Khosla,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.04,220.04,0 days 00:03:40.040000,2022-03-25,2022.0,Princeton University,2022 NCAA Division I Men's Swimming Championships,2000-06-29,22
+Kevin Vargas,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.31,220.31,0 days 00:03:40.310000,2022-03-25,2022.0,University of Florida,2022 NCAA Division I Men's Swimming Championships,2001-07-17,22
+David Schlicht,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.60,220.6,0 days 00:03:40.600000,2021-11-19,2022.0,Arizona State University,2021 NC State GAC Fall Invitat,1999-09-03,22

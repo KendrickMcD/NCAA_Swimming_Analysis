@@ -1,0 +1,453 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Abbigail Weitzeil,50 Freestyle SCY Female,50,Freestyle,SCY,Female,20.90,20.9,0 days 00:00:20.900000,2019-12-05,2020.0,University of California Berkeley,Minnesota Invite 2019,1996-12-03,1
+Erika Brown,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.03,21.03,0 days 00:00:21.030000,2020-02-19,2020.0,University of Tennessee,2020 SEC Champs,1998-08-27,1
+Anna Hopkin,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.19,21.19,0 days 00:00:21.190000,2019-11-20,2020.0,University of Arkansas,2019 Mizzou Invitational,1996-04-24,1
+Margaret MacNeil,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.30,21.3,0 days 00:00:21.300000,2020-02-20,2020.0,University of Michigan,2020 B1G 10 Champs women,2000-02-26,1
+Katherine Douglass,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.53,21.53,0 days 00:00:21.530000,2019-11-21,2020.0,University of Virginia,2019 UT Invite,2001-11-17,1
+Sarah Thompson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.53,21.53,0 days 00:00:21.530000,2019-11-20,2020.0,University of Missouri,2019 Mizzou Invitational,1998-09-03,1
+Julie Meynen,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.54,21.54,0 days 00:00:21.540000,2020-02-19,2020.0,Auburn University,2020 SEC Champs,1997-08-15,1
+Claire Fisch,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.60,21.6,0 days 00:00:21.600000,2020-02-19,2020.0,Auburn University,2020 SEC Champs,1997-11-25,1
+Kylee Alons,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.63,21.63,0 days 00:00:21.630000,2020-02-20,2020.0,North Carolina State University,2020 ACC Champs women,1999-09-30,1
+Morgan Hill,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.76,21.76,0 days 00:00:21.760000,2020-02-20,2020.0,University of Virginia,2020 ACC Champs women,1998-08-21,1
+Alyssa Marsh,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.78,21.78,0 days 00:00:21.780000,2020-02-20,2020.0,Duke University,2020 ACC Champs women,1997-09-08,1
+Ky-lee Perry,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.78,21.78,0 days 00:00:21.780000,2020-02-20,2020.0,North Carolina State University,2020 ACC Champs women,1998-07-17,1
+Daria Pyshnenko,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.82,21.82,0 days 00:00:21.820000,2020-02-20,2020.0,University of Michigan,2020 B1G 10 Champs women,1999-03-11,1
+Freya Rayner,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.85,21.85,0 days 00:00:21.850000,2020-02-20,2020.0,Ohio State University,2020 B1G 10 Champs women,1998-09-23,1
+Marta Ciesla,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.86,21.86,0 days 00:00:21.860000,2020-02-27,2020.0,University of Southern California,2020 PAC-12 Champs women,1998-10-13,1
+Casey Fanz,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.89,21.89,0 days 00:00:21.890000,2020-02-20,2020.0,University of Louisville,2020 ACC Champs women,1998-05-02,1
+Ryan Hoffer,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.87,18.87,0 days 00:00:18.870000,2020-03-05,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-07-09,1
+Pawel Sendyk,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.91,18.91,0 days 00:00:18.910000,2020-03-05,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1997-05-24,1
+Bruno Blaskovic,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.96,18.96,0 days 00:00:18.960000,2020-02-27,2020.0,Indiana University,2020 B1G 10 Champs men,1998-08-02,1
+Colin Wright,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.98,18.98,0 days 00:00:18.980000,2020-02-20,2020.0,College of William and Mary,2020 CAA Champs,1998-06-03,1
+Gabriel Castano,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.06,19.06,0 days 00:00:19.060000,2020-02-27,2020.0,Pennsylvania State University,2020 B1G 10 Champs men,1997-11-01,1
+Nyls Korstanje,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.07,19.07,0 days 00:00:19.070000,2020-02-27,2020.0,North Carolina State University,2020 ACC Champs men,1999-02-05,1
+Zane Waddell,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.07,19.07,0 days 00:00:19.070000,2020-02-19,2020.0,University of Alabama,2020 SEC Champs,1998-03-18,1
+Luiz Gustavo Borges,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.09,19.09,0 days 00:00:19.090000,2020-02-27,2020.0,University of Michigan,2020 B1G 10 Champs men,1999-05-21,1
+Blaise Vera,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.10,19.1,0 days 00:00:19.100000,2019-11-21,2020.0,University of Pittsburgh,Purdue Invite 2019,1999-07-08,1
+Adam Koster,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.12,19.12,0 days 00:00:19.120000,2020-02-19,2020.0,Texas A&M University,2020 SEC Champs,1997-09-28,1
+Cameron Auchinachie,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.13,19.13,0 days 00:00:19.130000,2019-12-06,2020.0,University of Denver,PRINCETON SWIMMING BIG AL OPEN,1998-12-16,1
+Lewis Burras,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.17,19.17,0 days 00:00:19.170000,2020-02-19,2020.0,University of South Carolina Columbia,2020 SEC Champs,2000-02-12,1
+Sidney Farber,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.17,19.17,0 days 00:00:19.170000,2020-02-20,2020.0,University of Denver,2020 Summit League Champs,1998-08-23,1
+Semuede Andreis,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.18,19.18,0 days 00:00:19.180000,2020-02-27,2020.0,Ohio State University,2020 B1G 10 Champs men,1999-08-07,1
+Daniel Krueger,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.19,19.19,0 days 00:00:19.190000,2020-02-27,2020.0,University of Texas,2020 Big 12 Champs,1999-06-11,1
+Santiago Grassi,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.23,19.23,0 days 00:00:19.230000,2020-02-18,2020.0,Auburn University,2020 SEC Champs TT ,1996-09-25,1
+Erika Brown,100 Freestyle SCY Female,100,Freestyle,SCY,Female,45.83,45.83,0 days 00:00:45.830000,2020-02-22,2020.0,University of Tennessee,2020 SEC Champs,1998-08-27,2
+Anna Hopkin,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.20,46.2,0 days 00:00:46.200000,2020-02-22,2020.0,University of Arkansas,2020 SEC Champs,1996-04-24,2
+Abbigail Weitzeil,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.52,46.52,0 days 00:00:46.520000,2019-12-07,2020.0,University of California Berkeley,Minnesota Invite 2019,1996-12-03,2
+Margaret MacNeil,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.57,46.57,0 days 00:00:46.570000,2020-02-22,2020.0,University of Michigan,2020 B1G 10 Champs women,2000-02-26,2
+Julie Meynen,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.88,46.88,0 days 00:00:46.880000,2020-02-22,2020.0,Auburn University,2020 SEC Champs,1997-08-15,2
+Claire Fisch,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.27,47.27,0 days 00:00:47.270000,2020-02-22,2020.0,Auburn University,2020 SEC Champs,1997-11-25,2
+Veronica Burchill,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.32,47.32,0 days 00:00:47.320000,2020-02-22,2020.0,University of Georgia,2020 SEC Champs,1997-10-11,2
+Morgan Hill,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.47,47.47,0 days 00:00:47.470000,2020-02-22,2020.0,University of Virginia,2020 ACC Champs women,1998-08-21,2
+Kylee Alons,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.73,47.73,0 days 00:00:47.730000,2020-02-22,2020.0,North Carolina State University,2020 ACC Champs women,1999-09-30,2
+Katherine Douglass,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.77,47.77,0 days 00:00:47.770000,2020-02-22,2020.0,University of Virginia,2020 ACC Champs women,2001-11-17,2
+Freya Rayner,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.81,47.81,0 days 00:00:47.810000,2020-02-22,2020.0,Ohio State University,2020 B1G 10 Champs women,1998-09-23,2
+Louise Hansson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.82,47.82,0 days 00:00:47.820000,2020-02-14,2020.0,University of Southern California,2020 UCLA vs USC,1996-11-24,2
+Laticia-Leigh Transom,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.83,47.83,0 days 00:00:47.830000,2019-11-23,2020.0,University of Southern California,Art Adamson Invitational,2001-04-10,2
+Cora Dupre,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.84,47.84,0 days 00:00:47.840000,2019-11-23,2020.0,Indiana University,2019 UT Invite,2001-05-07,2
+Isabel Ivey,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.88,47.88,0 days 00:00:47.880000,2019-12-07,2020.0,University of California Berkeley,Minnesota Invite 2019,2000-11-22,2
+Tjasa Pintar,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.90,47.9,0 days 00:00:47.900000,2020-02-22,2020.0,University of Tennessee,2020 SEC Champs,1997-02-15,2
+Daria Pyshnenko,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.90,47.9,0 days 00:00:47.900000,2020-02-22,2020.0,University of Michigan,2020 B1G 10 Champs women,1999-03-11,2
+Daniel Krueger,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.26,41.26,0 days 00:00:41.260000,2020-02-29,2020.0,University of Texas,2020 Big 12 Champs,1999-06-11,2
+Ryan Hoffer,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.45,41.45,0 days 00:00:41.450000,2020-03-07,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-07-09,2
+Bruno Blaskovic,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.49,41.49,0 days 00:00:41.490000,2020-02-29,2020.0,Indiana University,2020 B1G 10 Champs men,1998-08-02,2
+Brooks Curry,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.81,41.81,0 days 00:00:41.810000,2020-02-22,2020.0,Louisiana State University,2020 SEC Champs,2001-01-20,2
+Zane Waddell,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.82,41.82,0 days 00:00:41.820000,2020-02-22,2020.0,University of Alabama,2020 SEC Champs,1998-03-18,2
+Maxime Rooney,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.91,41.91,0 days 00:00:41.910000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1998-04-16,2
+Carter Swift,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.98,41.98,0 days 00:00:41.980000,2020-03-07,2020.0,Arizona State University,2020 PAC-12 Champs  men,1998-12-01,2
+Colin Wright,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.01,42.01,0 days 00:00:42.010000,2020-02-22,2020.0,College of William and Mary,2020 CAA Champs,1998-06-03,2
+Nyls Korstanje,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.13,42.13,0 days 00:00:42.130000,2020-02-29,2020.0,North Carolina State University,2020 ACC Champs men,1999-02-05,2
+Kieran Smith,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.14,42.14,0 days 00:00:42.140000,2020-02-22,2020.0,University of Florida,2020 SEC Champs,2000-05-20,2
+Drew Kibler,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.16,42.16,0 days 00:00:42.160000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,2000-03-09,2
+Andrew Loy,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.21,42.21,0 days 00:00:42.210000,2020-02-29,2020.0,Ohio State University,2020 B1G 10 Champs men,1998-02-06,2
+Adam Koster,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.26,42.26,0 days 00:00:42.260000,2019-11-23,2020.0,Texas A&M University,Art Adamson Invitational,1997-09-28,2
+Lewis Burras,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.28,42.28,0 days 00:00:42.280000,2020-02-22,2020.0,University of South Carolina Columbia,2020 SEC Champs,2000-02-12,2
+Marin Ercegovic,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.29,42.29,0 days 00:00:42.290000,2020-03-07,2020.0,University of Arizona,2020 PAC-12 Champs  men,1999-10-15,2
+Jack Dolan,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.32,42.32,0 days 00:00:42.320000,2020-03-07,2020.0,Arizona State University,2020 PAC-12 Champs  men,2000-12-22,2
+Erika Brown,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.66,101.66,0 days 00:01:41.660000,2019-11-22,2020.0,University of Tennessee,2019 UT Invite,1998-08-27,3
+Abbigail Weitzeil,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.25,102.25,0 days 00:01:42.250000,2019-12-06,2020.0,University of California Berkeley,Minnesota Invite 2019,1996-12-03,3
+Veronica Burchill,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.33,102.33,0 days 00:01:42.330000,2020-02-20,2020.0,University of Georgia,2020 SEC Champs,1997-10-11,3
+Anna Hopkin,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.35,102.35,0 days 00:01:42.350000,2020-02-20,2020.0,University of Arkansas,2020 SEC Champs,1996-04-24,3
+Laticia-Leigh Transom,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.47,102.47,0 days 00:01:42.470000,2020-02-28,2020.0,University of Southern California,2020 PAC-12 Champs women,2001-04-10,3
+Louise Hansson,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.01,103.01,0 days 00:01:43.010000,2020-02-26,2020.0,University of Southern California,2020 PAC-12 Champs women,1996-11-24,3
+Paige Madden,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.18,103.18,0 days 00:01:43.180000,2020-02-21,2020.0,University of Virginia,2020 ACC Champs women,1998-10-21,3
+Meghan Small,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.21,103.21,0 days 00:01:43.210000,2020-02-18,2020.0,University of Tennessee,2020 SEC Champs,1998-05-25,3
+Courtney Harnish,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.26,103.26,0 days 00:01:43.260000,2020-02-20,2020.0,University of Georgia,2020 SEC Champs,1999-04-17,3
+Emma Nordin,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.45,103.45,0 days 00:01:43.450000,2020-02-28,2020.0,Arizona State University,2020 PAC-12 Champs women,1999-11-01,3
+Cora Dupre,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.61,103.61,0 days 00:01:43.610000,2020-02-21,2020.0,Indiana University,2020 B1G 10 Champs women,2001-05-07,3
+Mikaela Dahlke,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.78,103.78,0 days 00:01:43.780000,2020-02-19,2020.0,Harvard University,2020 Ivy League Champs women,1998-02-10,3
+Arina Openysheva,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.91,103.91,0 days 00:01:43.910000,2020-02-19,2020.0,University of Louisville,2020 ACC Champs women,1999-03-24,3
+Alex Galyer,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.99,103.99,0 days 00:01:43.990000,2020-02-18,2020.0,University of Kentucky,2020 SEC Champs,1998-06-19,3
+Lillie Hosack,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.00,104.0,0 days 00:01:44,2020-02-19,2020.0,University of Wisconsin Madison,2020 B1G 10 Champs women,2000-01-26,3
+Robin Neumann,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.02,104.02,0 days 00:01:44.020000,2020-02-28,2020.0,University of California Berkeley,2020 PAC-12 Champs women,1997-12-12,3
+Kieran Smith,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.11,90.11,0 days 00:01:30.110000,2020-02-18,2020.0,University of Florida,2020 SEC Champs,2000-05-20,3
+Drew Kibler,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.83,90.83,0 days 00:01:30.830000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,2000-03-09,3
+Andrew Loy,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.88,91.88,0 days 00:01:31.880000,2020-02-28,2020.0,Ohio State University,2020 B1G 10 Champs men,1998-02-06,3
+Maxime Rooney,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.96,91.96,0 days 00:01:31.960000,2019-12-04,2020.0,University of Texas,Minnesota Invite 2019,1998-04-16,3
+Paul Delakis,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.04,92.04,0 days 00:01:32.040000,2020-02-28,2020.0,Ohio State University,2020 B1G 10 Champs men,1998-09-27,3
+Khader Baqlah,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.05,92.05,0 days 00:01:32.050000,2020-02-20,2020.0,University of Florida,2020 SEC Champs,1998-09-15,3
+Shaine Casas,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.29,92.29,0 days 00:01:32.290000,2020-02-18,2020.0,Texas A&M University,2020 SEC Champs,1999-12-25,3
+Brooks Curry,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.43,92.43,0 days 00:01:32.430000,2020-02-20,2020.0,Louisiana State University,2020 SEC Champs,2001-01-20,3
+Nicolas Albiero,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.45,92.45,0 days 00:01:32.450000,2020-02-26,2020.0,University of Louisville,2020 ACC Champs men,1999-06-08,3
+Mark Theall,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.45,92.45,0 days 00:01:32.450000,2020-02-20,2020.0,Texas A&M University,2020 SEC Champs,1998-12-10,3
+Mohamed Hassan,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.63,92.63,0 days 00:01:32.630000,2020-02-26,2020.0,Indiana University,2020 B1G 10 Champs men,1997-03-17,3
+Peter Varjasi,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.76,92.76,0 days 00:01:32.760000,2020-02-26,2020.0,Florida State University,2020 ACC Champs men,2000-01-18,3
+Kevin Callan,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.90,92.9,0 days 00:01:32.900000,2020-02-26,2020.0,University of Michigan,2020 B1G 10 Champs men,1999-10-06,3
+Alexei Sancov,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.95,92.95,0 days 00:01:32.950000,2019-11-22,2020.0,University of Southern California,Art Adamson Invitational,1999-10-15,3
+Samuel Pomajevich,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.02,93.02,0 days 00:01:33.020000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,1998-10-12,3
+Felix Auboeck,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.03,93.03,0 days 00:01:33.030000,2020-02-28,2020.0,University of Michigan,2020 B1G 10 Champs men,1996-12-19,3
+Emma Nordin,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:33.74,273.74,0 days 00:04:33.740000,2020-02-27,2020.0,Arizona State University,2020 PAC-12 Champs women,1999-11-01,4
+Paige Madden,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.64,274.64,0 days 00:04:34.640000,2019-11-21,2020.0,University of Virginia,2019 UT Invite,1998-10-21,4
+Katherine Drabot,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.84,275.84,0 days 00:04:35.840000,2019-11-21,2020.0,Stanford University,Art Adamson Invitational,1997-09-02,4
+Morgan Tankersley,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.99,275.99,0 days 00:04:35.990000,2020-02-27,2020.0,Stanford University,2020 PAC-12 Champs women,1999-07-26,4
+Cierra Runge,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.06,276.06,0 days 00:04:36.060000,2020-02-27,2020.0,Arizona State University,2020 PAC-12 Champs women,1996-03-07,4
+Brooke Forde,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.31,276.31,0 days 00:04:36.310000,2019-11-21,2020.0,Stanford University,Art Adamson Invitational,1999-03-04,4
+Eleanore Marquardt,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.37,276.37,0 days 00:04:36.370000,2020-02-20,2020.0,Princeton University,2020 Ivy League Champs women,2001-06-28,4
+Courtney Harnish,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.40,276.4,0 days 00:04:36.400000,2020-02-19,2020.0,University of Georgia,2020 SEC Champs,1999-04-17,4
+Kathrin Demler,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.04,277.04,0 days 00:04:37.040000,2020-02-20,2020.0,Ohio State University,2020 B1G 10 Champs women,1996-06-12,4
+Cassandra Jernberg,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.07,277.07,0 days 00:04:37.070000,2020-02-20,2020.0,Indiana University,2020 B1G 10 Champs women,1998-03-12,4
+Sierra Schmidt,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.15,277.15,0 days 00:04:37.150000,2020-02-20,2020.0,University of Michigan,2020 B1G 10 Champs women,1998-05-06,4
+Lauren Pitzer,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.19,277.19,0 days 00:04:37.190000,2020-02-27,2020.0,Stanford University,2020 PAC-12 Champs women,1999-01-13,4
+Leah Braswell,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.25,277.25,0 days 00:04:37.250000,2019-11-22,2020.0,University of Florida,2019 Georgia Tech Fall Invitat,2000-06-20,4
+Kaitlynn Sims,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.31,277.31,0 days 00:04:37.310000,2020-02-20,2020.0,University of Michigan,2020 B1G 10 Champs women,2000-11-27,4
+Erica Laning,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.90,277.9,0 days 00:04:37.900000,2020-02-27,2020.0,Arizona State University,2020 PAC-12 Champs women,1999-05-28,4
+Kirsten Jacobsen,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.91,277.91,0 days 00:04:37.910000,2020-02-27,2020.0,University of Arizona,2020 PAC-12 Champs women,1998-01-02,4
+Kieran Smith,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:06.32,246.32,0 days 00:04:06.320000,2020-02-19,2020.0,University of Florida,2020 SEC Champs,2000-05-20,4
+Felix Auboeck,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.14,250.14,0 days 00:04:10.140000,2020-02-27,2020.0,University of Michigan,2020 B1G 10 Champs men,1996-12-19,4
+Zachary Yeadon,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.39,250.39,0 days 00:04:10.390000,2020-02-27,2020.0,University of Notre Dame,2020 ACC Champs men,1999-06-15,4
+Mark Theall,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.77,250.77,0 days 00:04:10.770000,2020-02-19,2020.0,Texas A&M University,2020 SEC Champs,1998-12-10,4
+Robert Finke,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.86,250.86,0 days 00:04:10.860000,2020-02-19,2020.0,University of Florida,2020 SEC Champs,1999-11-06,4
+Drew Kibler,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.19,251.19,0 days 00:04:11.190000,2019-12-05,2020.0,University of Texas,Minnesota Invite 2019,2000-03-09,4
+Kevin Callan,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.79,251.79,0 days 00:04:11.790000,2020-02-27,2020.0,University of Michigan,2020 B1G 10 Champs men,1999-10-06,4
+Brooks Fail,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.79,251.79,0 days 00:04:11.790000,2019-12-05,2020.0,University of Arizona,Minnesota Invite 2019,1999-07-26,4
+Ricardo Vargas Jacobo,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.80,251.8,0 days 00:04:11.800000,2020-02-27,2020.0,University of Michigan,2020 B1G 10 Champs men,1997-11-21,4
+John Walker,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.93,251.93,0 days 00:04:11.930000,2020-02-27,2020.0,University of Virginia,2020 ACC Champs men,2000-12-16,4
+Jack Hoagland,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.15,252.15,0 days 00:04:12.150000,2020-02-27,2020.0,University of Notre Dame,2020 ACC Champs men,2000-11-12,4
+Grant Shoults,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.45,252.45,0 days 00:04:12.450000,2020-03-05,2020.0,Stanford University,2020 PAC-12 Champs  men,1997-06-06,4
+Trenton Julian,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.77,252.77,0 days 00:04:12.770000,2020-03-05,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-12-09,4
+Walker Higgins,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.05,253.05,0 days 00:04:13.050000,2019-11-21,2020.0,University of Georgia,2019 UT Invite,1997-05-08,4
+Alexander Zettle,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.14,253.14,0 days 00:04:13.140000,2019-12-05,2020.0,University of Texas,Minnesota Invite 2019,1999-10-31,4
+Ross Dant,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.77,253.77,0 days 00:04:13.770000,2020-02-27,2020.0,North Carolina State University,2020 ACC Champs men,2000-12-15,4
+Eleanore Marquardt,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:34.71,574.71,0 days 00:09:34.710000,2020-02-21,2020.0,Princeton University,2020 Ivy League Champs women,2001-06-28,5
+Sierra Schmidt,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:36.90,576.9,0 days 00:09:36.900000,2019-12-07,2020.0,University of Michigan,Minnesota Invite 2019,1998-05-06,5
+Amanda Nunan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:37.08,577.08,0 days 00:09:37.080000,2020-02-01,2020.0,University of Tennessee,2020 Tennessee vs Florida,1999-01-17,5
+Emma Nordin,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:37.14,577.14,0 days 00:09:37.140000,2020-02-08,2020.0,Arizona State University,Arizona State vs. Arizona,1999-11-01,5
+Kaitlynn Sims,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:37.26,577.26,0 days 00:09:37.260000,2019-12-07,2020.0,University of Michigan,Minnesota Invite 2019,2000-11-27,5
+Genevieve Pfeifer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:39.02,579.02,0 days 00:09:39.020000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1999-04-19,5
+Catherine Buroker,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:39.60,579.6,0 days 00:09:39.600000,2020-02-21,2020.0,University of Pennsylvania,2020 Ivy League Champs women,2000-03-04,5
+Emily Hetzer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:40.55,580.55,0 days 00:09:40.550000,2020-01-24,2020.0,Auburn University,University of Florida vs. Aubu,2000-04-05,5
+Cierra Runge,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.71,581.71,0 days 00:09:41.710000,2020-02-08,2020.0,Arizona State University,Arizona State vs. Arizona,1996-03-07,5
+Katherine Drabot,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.09,582.09,0 days 00:09:42.090000,2020-01-24,2020.0,Stanford University,Arizona State @ Stanford,1997-09-02,5
+Leah Braswell,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.44,582.44,0 days 00:09:42.440000,2020-01-24,2020.0,University of Florida,University of Florida vs. Aubu,2000-06-20,5
+Kensey McMahon,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.96,582.96,0 days 00:09:42.960000,2019-10-04,2020.0,University of Alabama,Alabama vs Georgia,1999-10-29,5
+Molly Kowal,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.38,583.38,0 days 00:09:43.380000,2019-11-23,2020.0,Ohio State University,2019 Ohio State Fall Open Invi,1998-07-21,5
+Paige Madden,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.90,583.9,0 days 00:09:43.900000,2020-01-24,2020.0,University of Virginia,UVA vs. NCS,1998-10-21,5
+Makayla Sargent,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.00,585.0,0 days 00:09:45,2020-01-24,2020.0,North Carolina State University,UVA vs. NCS,1998-06-14,5
+Kathleen Moore,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.16,586.16,0 days 00:09:46.160000,2020-01-17,2020.0,North Carolina State University,NCST v UNC 2020,1999-03-25,5
+Zachary Yeadon,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:47.33,527.33,0 days 00:08:47.330000,2019-11-23,2020.0,University of Notre Dame,2019 Ohio State Fall Open Invi,1999-06-15,5
+Ricardo Vargas Jacobo,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:47.47,527.47,0 days 00:08:47.470000,2019-10-18,2020.0,University of Michigan,Michigan IntraSquad,1997-11-21,5
+Brooks Fail,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:54.12,534.12,0 days 00:08:54.120000,2019-12-07,2020.0,University of Arizona,Minnesota Invite 2019,1999-07-26,5
+Grant Shoults,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.10,535.1,0 days 00:08:55.100000,2020-02-22,2020.0,Stanford University,CAL @ Stanford Men,1997-06-06,5
+Christopher Yeager,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:56.68,536.68,0 days 00:08:56.680000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1998-09-25,5
+Jack Collins,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.09,537.09,0 days 00:08:57.090000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1997-09-29,5
+Cole Kuster,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.24,537.24,0 days 00:08:57.240000,2020-02-28,2020.0,Harvard University,2020 Ivy League Champs men,2001-05-04,5
+Felix Auboeck,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.42,537.42,0 days 00:08:57.420000,2019-12-07,2020.0,University of Michigan,Minnesota Invite 2019,1996-12-19,5
+Robert Finke,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.47,537.47,0 days 00:08:57.470000,2020-01-24,2020.0,University of Florida,University of Florida vs. Aubu,1999-11-06,5
+Dylan Porges Avila,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.68,537.68,0 days 00:08:57.680000,2020-02-28,2020.0,Princeton University,2020 Ivy League Champs men,2000-08-17,5
+Benjamin Olszewski,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.80,537.8,0 days 00:08:57.800000,2020-02-08,2020.0,Arizona State University,Arizona State vs. Arizona,1997-07-01,5
+Alexander Zettle,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.33,538.33,0 days 00:08:58.330000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1999-10-31,5
+Ross Dant,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.73,538.73,0 days 00:08:58.730000,2020-01-17,2020.0,North Carolina State University,NCST v UNC 2020,2000-12-15,5
+Ryan Waters,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.96,538.96,0 days 00:08:58.960000,2019-12-12,2020.0,U.S. Naval Academy,Army vs Navy 2019,1999-05-07,5
+Andrew Abruzzo,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:59.25,539.25,0 days 00:08:59.250000,2019-11-01,2020.0,University of Georgia,University of Florida vs. Geor,1999-11-18,5
+Sean Grieshop,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:59.53,539.53,0 days 00:08:59.530000,2020-02-22,2020.0,University of California Berkeley,CAL @ Stanford Men,1998-11-23,5
+Molly Kowal,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:43.17,943.17,0 days 00:15:43.170000,2020-02-22,2020.0,Ohio State University,2020 B1G 10 Champs women,1998-07-21,6
+Kensey McMahon,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:43.74,943.74,0 days 00:15:43.740000,2020-02-22,2020.0,University of Alabama,2020 SEC Champs,1999-10-29,6
+Leah Braswell,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:47.85,947.85,0 days 00:15:47.850000,2019-11-24,2020.0,University of Florida,2019 Georgia Tech Fall Invitat,2000-06-20,6
+Sierra Schmidt,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:48.53,948.53,0 days 00:15:48.530000,2020-02-22,2020.0,University of Michigan,2020 B1G 10 Champs women,1998-05-06,6
+Kaitlynn Sims,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:49.83,949.83,0 days 00:15:49.830000,2020-02-22,2020.0,University of Michigan,2020 B1G 10 Champs women,2000-11-27,6
+Paige Madden,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:50.38,950.38,0 days 00:15:50.380000,2020-02-22,2020.0,University of Virginia,2020 ACC Champs women,1998-10-21,6
+Morgan Tankersley,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:50.81,950.81,0 days 00:15:50.810000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,1999-07-26,6
+Emma Nordin,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:52.27,952.27,0 days 00:15:52.270000,2020-02-29,2020.0,Arizona State University,2020 PAC-12 Champs women,1999-11-01,6
+Amanda Nunan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:53.39,953.39,0 days 00:15:53.390000,2020-02-22,2020.0,University of Tennessee,2020 SEC Champs,1999-01-17,6
+Cierra Runge,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:53.51,953.51,0 days 00:15:53.510000,2020-02-29,2020.0,Arizona State University,2020 PAC-12 Champs women,1996-03-07,6
+Emily Hetzer,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:55.28,955.28,0 days 00:15:55.280000,2020-02-22,2020.0,Auburn University,2020 SEC Champs,2000-04-05,6
+Phoebe Hines,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:56.61,956.61,0 days 00:15:56.610000,2019-11-23,2020.0,University of Hawaii,Art Adamson Invitational,1998-08-31,6
+Kirsten Jacobsen,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.31,959.31,0 days 00:15:59.310000,2020-02-29,2020.0,University of Arizona,2020 PAC-12 Champs women,1998-01-02,6
+Cassandra Jernberg,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.33,959.33,0 days 00:15:59.330000,2020-02-22,2020.0,Indiana University,2020 B1G 10 Champs women,1998-03-12,6
+Olivia Anderson,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:00.84,960.84,0 days 00:16:00.840000,2019-11-23,2020.0,University of Georgia,2019 UT Invite,1999-05-30,6
+Makayla Sargent,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:01.36,961.36,0 days 00:16:01.360000,2020-02-22,2020.0,North Carolina State University,2020 ACC Champs women,1998-06-14,6
+Robert Finke,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:12.08,852.08,0 days 00:14:12.080000,2020-02-22,2020.0,University of Florida,2020 SEC Champs,1999-11-06,6
+Zachary Yeadon,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:27.93,867.93,0 days 00:14:27.930000,2020-02-29,2020.0,University of Notre Dame,2020 ACC Champs men,1999-06-15,6
+Felix Auboeck,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:30.10,870.1,0 days 00:14:30.100000,2020-02-29,2020.0,University of Michigan,2020 B1G 10 Champs men,1996-12-19,6
+Jack Hoagland,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:35.19,875.19,0 days 00:14:35.190000,2020-02-29,2020.0,University of Notre Dame,2020 ACC Champs men,2000-11-12,6
+Brooks Fail,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:37.60,877.6,0 days 00:14:37.600000,2019-12-07,2020.0,University of Arizona,Minnesota Invite 2019,1999-07-26,6
+Ross Dant,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:37.69,877.69,0 days 00:14:37.690000,2020-02-29,2020.0,North Carolina State University,2020 ACC Champs men,2000-12-15,6
+Ricardo Vargas Jacobo,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:39.48,879.48,0 days 00:14:39.480000,2020-02-29,2020.0,University of Michigan,2020 B1G 10 Champs men,1997-11-21,6
+Gregory Reed,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:45.03,885.03,0 days 00:14:45.030000,2020-02-22,2020.0,University of Georgia,2020 SEC Champs,1999-08-18,6
+Jack Collins,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:45.83,885.83,0 days 00:14:45.830000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1997-09-29,6
+Michael Calvillo,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:46.25,886.25,0 days 00:14:46.250000,2019-11-23,2020.0,Indiana University,2019 UT Invite,2000-09-12,6
+Victor Johansson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:47.27,887.27,0 days 00:14:47.270000,2019-11-23,2020.0,University of Southern California,Art Adamson Invitational,1998-09-13,6
+Brennan Gravley,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:47.41,887.41,0 days 00:14:47.410000,2020-02-22,2020.0,University of Florida,2020 SEC Champs,2000-09-28,6
+Eric Knowles,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:47.94,887.94,0 days 00:14:47.940000,2020-02-29,2020.0,North Carolina State University,2020 ACC Champs men,1999-07-05,6
+Christopher Yeager,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:48.69,888.69,0 days 00:14:48.690000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1998-09-25,6
+John Gallant,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:49.00,889.0,0 days 00:14:49,2019-11-23,2020.0,Indiana University,2019 UT Invite,2001-07-19,6
+Taylor Abbott,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:50.62,890.62,0 days 00:14:50.620000,2020-02-22,2020.0,University of Tennessee,2020 SEC Champs,1998-06-03,6
+Elizabeth Nelson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.70,49.7,0 days 00:00:49.700000,2020-02-20,2020.0,University of Wisconsin Madison,2020 B1G 10 Champs women,1998-09-02,12
+Rhyan White,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.02,50.02,0 days 00:00:50.020000,2020-02-21,2020.0,University of Alabama,2020 SEC Champs,2000-01-25,12
+Margaret MacNeil,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.04,50.04,0 days 00:00:50.040000,2020-02-20,2020.0,University of Michigan,2020 B1G 10 Champs women,2000-02-26,12
+Claire Adams,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.51,50.51,0 days 00:00:50.510000,2020-02-27,2020.0,University of Texas,2020 Big 12 Champs,1998-07-26,12
+Sherridon Dressel,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.64,50.64,0 days 00:00:50.640000,2020-02-21,2020.0,University of Florida,2020 SEC Champs,1998-07-20,12
+Haley Hynes,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.70,50.7,0 days 00:00:50.700000,2019-11-21,2020.0,University of Missouri,2019 Mizzou Invitational,1998-06-26,12
+Asia Seidt,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.73,50.73,0 days 00:00:50.730000,2020-02-21,2020.0,University of Kentucky,2020 SEC Champs,1997-10-06,12
+Isabel Ivey,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.06,51.06,0 days 00:00:51.060000,2020-02-28,2020.0,University of California Berkeley,2020 PAC-12 Champs women,2000-11-22,12
+Sarah Thompson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.07,51.07,0 days 00:00:51.070000,2020-02-21,2020.0,University of Missouri,2020 SEC Champs,1998-09-03,12
+Katharine Berkoff,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.21,51.21,0 days 00:00:51.210000,2020-02-21,2020.0,North Carolina State University,2020 ACC Champs women,2001-01-28,12
+Julia Cook,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.27,51.27,0 days 00:00:51.270000,2020-02-28,2020.0,University of Texas,2020 Big 12 Champs,2000-08-28,12
+Calypso Sheridan,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.31,51.31,0 days 00:00:51.310000,2020-02-20,2020.0,Northwestern University,2020 B1G 10 Champs women,1999-12-28,12
+Emma Ball,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.38,51.38,0 days 00:00:51.380000,2020-02-21,2020.0,University of Florida,2020 SEC Champs,1998-06-14,12
+Grace Countie,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.59,51.59,0 days 00:00:51.590000,2019-11-22,2020.0,University of North Carolina Chapel Hill,2019 Georgia Tech Fall Invitat,1999-11-10,12
+Keaton Blovad,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.60,51.6,0 days 00:00:51.600000,2020-02-28,2020.0,University of California Berkeley,2020 PAC-12 Champs women,1998-09-02,12
+Caitlin Brooks,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.62,51.62,0 days 00:00:51.620000,2019-11-21,2020.0,University of Kentucky,2019 Ohio State Fall Open Invi,2000-09-12,12
+Coleman Stewart,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.04,44.04,0 days 00:00:44.040000,2020-02-28,2020.0,North Carolina State University,2020 ACC Champs men,1998-03-03,12
+Zane Waddell,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.10,44.1,0 days 00:00:44.100000,2020-02-21,2020.0,University of Alabama,2020 SEC Champs,1998-03-18,12
+Zachary Poti,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.14,44.14,0 days 00:00:44.140000,2020-03-06,2020.0,Arizona State University,2020 PAC-12 Champs  men,1998-08-20,12
+Shaine Casas,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.48,44.48,0 days 00:00:44.480000,2019-11-22,2020.0,Texas A&M University,Art Adamson Invitational,1999-12-25,12
+Mitchell Whyte,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.64,44.64,0 days 00:00:44.640000,2020-02-28,2020.0,University of Louisville,2020 ACC Champs men,2000-02-15,12
+Nicolas Albiero,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.75,44.75,0 days 00:00:44.750000,2020-02-28,2020.0,University of Louisville,2020 ACC Champs men,1999-06-08,12
+Gabriel Fantoni,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.92,44.92,0 days 00:00:44.920000,2020-02-28,2020.0,Indiana University,2020 B1G 10 Champs men,1998-07-22,12
+Austin Katz,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.93,44.93,0 days 00:00:44.930000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,1999-03-19,12
+Alvin Jiang,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.95,44.95,0 days 00:00:44.950000,2020-02-28,2020.0,University of Texas,2020 Big 12 Champs,1998-12-03,12
+Daniel Carr,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.09,45.09,0 days 00:00:45.090000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-09-08,12
+Ryan Harty,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.10,45.1,0 days 00:00:45.100000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,1996-05-22,12
+Christopher Staka,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.35,45.35,0 days 00:00:45.350000,2019-12-05,2020.0,University of Texas,Minnesota Invite 2019,1998-05-12,12
+Griffin Alaniz,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.44,45.44,0 days 00:00:45.440000,2019-11-23,2020.0,Florida State University,2019 Georgia Tech Fall Invitat,1998-06-11,12
+Karl Luht,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.63,45.63,0 days 00:00:45.630000,2020-02-21,2020.0,Louisiana State University,2020 SEC Champs,1996-11-30,12
+Brendan Burns,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.75,45.75,0 days 00:00:45.750000,2020-02-28,2020.0,Indiana University,2020 B1G 10 Champs men,2001-05-29,12
+Daniel Hein,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.75,45.75,0 days 00:00:45.750000,2020-02-21,2020.0,University of Missouri,2020 SEC Champs,1998-03-10,12
+Rhyan White,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.06,108.06,0 days 00:01:48.060000,2020-02-22,2020.0,University of Alabama,2020 SEC Champs,2000-01-25,13
+Elizabeth Nelson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.73,108.73,0 days 00:01:48.730000,2020-02-22,2020.0,University of Wisconsin Madison,2020 B1G 10 Champs women,1998-09-02,13
+Asia Seidt,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.86,108.86,0 days 00:01:48.860000,2020-02-22,2020.0,University of Kentucky,2020 SEC Champs,1997-10-06,13
+Alex Galyer,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.92,109.92,0 days 00:01:49.920000,2020-02-22,2020.0,University of Kentucky,2020 SEC Champs,1998-06-19,13
+Emma Muzzy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.79,110.79,0 days 00:01:50.790000,2020-02-22,2020.0,North Carolina State University,2020 ACC Champs women,2000-11-21,13
+Sherridon Dressel,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.93,110.93,0 days 00:01:50.930000,2020-02-22,2020.0,University of Florida,2020 SEC Champs,1998-07-20,13
+Paige Madden,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.28,111.28,0 days 00:01:51.280000,2019-11-23,2020.0,University of Virginia,2019 UT Invite,1998-10-21,13
+Erin Voss,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.37,111.37,0 days 00:01:51.370000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,1998-06-28,13
+Caitlin Brooks,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.60,111.6,0 days 00:01:51.600000,2020-02-22,2020.0,University of Kentucky,2020 SEC Champs,2000-09-12,13
+Julia Cook,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.62,111.62,0 days 00:01:51.620000,2020-02-29,2020.0,University of Texas,2020 Big 12 Champs,2000-08-28,13
+Lucie Nordmann,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.63,111.63,0 days 00:01:51.630000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,2000-05-01,13
+Meghan Small,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.80,111.8,0 days 00:01:51.800000,2020-02-22,2020.0,University of Tennessee,2020 SEC Champs,1998-05-25,13
+Alexandra Crisera,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.21,112.21,0 days 00:01:52.210000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,2001-03-22,13
+Katharine Berkoff,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.29,112.29,0 days 00:01:52.290000,2019-11-23,2020.0,North Carolina State University,NC STATE GAC Invitational,2001-01-28,13
+Sophia Sorenson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.38,112.38,0 days 00:01:52.380000,2020-02-22,2020.0,University of Kentucky,2020 SEC Champs,2000-05-21,13
+Audrey Reimer,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.51,112.51,0 days 00:01:52.510000,2020-02-29,2020.0,University of Utah,2020 PAC-12 Champs women,1999-12-31,13
+Shaine Casas,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.20,97.2,0 days 00:01:37.200000,2020-02-22,2020.0,Texas A&M University,2020 SEC Champs,1999-12-25,13
+Austin Katz,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.35,97.35,0 days 00:01:37.350000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1999-03-19,13
+Coleman Stewart,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.71,97.71,0 days 00:01:37.710000,2020-02-29,2020.0,North Carolina State University,2020 ACC Champs men,1998-03-03,13
+Daniel Carr,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.87,97.87,0 days 00:01:37.870000,2020-03-07,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-09-08,13
+Zachary Poti,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.31,99.31,0 days 00:01:39.310000,2020-03-07,2020.0,Arizona State University,2020 PAC-12 Champs  men,1998-08-20,13
+Mitchell Whyte,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.46,99.46,0 days 00:01:39.460000,2020-02-29,2020.0,University of Louisville,2020 ACC Champs men,2000-02-15,13
+Clark Beach,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.56,99.56,0 days 00:01:39.560000,2020-02-22,2020.0,University of Florida,2020 SEC Champs,1999-06-29,13
+Hugo Gonzalez de Oliveira,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.66,99.66,0 days 00:01:39.660000,2020-03-07,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1999-02-19,13
+Jack Dahlgren,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.93,99.93,0 days 00:01:39.930000,2020-02-29,2020.0,University of Missouri,2020 Mizzou NCAA Qualifier,2000-01-10,13
+Ryan Harty,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.06,100.06,0 days 00:01:40.060000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1996-05-22,13
+Samuel Tornqvist,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.10,100.1,0 days 00:01:40.100000,2020-02-29,2020.0,VA Tech,2020 ACC Champs men,1997-11-05,13
+Jack Montesi,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.14,100.14,0 days 00:01:40.140000,2020-03-08,2020.0,University of Notre Dame,Men's Boiler-Make-It Qualifica,1998-06-16,13
+Joshua Artmann,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.26,100.26,0 days 00:01:40.260000,2020-02-29,2020.0,University of Texas,2020 Big 12 Champs,1998-08-11,13
+Gabriel Fantoni,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.31,100.31,0 days 00:01:40.310000,2020-02-29,2020.0,Indiana University,2020 B1G 10 Champs men,1998-07-22,13
+Nicholas Alexander,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.58,100.58,0 days 00:01:40.580000,2020-02-22,2020.0,University of Missouri,2020 SEC Champs,1998-06-10,13
+Cameron Tysoe,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.62,100.62,0 days 00:01:40.620000,2020-02-29,2020.0,University of Wisconsin Madison,2020 B1G 10 Champs men,1996-06-20,13
+Sophie Hansson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.74,57.74,0 days 00:00:57.740000,2020-02-21,2020.0,North Carolina State University,2020 ACC Champs women,1998-08-02,15
+Alexis Wenger,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.91,57.91,0 days 00:00:57.910000,2020-02-21,2020.0,University of Virginia,2020 ACC Champs women,2000-06-08,15
+Miranda Tucker,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.15,58.15,0 days 00:00:58.150000,2020-02-21,2020.0,University of Michigan,2020 B1G 10 Champs women,1997-06-08,15
+Zoie Hartman,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.21,58.21,0 days 00:00:58.210000,2020-02-21,2020.0,University of Georgia,2020 SEC Champs,2000-12-20,15
+Lindsey Kozelsky,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.66,58.66,0 days 00:00:58.660000,2019-12-06,2020.0,University of Minnesota,Minnesota Invite 2019,1997-09-14,15
+Hannah Bach,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.76,58.76,0 days 00:00:58.760000,2020-02-21,2020.0,Ohio State University,2020 B1G 10 Champs women,2000-12-01,15
+Emily Weiss,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.78,58.78,0 days 00:00:58.780000,2020-02-21,2020.0,Indiana University,2020 B1G 10 Champs women,2001-03-19,15
+Danielle Dellatorre,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.88,58.88,0 days 00:00:58.880000,2020-02-21,2020.0,University of Georgia,2020 SEC Champs,1999-07-24,15
+Noelle Peplowski,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.91,58.91,0 days 00:00:58.910000,2020-02-21,2020.0,Indiana University,2020 B1G 10 Champs women,2000-05-01,15
+Olivia Calegan,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.95,58.95,0 days 00:00:58.950000,2020-02-21,2020.0,North Carolina State University,2020 ACC Champs women,1999-08-18,15
+Sophie Angus,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.96,58.96,0 days 00:00:58.960000,2020-02-21,2020.0,Northwestern University,2020 B1G 10 Champs women,1999-03-12,15
+Kaylee Wheeler,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.04,59.04,0 days 00:00:59.040000,2020-02-28,2020.0,University of Louisville,2020 TN Last Chance Meet,2000-09-15,15
+Peyton Kondis,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.16,59.16,0 days 00:00:59.160000,2019-11-22,2020.0,University of Houston,2019 UH Phill Hansel Inv,1998-08-26,15
+Hannah Brunzell,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.24,59.24,0 days 00:00:59.240000,2020-02-21,2020.0,Northwestern University,2020 B1G 10 Champs women,2001-03-22,15
+Caroline Hauder,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.29,59.29,0 days 00:00:59.290000,2020-02-01,2020.0,University of North Carolina Chapel Hill,Duke Univesity vs. Univ. of N.,1999-09-01,15
+Ema Rajic,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.31,59.31,0 days 00:00:59.310000,2019-12-06,2020.0,University of California Berkeley,Minnesota Invite 2019,2000-02-24,15
+Maxwell McHugh,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.67,50.67,0 days 00:00:50.670000,2020-02-28,2020.0,University of Minnesota,2020 B1G 10 Champs men,1999-12-31,15
+Reece Whitley,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.85,50.85,0 days 00:00:50.850000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,2000-01-03,15
+Zane Backes,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.07,51.07,0 days 00:00:51.070000,2020-02-28,2020.0,Indiana University,2020 B1G 10 Champs men,1998-12-07,15
+Dillon Hillis,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.28,51.28,0 days 00:00:51.280000,2020-02-21,2020.0,University of Florida,2020 SEC Champs,2000-09-15,15
+Itay Goldfaden,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.35,51.35,0 days 00:00:51.350000,2020-02-21,2020.0,University of South Carolina Columbia,2020 SEC Champs,1996-04-24,15
+Liam Bell,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.39,51.39,0 days 00:00:51.390000,2020-02-21,2020.0,University of Alabama,2020 SEC Champs,2000-09-18,15
+Jeremy Babinet,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.44,51.44,0 days 00:00:51.440000,2020-02-28,2020.0,University of Michigan,2020 B1G 10 Champs men,1997-06-12,15
+Caspar Corbeau,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.46,51.46,0 days 00:00:51.460000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,2001-04-03,15
+Olli Kokko,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.71,51.71,0 days 00:00:51.710000,2020-02-29,2020.0,University of Hawaii,Bulldog Invitational NCAA Qual,1994-04-18,15
+Derek Maas,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.81,51.81,0 days 00:00:51.810000,2020-02-21,2020.0,University of Alabama,2020 SEC Champs,2001-04-08,15
+Trent Pellini,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.81,51.81,0 days 00:00:51.810000,2019-11-22,2020.0,Purdue University,Purdue Invite 2019,1998-09-10,15
+Marco Guarente,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.82,51.82,0 days 00:00:51.820000,2020-02-21,2020.0,University of Florida,2020 SEC Champs,1997-03-06,15
+Evgenii Somov,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.85,51.85,0 days 00:00:51.850000,2020-02-28,2020.0,University of Louisville,2020 ACC Champs men,1999-01-28,15
+William Chan,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.91,51.91,0 days 00:00:51.910000,2019-12-06,2020.0,University of Michigan,Minnesota Invite 2019,1999-12-29,15
+Brennan Pastorek,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.98,51.98,0 days 00:00:51.980000,2020-03-06,2020.0,Stanford University,2020 PAC-12 Champs  men,1998-12-07,15
+Valdas Abaliksta,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.00,52.0,0 days 00:00:52,2020-02-28,2020.0,University of North Carolina Chapel Hill,2020 ACC Champs men,1998-11-25,15
+Kevin Houseman,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.00,52.0,0 days 00:00:52,2020-03-06,2020.0,Northwestern University,2020 IL Swimming Senior Champi,2001-04-28,15
+Benjamin Walker,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.00,52.0,0 days 00:00:52,2020-02-21,2020.0,Texas A&M University,2020 SEC Champs,1997-08-29,15
+Sophie Hansson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.59,125.59,0 days 00:02:05.590000,2020-02-22,2020.0,North Carolina State University,2020 ACC Champs women,1998-08-02,16
+Margaret Nelson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.68,125.68,0 days 00:02:05.680000,2020-02-22,2020.0,University of Virginia,2020 ACC Champs women,2001-07-28,16
+Katherine Douglass,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.89,125.89,0 days 00:02:05.890000,2020-02-22,2020.0,University of Virginia,2020 ACC Champs women,2001-11-17,16
+Zoie Hartman,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.20,126.2,0 days 00:02:06.200000,2020-02-22,2020.0,University of Georgia,2020 SEC Champs,2000-12-20,16
+Calypso Sheridan,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.85,126.85,0 days 00:02:06.850000,2020-02-22,2020.0,Northwestern University,2020 B1G 10 Champs women,1999-12-28,16
+Noelle Peplowski,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.02,127.02,0 days 00:02:07.020000,2020-02-22,2020.0,Indiana University,2020 B1G 10 Champs women,2000-05-01,16
+Danielle Dellatorre,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.11,127.11,0 days 00:02:07.110000,2020-02-22,2020.0,University of Georgia,2020 SEC Champs,1999-07-24,16
+Morgan Friesen,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.24,127.24,0 days 00:02:07.240000,2020-02-28,2020.0,University of Louisville,2020 TN Last Chance Meet,1999-06-13,16
+Brooke Forde,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.35,127.35,0 days 00:02:07.350000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,1999-03-04,16
+Petra Halmai,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.38,127.38,0 days 00:02:07.380000,2020-02-22,2020.0,Florida Gulf Coast University,2020 CCSA Champs,1997-05-29,16
+Emily Weiss,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.73,127.73,0 days 00:02:07.730000,2020-02-22,2020.0,Indiana University,2020 B1G 10 Champs women,2001-03-19,16
+Allison Raab,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.85,127.85,0 days 00:02:07.850000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,2000-04-25,16
+Gillian Davey,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.90,127.9,0 days 00:02:07.900000,2020-02-22,2020.0,University of Kentucky,2020 SEC Champs,2001-08-21,16
+Bailey Bonnett,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.92,127.92,0 days 00:02:07.920000,2020-02-22,2020.0,University of Kentucky,2020 SEC Champs,1998-10-30,16
+Miranda Tucker,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.97,127.97,0 days 00:02:07.970000,2020-02-22,2020.0,University of Michigan,2020 B1G 10 Champs women,1997-06-08,16
+Zoe Bartel,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.01,128.01,0 days 00:02:08.010000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,2000-10-03,16
+Reece Whitley,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.85,109.85,0 days 00:01:49.850000,2020-03-07,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,2000-01-03,16
+Thomas Cope,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.44,111.44,0 days 00:01:51.440000,2020-02-29,2020.0,University of Michigan,2020 B1G 10 Champs men,1997-11-01,16
+Maxwell McHugh,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.62,111.62,0 days 00:01:51.620000,2019-12-07,2020.0,University of Minnesota,Minnesota Invite 2019,1999-12-31,16
+Hugo Gonzalez de Oliveira,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.63,111.63,0 days 00:01:51.630000,2020-03-04,2020.0,University of California Berkeley,TIME TRIALS 2020 MEN'S PAC12,1999-02-19,16
+Paul Delakis,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.65,111.65,0 days 00:01:51.650000,2020-02-29,2020.0,Ohio State University,2020 B1G 10 Champs men,1998-09-27,16
+Benjamin Walker,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.92,111.92,0 days 00:01:51.920000,2020-02-22,2020.0,Texas A&M University,2020 SEC Champs,1997-08-29,16
+Caspar Corbeau,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.06,112.06,0 days 00:01:52.060000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,2001-04-03,16
+Braden Vines,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.28,112.28,0 days 00:01:52.280000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1999-12-29,16
+Andres Puente Bustamante,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.39,112.39,0 days 00:01:52.390000,2020-02-22,2020.0,Texas A&M University,2020 SEC Champs,2001-03-06,16
+Grant Sanders,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.49,112.49,0 days 00:01:52.490000,2020-02-22,2020.0,University of Florida,2020 SEC Champs,1997-08-01,16
+Jeremy Babinet,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.52,112.52,0 days 00:01:52.520000,2019-12-07,2020.0,University of Michigan,Minnesota Invite 2019,1997-06-12,16
+Evgenii Somov,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.54,112.54,0 days 00:01:52.540000,2020-02-29,2020.0,University of Louisville,2020 ACC Champs men,1999-01-28,16
+Jason Mathews,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.76,112.76,0 days 00:01:52.760000,2020-02-29,2020.0,Ohio State University,2020 B1G 10 Champs men,1999-01-25,16
+Charles Swanson,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.88,112.88,0 days 00:01:52.880000,2020-02-29,2020.0,University of Michigan,2020 B1G 10 Champs men,1998-02-20,16
+Joseph Barnum,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.91,112.91,0 days 00:01:52.910000,2020-02-29,2020.0,University of Virginia,2020 ACC Champs men,1999-02-08,16
+Liam Bell,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.93,112.93,0 days 00:01:52.930000,2020-02-22,2020.0,University of Alabama,2020 SEC Champs,2000-09-18,16
+Margaret MacNeil,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.26,49.26,0 days 00:00:49.260000,2019-12-06,2020.0,University of Michigan,Minnesota Invite 2019,2000-02-26,18
+Erika Brown,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.38,49.38,0 days 00:00:49.380000,2020-02-20,2020.0,University of Tennessee,2020 SEC Champs,1998-08-27,18
+Louise Hansson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.94,49.94,0 days 00:00:49.940000,2020-02-28,2020.0,University of Southern California,2020 PAC-12 Champs women,1996-11-24,18
+Katherine Douglass,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.30,50.3,0 days 00:00:50.300000,2019-11-22,2020.0,University of Virginia,2019 UT Invite,2001-11-17,18
+Elizabeth Nelson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.65,50.65,0 days 00:00:50.650000,2019-11-22,2020.0,University of Wisconsin Madison,NC STATE GAC Invitational,1998-09-02,18
+Rhyan White,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.80,50.8,0 days 00:00:50.800000,2020-02-20,2020.0,University of Alabama,2020 SEC Champs,2000-01-25,18
+Alyssa Marsh,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.05,51.05,0 days 00:00:51.050000,2019-11-22,2020.0,Duke University,NC STATE GAC Invitational,1997-09-08,18
+Morgan Hill,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.12,51.12,0 days 00:00:51.120000,2020-02-21,2020.0,University of Virginia,2020 ACC Champs women,1998-08-21,18
+Isabel Ivey,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.14,51.14,0 days 00:00:51.140000,2020-02-28,2020.0,University of California Berkeley,2020 PAC-12 Champs women,2000-11-22,18
+Sherridon Dressel,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.20,51.2,0 days 00:00:51.200000,2020-02-20,2020.0,University of Florida,2020 SEC Champs,1998-07-20,18
+Alexa Cuomo,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.51,51.51,0 days 00:00:51.510000,2020-02-21,2020.0,University of Virginia,2020 ACC Champs women,2001-04-23,18
+Gertrude Rothrock,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.53,51.53,0 days 00:00:51.530000,2020-02-20,2020.0,University of Tennessee,2020 SEC Champs,1999-08-04,18
+Grace Oglesby,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.59,51.59,0 days 00:00:51.590000,2020-02-21,2020.0,University of Louisville,2020 ACC Champs women,1998-07-05,18
+Isabella Gati,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.60,51.6,0 days 00:00:51.600000,2020-02-20,2020.0,University of Kentucky,2020 SEC Champs,1999-11-23,18
+Courtney Vincent,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.60,51.6,0 days 00:00:51.600000,2020-02-21,2020.0,San Diego State University,2020 MW Champs,1998-09-01,18
+Madison Hart,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.64,51.64,0 days 00:00:51.640000,2020-02-21,2020.0,Pennsylvania State University,2020 B1G 10 Champs women,1998-03-12,18
+Jemma Schlicht,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.64,51.64,0 days 00:00:51.640000,2019-11-22,2020.0,University of Southern California,Art Adamson Invitational,1997-05-07,18
+Nicolas Albiero,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.83,44.83,0 days 00:00:44.830000,2020-02-28,2020.0,University of Louisville,2020 ACC Champs men,1999-06-08,18
+Maxime Rooney,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.83,44.83,0 days 00:00:44.830000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,1998-04-16,18
+Ryan Hoffer,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.85,44.85,0 days 00:00:44.850000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-07-09,18
+Coleman Stewart,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.92,44.92,0 days 00:00:44.920000,2020-02-28,2020.0,North Carolina State University,2020 ACC Champs men,1998-03-03,18
+Alvin Jiang,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.93,44.93,0 days 00:00:44.930000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,1998-12-03,18
+Miles Smachlo,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.05,45.05,0 days 00:00:45.050000,2020-02-28,2020.0,University of Michigan,2020 B1G 10 Champs men,1998-03-14,18
+Umitcan Gures,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.13,45.13,0 days 00:00:45.130000,2020-02-28,2020.0,Harvard University,2020 Ivy League Champs men,1999-06-24,18
+Cody Bybee,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.19,45.19,0 days 00:00:45.190000,2020-03-06,2020.0,Arizona State University,2020 PAC-12 Champs  men,1999-07-12,18
+Zheng Wen Quah,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.24,45.24,0 days 00:00:45.240000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1996-09-29,18
+Shaine Casas,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.26,45.26,0 days 00:00:45.260000,2019-11-22,2020.0,Texas A&M University,Art Adamson Invitational,1999-12-25,18
+Bruno Blaskovic,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.29,45.29,0 days 00:00:45.290000,2020-02-28,2020.0,Indiana University,2020 B1G 10 Champs men,1998-08-02,18
+William Kovac,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.29,45.29,0 days 00:00:45.290000,2020-02-20,2020.0,University of Missouri,2020 SEC Champs,2000-06-27,18
+Santiago Grassi,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.32,45.32,0 days 00:00:45.320000,2020-02-20,2020.0,Auburn University,2020 SEC Champs,1996-09-25,18
+Camden Murphy,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.36,45.36,0 days 00:00:45.360000,2019-11-22,2020.0,University of Georgia,2019 UT Invite,1999-04-06,18
+Brendan Burns,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.47,45.47,0 days 00:00:45.470000,2020-02-28,2020.0,Indiana University,2020 B1G 10 Champs men,2001-05-29,18
+Nyls Korstanje,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.47,45.47,0 days 00:00:45.470000,2020-02-28,2020.0,North Carolina State University,2020 ACC Champs men,1999-02-05,18
+Louise Hansson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.26,111.26,0 days 00:01:51.260000,2020-02-29,2020.0,University of Southern California,2020 PAC-12 Champs women,1996-11-24,19
+Katherine Drabot,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.11,112.11,0 days 00:01:52.110000,2020-02-29,2020.0,Stanford University,2020 PAC-12 Champs women,1997-09-02,19
+Dakota Luther,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.47,112.47,0 days 00:01:52.470000,2020-02-21,2020.0,University of Georgia,2020 SEC Champs,1999-11-07,19
+Isabella Gati,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.54,112.54,0 days 00:01:52.540000,2020-02-21,2020.0,University of Kentucky,2020 SEC Champs,1999-11-23,19
+Courtney Harnish,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.22,113.22,0 days 00:01:53.220000,2020-02-21,2020.0,University of Georgia,2020 SEC Champs,1999-04-17,19
+Tessa Cieplucha,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.23,113.23,0 days 00:01:53.230000,2020-02-21,2020.0,University of Tennessee,2020 SEC Champs,1998-09-24,19
+Olivia Carter,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.28,113.28,0 days 00:01:53.280000,2020-02-22,2020.0,University of Michigan,2020 B1G 10 Champs women,2000-07-22,19
+Grace Oglesby,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.70,113.7,0 days 00:01:53.700000,2020-02-22,2020.0,University of Louisville,2020 ACC Champs women,1998-07-05,19
+Rachel Klinker,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.81,113.81,0 days 00:01:53.810000,2020-02-29,2020.0,University of California Berkeley,2020 PAC-12 Champs women,2000-10-08,19
+Jing Wen Quah,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.96,113.96,0 days 00:01:53.960000,2020-02-21,2020.0,Texas A&M University,2020 SEC Champs,2000-12-20,19
+Abigail Richter,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.09,114.09,0 days 00:01:54.090000,2020-02-22,2020.0,University of Virginia,2020 ACC Champs women,1999-05-15,19
+Halladay Kinsey,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.12,114.12,0 days 00:01:54.120000,2020-02-21,2020.0,University of South Carolina Columbia,2020 SEC Champs,2000-05-08,19
+Kelly Pash,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.14,114.14,0 days 00:01:54.140000,2020-02-29,2020.0,University of Texas,2020 Big 12 Champs,2001-03-27,19
+Victoria Kwan,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.17,114.17,0 days 00:01:54.170000,2020-02-22,2020.0,University of Michigan,2020 B1G 10 Champs women,2000-12-18,19
+Callie Dickinson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.22,114.22,0 days 00:01:54.220000,2020-02-21,2020.0,University of Georgia,2020 SEC Champs,1999-09-24,19
+Taylor Pike,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.29,114.29,0 days 00:01:54.290000,2020-02-21,2020.0,Texas A&M University,2020 SEC Champs,1999-08-05,19
+Nicolas Albiero,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.65,98.65,0 days 00:01:38.650000,2020-02-29,2020.0,University of Louisville,2020 ACC Champs men,1999-06-08,19
+Zheng Wen Quah,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.15,99.15,0 days 00:01:39.150000,2020-03-07,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1996-09-29,19
+Samuel Pomajevich,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.35,99.35,0 days 00:01:39.350000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1998-10-12,19
+Shaine Casas,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.33,100.33,0 days 00:01:40.330000,2020-03-07,2020.0,Texas A&M University,2020 American Short Course,1999-12-25,19
+Philip Manoff,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.48,100.48,0 days 00:01:40.480000,2020-02-29,2020.0,VA Tech,2020 ACC Champs men,2001-02-19,19
+Trenton Julian,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.78,100.78,0 days 00:01:40.780000,2020-03-07,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-12-09,19
+Camden Murphy,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.93,100.93,0 days 00:01:40.930000,2020-02-21,2020.0,University of Georgia,2020 SEC Champs,1999-04-06,19
+Maxime Rooney,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.94,100.94,0 days 00:01:40.940000,2019-12-07,2020.0,University of Texas,Minnesota Invite 2019,1998-04-16,19
+Brendan Burns,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.98,100.98,0 days 00:01:40.980000,2020-02-29,2020.0,Indiana University,2020 B1G 10 Champs men,2001-05-29,19
+Antani Ivanov,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.01,101.01,0 days 00:01:41.010000,2020-02-29,2020.0,VA Tech,2020 ACC Champs men,1999-07-17,19
+Jacob Goguen,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.19,101.19,0 days 00:01:41.190000,2020-03-12,2020.0,Seattle University (M),2020 CSCAA National Invitation,1999-05-12,19
+Frederick Schubert,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.34,101.34,0 days 00:01:41.340000,2020-02-29,2020.0,University of Virginia,2020 ACC Champs men,1997-10-27,19
+Miles Smachlo,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.47,101.47,0 days 00:01:41.470000,2020-02-29,2020.0,University of Michigan,2020 B1G 10 Champs men,1998-03-14,19
+Noah Lense,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.57,101.57,0 days 00:01:41.570000,2020-02-29,2020.0,Ohio State University,2020 B1G 10 Champs men,1998-07-20,19
+David Dixon,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.59,101.59,0 days 00:01:41.590000,2019-11-23,2020.0,West Virginia University,West Virginia University Invit,1998-12-16,19
+Christian Ferraro,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.70,101.7,0 days 00:01:41.700000,2020-03-07,2020.0,Georgia Institute of Technology,2020 GA Speedo Southern Premier,1997-11-13,19
+Katherine Douglass,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:51.36,111.36,0 days 00:01:51.360000,2020-02-20,2020.0,University of Virginia,2020 ACC Champs women,2001-11-17,21
+Elizabeth Nelson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:51.66,111.66,0 days 00:01:51.660000,2020-02-20,2020.0,University of Wisconsin Madison,2020 B1G 10 Champs women,1998-09-02,21
+Meghan Small,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.14,112.14,0 days 00:01:52.140000,2020-02-19,2020.0,University of Tennessee,2020 SEC Champs,1998-05-25,21
+Zoie Hartman,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.05,113.05,0 days 00:01:53.050000,2020-02-19,2020.0,University of Georgia,2020 SEC Champs,2000-12-20,21
+Calypso Sheridan,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.13,113.13,0 days 00:01:53.130000,2020-02-20,2020.0,Northwestern University,2020 B1G 10 Champs women,1999-12-28,21
+Asia Seidt,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.70,113.7,0 days 00:01:53.700000,2020-02-19,2020.0,University of Kentucky,2020 SEC Champs,1997-10-06,21
+Tessa Cieplucha,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.89,113.89,0 days 00:01:53.890000,2020-02-19,2020.0,University of Tennessee,2020 SEC Champs,1998-09-24,21
+Louise Hansson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.09,114.09,0 days 00:01:54.090000,2020-02-27,2020.0,University of Southern California,2020 PAC-12 Champs women,1996-11-24,21
+Isabel Ivey,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.67,114.67,0 days 00:01:54.670000,2020-02-27,2020.0,University of California Berkeley,2020 PAC-12 Champs women,2000-11-22,21
+Alicia Wilson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.68,114.68,0 days 00:01:54.680000,2019-12-05,2020.0,University of California Berkeley,Minnesota Invite 2019,2000-03-05,21
+Vanessa Pearl,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.80,114.8,0 days 00:01:54.800000,2020-02-19,2020.0,University of Florida,2020 SEC Champs,1999-10-18,21
+Julia Poole,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.86,114.86,0 days 00:01:54.860000,2020-02-20,2020.0,North Carolina State University,2020 ACC Champs women,1999-03-12,21
+Abigail Richter,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.22,115.22,0 days 00:01:55.220000,2020-02-20,2020.0,University of Virginia,2020 ACC Champs women,1999-05-15,21
+Margaret Nelson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.43,115.43,0 days 00:01:55.430000,2020-02-20,2020.0,University of Virginia,2020 ACC Champs women,2001-07-28,21
+Caroline Hauder,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.59,115.59,0 days 00:01:55.590000,2020-02-20,2020.0,University of North Carolina Chapel Hill,2020 ACC Champs women,1999-09-01,21
+Mackenzie Looze,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.79,115.79,0 days 00:01:55.790000,2020-02-20,2020.0,Indiana University,2020 B1G 10 Champs women,2000-01-13,21
+Shaine Casas,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.91,99.91,0 days 00:01:39.910000,2020-02-19,2020.0,Texas A&M University,2020 SEC Champs,1999-12-25,21
+Daniel Carr,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.79,101.79,0 days 00:01:41.790000,2020-03-05,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-09-08,21
+Matthew Willenbring,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.83,101.83,0 days 00:01:41.830000,2019-12-05,2020.0,University of Texas,Minnesota Invite 2019,1999-11-22,21
+Ryan Harty,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.86,101.86,0 days 00:01:41.860000,2019-12-05,2020.0,University of Texas,Minnesota Invite 2019,1996-05-22,21
+Andrew Loy,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.03,102.03,0 days 00:01:42.030000,2020-02-27,2020.0,Ohio State University,2020 B1G 10 Champs men,1998-02-06,21
+Paul Delakis,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.25,102.25,0 days 00:01:42.250000,2020-02-27,2020.0,Ohio State University,2020 B1G 10 Champs men,1998-09-27,21
+Nicholas Alexander,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.49,102.49,0 days 00:01:42.490000,2020-02-19,2020.0,University of Missouri,2020 SEC Champs,1998-06-10,21
+William Kovac,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.60,102.6,0 days 00:01:42.600000,2019-11-20,2020.0,University of Missouri,2019 Mizzou Invitational,2000-06-27,21
+Braden Vines,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.71,102.71,0 days 00:01:42.710000,2019-12-05,2020.0,University of Texas,Minnesota Invite 2019,1999-12-29,21
+Thomas Cope,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.77,102.77,0 days 00:01:42.770000,2020-02-27,2020.0,University of Michigan,2020 B1G 10 Champs men,1997-11-01,21
+Mohamed Hassan,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.85,102.85,0 days 00:01:42.850000,2020-02-27,2020.0,Indiana University,2020 B1G 10 Champs men,1997-03-17,21
+Zheng Wen Quah,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.93,102.93,0 days 00:01:42.930000,2020-03-05,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1996-09-29,21
+Raunak Khosla,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.01,103.01,0 days 00:01:43.010000,2020-02-27,2020.0,Princeton University,2020 Ivy League Champs men,2000-06-29,21
+Frederick Schubert,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.09,103.09,0 days 00:01:43.090000,2020-02-27,2020.0,University of Virginia,2020 ACC Champs men,1997-10-27,21
+Caio Pumputis,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.13,103.13,0 days 00:01:43.130000,2020-02-27,2020.0,Georgia Institute of Technology,2020 ACC Champs men,1999-01-08,21
+Jacob Foster,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.16,103.16,0 days 00:01:43.160000,2019-12-05,2020.0,University of Texas,Minnesota Invite 2019,2000-09-06,21
+Brooke Forde,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.53,241.53,0 days 00:04:01.530000,2020-02-28,2020.0,Stanford University,2020 PAC-12 Champs women,1999-03-04,22
+Tessa Cieplucha,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.88,241.88,0 days 00:04:01.880000,2020-02-20,2020.0,University of Tennessee,2020 SEC Champs,1998-09-24,22
+Calypso Sheridan,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.18,243.18,0 days 00:04:03.180000,2020-02-21,2020.0,Northwestern University,2020 B1G 10 Champs women,1999-12-28,22
+Kathrin Demler,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.96,243.96,0 days 00:04:03.960000,2019-11-22,2020.0,Ohio State University,2019 Ohio State Fall Open Invi,1996-06-12,22
+Kathleen Moore,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.35,244.35,0 days 00:04:04.350000,2020-02-21,2020.0,North Carolina State University,2020 ACC Champs women,1999-03-25,22
+Margaret Nelson,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.36,244.36,0 days 00:04:04.360000,2020-02-21,2020.0,University of Virginia,2020 ACC Champs women,2001-07-28,22
+Vanessa Pearl,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.61,244.61,0 days 00:04:04.610000,2020-02-20,2020.0,University of Florida,2020 SEC Champs,1999-10-18,22
+Meghan Small,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.83,244.83,0 days 00:04:04.830000,2019-11-22,2020.0,University of Tennessee,2019 UT Invite,1998-05-25,22
+Alicia Wilson,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.99,244.99,0 days 00:04:04.990000,2020-02-28,2020.0,University of California Berkeley,2020 PAC-12 Champs women,2000-03-05,22
+Emma Muzzy,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.08,245.08,0 days 00:04:05.080000,2020-02-21,2020.0,North Carolina State University,2020 ACC Champs women,2000-11-21,22
+Bailey Bonnett,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.62,245.62,0 days 00:04:05.620000,2020-02-20,2020.0,University of Kentucky,2020 SEC Champs,1998-10-30,22
+Alexis Yager,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.75,245.75,0 days 00:04:05.750000,2020-02-20,2020.0,University of Tennessee,2020 SEC Champs,1998-10-22,22
+Abigail Richter,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.86,245.86,0 days 00:04:05.860000,2020-02-21,2020.0,University of Virginia,2020 ACC Champs women,1999-05-15,22
+Alexandra Szekely,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.91,245.91,0 days 00:04:05.910000,2019-11-22,2020.0,Stanford University,Art Adamson Invitational,1998-01-24,22
+Jing Wen Quah,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.18,246.18,0 days 00:04:06.180000,2020-02-20,2020.0,Texas A&M University,2020 SEC Champs,2000-12-20,22
+Genevieve Pfeifer,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.47,246.47,0 days 00:04:06.470000,2020-02-28,2020.0,University of Texas,2020 Big 12 Champs,1999-04-19,22
+Hugo Gonzalez de Oliveira,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.60,216.6,0 days 00:03:36.600000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1999-02-19,22
+Kieran Smith,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.31,217.31,0 days 00:03:37.310000,2020-02-20,2020.0,University of Florida,2020 SEC Champs,2000-05-20,22
+Shaine Casas,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.59,217.59,0 days 00:03:37.590000,2020-03-06,2020.0,Texas A&M University,2020 American Short Course,1999-12-25,22
+Frederick Schubert,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.01,220.01,0 days 00:03:40.010000,2020-02-28,2020.0,University of Virginia,2020 ACC Champs men,1997-10-27,22
+Trenton Julian,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.05,220.05,0 days 00:03:40.050000,2019-12-06,2020.0,University of California Berkeley,Minnesota Invite 2019,1998-12-09,22
+Braden Vines,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.09,220.09,0 days 00:03:40.090000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,1999-12-29,22
+Grant Sanders,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.20,220.2,0 days 00:03:40.200000,2020-02-20,2020.0,University of Florida,2020 SEC Champs,1997-08-01,22
+Charles Swanson,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.26,220.26,0 days 00:03:40.260000,2020-02-28,2020.0,University of Michigan,2020 B1G 10 Champs men,1998-02-20,22
+Jason Louser,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.44,220.44,0 days 00:03:40.440000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,2001-05-30,22
+Jacob Foster,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.71,220.71,0 days 00:03:40.710000,2019-12-06,2020.0,University of Texas,Minnesota Invite 2019,2000-09-06,22
+Jack Hoagland,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.73,220.73,0 days 00:03:40.730000,2020-02-28,2020.0,University of Notre Dame,2020 ACC Champs men,2000-11-12,22
+Christopher Jhong,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.41,221.41,0 days 00:03:41.410000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,2000-03-26,22
+Robert Finke,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.56,221.56,0 days 00:03:41.560000,2020-02-20,2020.0,University of Florida,2020 SEC Champs,1999-11-06,22
+Raunak Khosla,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.75,221.75,0 days 00:03:41.750000,2020-02-28,2020.0,Princeton University,2020 Ivy League Champs men,2000-06-29,22
+Clayton Forde,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.14,222.14,0 days 00:03:42.140000,2019-11-22,2020.0,University of Georgia,2019 UT Invite,1997-06-16,22
+Sean Grieshop,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.18,222.18,0 days 00:03:42.180000,2020-03-06,2020.0,University of California Berkeley,2020 PAC-12 Champs  men,1998-11-23,22

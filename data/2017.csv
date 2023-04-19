@@ -1,0 +1,453 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Simone Manuel,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.17,21.17,0 days 00:00:21.170000,2017-03-16,2017.0,Stanford University,2017 NCAA DI - Women,1996-08-02,1
+Olivia Smoliga,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.27,21.27,0 days 00:00:21.270000,2017-03-16,2017.0,University of Georgia,2017 NCAA DI - Women,1994-10-12,1
+Zhesi Li,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.29,21.29,0 days 00:00:21.290000,2017-03-16,2017.0,Ohio State University,2017 NCAA DI - Women,1995-08-07,1
+Farida Osman,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.38,21.38,0 days 00:00:21.380000,2017-03-16,2017.0,University of California Berkeley,2017 NCAA DI - Women,1995-01-18,1
+Abbigail Weitzeil,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.40,21.4,0 days 00:00:21.400000,2017-02-23,2017.0,University of California Berkeley,2017 PAC 12 Champs women,1996-12-03,1
+Madeline Banic,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.54,21.54,0 days 00:00:21.540000,2017-02-15,2017.0,University of Tennessee,2017 SEC Champs,1997-04-12,1
+Lia Neal,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.65,21.65,0 days 00:00:21.650000,2017-03-16,2017.0,Stanford University,2017 NCAA DI - Women,1995-02-13,1
+Linnea Mack,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.67,21.67,0 days 00:00:21.670000,2017-02-23,2017.0,Los Angeles University of California,2017 PAC 12 Champs women,1995-11-27,1
+Katrina Konopka-Reid,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.71,21.71,0 days 00:00:21.710000,2017-02-23,2017.0,University of Arizona,2017 PAC 12 Champs women,1997-04-14,1
+Rebecca Millard,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.73,21.73,0 days 00:00:21.730000,2017-03-16,2017.0,University of Texas,2017 NCAA DI - Women,1995-02-03,1
+Anika Apostalon,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.75,21.75,0 days 00:00:21.750000,2017-02-23,2017.0,University of Southern California,2017 PAC 12 Champs women,1995-02-09,1
+Madelyn Murphy,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.76,21.76,0 days 00:00:21.760000,2017-03-16,2017.0,University of California Berkeley,2017 NCAA DI - Women,1998-05-19,1
+Chantal Van Landeghem,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.76,21.76,0 days 00:00:21.760000,2016-12-02,2017.0,University of Georgia,UGA Fall Invitational 2016,1994-03-05,1
+Caroline Baldwin,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.78,21.78,0 days 00:00:21.780000,2017-02-14,2017.0,University of North Carolina Chapel Hill,2017 ACC Champs women,1996-02-26,1
+Ky-lee Perry,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.80,21.8,0 days 00:00:21.800000,2017-02-14,2017.0,North Carolina State University,2017 ACC Champs women,1998-07-17,1
+Bailey Scott,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.84,21.84,0 days 00:00:21.840000,2017-02-15,2017.0,University of Alabama,2017 SEC Champs,1994-09-08,1
+Caeleb Dressel,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.23,18.23,0 days 00:00:18.230000,2017-03-23,2017.0,University of Florida,2017 NCAA DI - Men,1996-08-16,1
+Ryan Held,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.58,18.58,0 days 00:00:18.580000,2017-03-23,2017.0,North Carolina State University,2017 NCAA DI - Men,1995-06-27,1
+Joseph Schooling,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.76,18.76,0 days 00:00:18.760000,2017-02-23,2017.0,University of Texas,2017 Big 12 Champs,1995-06-16,1
+Paul Powers,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.80,18.8,0 days 00:00:18.800000,2017-02-23,2017.0,University of Michigan,2017 B1G 10 Champs men,1995-11-07,1
+Pawel Sendyk,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.92,18.92,0 days 00:00:18.920000,2017-03-23,2017.0,University of California Berkeley,2017 NCAA DI - Men,1997-05-24,1
+Zachary Apple,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.93,18.93,0 days 00:00:18.930000,2017-03-23,2017.0,Auburn University,2017 NCAA DI - Men,1997-04-23,1
+Ali Khalafalla,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.94,18.94,0 days 00:00:18.940000,2017-02-23,2017.0,Indiana University,2017 B1G 10 Champs men,1996-05-13,1
+Brett Ringgold,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.96,18.96,0 days 00:00:18.960000,2017-03-23,2017.0,University of Texas,2017 NCAA DI - Men,1995-06-27,1
+Michael Chadwick,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.97,18.97,0 days 00:00:18.970000,2017-03-23,2017.0,University of Missouri,2017 NCAA DI - Men,1995-04-15,1
+Shane Ryan,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.03,19.03,0 days 00:00:19.030000,2017-02-23,2017.0,Pennsylvania State University,2017 B1G 10 Champs men,1994-01-27,1
+Cory Bolleter,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.04,19.04,0 days 00:00:19.040000,2017-02-15,2017.0,Texas A&M University,2017 SEC Champs,1994-06-07,1
+Dylan Carter,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.04,19.04,0 days 00:00:19.040000,2017-03-23,2017.0,University of Southern California,2017 NCAA DI - Men,1996-01-30,1
+John Conger,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.05,19.05,0 days 00:00:19.050000,2017-03-23,2017.0,University of Texas,2017 NCAA DI - Men,1994-09-26,1
+Bowen Becker,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.08,19.08,0 days 00:00:19.080000,2017-02-23,2017.0,University of Minnesota,2017 B1G 10 Champs men,1997-07-07,1
+Samuel Perry,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.13,19.13,0 days 00:00:19.130000,2017-03-23,2017.0,Stanford University,2017 NCAA DI - Men,1995-08-16,1
+Michael Jensen,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.14,19.14,0 days 00:00:19.140000,2017-03-23,2017.0,University of California Berkeley,2017 NCAA DI - Men,1997-12-11,1
+Simone Manuel,100 Freestyle SCY Female,100,Freestyle,SCY,Female,45.56,45.56,0 days 00:00:45.560000,2017-03-18,2017.0,Stanford University,2017 NCAA DI - Women,1996-08-02,2
+Olivia Smoliga,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.30,46.3,0 days 00:00:46.300000,2017-03-18,2017.0,University of Georgia,2017 NCAA DI - Women,1994-10-12,2
+Mallory Comerford,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.35,46.35,0 days 00:00:46.350000,2017-03-18,2017.0,University of Louisville,2017 NCAA DI - Women,1997-09-06,2
+Lia Neal,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.76,46.76,0 days 00:00:46.760000,2017-03-18,2017.0,Stanford University,2017 NCAA DI - Women,1995-02-13,2
+Louise Hansson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.03,47.03,0 days 00:00:47.030000,2017-02-25,2017.0,University of Southern California,2017 PAC 12 Champs women,1996-11-24,2
+Farida Osman,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.07,47.07,0 days 00:00:47.070000,2017-03-18,2017.0,University of California Berkeley,2017 NCAA DI - Women,1995-01-18,2
+Abbigail Weitzeil,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.22,47.22,0 days 00:00:47.220000,2016-12-04,2017.0,University of California Berkeley,UGA Fall Invitational 2016,1996-12-03,2
+Beryl Gastaldello,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.34,47.34,0 days 00:00:47.340000,2017-03-18,2017.0,Texas A&M University,2017 NCAA DI - Women,1995-02-16,2
+Chantal Van Landeghem,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.37,47.37,0 days 00:00:47.370000,2017-03-18,2017.0,University of Georgia,2017 NCAA DI - Women,1994-03-05,2
+Alexia Zevnik,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.38,47.38,0 days 00:00:47.380000,2017-02-16,2017.0,North Carolina State University,2017 ACC Champs women,1994-03-04,2
+Siobhan Haughey,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.39,47.39,0 days 00:00:47.390000,2017-03-18,2017.0,University of Michigan,2017 NCAA DI - Women,1997-10-31,2
+Zhesi Li,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.50,47.5,0 days 00:00:47.500000,2017-02-18,2017.0,Ohio State University,2017 B1G 10 Champs women,1995-08-07,2
+Amy Bilquist,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.55,47.55,0 days 00:00:47.550000,2017-03-18,2017.0,University of California Berkeley,2017 NCAA DI - Women,1997-08-11,2
+Rebecca Millard,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.56,47.56,0 days 00:00:47.560000,2017-03-18,2017.0,University of Texas,2017 NCAA DI - Women,1995-02-03,2
+Caroline Baldwin,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.70,47.7,0 days 00:00:47.700000,2017-03-18,2017.0,University of North Carolina Chapel Hill,2017 NCAA DI - Women,1996-02-26,2
+Courtney Caldwell,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.75,47.75,0 days 00:00:47.750000,2017-03-18,2017.0,North Carolina State University,2017 NCAA DI - Women,1997-07-22,2
+Caeleb Dressel,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.00,40.0,0 days 00:00:40,2017-03-25,2017.0,University of Florida,2017 NCAA DI - Men,1996-08-16,2
+Michael Chadwick,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.95,40.95,0 days 00:00:40.950000,2017-03-25,2017.0,University of Missouri,2017 NCAA DI - Men,1995-04-15,2
+Ryan Held,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.21,41.21,0 days 00:00:41.210000,2017-03-25,2017.0,North Carolina State University,2017 NCAA DI - Men,1995-06-27,2
+Blake Pieroni,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.44,41.44,0 days 00:00:41.440000,2017-02-25,2017.0,Indiana University,2017 B1G 10 Champs men,1995-11-15,2
+Samuel Perry,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.71,41.71,0 days 00:00:41.710000,2017-03-25,2017.0,Stanford University,2017 NCAA DI - Men,1995-08-16,2
+Dylan Carter,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.73,41.73,0 days 00:00:41.730000,2017-03-25,2017.0,University of Southern California,2017 NCAA DI - Men,1996-01-30,2
+Santo Condorelli,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.77,41.77,0 days 00:00:41.770000,2017-03-25,2017.0,University of Southern California,2017 NCAA DI - Men,1995-01-17,2
+Brett Ringgold,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.77,41.77,0 days 00:00:41.770000,2017-03-25,2017.0,University of Texas,2017 NCAA DI - Men,1995-06-27,2
+Shane Ryan,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.86,41.86,0 days 00:00:41.860000,2017-02-25,2017.0,Pennsylvania State University,2017 B1G 10 Champs men,1994-01-27,2
+Cameron Craig,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.95,41.95,0 days 00:00:41.950000,2017-03-04,2017.0,Arizona State University,2017 PAC 12 Champs men,1998-02-09,2
+Francis Haas,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.96,41.96,0 days 00:00:41.960000,2017-03-25,2017.0,University of Texas,2017 NCAA DI - Men,1996-12-13,2
+Cannon Clifton,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.00,42.0,0 days 00:00:42,2017-02-25,2017.0,University of Wisconsin Madison,2017 B1G 10 Champs men,1994-08-28,2
+Dean Farris,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.06,42.06,0 days 00:00:42.060000,2017-02-25,2017.0,Harvard University,2017 Ivy League Champs men,1997-11-14,2
+Kyle Decoursey,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.07,42.07,0 days 00:00:42.070000,2017-02-18,2017.0,University of Tennessee,2017 SEC Champs,1996-12-27,2
+Matt McHugh,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.09,42.09,0 days 00:00:42.090000,2017-02-25,2017.0,Ohio State University,2017 B1G 10 Champs men,1995-08-09,2
+Justin Ress,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.12,42.12,0 days 00:00:42.120000,2017-03-02,2017.0,North Carolina State University,2017 ACC Champs men,1997-08-03,2
+Mallory Comerford,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:40.36,100.36,0 days 00:01:40.360000,2017-03-17,2017.0,University of Louisville,2017 NCAA DI - Women,1997-09-06,3
+Kathleen Ledecky,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:40.36,100.36,0 days 00:01:40.360000,2017-03-17,2017.0,Stanford University,2017 NCAA DI - Women,1997-03-17,3
+Simone Manuel,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:40.37,100.37,0 days 00:01:40.370000,2017-02-24,2017.0,Stanford University,2017 PAC 12 Champs women,1996-08-02,3
+Siobhan Haughey,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.21,101.21,0 days 00:01:41.210000,2017-03-17,2017.0,University of Michigan,2017 NCAA DI - Women,1997-10-31,3
+Louise Hansson,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.10,102.1,0 days 00:01:42.100000,2017-02-22,2017.0,University of Southern California,2017 PAC 12 Champs women,1996-11-24,3
+Leah Smith,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.46,102.46,0 days 00:01:42.460000,2017-03-15,2017.0,University of Virginia,2017 NCAA DI - Women,1995-04-19,3
+Kathleen Baker,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.66,102.66,0 days 00:01:42.660000,2017-03-15,2017.0,University of California Berkeley,2017 NCAA DI - Women,1997-02-28,3
+Gabrielle DeLoof,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.11,103.11,0 days 00:01:43.110000,2017-03-17,2017.0,University of Michigan,2017 NCAA DI - Women,1996-03-13,3
+Kathryn McLaughlin,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.17,103.17,0 days 00:01:43.170000,2017-03-17,2017.0,University of California Berkeley,2017 NCAA DI - Women,1997-07-09,3
+Cierra Runge,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.18,103.18,0 days 00:01:43.180000,2016-12-02,2017.0,University of Wisconsin Madison,Texas Hall of Fame Swimming In,1996-03-07,3
+Jacqueline Keire,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.19,103.19,0 days 00:01:43.190000,2016-11-18,2017.0,University of Cincinnati,Bearcat Midseason Invitational,1994-10-19,3
+Lia Neal,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.19,103.19,0 days 00:01:43.190000,2017-03-17,2017.0,Stanford University,2017 NCAA DI - Women,1995-02-13,3
+Kennedy Goss,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.37,103.37,0 days 00:01:43.370000,2017-03-15,2017.0,Indiana University,2017 NCAA DI - Women,1996-08-19,3
+Hannah Cox,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.53,103.53,0 days 00:01:43.530000,2017-03-15,2017.0,University of Arizona,2017 NCAA DI - Women,1998-01-15,3
+Madisyn Cox,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.53,103.53,0 days 00:01:43.530000,2017-03-15,2017.0,University of Texas,2017 NCAA DI - Women,1995-05-30,3
+Sarah Gibson,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.64,103.64,0 days 00:01:43.640000,2017-02-14,2017.0,Texas A&M University,2017 SEC Champs,1995-04-20,3
+Francis Haas,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.65,90.65,0 days 00:01:30.650000,2017-03-24,2017.0,University of Texas,2017 NCAA DI - Men,1996-12-13,3
+Blake Pieroni,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.87,90.87,0 days 00:01:30.870000,2017-03-22,2017.0,Indiana University,2017 NCAA DI - Men,1995-11-15,3
+Dylan Carter,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.95,90.95,0 days 00:01:30.950000,2017-03-22,2017.0,University of Southern California,2017 NCAA DI - Men,1996-01-30,3
+Ryan Held,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.37,91.37,0 days 00:01:31.370000,2017-03-22,2017.0,North Carolina State University,2017 NCAA DI - Men,1995-06-27,3
+John Conger,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.54,91.54,0 days 00:01:31.540000,2017-03-22,2017.0,University of Texas,2017 NCAA DI - Men,1994-09-26,3
+Dean Farris,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.56,91.56,0 days 00:01:31.560000,2017-02-24,2017.0,Harvard University,2017 Ivy League Champs men,1997-11-14,3
+Cameron Craig,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.71,91.71,0 days 00:01:31.710000,2017-03-03,2017.0,Arizona State University,2017 PAC 12 Champs men,1998-02-09,3
+Felix Auboeck,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.02,92.02,0 days 00:01:32.020000,2017-03-22,2017.0,University of Michigan,2017 NCAA DI - Men,1996-12-19,3
+Maxime Rooney,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.18,92.18,0 days 00:01:32.180000,2017-02-16,2017.0,University of Florida,2017 SEC Champs,1998-04-16,3
+Jan Switkowski,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.44,92.44,0 days 00:01:32.440000,2017-03-22,2017.0,University of Florida,2017 NCAA DI - Men,1994-01-23,3
+Soeren Dahl,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.55,92.55,0 days 00:01:32.550000,2017-03-24,2017.0,North Carolina State University,2017 NCAA DI - Men,1993-07-15,3
+Trevor Carroll,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.10,93.1,0 days 00:01:33.100000,2017-03-01,2017.0,University of Louisville,2017 ACC Champs men,1995-03-23,3
+Brett Pinfold,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.21,93.21,0 days 00:01:33.210000,2017-03-24,2017.0,University of Wisconsin Madison,2017 NCAA DI - Men,1995-04-22,3
+Marwan Aly ElKamash,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.25,93.25,0 days 00:01:33.250000,2017-02-24,2017.0,Indiana University,2017 B1G 10 Champs men,1993-11-14,3
+Joshua Fleagle,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.25,93.25,0 days 00:01:33.250000,2017-02-24,2017.0,Ohio State University,2017 B1G 10 Champs men,1993-12-23,3
+Long Yuan Gutierrez Feng,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.31,93.31,0 days 00:01:33.310000,2017-03-22,2017.0,University of California Berkeley,2017 NCAA DI - Men,1995-02-23,3
+Tom Kremer,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.31,93.31,0 days 00:01:33.310000,2017-03-24,2017.0,Stanford University,2017 NCAA DI - Men,1994-08-24,3
+Justin Ress,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.31,93.31,0 days 00:01:33.310000,2017-03-01,2017.0,North Carolina State University,2017 ACC Champs men,1997-08-03,3
+Andrew Seliskar,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.31,93.31,0 days 00:01:33.310000,2016-12-03,2017.0,University of California Berkeley,UGA Fall Invitational 2016,1996-09-26,3
+Andreas Vazaios,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.31,93.31,0 days 00:01:33.310000,2017-02-27,2017.0,North Carolina State University,2017 ACC Champs men,1994-05-09,3
+Kathleen Ledecky,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:24.06,264.06,0 days 00:04:24.060000,2017-03-16,2017.0,Stanford University,2017 NCAA DI - Women,1997-03-17,4
+Leah Smith,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:28.90,268.9,0 days 00:04:28.900000,2017-03-16,2017.0,University of Virginia,2017 NCAA DI - Women,1995-04-19,4
+G Ryan,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.28,274.28,0 days 00:04:34.280000,2016-12-02,2017.0,University of Michigan,UGA Fall Invitational 2016,1995-10-01,4
+Yirong Bi,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.63,274.63,0 days 00:04:34.630000,2016-12-02,2017.0,University of Michigan,UGA Fall Invitational 2016,1996-06-20,4
+Cierra Runge,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.55,275.55,0 days 00:04:35.550000,2016-12-01,2017.0,University of Wisconsin Madison,Texas Hall of Fame Swimming In,1996-03-07,4
+Katherine Drabot,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.69,275.69,0 days 00:04:35.690000,2017-02-23,2017.0,Stanford University,2017 PAC 12 Champs women,1997-09-02,4
+Kathryn McLaughlin,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.04,276.04,0 days 00:04:36.040000,2017-02-23,2017.0,University of California Berkeley,2017 PAC 12 Champs women,1997-07-09,4
+Kennedy Goss,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.13,276.13,0 days 00:04:36.130000,2017-03-16,2017.0,Indiana University,2017 NCAA DI - Women,1996-08-19,4
+Mallory Comerford,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.16,276.16,0 days 00:04:36.160000,2017-03-16,2017.0,University of Louisville,2017 NCAA DI - Women,1997-09-06,4
+Hannah Moore,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.85,276.85,0 days 00:04:36.850000,2017-03-16,2017.0,North Carolina State University,2017 NCAA DI - Women,1996-08-22,4
+Joanna Evans,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.97,276.97,0 days 00:04:36.970000,2017-02-23,2017.0,University of Texas,2017 Big 12 Champs,1997-07-25,4
+Kaersten Meitz,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.45,277.45,0 days 00:04:37.450000,2017-02-16,2017.0,Purdue University,2017 B1G 10 Champs women,1995-12-04,4
+Lindsey Clary,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.65,277.65,0 days 00:04:37.650000,2017-02-16,2017.0,Ohio State University,2017 B1G 10 Champs women,1995-10-20,4
+Megan Byrnes,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.78,277.78,0 days 00:04:37.780000,2017-03-16,2017.0,Stanford University,2017 NCAA DI - Women,1998-09-23,4
+Danielle Valley,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.07,278.07,0 days 00:04:38.070000,2017-03-16,2017.0,University of Wisconsin Madison,2017 NCAA DI - Women,1995-05-11,4
+Rebecca Postoll,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.16,278.16,0 days 00:04:38.160000,2017-02-16,2017.0,University of Michigan,2017 B1G 10 Champs women,1997-03-13,4
+Clark Smith,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.42,248.42,0 days 00:04:08.420000,2017-03-23,2017.0,University of Texas,2017 NCAA DI - Men,1995-04-17,4
+Francis Haas,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.92,248.92,0 days 00:04:08.920000,2017-03-23,2017.0,University of Texas,2017 NCAA DI - Men,1996-12-13,4
+Felix Auboeck,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.95,248.95,0 days 00:04:08.950000,2017-03-23,2017.0,University of Michigan,2017 NCAA DI - Men,1996-12-19,4
+Fynn Minuth,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.55,249.55,0 days 00:04:09.550000,2017-03-23,2017.0,University of South Carolina Columbia,2017 NCAA DI - Men,1997-11-26,4
+Ahmed Mahmoud,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.73,249.73,0 days 00:04:09.730000,2017-03-23,2017.0,University of South Carolina Columbia,2017 NCAA DI - Men,1996-10-20,4
+Grant Shoults,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.23,250.23,0 days 00:04:10.230000,2017-03-23,2017.0,Stanford University,2017 NCAA DI - Men,1997-06-06,4
+Marwan Aly ElKamash,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.87,250.87,0 days 00:04:10.870000,2017-03-23,2017.0,Indiana University,2017 NCAA DI - Men,1993-11-14,4
+Anton Ipsen,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.73,251.73,0 days 00:04:11.730000,2017-03-23,2017.0,North Carolina State University,2017 NCAA DI - Men,1994-09-04,4
+Matthew Hutchins,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.98,251.98,0 days 00:04:11.980000,2017-02-23,2017.0,University of Wisconsin Madison,2017 B1G 10 Champs men,1994-09-19,4
+Henry Campbell,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.11,252.11,0 days 00:04:12.110000,2017-02-28,2017.0,University of North Carolina Chapel Hill,2017 ACC Champs men,1996-08-29,4
+Liam Egan,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.36,252.36,0 days 00:04:12.360000,2017-03-23,2017.0,Stanford University,2017 NCAA DI - Men,1996-03-22,4
+Andrea D'Arrigo,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.43,252.43,0 days 00:04:12.430000,2017-02-15,2017.0,University of Florida,2017 SEC Champs,1995-04-28,4
+Nicholas Sweetser,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.97,252.97,0 days 00:04:12.970000,2016-12-01,2017.0,Stanford University,Texas Hall of Fame Swimming In,1997-10-14,4
+Jordan Wilimovsky,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.37,253.37,0 days 00:04:13.370000,2017-03-23,2017.0,Northwestern University,2017 NCAA DI - Men,1994-04-22,4
+Adam Linker,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.93,253.93,0 days 00:04:13.930000,2017-02-28,2017.0,North Carolina State University,2017 ACC Champs men,1995-08-03,4
+Tomas Peribonio Avila,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.09,254.09,0 days 00:04:14.090000,2017-03-23,2017.0,University of South Carolina Columbia,2017 NCAA DI - Men,1996-01-16,4
+Kathleen Ledecky,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:06.90,546.9,0 days 00:09:06.900000,2017-03-15,2017.0,Stanford University,2017 NCAA DI - Women,1997-03-17,5
+Leah Smith,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:21.54,561.54,0 days 00:09:21.540000,2016-11-13,2017.0,University of Virginia,2016 College Challenge,1995-04-19,5
+Yirong Bi,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:28.38,568.38,0 days 00:09:28.380000,2016-11-13,2017.0,University of Michigan,2016 College Challenge,1996-06-20,5
+Hannah Moore,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:35.51,575.51,0 days 00:09:35.510000,2016-11-04,2017.0,North Carolina State University,UT Men & Women vs. NC State,1996-08-22,5
+Megan Byrnes,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:35.89,575.89,0 days 00:09:35.890000,2017-02-25,2017.0,Stanford University,2017 PAC 12 Champs women,1998-09-23,5
+Lindsey Clary,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:37.99,577.99,0 days 00:09:37.990000,2016-11-13,2017.0,Ohio State University,2016 College Challenge,1995-10-20,5
+Kaersten Meitz,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:38.79,578.79,0 days 00:09:38.790000,2016-11-13,2017.0,Purdue University,2016 College Challenge,1995-12-04,5
+G Ryan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:40.32,580.32,0 days 00:09:40.320000,2016-11-05,2017.0,University of Michigan,UVa vs. Michigan/Penn St.,1995-10-01,5
+Ashley Neidigh,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.98,581.98,0 days 00:09:41.980000,2017-01-12,2017.0,Auburn University,Texas vs Auburn,1995-05-26,5
+Joanna Evans,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.43,583.43,0 days 00:09:43.430000,2016-11-04,2017.0,University of Texas,UT Men & Women vs. NC State,1997-07-25,5
+Tjasa Oder,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.98,583.98,0 days 00:09:43.980000,2017-02-04,2017.0,University of Arizona,Arizona vs Arizona State,1994-06-22,5
+Cailley Silbert,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.17,584.17,0 days 00:09:44.170000,2017-02-17,2017.0,Yale University,2017 Ivy League Champs women,1996-01-13,5
+Stephanie Peters,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.57,584.57,0 days 00:09:44.570000,2016-11-04,2017.0,University of Georgia,Wisconsin vs UGA,1995-10-10,5
+Katherine Drabot,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.05,585.05,0 days 00:09:45.050000,2017-01-27,2017.0,Stanford University,UCLA @ Stanford Women,1997-09-02,5
+Sandra Soe,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.56,585.56,0 days 00:09:45.560000,2017-02-10,2017.0,Los Angeles University of California,USC v UCLA Women,1997-06-23,5
+Brooke Zeiger,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:47.30,587.3,0 days 00:09:47.300000,2016-11-13,2017.0,University of Minnesota,2016 College Challenge,1996-01-09,5
+Jordan Wilimovsky,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:46.34,526.34,0 days 00:08:46.340000,2016-11-13,2017.0,Northwestern University,2016 College Challenge,1994-04-22,5
+Kei Hyogo,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:49.45,529.45,0 days 00:08:49.450000,2017-02-24,2017.0,Yale University,2017 Ivy League Champs men,1995-09-29,5
+Matthew Hutchins,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:51.36,531.36,0 days 00:08:51.360000,2017-02-03,2017.0,University of Wisconsin Madison,Wisconsin vs. Green Bay,1994-09-19,5
+Anton Ipsen,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:52.04,532.04,0 days 00:08:52.040000,2016-11-04,2017.0,North Carolina State University,UT Men & Women vs. NC State,1994-09-04,5
+Patrick Ransford,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.40,535.4,0 days 00:08:55.400000,2016-11-13,2017.0,University of Michigan,2016 College Challenge,1996-09-08,5
+Clark Smith,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.86,537.86,0 days 00:08:57.860000,2017-01-14,2017.0,University of Texas,UGA vs Texas,1995-04-17,5
+Nicholas Sweetser,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:59.73,539.73,0 days 00:08:59.730000,2017-02-04,2017.0,Stanford University,USC @ Stanford Men,1997-10-14,5
+David Heron,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.64,540.64,0 days 00:09:00.640000,2017-01-28,2017.0,University of Tennessee,University of Florida vs. Tenn,1995-03-26,5
+Ben Lawless,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.79,540.79,0 days 00:09:00.790000,2017-01-28,2017.0,University of Florida,University of Florida vs. Tenn,1996-07-23,5
+Zachary Snyder,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.99,540.99,0 days 00:09:00.990000,2017-02-24,2017.0,Harvard University,2017 Ivy League Champs men,1997-12-23,5
+Marwan Aly ElKamash,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.37,541.37,0 days 00:09:01.370000,2017-01-27,2017.0,Indiana University,IU -  Louisville,1993-11-14,5
+Marcelo Acosta,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.98,541.98,0 days 00:09:01.980000,2017-01-27,2017.0,University of Louisville,IU -  Louisville,1996-07-11,5
+Taylor Uselis,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:03.07,543.07,0 days 00:09:03.070000,2017-02-24,2017.0,University of Pennsylvania,2017 Ivy League Champs men,1996-03-21,5
+Karl Bishop,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:03.40,543.4,0 days 00:09:03.400000,2017-02-15,2017.0,University of Connecticut,2017 American Ath. Conf. ,1998-02-19,5
+Christopher Wieser,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:03.56,543.56,0 days 00:09:03.560000,2017-02-04,2017.0,University of Arizona,Arizona vs Arizona State,1995-12-19,5
+Adam Linker,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:03.83,543.83,0 days 00:09:03.830000,2017-01-28,2017.0,North Carolina State University,North Carolina State  vs Univ.,1995-08-03,5
+Kathleen Ledecky,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:03.92,903.92,0 days 00:15:03.920000,2016-11-20,2017.0,Stanford University,Ohio State Invitational,1997-03-17,6
+Leah Smith,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:28.89,928.89,0 days 00:15:28.890000,2017-03-18,2017.0,University of Virginia,2017 NCAA DI - Women,1995-04-19,6
+Brooke Zeiger,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:44.00,944.0,0 days 00:15:44,2016-12-03,2017.0,University of Minnesota,2016 Winter Nationals,1996-01-09,6
+G Ryan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:44.93,944.93,0 days 00:15:44.930000,2017-02-18,2017.0,University of Michigan,2017 B1G 10 Champs women,1995-10-01,6
+Megan Byrnes,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:47.62,947.62,0 days 00:15:47.620000,2017-02-25,2017.0,Stanford University,2017 PAC 12 Champs women,1998-09-23,6
+Cierra Runge,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:51.72,951.72,0 days 00:15:51.720000,2017-02-18,2017.0,University of Wisconsin Madison,2017 B1G 10 Champs women,1996-03-07,6
+Yirong Bi,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:51.94,951.94,0 days 00:15:51.940000,2016-12-04,2017.0,University of Michigan,UGA Fall Invitational 2016,1996-06-20,6
+Rebecca Mann,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:52.30,952.3,0 days 00:15:52.300000,2017-02-10,2017.0,University of Southern California,USC v UCLA Women,1997-11-26,6
+Hannah Moore,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:52.75,952.75,0 days 00:15:52.750000,2017-03-18,2017.0,North Carolina State University,2017 NCAA DI - Women,1996-08-22,6
+Danielle Valley,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:53.16,953.16,0 days 00:15:53.160000,2017-02-18,2017.0,University of Wisconsin Madison,2017 B1G 10 Champs women,1995-05-11,6
+Joanna Evans,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:54.46,954.46,0 days 00:15:54.460000,2017-03-18,2017.0,University of Texas,2017 NCAA DI - Women,1997-07-25,6
+Ashley Neidigh,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:54.88,954.88,0 days 00:15:54.880000,2017-03-18,2017.0,Auburn University,2017 NCAA DI - Women,1995-05-26,6
+Lindsey Clary,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:57.03,957.03,0 days 00:15:57.030000,2016-12-03,2017.0,Ohio State University,2016 Winter Nationals,1995-10-20,6
+Genevieve Miller,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:58.06,958.06,0 days 00:15:58.060000,2017-02-18,2017.0,U.S. Air Force Academy (W),2017 MW Champs,1995-08-06,6
+Allyson McHugh,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:58.92,958.92,0 days 00:15:58.920000,2017-03-18,2017.0,Pennsylvania State University,2017 NCAA DI - Women,1997-05-14,6
+Tjasa Oder,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.23,959.23,0 days 00:15:59.230000,2017-03-18,2017.0,University of Arizona,2017 NCAA DI - Women,1994-06-22,6
+Clark Smith,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:22.41,862.41,0 days 00:14:22.410000,2017-03-25,2017.0,University of Texas,2017 NCAA DI - Men,1995-04-17,6
+Felix Auboeck,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:22.88,862.88,0 days 00:14:22.880000,2017-03-25,2017.0,University of Michigan,2017 NCAA DI - Men,1996-12-19,6
+Ahmed Mahmoud,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:22.99,862.99,0 days 00:14:22.990000,2017-03-25,2017.0,University of South Carolina Columbia,2017 NCAA DI - Men,1996-10-20,6
+Jordan Wilimovsky,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:23.45,863.45,0 days 00:14:23.450000,2017-03-25,2017.0,Northwestern University,2017 NCAA DI - Men,1994-04-22,6
+Matthew Hutchins,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:31.19,871.19,0 days 00:14:31.190000,2017-03-25,2017.0,University of Wisconsin Madison,2017 NCAA DI - Men,1994-09-19,6
+Patrick Ransford,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:32.35,872.35,0 days 00:14:32.350000,2017-03-25,2017.0,University of Michigan,2017 NCAA DI - Men,1996-09-08,6
+Marcelo Acosta,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:33.68,873.68,0 days 00:14:33.680000,2017-03-02,2017.0,University of Louisville,2017 ACC Champs men,1996-07-11,6
+Anton Ipsen,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:34.85,874.85,0 days 00:14:34.850000,2017-03-25,2017.0,North Carolina State University,2017 NCAA DI - Men,1994-09-04,6
+Nicholas Sweetser,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:35.03,875.03,0 days 00:14:35.030000,2016-12-03,2017.0,Stanford University,Texas Hall of Fame Swimming In,1997-10-14,6
+Grant Shoults,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:35.82,875.82,0 days 00:14:35.820000,2017-03-25,2017.0,Stanford University,2017 NCAA DI - Men,1997-06-06,6
+Andrea D'Arrigo,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:38.40,878.4,0 days 00:14:38.400000,2017-03-25,2017.0,University of Florida,2017 NCAA DI - Men,1995-04-28,6
+Adam Linker,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.46,880.46,0 days 00:14:40.460000,2017-03-25,2017.0,North Carolina State University,2017 NCAA DI - Men,1995-08-03,6
+Matthew Bekemeyer,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:44.17,884.17,0 days 00:14:44.170000,2017-03-25,2017.0,University of South Carolina Columbia,2017 NCAA DI - Men,1996-10-21,6
+Christopher Wieser,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:44.45,884.45,0 days 00:14:44.450000,2017-03-25,2017.0,University of Arizona,2017 NCAA DI - Men,1995-12-19,6
+Tomas Peribonio Avila,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:45.37,885.37,0 days 00:14:45.370000,2017-03-25,2017.0,University of South Carolina Columbia,2017 NCAA DI - Men,1996-01-16,6
+Blake Manganiello,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:46.33,886.33,0 days 00:14:46.330000,2017-02-26,2017.0,University of Florida,2017 Last Chance Meet,1995-06-21,6
+Kathleen Baker,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.80,49.8,0 days 00:00:49.800000,2017-03-15,2017.0,University of California Berkeley,2017 NCAA DI - Women,1997-02-28,12
+Olivia Smoliga,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.04,50.04,0 days 00:00:50.040000,2017-03-17,2017.0,University of Georgia,2017 NCAA DI - Women,1994-10-12,12
+Nadine Laemmler,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.54,50.54,0 days 00:00:50.540000,2017-03-16,2017.0,University of Missouri,2017 NCAA DI - Women,1994-05-19,12
+Linnea Mack,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.56,50.56,0 days 00:00:50.560000,2017-02-24,2017.0,Los Angeles University of California,2017 PAC 12 Champs women,1995-11-27,12
+Hannah Stevens,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.57,50.57,0 days 00:00:50.570000,2017-03-17,2017.0,University of Missouri,2017 NCAA DI - Women,1995-05-09,12
+Alexia Zevnik,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.80,50.8,0 days 00:00:50.800000,2017-02-15,2017.0,North Carolina State University,2017 ACC Champs women,1994-03-04,12
+Tasija Karosas,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.83,50.83,0 days 00:00:50.830000,2017-03-16,2017.0,University of Texas,2017 NCAA DI - Women,1995-08-11,12
+Amy Bilquist,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.85,50.85,0 days 00:00:50.850000,2016-12-02,2017.0,University of California Berkeley,UGA Fall Invitational 2016,1997-08-11,12
+Hellen Moffitt,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.94,50.94,0 days 00:00:50.940000,2017-03-17,2017.0,University of North Carolina Chapel Hill,2017 NCAA DI - Women,1995-05-21,12
+Claire Adams,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.95,50.95,0 days 00:00:50.950000,2017-03-17,2017.0,University of Texas,2017 NCAA DI - Women,1998-07-26,12
+Elise Haan,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.13,51.13,0 days 00:00:51.130000,2017-02-15,2017.0,North Carolina State University,2017 ACC Champs women,1997-11-11,12
+Courtney Caldwell,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.35,51.35,0 days 00:00:51.350000,2017-02-15,2017.0,North Carolina State University,2017 ACC Champs women,1997-07-22,12
+Caroline Baldwin,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.38,51.38,0 days 00:00:51.380000,2017-02-15,2017.0,University of North Carolina Chapel Hill,2017 ACC Champs women,1996-02-26,12
+Asia Seidt,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.40,51.4,0 days 00:00:51.400000,2017-02-17,2017.0,University of Kentucky,2017 SEC Champs,1997-10-06,12
+Danielle Galyer,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.54,51.54,0 days 00:00:51.540000,2017-03-16,2017.0,University of Kentucky,2017 NCAA DI - Women,1995-09-15,12
+Kira Toussaint,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.54,51.54,0 days 00:00:51.540000,2017-03-17,2017.0,University of Tennessee,2017 NCAA DI - Women,1994-05-22,12
+Ryan Murphy,100 Backstroke SCY Male,100,Backstroke,SCY,Male,43.99,43.99,0 days 00:00:43.990000,2017-03-24,2017.0,University of California Berkeley,2017 NCAA DI - Men,1995-07-02,12
+John Shebat,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.35,44.35,0 days 00:00:44.350000,2017-03-24,2017.0,University of Texas,2017 NCAA DI - Men,1997-02-17,12
+Connor Oslin,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.56,44.56,0 days 00:00:44.560000,2017-03-24,2017.0,University of Alabama,2017 NCAA DI - Men,1994-09-14,12
+Taylor Dale,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.64,44.64,0 days 00:00:44.640000,2017-03-24,2017.0,University of Georgia,2017 NCAA DI - Men,1994-12-29,12
+Shane Ryan,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.65,44.65,0 days 00:00:44.650000,2017-02-24,2017.0,Pennsylvania State University,2017 B1G 10 Champs men,1994-01-27,12
+Ralf Tribuntsov,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.76,44.76,0 days 00:00:44.760000,2017-03-23,2017.0,University of Southern California,2017 NCAA DI - Men,1994-09-22,12
+Lucas Kaliszak,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.91,44.91,0 days 00:00:44.910000,2017-03-24,2017.0,University of Alabama,2017 NCAA DI - Men,1995-10-04,12
+Richard Bohus,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.95,44.95,0 days 00:00:44.950000,2017-03-03,2017.0,Arizona State University,2017 PAC 12 Champs men,1993-04-09,12
+Grigory Tarasevich,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.97,44.97,0 days 00:00:44.970000,2017-03-23,2017.0,University of Louisville,2017 NCAA DI - Men,1995-08-01,12
+Mark Nikolaev,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.11,45.11,0 days 00:00:45.110000,2017-02-24,2017.0,Grand Canyon Univ,2017 WAC Champs,1997-07-30,12
+Matt McHugh,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.25,45.25,0 days 00:00:45.250000,2017-02-24,2017.0,Ohio State University,2017 B1G 10 Champs men,1995-08-09,12
+Andreas Vazaios,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.26,45.26,0 days 00:00:45.260000,2017-03-24,2017.0,North Carolina State University,2017 NCAA DI - Men,1994-05-09,12
+Javier Acevedo,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.29,45.29,0 days 00:00:45.290000,2017-03-24,2017.0,University of Georgia,2017 NCAA DI - Men,1998-01-28,12
+Dean Farris,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.38,45.38,0 days 00:00:45.380000,2017-02-24,2017.0,Harvard University,2017 Ivy League Champs men,1997-11-14,12
+Anton Loncar,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.40,45.4,0 days 00:00:45.400000,2017-03-24,2017.0,University of Denver,2017 NCAA DI - Men,1996-01-15,12
+Joseph Patching,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.47,45.47,0 days 00:00:45.470000,2017-03-23,2017.0,Auburn University,2017 NCAA DI - Men,1994-04-16,12
+Kathleen Baker,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.33,108.33,0 days 00:01:48.330000,2017-02-25,2017.0,University of California Berkeley,2017 PAC 12 Champs women,1997-02-28,13
+Alexia Zevnik,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.09,109.09,0 days 00:01:49.090000,2017-03-18,2017.0,North Carolina State University,2017 NCAA DI - Women,1994-03-04,13
+Asia Seidt,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.63,109.63,0 days 00:01:49.630000,2017-03-18,2017.0,University of Kentucky,2017 NCAA DI - Women,1997-10-06,13
+Danielle Galyer,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.73,109.73,0 days 00:01:49.730000,2017-03-18,2017.0,University of Kentucky,2017 NCAA DI - Women,1995-09-15,13
+Tasija Karosas,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.91,109.91,0 days 00:01:49.910000,2017-03-18,2017.0,University of Texas,2017 NCAA DI - Women,1995-08-11,13
+Amy Bilquist,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.06,110.06,0 days 00:01:50.060000,2016-12-04,2017.0,University of California Berkeley,UGA Fall Invitational 2016,1997-08-11,13
+Alex Galyer,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.53,110.53,0 days 00:01:50.530000,2017-03-18,2017.0,University of Kentucky,2017 NCAA DI - Women,1998-06-19,13
+Kennedy Goss,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.62,110.62,0 days 00:01:50.620000,2017-03-18,2017.0,Indiana University,2017 NCAA DI - Women,1996-08-19,13
+Clara Smiddy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.71,110.71,0 days 00:01:50.710000,2017-03-18,2017.0,University of Michigan,2017 NCAA DI - Women,1996-01-04,13
+Nadine Laemmler,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.79,110.79,0 days 00:01:50.790000,2017-03-18,2017.0,University of Missouri,2017 NCAA DI - Women,1994-05-19,13
+Claire Adams,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.16,111.16,0 days 00:01:51.160000,2017-02-25,2017.0,University of Texas,2017 Big 12 Champs,1998-07-26,13
+Hannah Stevens,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.41,111.41,0 days 00:01:51.410000,2017-02-18,2017.0,University of Missouri,2017 SEC Champs,1995-05-09,13
+Bridgette Alexander,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.61,111.61,0 days 00:01:51.610000,2017-03-18,2017.0,University of Kentucky,2017 NCAA DI - Women,1996-06-25,13
+Hellen Moffitt,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.64,111.64,0 days 00:01:51.640000,2017-02-16,2017.0,University of North Carolina Chapel Hill,2017 ACC Champs women,1995-05-21,13
+Lisa Bratton,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.68,111.68,0 days 00:01:51.680000,2017-02-18,2017.0,Texas A&M University,2017 SEC Champs,1996-05-05,13
+Kylie Stewart,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.71,111.71,0 days 00:01:51.710000,2017-03-18,2017.0,University of Georgia,2017 NCAA DI - Women,1996-03-27,13
+Ryan Murphy,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:36.75,96.75,0 days 00:01:36.750000,2017-03-25,2017.0,University of California Berkeley,2017 NCAA DI - Men,1995-07-02,13
+John Shebat,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.24,97.24,0 days 00:01:37.240000,2017-03-25,2017.0,University of Texas,2017 NCAA DI - Men,1997-02-17,13
+Patrick Mulcare,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.80,97.8,0 days 00:01:37.800000,2017-03-25,2017.0,University of Southern California,2017 NCAA DI - Men,1996-05-20,13
+Grigory Tarasevich,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.74,98.74,0 days 00:01:38.740000,2017-03-25,2017.0,University of Louisville,2017 NCAA DI - Men,1995-08-01,13
+Jonathan Roberts,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.05,99.05,0 days 00:01:39.050000,2017-03-25,2017.0,University of Texas,2017 NCAA DI - Men,1995-09-08,13
+Connor Oslin,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.23,99.23,0 days 00:01:39.230000,2017-03-25,2017.0,University of Alabama,2017 NCAA DI - Men,1994-09-14,13
+Anton Loncar,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.29,99.29,0 days 00:01:39.290000,2017-03-25,2017.0,University of Denver,2017 NCAA DI - Men,1996-01-15,13
+Hennessey Stuart,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.47,99.47,0 days 00:01:39.470000,2017-03-02,2017.0,North Carolina State University,2017 ACC Champs men,1995-05-15,13
+Richard Bohus,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.52,99.52,0 days 00:01:39.520000,2017-03-04,2017.0,Arizona State University,2017 PAC 12 Champs men,1993-04-09,13
+Christopher Reid,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.64,99.64,0 days 00:01:39.640000,2017-02-18,2017.0,University of Alabama,2017 SEC Champs,1996-01-10,13
+Patrick Conaton,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.72,99.72,0 days 00:01:39.720000,2017-03-25,2017.0,Stanford University,2017 NCAA DI - Men,1996-02-11,13
+Dean Farris,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.99,99.99,0 days 00:01:39.990000,2017-03-25,2017.0,Harvard University,2017 NCAA DI - Men,1997-11-14,13
+Jay Litherland,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.03,100.03,0 days 00:01:40.030000,2017-03-25,2017.0,University of Georgia,2017 NCAA DI - Men,1995-08-24,13
+Robert Owen,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.15,100.15,0 days 00:01:40.150000,2017-03-25,2017.0,VA Tech,2017 NCAA DI - Men,1995-08-28,13
+Justin Ress,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.26,100.26,0 days 00:01:40.260000,2017-03-02,2017.0,North Carolina State University,2017 ACC Champs men,1997-08-03,13
+Joseph Patching,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.43,100.43,0 days 00:01:40.430000,2017-03-25,2017.0,Auburn University,2017 NCAA DI - Men,1994-04-16,13
+Lillia King,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,56.30,56.3,0 days 00:00:56.300000,2017-02-17,2017.0,Indiana University,2017 B1G 10 Champs women,1997-02-09,15
+Lindsey Kozelsky,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.03,58.03,0 days 00:00:58.030000,2017-03-17,2017.0,University of Minnesota,2017 NCAA DI - Women,1997-09-14,15
+Laura Simon,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.20,58.2,0 days 00:00:58.200000,2017-03-17,2017.0,University of Virginia,2017 NCAA DI - Women,1994-04-24,15
+Natalie Pierce,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.25,58.25,0 days 00:00:58.250000,2017-03-17,2017.0,Florida State University,2017 NCAA DI - Women,1996-01-18,15
+Andrea Cottrell,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.39,58.39,0 days 00:00:58.390000,2017-03-17,2017.0,University of Louisville,2017 NCAA DI - Women,1995-06-30,15
+Silja Kansakoski,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.44,58.44,0 days 00:00:58.440000,2017-02-24,2017.0,Arizona State University,2017 PAC 12 Champs women,1997-08-09,15
+Emily Farucci,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.48,58.48,0 days 00:00:58.480000,2017-03-17,2017.0,University of Maryland Baltimore County,2017 NCAA DI - Women,1995-12-17,15
+Kayla Brumbaum,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.54,58.54,0 days 00:00:58.540000,2017-03-17,2017.0,North Carolina State University,2017 NCAA DI - Women,1994-10-19,15
+Emma Sougstad,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.79,58.79,0 days 00:00:58.790000,2017-03-17,2017.0,University of Iowa,2017 NCAA DI - Women,1994-10-28,15
+Jorie Caneta,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.85,58.85,0 days 00:00:58.850000,2017-03-17,2017.0,Texas A&M University,2017 NCAA DI - Women,1996-09-26,15
+Kierra Smith,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.91,58.91,0 days 00:00:58.910000,2017-03-17,2017.0,University of Minnesota,2017 NCAA DI - Women,1994-02-01,15
+Riley Scott,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.92,58.92,0 days 00:00:58.920000,2017-02-24,2017.0,University of Southern California,2017 PAC 12 Champs women,1997-08-14,15
+Lina Rathsack,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.00,59.0,0 days 00:00:59,2017-03-17,2017.0,University of Pittsburgh,2017 NCAA DI - Women,1994-05-06,15
+Katharine Ross,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.00,59.0,0 days 00:00:59,2017-03-17,2017.0,University of Missouri,2017 NCAA DI - Women,1995-07-23,15
+Maria Carlson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.30,59.3,0 days 00:00:59.300000,2017-02-17,2017.0,University of Wisconsin Madison,2017 B1G 10 Champs women,1995-10-17,15
+Emily Kopas,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.54,59.54,0 days 00:00:59.540000,2017-02-17,2017.0,University of Michigan,2017 B1G 10 Champs women,1996-07-30,15
+William Licon,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.68,50.68,0 days 00:00:50.680000,2017-03-24,2017.0,University of Texas,2017 NCAA DI - Men,1994-08-25,15
+Fabian Schwingenschloegl,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.77,50.77,0 days 00:00:50.770000,2017-03-24,2017.0,University of Missouri,2017 NCAA DI - Men,1991-08-15,15
+Brandon Fiala,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.30,51.3,0 days 00:00:51.300000,2017-03-24,2017.0,VA Tech,2017 NCAA DI - Men,1995-04-03,15
+Ian Finnerty,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.38,51.38,0 days 00:00:51.380000,2017-02-24,2017.0,Indiana University,2017 B1G 10 Champs men,1996-08-02,15
+Carsten Vissering,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.40,51.4,0 days 00:00:51.400000,2017-03-24,2017.0,University of Southern California,2017 NCAA DI - Men,1997-05-13,15
+Connor Hoppe,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.41,51.41,0 days 00:00:51.410000,2017-03-24,2017.0,University of California Berkeley,2017 NCAA DI - Men,1995-08-28,15
+Peter Kropp,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.46,51.46,0 days 00:00:51.460000,2017-03-01,2017.0,Duke University,2017 ACC Champs men,1996-03-24,15
+Michael Duderstadt,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.50,51.5,0 days 00:00:51.500000,2017-02-17,2017.0,Auburn University,2017 SEC Champs,1994-12-02,15
+Nils Wich-Glasen,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.58,51.58,0 days 00:00:51.580000,2017-02-17,2017.0,University of South Carolina Columbia,2017 SEC Champs,1994-09-24,15
+Carlos Claverie,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.05,52.05,0 days 00:00:52.050000,2017-03-01,2017.0,University of Louisville,2017 ACC Champs men,1996-09-19,15
+Andrea Bolognesi,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.07,52.07,0 days 00:00:52.070000,2017-03-24,2017.0,George Washington University,2017 NCAA DI - Men,1993-12-17,15
+Jacob Montague,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.08,52.08,0 days 00:00:52.080000,2017-02-24,2017.0,University of Michigan,2017 B1G 10 Champs men,1998-01-06,15
+Mauro Castillo Luna,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.12,52.12,0 days 00:00:52.120000,2017-03-24,2017.0,Texas A&M University,2017 NCAA DI - Men,1995-08-06,15
+Blair Bish,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.13,52.13,0 days 00:00:52.130000,2017-03-24,2017.0,University of Arizona,2017 NCAA DI - Men,1996-12-01,15
+Ilya Evdokimov,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.13,52.13,0 days 00:00:52.130000,2017-02-24,2017.0,Cornell University,2017 Ivy League Champs men,1996-02-28,15
+Trent Jackson,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.25,52.25,0 days 00:00:52.250000,2017-03-01,2017.0,University of Notre Dame,2017 ACC Champs men,1995-05-21,15
+Lillia King,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.18,123.18,0 days 00:02:03.180000,2017-03-18,2017.0,Indiana University,2017 NCAA DI - Women,1997-02-09,16
+Kierra Smith,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.55,123.55,0 days 00:02:03.550000,2017-03-18,2017.0,University of Minnesota,2017 NCAA DI - Women,1994-02-01,16
+Emily Farucci,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.20,125.2,0 days 00:02:05.200000,2017-03-18,2017.0,University of Maryland Baltimore County,2017 NCAA DI - Women,1995-12-17,16
+Sydney Pickrem,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.23,125.23,0 days 00:02:05.230000,2017-03-18,2017.0,Texas A&M University,2017 NCAA DI - Women,1997-05-21,16
+Kayla Brumbaum,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.55,125.55,0 days 00:02:05.550000,2017-03-18,2017.0,North Carolina State University,2017 NCAA DI - Women,1994-10-19,16
+Madisyn Cox,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.77,125.77,0 days 00:02:05.770000,2017-03-18,2017.0,University of Texas,2017 NCAA DI - Women,1995-05-30,16
+Riley Scott,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.20,126.2,0 days 00:02:06.200000,2017-02-25,2017.0,University of Southern California,2017 PAC 12 Champs women,1997-08-14,16
+Silja Kansakoski,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.41,126.41,0 days 00:02:06.410000,2017-02-25,2017.0,Arizona State University,2017 PAC 12 Champs women,1997-08-09,16
+Bethany Galat,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.68,126.68,0 days 00:02:06.680000,2017-03-18,2017.0,Texas A&M University,2017 NCAA DI - Women,1995-08-10,16
+Ashley McGregor,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.86,126.86,0 days 00:02:06.860000,2017-03-18,2017.0,Texas A&M University,2017 NCAA DI - Women,1993-03-01,16
+Andrea Cottrell,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.90,126.9,0 days 00:02:06.900000,2017-02-16,2017.0,University of Louisville,2017 ACC Champs women,1995-06-30,16
+Laura Simon,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.94,126.94,0 days 00:02:06.940000,2016-12-04,2017.0,University of Virginia,UGA Fall Invitational 2016,1994-04-24,16
+Kirsten Vose,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.65,127.65,0 days 00:02:07.650000,2017-02-25,2017.0,University of Southern California,2017 PAC 12 Champs women,1997-11-11,16
+Maria Carlson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.15,128.15,0 days 00:02:08.150000,2017-02-18,2017.0,University of Wisconsin Madison,2017 B1G 10 Champs women,1995-10-17,16
+Lindsey Kozelsky,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.21,128.21,0 days 00:02:08.210000,2017-03-18,2017.0,University of Minnesota,2017 NCAA DI - Women,1997-09-14,16
+Marina Garcia Urzainqui,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.42,128.42,0 days 00:02:08.420000,2017-02-25,2017.0,University of California Berkeley,2017 PAC 12 Champs women,1994-06-06,16
+William Licon,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:47.91,107.91,0 days 00:01:47.910000,2017-03-25,2017.0,University of Texas,2017 NCAA DI - Men,1994-08-25,16
+Anton McKee,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.22,111.22,0 days 00:01:51.220000,2017-03-25,2017.0,University of Alabama,2017 NCAA DI - Men,1993-12-18,16
+Mauro Castillo Luna,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.01,112.01,0 days 00:01:52.010000,2017-03-25,2017.0,Texas A&M University,2017 NCAA DI - Men,1995-08-06,16
+Brandon Fiala,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.39,112.39,0 days 00:01:52.390000,2017-03-02,2017.0,VA Tech,2017 ACC Champs men,1995-04-03,16
+Nils Wich-Glasen,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.41,112.41,0 days 00:01:52.410000,2017-02-18,2017.0,University of South Carolina Columbia,2017 SEC Champs,1994-09-24,16
+Fabian Schwingenschloegl,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.61,112.61,0 days 00:01:52.610000,2017-02-18,2017.0,University of Missouri,2017 SEC Champs,1991-08-15,16
+Marat Amaltdinov,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.79,112.79,0 days 00:01:52.790000,2017-03-25,2017.0,Purdue University,2017 NCAA DI - Men,1994-02-22,16
+Carlos Claverie,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.81,112.81,0 days 00:01:52.810000,2017-03-25,2017.0,University of Louisville,2017 NCAA DI - Men,1996-09-19,16
+Steven Stumph,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.82,112.82,0 days 00:01:52.820000,2017-03-04,2017.0,University of Southern California,2017 PAC 12 Champs men,1994-03-23,16
+Moises Loschi,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.08,113.08,0 days 00:01:53.080000,2017-03-02,2017.0,Georgia Institute of Technology,2017 ACC Champs men,1994-11-19,16
+Michael Duderstadt,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.13,113.13,0 days 00:01:53.130000,2017-03-25,2017.0,Auburn University,2017 NCAA DI - Men,1994-12-02,16
+Christopher Klein,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.14,113.14,0 days 00:01:53.140000,2017-02-25,2017.0,University of Michigan,2017 B1G 10 Champs men,1995-04-24,16
+Jacob Montague,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.33,113.33,0 days 00:01:53.330000,2017-02-25,2017.0,University of Michigan,2017 B1G 10 Champs men,1998-01-06,16
+Hunter Cobleigh,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.51,113.51,0 days 00:01:53.510000,2017-03-04,2017.0,University of California Berkeley,2017 PAC 12 Champs men,1994-01-21,16
+Trent Jackson,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.52,113.52,0 days 00:01:53.520000,2017-03-02,2017.0,University of Notre Dame,2017 ACC Champs men,1995-05-21,16
+Conner McHugh,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.61,113.61,0 days 00:01:53.610000,2017-02-25,2017.0,University of Minnesota,2017 B1G 10 Champs men,1995-09-25,16
+Farida Osman,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.05,50.05,0 days 00:00:50.050000,2017-03-17,2017.0,University of California Berkeley,2017 NCAA DI - Women,1995-01-18,18
+Hellen Moffitt,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.37,50.37,0 days 00:00:50.370000,2017-03-17,2017.0,University of North Carolina Chapel Hill,2017 NCAA DI - Women,1995-05-21,18
+Louise Hansson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.39,50.39,0 days 00:00:50.390000,2017-02-24,2017.0,University of Southern California,2017 PAC 12 Champs women,1996-11-24,18
+Noemie Thomas,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.44,50.44,0 days 00:00:50.440000,2017-02-24,2017.0,University of California Berkeley,2017 PAC 12 Champs women,1996-02-04,18
+Gia Dalesandro,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.45,50.45,0 days 00:00:50.450000,2017-02-17,2017.0,Indiana University,2017 B1G 10 Champs women,1995-04-22,18
+Sarah Gibson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.63,50.63,0 days 00:00:50.630000,2017-03-17,2017.0,Texas A&M University,2017 NCAA DI - Women,1995-04-20,18
+Zhesi Li,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.90,50.9,0 days 00:00:50.900000,2017-02-17,2017.0,Ohio State University,2017 B1G 10 Champs women,1995-08-07,18
+Chelsea Britt,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.93,50.93,0 days 00:00:50.930000,2017-02-16,2017.0,University of Georgia,2017 SEC Champs,1994-10-27,18
+Haley Black,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.08,51.08,0 days 00:00:51.080000,2017-03-17,2017.0,Auburn University,2017 NCAA DI - Women,1996-10-08,18
+Madelyn Murphy,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.15,51.15,0 days 00:00:51.150000,2017-03-17,2017.0,University of California Berkeley,2017 NCAA DI - Women,1998-05-19,18
+Marne Erasmus,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.42,51.42,0 days 00:00:51.420000,2017-02-17,2017.0,Southern Methodist University,2017 American Ath. Conf. ,1995-05-23,18
+Madeline Banic,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.50,51.5,0 days 00:00:51.500000,2017-02-16,2017.0,University of Tennessee,2017 SEC Champs,1997-04-12,18
+Kaitlyn Jones,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.58,51.58,0 days 00:00:51.580000,2016-12-03,2017.0,University of Virginia,UGA Fall Invitational 2016,1994-10-12,18
+Tayla Lovemore,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.60,51.6,0 days 00:00:51.600000,2017-03-17,2017.0,Florida State University,2017 NCAA DI - Women,1995-03-20,18
+Leah Goldman,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.62,51.62,0 days 00:00:51.620000,2017-02-15,2017.0,Duke University,2017 ACC Champs women,1995-10-13,18
+Vanessa Krause,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.71,51.71,0 days 00:00:51.710000,2017-03-17,2017.0,University of Michigan,2017 NCAA DI - Women,1998-05-31,18
+Caeleb Dressel,100 Butterfly SCY Male,100,Butterfly,SCY,Male,43.58,43.58,0 days 00:00:43.580000,2017-03-24,2017.0,University of Florida,2017 NCAA DI - Men,1996-08-16,18
+Joseph Schooling,100 Butterfly SCY Male,100,Butterfly,SCY,Male,43.75,43.75,0 days 00:00:43.750000,2017-03-24,2017.0,University of Texas,2017 NCAA DI - Men,1995-06-16,18
+John Conger,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.35,44.35,0 days 00:00:44.350000,2017-03-24,2017.0,University of Texas,2017 NCAA DI - Men,1994-09-26,18
+Ryan Held,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.79,44.79,0 days 00:00:44.790000,2017-03-01,2017.0,North Carolina State University,2017 ACC Champs men,1995-06-27,18
+Andrew Sansoucie,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.86,44.86,0 days 00:00:44.860000,2016-11-17,2017.0,University of Missouri,Mizzou Invitational,1994-11-10,18
+Matt McHugh,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.91,44.91,0 days 00:00:44.910000,2017-02-24,2017.0,Ohio State University,2017 B1G 10 Champs men,1995-08-09,18
+Zheng Wen Quah,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.06,45.06,0 days 00:00:45.060000,2017-03-24,2017.0,University of California Berkeley,2017 NCAA DI - Men,1996-09-29,18
+Vinicius Lanza,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.07,45.07,0 days 00:00:45.070000,2017-02-24,2017.0,Indiana University,2017 B1G 10 Champs men,1997-03-22,18
+Dylan Carter,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.27,45.27,0 days 00:00:45.270000,2016-12-02,2017.0,University of Southern California,Texas Hall of Fame Swimming In,1996-01-30,18
+Matthew Austin,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.31,45.31,0 days 00:00:45.310000,2017-03-24,2017.0,University of California Berkeley,2017 NCAA DI - Men,1995-03-31,18
+Justin Lynch,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.41,45.41,0 days 00:00:45.410000,2017-03-24,2017.0,University of California Berkeley,2017 NCAA DI - Men,1996-08-27,18
+Andrew Liang,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.49,45.49,0 days 00:00:45.490000,2017-03-24,2017.0,Stanford University,2017 NCAA DI - Men,1996-02-12,18
+Joshua Quallen,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.56,45.56,0 days 00:00:45.560000,2017-03-01,2017.0,University of Louisville,2017 ACC Champs men,1994-11-29,18
+Andrew Porter,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.59,45.59,0 days 00:00:45.590000,2017-03-24,2017.0,Arizona State University,2017 NCAA DI - Men,1993-11-03,18
+Jan Switkowski,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.59,45.59,0 days 00:00:45.590000,2017-02-16,2017.0,University of Florida,2017 SEC Champs,1994-01-23,18
+Paul Pijulet,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.62,45.62,0 days 00:00:45.620000,2017-03-09,2017.0,Queens University of Charlotte,2017 NCAA DII,1994-11-02,18
+Ella Eastin,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.35,111.35,0 days 00:01:51.350000,2017-03-18,2017.0,Stanford University,2017 NCAA DI - Women,1997-03-28,19
+Kathryn McLaughlin,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.37,112.37,0 days 00:01:52.370000,2017-03-18,2017.0,University of California Berkeley,2017 NCAA DI - Women,1997-07-09,19
+Sarah Gibson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.64,112.64,0 days 00:01:52.640000,2017-02-17,2017.0,Texas A&M University,2017 SEC Champs,1995-04-20,19
+Madison Wright,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.67,112.67,0 days 00:01:52.670000,2017-02-25,2017.0,University of Southern California,2017 PAC 12 Champs women,1997-02-20,19
+Chelsea Britt,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.72,112.72,0 days 00:01:52.720000,2017-02-17,2017.0,University of Georgia,2017 SEC Champs,1994-10-27,19
+Kaitlyn Jones,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.93,112.93,0 days 00:01:52.930000,2016-12-04,2017.0,University of Virginia,UGA Fall Invitational 2016,1994-10-12,19
+Jennifer Marrkand,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.15,113.15,0 days 00:01:53.150000,2017-03-18,2017.0,University of Virginia,2017 NCAA DI - Women,1995-11-01,19
+Lauren Case,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.44,113.44,0 days 00:01:53.440000,2017-03-18,2017.0,University of Texas,2017 NCAA DI - Women,1998-06-20,19
+Kelsi Dahlia,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.45,113.45,0 days 00:01:53.450000,2016-11-13,2017.0,University of Louisville,2016 College Challenge,1994-07-15,19
+Gia Dalesandro,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.67,113.67,0 days 00:01:53.670000,2017-02-18,2017.0,Indiana University,2017 B1G 10 Champs women,1995-04-22,19
+Noemie Thomas,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.77,113.77,0 days 00:01:53.770000,2016-12-04,2017.0,University of California Berkeley,UGA Fall Invitational 2016,1996-02-04,19
+Remedy Rule,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.97,113.97,0 days 00:01:53.970000,2016-12-03,2017.0,University of Texas,Texas Hall of Fame Swimming In,1996-09-27,19
+Sarah Koucheki,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.27,114.27,0 days 00:01:54.270000,2017-02-16,2017.0,University of North Carolina Chapel Hill,2017 ACC Champs women,1995-04-18,19
+Megan Kingsley,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.58,114.58,0 days 00:01:54.580000,2017-03-18,2017.0,University of Georgia,2017 NCAA DI - Women,1996-04-06,19
+Sharli Brady,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.60,114.6,0 days 00:01:54.600000,2017-03-18,2017.0,University of Missouri,2017 NCAA DI - Women,1995-12-20,19
+Vanessa Krause,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.60,114.6,0 days 00:01:54.600000,2017-03-18,2017.0,University of Michigan,2017 NCAA DI - Women,1998-05-31,19
+John Conger,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:37.35,97.35,0 days 00:01:37.350000,2017-03-25,2017.0,University of Texas,2017 NCAA DI - Men,1994-09-26,19
+Zheng Wen Quah,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.83,98.83,0 days 00:01:38.830000,2017-03-25,2017.0,University of California Berkeley,2017 NCAA DI - Men,1996-09-29,19
+Joseph Bentz,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.07,100.07,0 days 00:01:40.070000,2017-03-25,2017.0,University of Georgia,2017 NCAA DI - Men,1996-01-03,19
+Chase Kalisz,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.38,100.38,0 days 00:01:40.380000,2016-12-04,2017.0,University of Georgia,UGA Fall Invitational 2016,1994-03-07,19
+Pace Clark,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.41,100.41,0 days 00:01:40.410000,2017-03-25,2017.0,University of Georgia,2017 NCAA DI - Men,1994-06-24,19
+Andrew Seliskar,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.74,100.74,0 days 00:01:40.740000,2016-12-04,2017.0,University of California Berkeley,UGA Fall Invitational 2016,1996-09-26,19
+Andreas Vazaios,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.77,100.77,0 days 00:01:40.770000,2017-03-25,2017.0,North Carolina State University,2017 NCAA DI - Men,1994-05-09,19
+Jan Switkowski,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.94,100.94,0 days 00:01:40.940000,2017-02-17,2017.0,University of Florida,2017 SEC Champs,1994-01-23,19
+Justin Wright,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.94,100.94,0 days 00:01:40.940000,2017-03-25,2017.0,University of Arizona,2017 NCAA DI - Men,1996-06-03,19
+Vinicius Lanza,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.97,100.97,0 days 00:01:40.970000,2017-02-25,2017.0,Indiana University,2017 B1G 10 Champs men,1997-03-22,19
+James Yoder,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.31,101.31,0 days 00:01:41.310000,2017-03-01,2017.0,Stanford University,2017 PAC12 Champs men TT,1995-08-27,19
+Noah Lense,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.44,101.44,0 days 00:01:41.440000,2017-02-25,2017.0,Ohio State University,2017 B1G 10 Champs men,1998-07-20,19
+Michael Thomas,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.57,101.57,0 days 00:01:41.570000,2017-03-25,2017.0,University of California Berkeley,2017 NCAA DI - Men,1997-09-08,19
+Joseph Schooling,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.58,101.58,0 days 00:01:41.580000,2017-02-25,2017.0,University of Texas,2017 Big 12 Champs,1995-06-16,19
+Zach Harting,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.65,101.65,0 days 00:01:41.650000,2017-03-25,2017.0,University of Louisville,2017 NCAA DI - Men,1997-08-27,19
+Jonathan Gomez,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.98,101.98,0 days 00:01:41.980000,2017-02-18,2017.0,Southern Methodist University,2017 American Ath. Conf. ,1996-04-19,19
+Kathleen Baker,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:51.69,111.69,0 days 00:01:51.690000,2017-03-16,2017.0,University of California Berkeley,2017 NCAA DI - Women,1997-02-28,21
+Ella Eastin,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.27,112.27,0 days 00:01:52.270000,2017-03-16,2017.0,Stanford University,2017 NCAA DI - Women,1997-03-28,21
+Madisyn Cox,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.58,112.58,0 days 00:01:52.580000,2017-03-16,2017.0,University of Texas,2017 NCAA DI - Women,1995-05-30,21
+Sydney Pickrem,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.30,113.3,0 days 00:01:53.300000,2017-03-16,2017.0,Texas A&M University,2017 NCAA DI - Women,1997-05-21,21
+Meghan Small,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.31,113.31,0 days 00:01:53.310000,2017-02-15,2017.0,University of Tennessee,2017 SEC Champs,1998-05-25,21
+Louise Hansson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.72,113.72,0 days 00:01:53.720000,2017-02-23,2017.0,University of Southern California,2017 PAC 12 Champs women,1996-11-24,21
+Kaitlyn Jones,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.05,114.05,0 days 00:01:54.050000,2016-12-02,2017.0,University of Virginia,UGA Fall Invitational 2016,1994-10-12,21
+Bethany Galat,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.16,114.16,0 days 00:01:54.160000,2017-03-16,2017.0,Texas A&M University,2017 NCAA DI - Women,1995-08-10,21
+Alexia Zevnik,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.44,114.44,0 days 00:01:54.440000,2017-02-14,2017.0,North Carolina State University,2017 ACC Champs women,1994-03-04,21
+Asia Seidt,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.02,115.02,0 days 00:01:55.020000,2017-02-15,2017.0,University of Kentucky,2017 SEC Champs,1997-10-06,21
+Siobhan Haughey,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.09,115.09,0 days 00:01:55.090000,2017-03-16,2017.0,University of Michigan,2017 NCAA DI - Women,1997-10-31,21
+Emily Farucci,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.13,115.13,0 days 00:01:55.130000,2017-03-16,2017.0,University of Maryland Baltimore County,2017 NCAA DI - Women,1995-12-17,21
+Jennifer Marrkand,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.20,115.2,0 days 00:01:55.200000,2016-12-02,2017.0,University of Virginia,UGA Fall Invitational 2016,1995-11-01,21
+Bailey Andison,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.21,115.21,0 days 00:01:55.210000,2017-03-16,2017.0,University of Denver,2017 NCAA DI - Women,1997-11-13,21
+Lisa Bratton,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.22,115.22,0 days 00:01:55.220000,2017-03-16,2017.0,Texas A&M University,2017 NCAA DI - Women,1996-05-05,21
+Lillia King,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.49,115.49,0 days 00:01:55.490000,2017-02-16,2017.0,Indiana University,2017 B1G 10 Champs women,1997-02-09,21
+William Licon,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.50,100.5,0 days 00:01:40.500000,2017-03-23,2017.0,University of Texas,2017 NCAA DI - Men,1994-08-25,21
+Mark Szaranek,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.67,100.67,0 days 00:01:40.670000,2017-03-23,2017.0,University of Florida,2017 NCAA DI - Men,1995-08-16,21
+Ryan Murphy,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.73,100.73,0 days 00:01:40.730000,2017-03-22,2017.0,University of California Berkeley,2017 NCAA DI - Men,1995-07-02,21
+Andreas Vazaios,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.77,100.77,0 days 00:01:40.770000,2017-03-23,2017.0,North Carolina State University,2017 NCAA DI - Men,1994-05-09,21
+Joseph Bentz,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.90,100.9,0 days 00:01:40.900000,2017-03-23,2017.0,University of Georgia,2017 NCAA DI - Men,1996-01-03,21
+Jan Switkowski,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.17,101.17,0 days 00:01:41.170000,2017-03-23,2017.0,University of Florida,2017 NCAA DI - Men,1994-01-23,21
+Chase Kalisz,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.19,101.19,0 days 00:01:41.190000,2017-03-23,2017.0,University of Georgia,2017 NCAA DI - Men,1994-03-07,21
+Andrew Seliskar,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.24,101.24,0 days 00:01:41.240000,2017-03-02,2017.0,University of California Berkeley,2017 PAC 12 Champs men,1996-09-26,21
+Vinicius Lanza,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.59,101.59,0 days 00:01:41.590000,2017-02-23,2017.0,Indiana University,2017 B1G 10 Champs men,1997-03-22,21
+Ian Finnerty,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.86,101.86,0 days 00:01:41.860000,2017-02-23,2017.0,Indiana University,2017 B1G 10 Champs men,1996-08-02,21
+Brandon Fiala,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.09,102.09,0 days 00:01:42.090000,2017-02-28,2017.0,VA Tech,2017 ACC Champs men,1995-04-03,21
+Jonathan Roberts,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.24,102.24,0 days 00:01:42.240000,2017-03-23,2017.0,University of Texas,2017 NCAA DI - Men,1995-09-08,21
+Abrahm DeVine,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.25,102.25,0 days 00:01:42.250000,2017-03-23,2017.0,Stanford University,2017 NCAA DI - Men,1996-09-03,21
+Soeren Dahl,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.26,102.26,0 days 00:01:42.260000,2017-02-28,2017.0,North Carolina State University,2017 ACC Champs men,1993-07-15,21
+Tom Kremer,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.27,102.27,0 days 00:01:42.270000,2017-03-23,2017.0,Stanford University,2017 NCAA DI - Men,1994-08-24,21
+Joseph Patching,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.54,102.54,0 days 00:01:42.540000,2017-03-23,2017.0,Auburn University,2017 NCAA DI - Men,1994-04-16,21
+Ella Eastin,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,3:57.57,237.57,0 days 00:03:57.570000,2017-03-17,2017.0,Stanford University,2017 NCAA DI - Women,1997-03-28,22
+Kathleen Ledecky,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,3:57.68,237.68,0 days 00:03:57.680000,2017-02-24,2017.0,Stanford University,2017 PAC 12 Champs women,1997-03-17,22
+Sydney Pickrem,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,3:59.36,239.36,0 days 00:03:59.360000,2017-03-17,2017.0,Texas A&M University,2017 NCAA DI - Women,1997-05-21,22
+Madisyn Cox,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:00.97,240.97,0 days 00:04:00.970000,2017-03-17,2017.0,University of Texas,2017 NCAA DI - Women,1995-05-30,22
+Bethany Galat,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.06,241.06,0 days 00:04:01.060000,2017-03-17,2017.0,Texas A&M University,2017 NCAA DI - Women,1995-08-10,22
+Brooke Zeiger,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.71,242.71,0 days 00:04:02.710000,2016-12-02,2017.0,University of Minnesota,2016 Winter Nationals,1996-01-09,22
+Bailey Andison,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.09,243.09,0 days 00:04:03.090000,2017-03-17,2017.0,University of Denver,2017 NCAA DI - Women,1997-11-13,22
+Lindsey Clary,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.09,244.09,0 days 00:04:04.090000,2017-02-17,2017.0,Ohio State University,2017 B1G 10 Champs women,1995-10-20,22
+Meghan Small,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.30,244.3,0 days 00:04:04.300000,2017-03-17,2017.0,University of Tennessee,2017 NCAA DI - Women,1998-05-25,22
+Reka Gyorgy,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.97,244.97,0 days 00:04:04.970000,2017-02-15,2017.0,VA Tech,2017 ACC Champs women,1996-05-25,22
+Emily Cameron,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.09,245.09,0 days 00:04:05.090000,2016-12-03,2017.0,University of Georgia,UGA Fall Invitational 2016,1994-09-28,22
+Sharli Brady,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.22,245.22,0 days 00:04:05.220000,2017-03-17,2017.0,University of Missouri,2017 NCAA DI - Women,1995-12-20,22
+Matea Samardzic,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.52,245.52,0 days 00:04:05.520000,2017-02-17,2017.0,Southern Methodist University,2017 American Ath. Conf. ,1995-01-17,22
+Emily Barksdale,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.07,246.07,0 days 00:04:06.070000,2017-02-16,2017.0,University of South Carolina Columbia,2017 SEC Champs,1997-09-23,22
+Allyson McHugh,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.27,246.27,0 days 00:04:06.270000,2017-02-17,2017.0,Pennsylvania State University,2017 B1G 10 Champs women,1997-05-14,22
+Kaitlyn Jones,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.33,246.33,0 days 00:04:06.330000,2016-12-03,2017.0,University of Virginia,UGA Fall Invitational 2016,1994-10-12,22
+Chase Kalisz,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:33.42,213.42,0 days 00:03:33.420000,2017-03-24,2017.0,University of Georgia,2017 NCAA DI - Men,1994-03-07,22
+Andrew Seliskar,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.18,216.18,0 days 00:03:36.180000,2017-03-24,2017.0,University of California Berkeley,2017 NCAA DI - Men,1996-09-26,22
+Mark Szaranek,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.31,216.31,0 days 00:03:36.310000,2017-03-24,2017.0,University of Florida,2017 NCAA DI - Men,1995-08-16,22
+Joseph Bentz,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.60,216.6,0 days 00:03:36.600000,2017-03-24,2017.0,University of Georgia,2017 NCAA DI - Men,1996-01-03,22
+Abrahm DeVine,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.73,217.73,0 days 00:03:37.730000,2017-03-24,2017.0,Stanford University,2017 NCAA DI - Men,1996-09-03,22
+Jonathan Roberts,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.18,218.18,0 days 00:03:38.180000,2017-03-24,2017.0,University of Texas,2017 NCAA DI - Men,1995-09-08,22
+Jay Litherland,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.19,218.19,0 days 00:03:38.190000,2016-12-03,2017.0,University of Georgia,UGA Fall Invitational 2016,1995-08-24,22
+Robert Owen,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.43,218.43,0 days 00:03:38.430000,2017-03-01,2017.0,VA Tech,2017 ACC Champs men,1995-08-28,22
+Tomas Peribonio Avila,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.24,220.24,0 days 00:03:40.240000,2017-03-24,2017.0,University of South Carolina Columbia,2017 NCAA DI - Men,1996-01-16,22
+Henry Campbell,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.88,220.88,0 days 00:03:40.880000,2017-03-01,2017.0,University of North Carolina Chapel Hill,2017 ACC Champs men,1996-08-29,22
+Charles Swanson,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.13,221.13,0 days 00:03:41.130000,2017-02-24,2017.0,University of Michigan,2017 B1G 10 Champs men,1998-02-20,22
+Joseph Patching,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.19,221.19,0 days 00:03:41.190000,2017-03-24,2017.0,Auburn University,2017 NCAA DI - Men,1994-04-16,22
+Aidan Burns,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.56,221.56,0 days 00:03:41.560000,2017-02-26,2017.0,University of Georgia,2017 Bulldog Invitational,1997-09-17,22
+Anton Ipsen,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.57,221.57,0 days 00:03:41.570000,2017-03-24,2017.0,North Carolina State University,2017 NCAA DI - Men,1994-09-04,22
+Curtis Ogren,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.66,221.66,0 days 00:03:41.660000,2017-03-24,2017.0,Stanford University,2017 NCAA DI - Men,1996-01-25,22
+Mark Andrew,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.89,221.89,0 days 00:03:41.890000,2017-03-24,2017.0,University of Pennsylvania,2017 NCAA DI - Men,1997-06-08,22

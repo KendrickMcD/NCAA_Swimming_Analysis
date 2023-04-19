@@ -126,7 +126,6 @@ def clean_ncaa_record_data(csv_file):
 
     for i in range(len(df)):
         val = df.loc[i, 'record_broken_by']
-        # if val = NaN or 0, set record_broken_by to 'No Earlier Record'
         if np.isnan(val):
             pass
         else:
@@ -160,42 +159,6 @@ def clean_ncaa_swimming_data(csv_file):
                   "country_code", "meet_city",
                   "time_is_for_ineligible_secondary_team_yn"], axis=1)
 
-    # Convert swim_time to second and milliseconds
-    df['swim_time_as_time'] = pd.to_timedelta(df['swim_time_as_time'])
-    df['swim_time_sec'] = df['swim_time_as_time'] / pd.Timedelta(seconds=1)
-
-    # Change date data type
-    df['swim_date'] = pd.to_datetime(df['swim_date'])
-    df['birth_date'] = pd.to_datetime(df['birth_date'])
-
-    # Split event into distance and stroke
-    for i in range(len(df)):
-        split_values = df['full_desc'][i].split(' ')
-        if len(split_values) == 4:
-            df.loc[i, 'distance'] = split_values[0]
-            df.loc[i, 'stroke'] = split_values[1]
-            df.loc[i, 'course'] = split_values[2]
-            df.loc[i, 'gender'] = split_values[3]
-        elif len(split_values) == 5:
-            df.loc[i, 'distance'] = split_values[0]
-            df.loc[i, 'stroke'] = split_values[1] + ' ' + split_values[2]
-            df.loc[i, 'course'] = split_values[3]
-            df.loc[i, 'gender'] = split_values[4]
-
-    # Reorder the text in the name column
-    for i in range(len(df)):
-        split_name = df['full_name_computed'][i].split(', ')
-        df.loc[i, 'full_name_computed'] = split_name[1] + ' ' + split_name[0]
-        split_school = df['team_short_name'][i].split(', ')
-        if len(split_school) == 2:
-            df.loc[i, 'team_short_name'] = split_school[1] + \
-                ' ' + split_school[0]
-        elif len(split_school) == 3:
-            df.loc[i, 'team_short_name'] = split_school[1] + \
-                ' ' + split_school[0] + ' ' + split_school[2]
-        else:
-            df.loc[i, 'team_short_name'] = split_school[0]
-
     # Rename columns
     new_names = {'full_desc': 'event',
                  'swim_time_as_time': 'time_(HH:MM:SS)',
@@ -208,10 +171,56 @@ def clean_ncaa_swimming_data(csv_file):
 
     df = df.rename(columns=new_names)
 
+    # Convert swim_time to second and milliseconds
+    df['time_(HH:MM:SS)'] = pd.to_timedelta(df['time_(HH:MM:SS)'])
+    df['time_(seconds)'] = df['time_(HH:MM:SS)'] / pd.Timedelta(seconds=1)
+
+    # Change date data type
+    df['date'] = pd.to_datetime(df['date'])
+    df['birth_date'] = pd.to_datetime(df['birth_date'])
+
+    # Create a column for the season
+    for i in range(len(df)):
+        if df.loc[i, 'date'].month < 9:
+            df.loc[i, 'season'] = df.loc[i, 'date'].year
+        else:
+            df.loc[i, 'season'] = df.loc[i, 'date'].year + 1
+
+    # Split event into distance and stroke
+    for i in range(len(df)):
+        split_values = df['event'][i].split(' ')
+        if len(split_values) == 4:
+            df.loc[i, 'distance'] = split_values[0]
+            df.loc[i, 'stroke'] = split_values[1]
+            df.loc[i, 'course'] = split_values[2]
+            df.loc[i, 'gender'] = split_values[3]
+        elif len(split_values) == 5:
+            df.loc[i, 'distance'] = split_values[0]
+            df.loc[i, 'stroke'] = split_values[1] + ' ' + split_values[2]
+            df.loc[i, 'course'] = split_values[3]
+            df.loc[i, 'gender'] = split_values[4]
+
+    # Convert event_id to integer
+    df['event_id'] = df['event_id'].astype(int)
+
+    # Reorder the text in the name column
+    for i in range(len(df)):
+        split_name = df['name'][i].split(', ')
+        df.loc[i, 'name'] = split_name[1] + ' ' + split_name[0]
+        split_school = df['team'][i].split(', ')
+        if len(split_school) == 2:
+            df.loc[i, 'team'] = split_school[1] + \
+                ' ' + split_school[0]
+        elif len(split_school) == 3:
+            df.loc[i, 'team'] = split_school[1] + \
+                ' ' + split_school[0] + ' ' + split_school[2]
+        else:
+            df.loc[i, 'team'] = split_school[0]
+
     # Reorder columns
     new_order = ['name', 'event', 'distance', 'stroke', 'course', 'gender',
                  'time_(string)', 'time_(seconds)', 'time_(HH:MM:SS)',
-                 'date', 'team', 'meet',
+                 'date', 'season', 'team', 'meet',
                  'birth_date', 'event_id']
     df = df.reindex(columns=new_order)
 
@@ -228,6 +237,8 @@ def clean_ncaa_swimming_data(csv_file):
         event = df['distance'][i] + ' ' + df['stroke'][i]
         if event not in valid_events:
             df = df.drop(i)
+    
+    df['distance'] = df['distance'].astype(int)
 
     # Return cleaned dataframe
     return df
@@ -262,10 +273,8 @@ def calculate_record_stats(df):
 
     for i in range(len(df)):
         val = df.loc[i, 'record_broken_by']
-        # if val = NaN or 0, set record_broken_by to 'No Earlier Record'
         if np.isnan(val):
-            df.loc[i, 'record_broken_by'] = 'No Earlier Record'
-            df.loc[i, 'record_improvement_%'] = 'No Earlier Record'
+            pass
         else:
             df.loc[i, 'record_broken_by'] = \
                 df.loc[i, 'record_broken_by']

@@ -1,0 +1,451 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Katherine Douglass,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.09,21.09,0 days 00:00:21.090000,2021-03-18,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2001-11-17,1
+Margaret MacNeil,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.17,21.17,0 days 00:00:21.170000,2021-03-18,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-02-26,1
+Sarah Thompson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.42,21.42,0 days 00:00:21.420000,2021-03-18,2021.0,University of Missouri,2021 NCAA DI Women's Swimming,1998-09-03,1
+Kylee Alons,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.50,21.5,0 days 00:00:21.500000,2021-03-18,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,1999-09-30,1
+Grace Countie,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.60,21.6,0 days 00:00:21.600000,2021-03-18,2021.0,University of North Carolina Chapel Hill,2021 NCAA DI Women's Swimming,1999-11-10,1
+Kalia Antoniou,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.69,21.69,0 days 00:00:21.690000,2021-02-18,2021.0,University of Alabama,2021 Women's SEC Champs,2000-04-06,1
+Katharine Berkoff,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.81,21.81,0 days 00:00:21.810000,2021-03-18,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,2001-01-28,1
+Cora Dupre,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.82,21.82,0 days 00:00:21.820000,2021-02-18,2021.0,University of Alabama,2021 Women's SEC Champs,2001-05-07,1
+Katelyn Mack,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.82,21.82,0 days 00:00:21.820000,2021-02-18,2021.0,University of Florida,2021 Women's SEC Champs,2001-04-26,1
+Megan Keil,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.83,21.83,0 days 00:00:21.830000,2020-11-19,2021.0,University of Missouri,2020 Mizzou Invitational,2000-05-05,1
+Daria Pyshnenko,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.88,21.88,0 days 00:00:21.880000,2021-02-24,2021.0,University of Michigan,2021 B1G Women's Swim & Dive C,1999-03-11,1
+Emily Gantriis,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.90,21.9,0 days 00:00:21.900000,2021-03-18,2021.0,University of California Berkeley,2021 NCAA DI Women's Swimming,1999-05-29,1
+Kaitlyn Dobler,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.92,21.92,0 days 00:00:21.920000,2021-03-18,2021.0,University of Southern California,2021 NCAA DI Women's Swimming,2002-02-15,1
+Madeline Smith,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.92,21.92,0 days 00:00:21.920000,2021-03-18,2021.0,Northwestern University,2021 NCAA DI Women's Swimming,1999-03-07,1
+Maxine Parker,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.93,21.93,0 days 00:00:21.930000,2021-02-18,2021.0,University of Georgia,2021 Women's SEC Champs,2002-06-14,1
+Emma Wheal,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.97,21.97,0 days 00:00:21.970000,2021-03-18,2021.0,Stanford University,2021 NCAA DI Women's Swimming,2001-11-20,1
+Ryan Hoffer,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.33,18.33,0 days 00:00:18.330000,2021-03-25,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-07-09,1
+Bjorn Seeliger,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.71,18.71,0 days 00:00:18.710000,2021-03-25,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,2000-01-11,1
+Adam Chaney,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.76,18.76,0 days 00:00:18.760000,2021-02-24,2021.0,University of Florida,2021 Men's SEC Swimming & Divi,2002-03-27,1
+Matthew Brownstead,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.88,18.88,0 days 00:00:18.880000,2021-02-25,2021.0,University of Virginia,2021 ACC Men's Championship,2002-06-12,1
+Dillon Downing,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.88,18.88,0 days 00:00:18.880000,2021-03-25,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,2000-06-28,1
+Jan Friese,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.90,18.9,0 days 00:00:18.900000,2021-03-25,2021.0,University of Florida,2021 NCAA Division I Men's Swi,1999-01-08,1
+Youssef Ramadan,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.95,18.95,0 days 00:00:18.950000,2021-03-25,2021.0,VA Tech,2021 NCAA Division I Men's Swi,2002-07-07,1
+Matthew King,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.96,18.96,0 days 00:00:18.960000,2021-02-24,2021.0,University of Alabama,2021 Men's SEC Swimming & Divi,2002-02-19,1
+Brooks Curry,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.97,18.97,0 days 00:00:18.970000,2021-02-24,2021.0,Louisiana State University,2021 Men's SEC Swimming & Divi,2001-01-20,1
+Luiz Gustavo Borges,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.02,19.02,0 days 00:00:19.020000,2021-03-25,2021.0,University of Michigan,2021 NCAA Division I Men's Swi,1999-05-21,1
+Shaine Casas,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.02,19.02,0 days 00:00:19.020000,2021-03-25,2021.0,Texas A&M University,2021 NCAA Division I Men's Swi,1999-12-25,1
+Blaise Vera,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.03,19.03,0 days 00:00:19.030000,2021-02-25,2021.0,University of Pittsburgh,2021 ACC Men's Championship,1999-07-08,1
+Joseph Armstrong,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.04,19.04,0 days 00:00:19.040000,2021-03-25,2021.0,Ohio State University,2021 NCAA Division I Men's Swi,2001-01-24,1
+Daniel Krueger,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.04,19.04,0 days 00:00:19.040000,2021-03-25,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-06-11,1
+Semuede Andreis,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.05,19.05,0 days 00:00:19.050000,2021-03-03,2021.0,Ohio State University,2021 B1G Men's Swim & Dive Cha,1999-08-07,1
+Abdelrahman Elaraby,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.14,19.14,0 days 00:00:19.140000,2021-02-25,2021.0,University of Louisville,2021 ACC Men's Championship,2000-03-09,1
+Jack Franzman,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.14,19.14,0 days 00:00:19.140000,2021-03-03,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,1999-04-10,1
+Margaret MacNeil,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.02,46.02,0 days 00:00:46.020000,2021-03-20,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-02-26,2
+Katherine Douglass,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.30,46.3,0 days 00:00:46.300000,2021-03-20,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2001-11-17,2
+Isabel Ivey,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.95,46.95,0 days 00:00:46.950000,2021-03-20,2021.0,University of California Berkeley,2021 NCAA DI Women's Swimming,2000-11-22,2
+Morgan Scott,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.48,47.48,0 days 00:00:47.480000,2021-03-20,2021.0,University of Alabama,2021 NCAA DI Women's Swimming,2000-05-22,2
+Kalia Antoniou,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.64,47.64,0 days 00:00:47.640000,2021-03-20,2021.0,University of Alabama,2021 NCAA DI Women's Swimming,2000-04-06,2
+Kylee Alons,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.71,47.71,0 days 00:00:47.710000,2021-03-20,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,1999-09-30,2
+Cora Dupre,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.72,47.72,0 days 00:00:47.720000,2021-03-20,2021.0,University of Alabama,2021 NCAA DI Women's Swimming,2001-05-07,2
+Maxine Parker,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.75,47.75,0 days 00:00:47.750000,2021-02-20,2021.0,University of Georgia,2021 Women's SEC Champs,2002-06-14,2
+Sarah Thompson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.78,47.78,0 days 00:00:47.780000,2021-02-20,2021.0,University of Missouri,2021 Women's SEC Champs,1998-09-03,2
+Tjasa Pintar,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.82,47.82,0 days 00:00:47.820000,2021-02-20,2021.0,University of Tennessee,2021 Women's SEC Champs,1997-02-15,2
+Grace Countie,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.84,47.84,0 days 00:00:47.840000,2021-03-20,2021.0,University of North Carolina Chapel Hill,2021 NCAA DI Women's Swimming,1999-11-10,2
+Chloe Stepanek,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.84,47.84,0 days 00:00:47.840000,2020-11-20,2021.0,Texas A&M University,2020 Art Adamson Invitational,2002-02-17,2
+Daria Pyshnenko,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.92,47.92,0 days 00:00:47.920000,2021-02-27,2021.0,University of Michigan,2021 B1G Women's Swim & Dive C,1999-03-11,2
+Katharine Berkoff,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.94,47.94,0 days 00:00:47.940000,2021-03-20,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,2001-01-28,2
+Robin Neumann,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.94,47.94,0 days 00:00:47.940000,2021-02-27,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,1997-12-12,2
+Madeline Smith,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.98,47.98,0 days 00:00:47.980000,2021-02-27,2021.0,Northwestern University,2021 B1G Women's Swim & Dive C,1999-03-07,2
+Ryan Hoffer,100 Freestyle SCY Male,100,Freestyle,SCY,Male,40.89,40.89,0 days 00:00:40.890000,2021-03-27,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-07-09,2
+Daniel Krueger,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.33,41.33,0 days 00:00:41.330000,2021-02-27,2021.0,University of Texas,2021 Big 12 Swimming Champions,1999-06-11,2
+Drew Kibler,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.45,41.45,0 days 00:00:41.450000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2000-03-09,2
+Matthew King,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.63,41.63,0 days 00:00:41.630000,2021-03-27,2021.0,University of Alabama,2021 NCAA Division I Men's Swi,2002-02-19,2
+Bjorn Seeliger,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.65,41.65,0 days 00:00:41.650000,2021-03-27,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,2000-01-11,2
+Shaine Casas,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.68,41.68,0 days 00:00:41.680000,2021-03-05,2021.0,Texas A&M University,2021 American Short Course Cha,1999-12-25,2
+Adam Chaney,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.74,41.74,0 days 00:00:41.740000,2021-03-27,2021.0,University of Florida,2021 NCAA Division I Men's Swi,2002-03-27,2
+Brooks Curry,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.77,41.77,0 days 00:00:41.770000,2021-03-27,2021.0,Louisiana State University,2021 NCAA Division I Men's Swi,2001-01-20,2
+Kieran Smith,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.79,41.79,0 days 00:00:41.790000,2021-03-27,2021.0,University of Florida,2021 NCAA Division I Men's Swi,2000-05-20,2
+Nikola Acin,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.81,41.81,0 days 00:00:41.810000,2021-03-27,2021.0,Purdue University,2021 NCAA Division I Men's Swi,1999-12-19,2
+Matthew Brownstead,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.87,41.87,0 days 00:00:41.870000,2021-02-27,2021.0,University of Virginia,2021 ACC Men's Championship,2002-06-12,2
+Abdelrahman Elaraby,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.94,41.94,0 days 00:00:41.940000,2021-03-27,2021.0,University of Louisville,2021 NCAA Division I Men's Swi,2000-03-09,2
+River Wright,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.06,42.06,0 days 00:00:42.060000,2021-03-06,2021.0,University of Michigan,2021 B1G Men's Swim & Dive Cha,2001-04-03,2
+Youssef Ramadan,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.09,42.09,0 days 00:00:42.090000,2021-03-27,2021.0,VA Tech,2021 NCAA Division I Men's Swi,2002-07-07,2
+Blaise Vera,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.21,42.21,0 days 00:00:42.210000,2021-02-27,2021.0,University of Pittsburgh,2021 ACC Men's Championship,1999-07-08,2
+Joseph Armstrong,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.22,42.22,0 days 00:00:42.220000,2021-03-27,2021.0,Ohio State University,2021 NCAA Division I Men's Swi,2001-01-24,2
+Paige Madden,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.35,102.35,0 days 00:01:42.350000,2021-03-19,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,1998-10-21,3
+Riley Gaines,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.70,102.7,0 days 00:01:42.700000,2021-02-19,2021.0,University of Kentucky,2021 Women's SEC Champs,2000-04-21,3
+Kelly Pash,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.70,102.7,0 days 00:01:42.700000,2021-02-24,2021.0,University of Texas,2021 Big 12 Swimming Champions,2001-03-27,3
+Chloe Stepanek,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.89,102.89,0 days 00:01:42.890000,2021-03-17,2021.0,Texas A&M University,2021 NCAA DI Women's Swimming,2002-02-17,3
+Courtney Harnish,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.96,102.96,0 days 00:01:42.960000,2021-02-17,2021.0,University of Georgia,2021 Women's SEC Champs,1999-04-17,3
+Isabel Ivey,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.11,103.11,0 days 00:01:43.110000,2021-02-24,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2000-11-22,3
+Robin Neumann,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.19,103.19,0 days 00:01:43.190000,2021-02-24,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,1997-12-12,3
+Talia Bates,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.28,103.28,0 days 00:01:43.280000,2021-03-19,2021.0,University of Florida,2021 NCAA DI Women's Swimming,2001-02-01,3
+Alexandra Walsh,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.61,103.61,0 days 00:01:43.610000,2021-03-19,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2001-07-31,3
+Morgan Scott,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.69,103.69,0 days 00:01:43.690000,2021-02-17,2021.0,University of Alabama,2021 Women's SEC Champs,2000-05-22,3
+Genevieve Pfeifer,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.77,103.77,0 days 00:01:43.770000,2020-12-02,2021.0,University of Texas,2020 Texas Hall of Fame Invite,1999-04-19,3
+Ayla Spitz,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.10,104.1,0 days 00:01:44.100000,2021-02-26,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2001-01-08,3
+Isabella Gati,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.27,104.27,0 days 00:01:44.270000,2021-03-17,2021.0,University of Kentucky,2021 NCAA DI Women's Swimming,1999-11-23,3
+Brooke Forde,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.39,104.39,0 days 00:01:44.390000,2021-02-26,2021.0,Stanford University,2021 PAC-12 WOMEN'S SWIMMING &,1999-03-04,3
+Autumn Haebig,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.39,104.39,0 days 00:01:44.390000,2021-03-19,2021.0,University of Nebraska-Lincoln,2021 NCAA DI Women's Swimming,1998-10-13,3
+Tjasa Pintar,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.40,104.4,0 days 00:01:44.400000,2021-02-19,2021.0,University of Tennessee,2021 Women's SEC Champs,1997-02-15,3
+Kieran Smith,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:29.48,89.48,0 days 00:01:29.480000,2021-02-23,2021.0,University of Florida,2021 Men's SEC Swimming & Divi,2000-05-20,3
+Drew Kibler,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.39,90.39,0 days 00:01:30.390000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2000-03-09,3
+Shaine Casas,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:30.59,90.59,0 days 00:01:30.590000,2021-03-24,2021.0,Texas A&M University,2021 NCAA Division I Men's Swi,1999-12-25,3
+Trenton Julian,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.41,91.41,0 days 00:01:31.410000,2021-03-24,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-12-09,3
+Alexei Sancov,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.82,91.82,0 days 00:01:31.820000,2021-03-24,2021.0,University of Southern California,2021 NCAA Division I Men's Swi,1999-10-15,3
+Paul Delakis,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.90,91.9,0 days 00:01:31.900000,2021-03-02,2021.0,Ohio State University,2021 B1G Men's Swim & Dive Cha,1998-09-27,3
+Jacob Magahey,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.22,92.22,0 days 00:01:32.220000,2021-02-25,2021.0,University of Georgia,2021 Men's SEC Swimming & Divi,2001-09-14,3
+Philip Manoff,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.23,92.23,0 days 00:01:32.230000,2021-02-24,2021.0,VA Tech,2021 ACC Men's Championship,2001-02-19,3
+Baturalp Unlu,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.27,92.27,0 days 00:01:32.270000,2021-03-24,2021.0,Georgia Institute of Technology,2021 NCAA Division I Men's Swi,2002-07-09,3
+Lukas Miller,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.28,92.28,0 days 00:01:32.280000,2021-02-26,2021.0,North Carolina State University,2021 ACC Men's Championship,2002-04-26,3
+Nicolas Albiero,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.31,92.31,0 days 00:01:32.310000,2021-02-24,2021.0,University of Louisville,2021 ACC Men's Championship,1999-06-08,3
+Mark Theall,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.48,92.48,0 days 00:01:32.480000,2021-02-25,2021.0,Texas A&M University,2021 Men's SEC Swimming & Divi,1998-12-10,3
+Peter Larson,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.53,92.53,0 days 00:01:32.530000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2001-04-16,3
+Brooks Curry,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.55,92.55,0 days 00:01:32.550000,2021-03-26,2021.0,Louisiana State University,2021 NCAA Division I Men's Swi,2001-01-20,3
+Jake Sannem,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.58,92.58,0 days 00:01:32.580000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-01-12,3
+Kevin Callan,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.63,92.63,0 days 00:01:32.630000,2021-03-24,2021.0,University of Michigan,2021 NCAA Division I Men's Swi,1999-10-06,3
+Paige Madden,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:33.09,273.09,0 days 00:04:33.090000,2020-11-19,2021.0,University of Virginia,2020 UT Double Dual Finals,1998-10-21,4
+Genevieve Pfeifer,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.02,275.02,0 days 00:04:35.020000,2021-03-18,2021.0,University of Texas,2021 NCAA DI Women's Swimming,1999-04-19,4
+Brooke Forde,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.22,275.22,0 days 00:04:35.220000,2021-03-18,2021.0,Stanford University,2021 NCAA DI Women's Swimming,1999-03-04,4
+Courtney Harnish,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.33,275.33,0 days 00:04:35.330000,2021-02-18,2021.0,University of Georgia,2021 Women's SEC Champs,1999-04-17,4
+Morgan Tankersley,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.11,277.11,0 days 00:04:37.110000,2021-02-25,2021.0,Stanford University,2021 PAC-12 WOMEN'S SWIMMING &,1999-07-26,4
+Kathleen Moore,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.94,277.94,0 days 00:04:37.940000,2020-12-03,2021.0,North Carolina State University,"2020 UNC """"Janis Hape Dowd"""" Invite",1999-03-25,4
+Ayla Spitz,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.05,278.05,0 days 00:04:38.050000,2021-02-25,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2001-01-08,4
+Kristen Stege,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.38,278.38,0 days 00:04:38.380000,2021-02-18,2021.0,University of Tennessee,2021 Women's SEC Champs,2001-06-01,4
+Leah Braswell,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.69,278.69,0 days 00:04:38.690000,2020-11-18,2021.0,University of Florida,2020 Auburn Fall Invitational,2000-06-20,4
+Peyton Palsha,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.97,278.97,0 days 00:04:38.970000,2021-02-18,2021.0,University of Arkansas,2021 Women's SEC Champs,1999-07-09,4
+Tylor Mathieu,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.21,279.21,0 days 00:04:39.210000,2021-02-18,2021.0,University of Florida,2021 Women's SEC Champs,2000-12-21,4
+Sierra Schmidt,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.30,279.3,0 days 00:04:39.300000,2021-03-18,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,1998-05-06,4
+Veronica Tafuto,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.58,279.58,0 days 00:04:39.580000,2021-02-24,2021.0,Ohio State University,2021 B1G Women's Swim & Dive C,2000-04-26,4
+Kensey McMahon,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.84,279.84,0 days 00:04:39.840000,2020-11-19,2021.0,University of Alabama,2020 UT Double Dual Finals,1999-10-29,4
+Robin Neumann,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.92,279.92,0 days 00:04:39.920000,2021-02-25,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,1997-12-12,4
+Reka Gyorgy,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:40.10,280.1,0 days 00:04:40.100000,2021-02-18,2021.0,VA Tech,2021 ACC Women's Championship,1996-05-25,4
+Kieran Smith,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:06.32,246.32,0 days 00:04:06.320000,2021-02-24,2021.0,University of Florida,2021 Men's SEC Swimming & Divi,2000-05-20,4
+Jacob Magahey,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:06.71,246.71,0 days 00:04:06.710000,2021-02-24,2021.0,University of Georgia,2021 Men's SEC Swimming & Divi,2001-09-14,4
+Drew Kibler,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.26,248.26,0 days 00:04:08.260000,2020-10-16,2021.0,University of Texas,2020 ST TEX First Chance Invit,2000-03-09,4
+Brooks Fail,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.41,249.41,0 days 00:04:09.410000,2021-03-25,2021.0,University of Arizona,2021 NCAA Division I Men's Swi,1999-07-26,4
+Trenton Julian,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.49,249.49,0 days 00:04:09.490000,2021-03-01,2021.0,University of California Berkeley,2021 MEN'S PAC12 SWIMMING/DIVI,1998-12-09,4
+Zachary Yeadon,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.61,250.61,0 days 00:04:10.610000,2021-03-01,2021.0,University of California Berkeley,2021 MEN'S PAC12 SWIMMING/DIVI,1999-06-15,4
+Mark Theall,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.67,250.67,0 days 00:04:10.670000,2020-11-18,2021.0,Texas A&M University,2020 Art Adamson Invitational,1998-12-10,4
+Robert Finke,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.11,251.11,0 days 00:04:11.110000,2021-03-25,2021.0,University of Florida,2021 NCAA Division I Men's Swi,1999-11-06,4
+Sean Grieshop,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.12,251.12,0 days 00:04:11.120000,2021-03-25,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-11-23,4
+Jack Hoagland,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.26,251.26,0 days 00:04:11.260000,2021-02-25,2021.0,University of Notre Dame,2021 ACC Men's Championship,2000-11-12,4
+Ross Dant,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.21,252.21,0 days 00:04:12.210000,2021-02-25,2021.0,North Carolina State University,2021 ACC Men's Championship,2000-12-15,4
+Robert Freeman,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.21,252.21,0 days 00:04:12.210000,2021-03-25,2021.0,University of Florida,2021 NCAA Division I Men's Swi,2000-03-24,4
+Alfonso Mestre,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.77,252.77,0 days 00:04:12.770000,2021-02-24,2021.0,University of Florida,2021 Men's SEC Swimming & Divi,2001-09-24,4
+Mikkel Gadgaard,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.80,252.8,0 days 00:04:12.800000,2021-03-06,2021.0,Auburn University,James E Martin Invitational,1999-05-03,4
+Grant Shoults,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.85,252.85,0 days 00:04:12.850000,2021-03-25,2021.0,Stanford University,2021 NCAA Division I Men's Swi,1997-06-06,4
+Jacob Mitchell,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.92,252.92,0 days 00:04:12.920000,2021-03-03,2021.0,University of Michigan,2021 B1G Men's Swim & Dive Cha,2001-12-22,4
+Averee Preble,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:40.82,580.82,0 days 00:09:40.820000,2021-01-23,2021.0,Auburn University,2021 Florida vs Auburn,2001-05-01,5
+Kristen Stege,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:40.84,580.84,0 days 00:09:40.840000,2021-01-23,2021.0,University of Tennessee,2021 UT vs Georgia,2001-06-01,5
+Morgan Tankersley,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.41,581.41,0 days 00:09:41.410000,2021-02-13,2021.0,Stanford University,CAL @ Stanford Women,1999-07-26,5
+Elise Bauer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.00,583.0,0 days 00:09:43,2021-01-23,2021.0,University of Florida,2021 Florida vs Auburn,2002-05-22,5
+Sarah DiMeco,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.60,583.6,0 days 00:09:43.600000,2021-02-13,2021.0,University of California Berkeley,CAL @ Stanford Women,2000-12-28,5
+Peyton Palsha,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.86,584.86,0 days 00:09:44.860000,2021-01-22,2021.0,University of Arkansas,2021 University of Kansas vs Univer,1999-07-09,5
+Paige Madden,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.43,585.43,0 days 00:09:45.430000,2020-10-31,2021.0,University of Virginia,2020 Virginia vs Navy ,1998-10-21,5
+Tonni McNeese,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.79,585.79,0 days 00:09:45.790000,2021-01-23,2021.0,University of Kentucky,"2021 UK vs UL, senior meet",2001-04-01,5
+Courtney Harnish,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.89,585.89,0 days 00:09:45.890000,2021-01-23,2021.0,University of Georgia,2021 UT vs Georgia,1999-04-17,5
+Isabel Gormley,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.98,586.98,0 days 00:09:46.980000,2021-02-13,2021.0,Stanford University,CAL @ Stanford Women,2002-03-01,5
+Amanda Nunan,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:47.13,587.13,0 days 00:09:47.130000,2021-01-14,2021.0,University of Tennessee,2021 UT vs Kentucky - Women,1999-01-17,5
+Emily Hetzer,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:47.53,587.53,0 days 00:09:47.530000,2021-01-23,2021.0,Auburn University,2021 Florida vs Auburn,2000-04-05,5
+Taylor Ault,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:47.99,587.99,0 days 00:09:47.990000,2021-01-20,2021.0,University of Florida,2021 University of Florida vs. UNF,1999-02-25,5
+Alyssa Graves,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:48.33,588.33,0 days 00:09:48.330000,2021-01-22,2021.0,University of Iowa,2021 NU - IOWA - PSU,2002-01-24,5
+Tylor Mathieu,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:49.10,589.1,0 days 00:09:49.100000,2021-01-23,2021.0,University of Florida,2021 Florida vs Auburn,2000-12-21,5
+Lola Mull,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:49.14,589.14,0 days 00:09:49.140000,2021-02-06,2021.0,Northwestern University,2021 Wisconsin vs Northwestern & Ill,2002-08-06,5
+David Johnston,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:45.38,525.38,0 days 00:08:45.380000,2020-10-16,2021.0,University of Texas,2020 ST TEX First Chance Invit,2001-10-28,5
+John Gallant,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:48.04,528.04,0 days 00:08:48.040000,2020-12-06,2021.0,Indiana University,2020 AZ MAC Senior Holiday Chall,2001-07-19,5
+Alexander Zettle,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:48.39,528.39,0 days 00:08:48.390000,2021-02-05,2021.0,University of Texas,2021 Texas Men vs. SMU Men,1999-10-31,5
+Zachary Yeadon,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:49.88,529.88,0 days 00:08:49.880000,2021-02-19,2021.0,University of California Berkeley,FEB 2021 Cal vs. Stanford,1999-06-15,5
+Jack Hoagland,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:49.95,529.95,0 days 00:08:49.950000,2021-01-30,2021.0,University of Notre Dame,2021 West Virginia vs. Notre Dame,2000-11-12,5
+James Brinegar,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:52.15,532.15,0 days 00:08:52.150000,2020-12-04,2021.0,Indiana University,2020 IU TIme SCY Time Trial ,1999-09-15,5
+Jacob Magahey,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:53.73,533.73,0 days 00:08:53.730000,2020-10-30,2021.0,University of Georgia,2020 UGA vs UF ,2001-09-14,5
+Jacob Foster,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:54.95,534.95,0 days 00:08:54.950000,2021-02-05,2021.0,University of Texas,2021 Texas Men vs. SMU Men,2000-09-06,5
+Gregory Reed,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.00,535.0,0 days 00:08:55,2020-10-30,2021.0,University of Georgia,2020 UGA vs UF ,1999-08-18,5
+Advait Page,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.87,535.87,0 days 00:08:55.870000,2021-03-11,2021.0,University of Florida,2021 FL Swimming Spring Sr Champs-North,2001-11-16,5
+Sean Grieshop,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:56.92,536.92,0 days 00:08:56.920000,2021-02-19,2021.0,University of California Berkeley,FEB 2021 Cal vs. Stanford,1998-11-23,5
+Robert Finke,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.43,537.43,0 days 00:08:57.430000,2020-10-30,2021.0,University of Florida,2020 UGA vs UF ,1999-11-06,5
+Ross Dant,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.89,538.89,0 days 00:08:58.890000,2021-01-23,2021.0,North Carolina State University,2021 NC State vs UVA,2000-12-15,5
+Lucas Stuart,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:59.72,539.72,0 days 00:08:59.720000,2020-11-18,2021.0,Texas A&M University,2020 Art Adamson Invitational,1999-09-13,5
+Lucas Johnson,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.12,540.12,0 days 00:09:00.120000,2021-02-13,2021.0,U.S. Naval Academy,2021 MD AP Navy Swimming Valentine Meet,1999-07-14,5
+Joshua Dannhauser,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.38,540.38,0 days 00:09:00.380000,2021-02-06,2021.0,University of Wisconsin Madison,2021 Wisconsin vs Northwestern & Ill,1998-02-04,5
+Paige Madden,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:41.86,941.86,0 days 00:15:41.860000,2021-03-20,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,1998-10-21,6
+Genevieve Pfeifer,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:46.41,946.41,0 days 00:15:46.410000,2021-03-20,2021.0,University of Texas,2021 NCAA DI Women's Swimming,1999-04-19,6
+Kristen Stege,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:47.72,947.72,0 days 00:15:47.720000,2021-02-20,2021.0,University of Tennessee,2021 Women's SEC Champs,2001-06-01,6
+Kensey McMahon,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:49.22,949.22,0 days 00:15:49.220000,2021-02-20,2021.0,University of Alabama,2021 Women's SEC Champs,1999-10-29,6
+Sierra Schmidt,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:51.09,951.09,0 days 00:15:51.090000,2021-03-20,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,1998-05-06,6
+Kaitlynn Sims,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:57.80,957.8,0 days 00:15:57.800000,2021-03-20,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-11-27,6
+Peyton Palsha,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:58.42,958.42,0 days 00:15:58.420000,2021-02-20,2021.0,University of Arkansas,2021 Women's SEC Champs,1999-07-09,6
+Morgan Tankersley,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:03.27,963.27,0 days 00:16:03.270000,2021-02-27,2021.0,Stanford University,2021 PAC-12 WOMEN'S SWIMMING &,1999-07-26,6
+Olivia Anderson,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:03.61,963.61,0 days 00:16:03.610000,2020-11-20,2021.0,University of Georgia,2020 UGA Fall Invitational ,1999-05-30,6
+Camryn Toney,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:04.02,964.02,0 days 00:16:04.020000,2021-03-20,2021.0,Texas A&M University,2021 NCAA DI Women's Swimming,1999-07-17,6
+Tonni McNeese,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:04.07,964.07,0 days 00:16:04.070000,2020-11-21,2021.0,University of Kentucky,2020 Mizzou Invitational,2001-04-01,6
+Lola Mull,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:04.11,964.11,0 days 00:16:04.110000,2021-03-20,2021.0,Northwestern University,2021 NCAA DI Women's Swimming,2002-08-06,6
+Taylor Ault,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:05.09,965.09,0 days 00:16:05.090000,2021-02-20,2021.0,University of Florida,2021 Women's SEC Champs,1999-02-25,6
+Sarah DiMeco,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:06.45,966.45,0 days 00:16:06.450000,2021-02-27,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2000-12-28,6
+Liberty Williams,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:06.56,966.56,0 days 00:16:06.560000,2021-02-20,2021.0,University of Louisville,2021 ACC Women's Championship,2001-12-30,6
+Elise Bauer,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:07.30,967.3,0 days 00:16:07.300000,2020-11-20,2021.0,University of Florida,2020 Auburn Fall Invitational,2002-05-22,6
+Robert Finke,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:12.18,852.18,0 days 00:14:12.180000,2021-02-26,2021.0,University of Florida,2021 Men's SEC Swimming & Divi,1999-11-06,6
+Jacob Magahey,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:24.96,864.96,0 days 00:14:24.960000,2021-02-26,2021.0,University of Georgia,2021 Men's SEC Swimming & Divi,2001-09-14,6
+Ross Dant,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:31.17,871.17,0 days 00:14:31.170000,2021-03-27,2021.0,North Carolina State University,2021 NCAA Division I Men's Swi,2000-12-15,6
+Brooks Fail,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:31.38,871.38,0 days 00:14:31.380000,2021-03-27,2021.0,University of Arizona,2021 NCAA Division I Men's Swi,1999-07-26,6
+Jack Hoagland,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:31.83,871.83,0 days 00:14:31.830000,2021-02-27,2021.0,University of Notre Dame,2021 ACC Men's Championship,2000-11-12,6
+Zachary Yeadon,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:33.69,873.69,0 days 00:14:33.690000,2021-03-03,2021.0,University of California Berkeley,2021 MEN'S PAC12 SWIMMING/DIVI,1999-06-15,6
+James Brinegar,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:38.26,878.26,0 days 00:14:38.260000,2021-03-06,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,1999-09-15,6
+David Johnston,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.13,880.13,0 days 00:14:40.130000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2001-10-28,6
+Charles Clark,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.70,880.7,0 days 00:14:40.700000,2021-03-27,2021.0,Ohio State University,2021 NCAA Division I Men's Swi,2002-06-17,6
+Alexander Zettle,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:42.40,882.4,0 days 00:14:42.400000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-10-31,6
+Jacob Mitchell,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:42.60,882.6,0 days 00:14:42.600000,2021-03-06,2021.0,University of Michigan,2021 B1G Men's Swim & Dive Cha,2001-12-22,6
+Gregory Reed,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:43.69,883.69,0 days 00:14:43.690000,2020-11-20,2021.0,University of Georgia,2020 UGA Fall Invitational ,1999-08-18,6
+Grant Shoults,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:46.51,886.51,0 days 00:14:46.510000,2021-03-27,2021.0,Stanford University,2021 NCAA Division I Men's Swi,1997-06-06,6
+Joshua Dannhauser,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:46.76,886.76,0 days 00:14:46.760000,2021-03-06,2021.0,University of Wisconsin Madison,2021 B1G Men's Swim & Dive Cha,1998-02-04,6
+Eric Knowles,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:48.06,888.06,0 days 00:14:48.060000,2020-12-05,2021.0,North Carolina State University,"2020 UNC """"Janis Hape Dowd"""" Invite",1999-07-05,6
+Ethan Heasley,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:48.10,888.1,0 days 00:14:48.100000,2020-12-05,2021.0,University of Texas,2020 Texas Hall of Fame Invite,2001-08-23,6
+Katharine Berkoff,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.74,49.74,0 days 00:00:49.740000,2021-03-19,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,2001-01-28,12
+Margaret MacNeil,100 Backstroke SCY Female,100,Backstroke,SCY,Female,49.76,49.76,0 days 00:00:49.760000,2021-03-18,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-02-26,12
+Rhyan White,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.16,50.16,0 days 00:00:50.160000,2021-03-19,2021.0,University of Alabama,2021 NCAA DI Women's Swimming,2000-01-25,12
+Phoebe Bacon,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.39,50.39,0 days 00:00:50.390000,2021-03-19,2021.0,University of Wisconsin Madison,2021 NCAA DI Women's Swimming,2002-08-12,12
+Isabel Ivey,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.85,50.85,0 days 00:00:50.850000,2021-03-19,2021.0,University of California Berkeley,2021 NCAA DI Women's Swimming,2000-11-22,12
+Isabelle Stadden,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.86,50.86,0 days 00:00:50.860000,2021-02-24,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2002-07-09,12
+Olivia Bray,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.04,51.04,0 days 00:00:51.040000,2020-12-04,2021.0,University of Texas,2020 Texas Hall of Fame Invite,2001-11-20,12
+Julia Cook,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.14,51.14,0 days 00:00:51.140000,2020-12-04,2021.0,University of Texas,2020 Texas Hall of Fame Invite,2000-08-28,12
+Sarah Thompson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.27,51.27,0 days 00:00:51.270000,2021-02-19,2021.0,University of Missouri,2021 Women's SEC Champs,1998-09-03,12
+Emily Crane,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.38,51.38,0 days 00:00:51.380000,2021-02-26,2021.0,Ohio State University,2021 B1G Women's Swim & Dive C,1998-05-21,12
+Grace Countie,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.42,51.42,0 days 00:00:51.420000,2021-03-19,2021.0,University of North Carolina Chapel Hill,2021 NCAA DI Women's Swimming,1999-11-10,12
+Caroline Gmelich,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.43,51.43,0 days 00:00:51.430000,2021-03-19,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,1999-08-10,12
+Emma Atkinson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.44,51.44,0 days 00:00:51.440000,2021-03-18,2021.0,VA Tech,2021 NCAA DI Women's Swimming,2001-10-13,12
+Caitlin Brooks,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.51,51.51,0 days 00:00:51.510000,2021-02-19,2021.0,University of Kentucky,2021 Women's SEC Champs,2000-09-12,12
+Sophie Lindner,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.56,51.56,0 days 00:00:51.560000,2021-03-19,2021.0,University of North Carolina Chapel Hill,2021 NCAA DI Women's Swimming,2000-05-15,12
+Alexandra Walsh,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.57,51.57,0 days 00:00:51.570000,2021-02-19,2021.0,University of Virginia,2021 ACC Women's Championship,2001-07-31,12
+Shaine Casas,100 Backstroke SCY Male,100,Backstroke,SCY,Male,43.87,43.87,0 days 00:00:43.870000,2020-11-19,2021.0,Texas A&M University,2020 Art Adamson Invitational,1999-12-25,12
+Kacper Stokowski,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.37,44.37,0 days 00:00:44.370000,2021-03-26,2021.0,North Carolina State University,2021 NCAA Division I Men's Swi,1999-01-06,12
+Destin Lasco,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.49,44.49,0 days 00:00:44.490000,2021-03-26,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,2001-08-07,12
+Alvin Jiang,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.60,44.6,0 days 00:00:44.600000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1998-12-03,12
+Adam Chaney,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.74,44.74,0 days 00:00:44.740000,2021-03-26,2021.0,University of Florida,2021 NCAA Division I Men's Swi,2002-03-27,12
+Brendan Burns,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.84,44.84,0 days 00:00:44.840000,2021-03-25,2021.0,Indiana University,2021 NCAA Division I Men's Swi,2001-05-29,12
+Nicolas Albiero,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.85,44.85,0 days 00:00:44.850000,2021-03-26,2021.0,University of Louisville,2021 NCAA Division I Men's Swi,1999-06-08,12
+Joseph Armstrong,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.92,44.92,0 days 00:00:44.920000,2021-03-03,2021.0,Ohio State University,2021 B1G Men's Swim & Dive Cha,2001-01-24,12
+Javier Acevedo,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.95,44.95,0 days 00:00:44.950000,2021-03-26,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,1998-01-28,12
+Gianluca Urlando,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.99,44.99,0 days 00:00:44.990000,2021-03-25,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,2002-03-16,12
+Christopher Staka,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.02,45.02,0 days 00:00:45.020000,2021-03-25,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1998-05-12,12
+Mitchell Whyte,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.03,45.03,0 days 00:00:45.030000,2021-03-25,2021.0,University of Louisville,2021 NCAA Division I Men's Swi,2000-02-15,12
+Bryce Mefford,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.04,45.04,0 days 00:00:45.040000,2021-03-26,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-10-03,12
+Matthew Menke,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.18,45.18,0 days 00:00:45.180000,2021-02-25,2021.0,University of Alabama,2021 Men's SEC Swimming & Divi,2000-10-10,12
+Gabriel Fantoni,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.26,45.26,0 days 00:00:45.260000,2021-03-03,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,1998-07-22,12
+Austin Katz,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.27,45.27,0 days 00:00:45.270000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-03-19,12
+Phoebe Bacon,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.32,108.32,0 days 00:01:48.320000,2021-03-20,2021.0,University of Wisconsin Madison,2021 NCAA DI Women's Swimming,2002-08-12,13
+Rhyan White,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.55,108.55,0 days 00:01:48.550000,2021-02-20,2021.0,University of Alabama,2021 Women's SEC Champs,2000-01-25,13
+Isabelle Stadden,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.66,109.66,0 days 00:01:49.660000,2021-03-20,2021.0,University of California Berkeley,2021 NCAA DI Women's Swimming,2002-07-09,13
+Emma Muzzy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.12,110.12,0 days 00:01:50.120000,2021-02-20,2021.0,North Carolina State University,2021 ACC Women's Championship,2000-11-21,13
+Katharine Berkoff,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.20,110.2,0 days 00:01:50.200000,2020-12-05,2021.0,North Carolina State University,"2020 UNC """"Janis Hape Dowd"""" Invite",2001-01-28,13
+Emma Atkinson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.43,110.43,0 days 00:01:50.430000,2021-03-20,2021.0,VA Tech,2021 NCAA DI Women's Swimming,2001-10-13,13
+Sophia Sorenson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.94,110.94,0 days 00:01:50.940000,2021-02-20,2021.0,University of Kentucky,2021 Women's SEC Champs,2000-05-21,13
+Alexandra Walsh,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.12,111.12,0 days 00:01:51.120000,2021-02-20,2021.0,University of Virginia,2021 ACC Women's Championship,2001-07-31,13
+Caitlin Brooks,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.55,111.55,0 days 00:01:51.550000,2020-11-21,2021.0,University of Kentucky,2020 Mizzou Invitational,2000-09-12,13
+Kathleen Moore,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.61,111.61,0 days 00:01:51.610000,2021-03-20,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,1999-03-25,13
+Julia Cook,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.83,111.83,0 days 00:01:51.830000,2021-03-20,2021.0,University of Texas,2021 NCAA DI Women's Swimming,2000-08-28,13
+Paige Madden,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.85,111.85,0 days 00:01:51.850000,2021-02-05,2021.0,University of Virginia,2021 Cavalier Invitational,1998-10-21,13
+Mariella Venter,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.19,112.19,0 days 00:01:52.190000,2021-03-20,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-01-10,13
+Morgan Liberto,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.39,112.39,0 days 00:01:52.390000,2021-02-20,2021.0,University of Alabama,2021 Women's SEC Champs,2000-07-23,13
+Alicia Wilson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.67,112.67,0 days 00:01:52.670000,2021-02-27,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2000-03-05,13
+Sophie Lindner,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.69,112.69,0 days 00:01:52.690000,2021-03-20,2021.0,University of North Carolina Chapel Hill,2021 NCAA DI Women's Swimming,2000-05-15,13
+Shaine Casas,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:35.75,95.75,0 days 00:01:35.750000,2021-03-27,2021.0,Texas A&M University,2021 NCAA Division I Men's Swi,1999-12-25,13
+Destin Lasco,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:35.99,95.99,0 days 00:01:35.990000,2021-03-27,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,2001-08-07,13
+Bryce Mefford,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.31,98.31,0 days 00:01:38.310000,2021-03-27,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-10-03,13
+Carson Foster,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.41,98.41,0 days 00:01:38.410000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2001-10-26,13
+Daniel Carr,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.63,98.63,0 days 00:01:38.630000,2021-03-27,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-09-08,13
+Austin Katz,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.92,98.92,0 days 00:01:38.920000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-03-19,13
+Hugo Gonzalez de Oliveira,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.18,99.18,0 days 00:01:39.180000,2021-03-03,2021.0,University of California Berkeley,2021 MEN'S PAC12 SWIMMING/DIVI,1999-02-19,13
+Brendan Burns,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.37,99.37,0 days 00:01:39.370000,2021-03-06,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,2001-05-29,13
+Javier Acevedo,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.60,99.6,0 days 00:01:39.600000,2021-03-27,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,1998-01-28,13
+Mitchell Whyte,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.98,99.98,0 days 00:01:39.980000,2021-02-27,2021.0,University of Louisville,2021 ACC Men's Championship,2000-02-15,13
+Ian Grum,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.01,100.01,0 days 00:01:40.010000,2021-03-27,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,2001-06-23,13
+Clark Beach,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.02,100.02,0 days 00:01:40.020000,2021-03-27,2021.0,University of Florida,2021 NCAA Division I Men's Swi,1999-06-29,13
+Justin Grender,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.20,100.2,0 days 00:01:40.200000,2021-03-27,2021.0,University of Virginia,2021 NCAA Division I Men's Swi,2000-04-11,13
+Jack Dahlgren,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.33,100.33,0 days 00:01:40.330000,2021-03-27,2021.0,University of Missouri,2021 NCAA Division I Men's Swi,2000-01-10,13
+James Marcum,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.48,100.48,0 days 00:01:40.480000,2020-11-21,2021.0,University of Alabama,2020 UT Double Dual Finals,2000-10-07,13
+Jacob Steele,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.49,100.49,0 days 00:01:40.490000,2021-03-27,2021.0,Indiana University,2021 NCAA Division I Men's Swi,1999-02-20,13
+Sophie Hansson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.23,57.23,0 days 00:00:57.230000,2021-03-19,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,1998-08-02,15
+Zoie Hartman,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.40,57.4,0 days 00:00:57.400000,2021-02-19,2021.0,University of Georgia,2021 Women's SEC Champs,2000-12-20,15
+Kaitlyn Dobler,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.46,57.46,0 days 00:00:57.460000,2021-03-19,2021.0,University of Southern California,2021 NCAA DI Women's Swimming,2002-02-15,15
+Alexis Wenger,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.60,57.6,0 days 00:00:57.600000,2021-02-19,2021.0,University of Virginia,2021 ACC Women's Championship,2000-06-08,15
+Mona McSharry,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.80,57.8,0 days 00:00:57.800000,2021-03-19,2021.0,University of Tennessee,2021 NCAA DI Women's Swimming,2000-08-21,15
+Hannah Bach,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,57.94,57.94,0 days 00:00:57.940000,2021-03-19,2021.0,Ohio State University,2021 NCAA DI Women's Swimming,2000-12-01,15
+Anna Elendt,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.06,58.06,0 days 00:00:58.060000,2020-12-04,2021.0,University of Texas,2020 Texas Hall of Fame Invite,2001-09-04,15
+Andrea Podmanikova,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.10,58.1,0 days 00:00:58.100000,2021-02-19,2021.0,North Carolina State University,2021 ACC Women's Championship,1998-02-23,15
+Alexandra Walsh,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.28,58.28,0 days 00:00:58.280000,2021-02-19,2021.0,University of Virginia,2021 ACC Women's Championship,2001-07-31,15
+Ema Rajic,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.45,58.45,0 days 00:00:58.450000,2021-02-26,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2000-02-24,15
+Hannah Brunzell,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.50,58.5,0 days 00:00:58.500000,2021-03-19,2021.0,Northwestern University,2021 NCAA DI Women's Swimming,2001-03-22,15
+Sophie Angus,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.59,58.59,0 days 00:00:58.590000,2021-03-19,2021.0,Northwestern University,2021 NCAA DI Women's Swimming,1999-03-12,15
+Kaylee Wheeler,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.67,58.67,0 days 00:00:58.670000,2021-03-19,2021.0,University of Louisville,2021 NCAA DI Women's Swimming,2000-09-15,15
+Klara Thormalm,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.68,58.68,0 days 00:00:58.680000,2021-03-19,2021.0,San Diego State University,2021 NCAA DI Women's Swimming,1998-03-29,15
+Allison Raab,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.74,58.74,0 days 00:00:58.740000,2021-02-26,2021.0,Stanford University,2021 PAC-12 WOMEN'S SWIMMING &,2000-04-25,15
+Anna Keating,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.81,58.81,0 days 00:00:58.810000,2021-02-19,2021.0,University of Virginia,2021 ACC Women's Championship,2002-08-18,15
+Maxwell McHugh,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.18,50.18,0 days 00:00:50.180000,2021-03-26,2021.0,University of Minnesota,2021 NCAA Division I Men's Swi,1999-12-31,15
+William Chan,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.95,50.95,0 days 00:00:50.950000,2021-03-05,2021.0,University of Michigan,2021 B1G Men's Swim & Dive Cha,1999-12-29,15
+Dillon Hillis,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.96,50.96,0 days 00:00:50.960000,2021-03-26,2021.0,University of Florida,2021 NCAA Division I Men's Swi,2000-09-15,15
+Evgenii Somov,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.03,51.03,0 days 00:00:51.030000,2021-02-26,2021.0,University of Louisville,2021 ACC Men's Championship,1999-01-28,15
+Reece Whitley,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.03,51.03,0 days 00:00:51.030000,2021-03-26,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,2000-01-03,15
+Zane Backes,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.04,51.04,0 days 00:00:51.040000,2021-03-05,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,1998-12-07,15
+Joseph Barnum,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.09,51.09,0 days 00:00:51.090000,2021-03-26,2021.0,University of Virginia,2021 NCAA Division I Men's Swi,1999-02-08,15
+Michael Houlie,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.26,51.26,0 days 00:00:51.260000,2021-03-26,2021.0,University of Tennessee,2021 NCAA Division I Men's Swi,2000-06-27,15
+Jason Mathews,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.30,51.3,0 days 00:00:51.300000,2021-03-05,2021.0,Ohio State University,2021 B1G Men's Swim & Dive Cha,1999-01-25,15
+Noah Nichols,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.36,51.36,0 days 00:00:51.360000,2021-02-26,2021.0,University of Virginia,2021 ACC Men's Championship,2002-04-20,15
+Tanner Olson,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.39,51.39,0 days 00:00:51.390000,2020-11-19,2021.0,Texas A&M University,2020 Art Adamson Invitational,1999-05-14,15
+Cooper Van Der Laan,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.52,51.52,0 days 00:00:51.520000,2021-02-26,2021.0,University of Pittsburgh,2021 ACC Men's Championship,1998-12-16,15
+Hudson McDaniel,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.55,51.55,0 days 00:00:51.550000,2021-03-26,2021.0,Ohio State University,2021 NCAA Division I Men's Swi,1999-04-08,15
+Caspar Corbeau,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.62,51.62,0 days 00:00:51.620000,2021-02-26,2021.0,University of Texas,2021 Big 12 Swimming Champions,2001-04-03,15
+William Myhre,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.70,51.7,0 days 00:00:51.700000,2021-03-05,2021.0,University of Iowa,2021 B1G Men's Swim & Dive Cha,2000-09-18,15
+Valdas Abaliksta,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.74,51.74,0 days 00:00:51.740000,2021-02-26,2021.0,University of North Carolina Chapel Hill,2021 ACC Men's Championship,1998-11-25,15
+Sophie Hansson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.86,123.86,0 days 00:02:03.860000,2021-03-20,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,1998-08-02,16
+Katherine Douglass,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:03.93,123.93,0 days 00:02:03.930000,2021-02-05,2021.0,University of Virginia,2021 Cavalier Invitational,2001-11-17,16
+Margaret Nelson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:04.35,124.35,0 days 00:02:04.350000,2021-03-20,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2001-07-28,16
+Mona McSharry,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.01,125.01,0 days 00:02:05.010000,2021-03-20,2021.0,University of Tennessee,2021 NCAA DI Women's Swimming,2000-08-21,16
+Zoie Hartman,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.05,125.05,0 days 00:02:05.050000,2021-02-20,2021.0,University of Georgia,2021 Women's SEC Champs,2000-12-20,16
+Andrea Podmanikova,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.51,125.51,0 days 00:02:05.510000,2021-03-20,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,1998-02-23,16
+Gillian Davey,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.59,125.59,0 days 00:02:05.590000,2021-02-20,2021.0,University of Kentucky,2021 Women's SEC Champs,2001-08-21,16
+Alexandra Walsh,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:05.64,125.64,0 days 00:02:05.640000,2021-03-20,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2001-07-31,16
+Anna Elendt,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.04,126.04,0 days 00:02:06.040000,2020-12-05,2021.0,University of Texas,2020 Texas Hall of Fame Invite,2001-09-04,16
+Noelle Peplowski,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.46,126.46,0 days 00:02:06.460000,2021-03-20,2021.0,Indiana University,2021 NCAA DI Women's Swimming,2000-05-01,16
+Kaitlyn Dobler,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.53,126.53,0 days 00:02:06.530000,2021-02-27,2021.0,University of Southern California,2021 PAC-12 WOMEN'S SWIMMING &,2002-02-15,16
+Hannah Brunzell,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.60,126.6,0 days 00:02:06.600000,2021-03-20,2021.0,Northwestern University,2021 NCAA DI Women's Swimming,2001-03-22,16
+Alexis Wenger,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.65,126.65,0 days 00:02:06.650000,2021-03-20,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2000-06-08,16
+Danielle Dellatorre,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.81,126.81,0 days 00:02:06.810000,2020-11-20,2021.0,University of Georgia,2020 UGA Fall Invitational ,1999-07-24,16
+Petra Halmai,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.89,126.89,0 days 00:02:06.890000,2021-03-20,2021.0,Florida Gulf Coast University,2021 NCAA DI Women's Swimming,1997-05-29,16
+Allison Raab,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.15,127.15,0 days 00:02:07.150000,2020-11-21,2021.0,Stanford University,2020 Stanford Invite,2000-04-25,16
+Reece Whitley,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:48.53,108.53,0 days 00:01:48.530000,2020-11-14,2021.0,University of California Berkeley,2020 California vs Stanford Men,2000-01-03,16
+Maxwell McHugh,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.02,109.02,0 days 00:01:49.020000,2021-03-27,2021.0,University of Minnesota,2021 NCAA Division I Men's Swi,1999-12-31,16
+Daniel Roy,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.07,111.07,0 days 00:01:51.070000,2021-03-03,2021.0,Stanford University,2021 MEN'S PAC12 SWIMMING/DIVI,2000-01-17,16
+Hugo Gonzalez de Oliveira,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.20,111.2,0 days 00:01:51.200000,2021-03-27,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1999-02-19,16
+Evgenii Somov,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.26,111.26,0 days 00:01:51.260000,2021-02-27,2021.0,University of Louisville,2021 ACC Men's Championship,1999-01-28,16
+Caspar Corbeau,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.43,111.43,0 days 00:01:51.430000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2001-04-03,16
+Paul Delakis,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.78,111.78,0 days 00:01:51.780000,2021-03-06,2021.0,Ohio State University,2021 B1G Men's Swim & Dive Cha,1998-09-27,16
+Caio Pumputis,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.81,111.81,0 days 00:01:51.810000,2021-02-27,2021.0,Georgia Institute of Technology,2021 ACC Men's Championship,1999-01-08,16
+Carles Coll Marti,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.84,111.84,0 days 00:01:51.840000,2021-03-27,2021.0,VA Tech,2021 NCAA Division I Men's Swi,2001-10-15,16
+Joseph Barnum,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.23,112.23,0 days 00:01:52.230000,2021-03-27,2021.0,University of Virginia,2021 NCAA Division I Men's Swi,1999-02-08,16
+Braden Vines,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.51,112.51,0 days 00:01:52.510000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-12-29,16
+Jason Mathews,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.56,112.56,0 days 00:01:52.560000,2021-03-27,2021.0,Ohio State University,2021 NCAA Division I Men's Swi,1999-01-25,16
+Jacob Foster,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.59,112.59,0 days 00:01:52.590000,2021-03-27,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2000-09-06,16
+Ananias Pouch,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.60,112.6,0 days 00:01:52.600000,2021-03-07,2021.0,VA Tech,UNC Last Chance Meet 2021 - 3.,2000-11-15,16
+Lyubomir Epitropov,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.69,112.69,0 days 00:01:52.690000,2021-02-26,2021.0,University of Tennessee,2021 Men's SEC Swimming & Divi,1999-04-27,16
+Andres Puente Bustamante,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.74,112.74,0 days 00:01:52.740000,2020-11-20,2021.0,Texas A&M University,2020 Art Adamson Invitational,2001-03-06,16
+Margaret MacNeil,100 Butterfly SCY Female,100,Butterfly,SCY,Female,48.89,48.89,0 days 00:00:48.890000,2021-03-19,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-02-26,18
+Katherine Douglass,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.55,49.55,0 days 00:00:49.550000,2021-03-19,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2001-11-17,18
+Kylee Alons,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.35,50.35,0 days 00:00:50.350000,2021-03-19,2021.0,North Carolina State University,2021 NCAA DI Women's Swimming,1999-09-30,18
+Olivia Bray,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.37,50.37,0 days 00:00:50.370000,2020-12-04,2021.0,University of Texas,2020 Texas Hall of Fame Invite,2001-11-20,18
+Alexa Cuomo,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.65,50.65,0 days 00:00:50.650000,2021-02-19,2021.0,University of Virginia,2021 ACC Women's Championship,2001-04-23,18
+Isabel Ivey,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.68,50.68,0 days 00:00:50.680000,2021-03-19,2021.0,University of California Berkeley,2021 NCAA DI Women's Swimming,2000-11-22,18
+Rhyan White,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.75,50.75,0 days 00:00:50.750000,2021-03-19,2021.0,University of Alabama,2021 NCAA DI Women's Swimming,2000-01-25,18
+Olivia Carter,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.19,51.19,0 days 00:00:51.190000,2021-03-19,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-07-22,18
+Emma Sticklen,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.49,51.49,0 days 00:00:51.490000,2020-12-04,2021.0,University of Texas,2020 Texas Hall of Fame Invite,2002-06-27,18
+Gabriela Albiero,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.59,51.59,0 days 00:00:51.590000,2021-02-19,2021.0,University of Louisville,2021 ACC Women's Championship,2002-01-16,18
+Coleen Gillilan,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.60,51.6,0 days 00:00:51.600000,2021-03-19,2021.0,University of Notre Dame,2021 NCAA DI Women's Swimming,2001-06-15,18
+Samantha Baron,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.65,51.65,0 days 00:00:51.650000,2021-02-26,2021.0,Los Angeles University of California,2021 PAC-12 WOMEN'S SWIMMING &,2002-06-21,18
+Taylor Pike,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.71,51.71,0 days 00:00:51.710000,2021-02-19,2021.0,Texas A&M University,2021 Women's SEC Champs,1999-08-05,18
+Abigail Harter,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.73,51.73,0 days 00:00:51.730000,2020-11-20,2021.0,University of Virginia,2020 UT Double Dual Finals,2002-02-06,18
+Isabella Gati,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.74,51.74,0 days 00:00:51.740000,2021-02-19,2021.0,University of Kentucky,2021 Women's SEC Champs,1999-11-23,18
+Gertrude Rothrock,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.77,51.77,0 days 00:00:51.770000,2020-11-20,2021.0,University of Tennessee,2020 UT Double Dual Finals,1999-08-04,18
+Ryan Hoffer,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.24,44.24,0 days 00:00:44.240000,2021-03-26,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-07-09,18
+Nicolas Albiero,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.32,44.32,0 days 00:00:44.320000,2021-03-26,2021.0,University of Louisville,2021 NCAA Division I Men's Swi,1999-06-08,18
+Youssef Ramadan,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.32,44.32,0 days 00:00:44.320000,2021-02-26,2021.0,VA Tech,2021 ACC Men's Championship,2002-07-07,18
+Camden Murphy,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.42,44.42,0 days 00:00:44.420000,2021-03-26,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,1999-04-06,18
+Alvin Jiang,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.50,44.5,0 days 00:00:44.500000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1998-12-03,18
+Antani Ivanov,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.54,44.54,0 days 00:00:44.540000,2021-03-26,2021.0,VA Tech,2021 NCAA Division I Men's Swi,1999-07-17,18
+William Kovac,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.66,44.66,0 days 00:00:44.660000,2021-03-26,2021.0,University of Missouri,2021 NCAA Division I Men's Swi,2000-06-27,18
+Jan Friese,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.79,44.79,0 days 00:00:44.790000,2021-03-26,2021.0,University of Florida,2021 NCAA Division I Men's Swi,1999-01-08,18
+Shaine Casas,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.91,44.91,0 days 00:00:44.910000,2021-02-25,2021.0,Texas A&M University,2021 Men's SEC Swimming & Divi,1999-12-25,18
+Tomer Frankel,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.91,44.91,0 days 00:00:44.910000,2021-03-04,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,2000-10-18,18
+Gianluca Urlando,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.97,44.97,0 days 00:00:44.970000,2021-02-25,2021.0,University of Georgia,2021 Men's SEC Swimming & Divi,2002-03-16,18
+River Wright,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.24,45.24,0 days 00:00:45.240000,2021-03-04,2021.0,University of Michigan,2021 B1G Men's Swim & Dive Cha,2001-04-03,18
+Brendan Burns,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.26,45.26,0 days 00:00:45.260000,2021-03-04,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,2001-05-29,18
+Samuel Pomajevich,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.26,45.26,0 days 00:00:45.260000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1998-10-12,18
+Blaise Vera,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.29,45.29,0 days 00:00:45.290000,2021-02-26,2021.0,University of Pittsburgh,2021 ACC Men's Championship,1999-07-08,18
+Nikola Miljenic,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.33,45.33,0 days 00:00:45.330000,2021-03-02,2021.0,University of Southern California,2021 MEN'S PAC12 SWIMMING/DIVI,1998-05-19,18
+Olivia Carter,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.33,111.33,0 days 00:01:51.330000,2021-03-20,2021.0,University of Michigan,2021 NCAA DI Women's Swimming,2000-07-22,19
+Olivia Bray,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.03,112.03,0 days 00:01:52.030000,2021-02-27,2021.0,University of Texas,2021 Big 12 Swimming Champions,2001-11-20,19
+Dakota Luther,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.04,112.04,0 days 00:01:52.040000,2021-02-20,2021.0,University of Georgia,2021 Women's SEC Champs,1999-11-07,19
+Kelly Pash,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.69,112.69,0 days 00:01:52.690000,2021-02-27,2021.0,University of Texas,2021 Big 12 Swimming Champions,2001-03-27,19
+Rachel Klinker,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.82,112.82,0 days 00:01:52.820000,2021-02-27,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2000-10-08,19
+Courtney Harnish,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.18,113.18,0 days 00:01:53.180000,2021-02-20,2021.0,University of Georgia,2021 Women's SEC Champs,1999-04-17,19
+Taylor Pike,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.32,113.32,0 days 00:01:53.320000,2021-03-20,2021.0,Texas A&M University,2021 NCAA DI Women's Swimming,1999-08-05,19
+Emma Sticklen,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.56,113.56,0 days 00:01:53.560000,2021-03-20,2021.0,University of Texas,2021 NCAA DI Women's Swimming,2002-06-27,19
+Isabella Gati,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.73,113.73,0 days 00:01:53.730000,2021-02-20,2021.0,University of Kentucky,2021 Women's SEC Champs,1999-11-23,19
+Abigail Harter,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.73,113.73,0 days 00:01:53.730000,2020-11-21,2021.0,University of Virginia,2020 UT Double Dual Finals,2002-02-06,19
+Sydney Harrington,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.74,113.74,0 days 00:01:53.740000,2021-02-27,2021.0,U.S. Naval Academy,Navy vs Loyola 2021,2000-07-05,19
+Coleen Gillilan,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.94,113.94,0 days 00:01:53.940000,2021-03-20,2021.0,University of Notre Dame,2021 NCAA DI Women's Swimming,2001-06-15,19
+Alena Kraus,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.14,114.14,0 days 00:01:54.140000,2021-03-20,2021.0,University of Louisville,2021 NCAA DI Women's Swimming,1999-09-01,19
+Jessica Nava,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.36,114.36,0 days 00:01:54.360000,2020-11-21,2021.0,University of Virginia,2020 UT Double Dual Finals,2000-03-15,19
+Jing Wen Quah,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.41,114.41,0 days 00:01:54.410000,2021-03-20,2021.0,Texas A&M University,2021 NCAA DI Women's Swimming,2000-12-20,19
+Gabriela Albiero,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.59,114.59,0 days 00:01:54.590000,2020-11-22,2021.0,University of Louisville,2020 KY UofL Invitational,2002-01-16,19
+Trenton Julian,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.53,98.53,0 days 00:01:38.530000,2021-03-03,2021.0,University of California Berkeley,2021 MEN'S PAC12 SWIMMING/DIVI,1998-12-09,19
+Nicolas Albiero,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.64,98.64,0 days 00:01:38.640000,2021-03-27,2021.0,University of Louisville,2021 NCAA Division I Men's Swi,1999-06-08,19
+Shaine Casas,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:38.69,98.69,0 days 00:01:38.690000,2021-03-06,2021.0,Texas A&M University,2021 American Short Course Cha,1999-12-25,19
+Samuel Pomajevich,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.19,99.19,0 days 00:01:39.190000,2020-12-05,2021.0,University of Texas,2020 Texas Hall of Fame Invite,1998-10-12,19
+Brendan Burns,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.22,99.22,0 days 00:01:39.220000,2021-03-05,2021.0,Indiana University,2021 B1G Men's Swim & Dive Cha,2001-05-29,19
+Antani Ivanov,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.26,99.26,0 days 00:01:39.260000,2021-03-27,2021.0,VA Tech,2021 NCAA Division I Men's Swi,1999-07-17,19
+Gianluca Urlando,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.75,99.75,0 days 00:01:39.750000,2021-03-27,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,2002-03-16,19
+Camden Murphy,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.99,99.99,0 days 00:01:39.990000,2021-03-27,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,1999-04-06,19
+Christian Ferraro,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.64,100.64,0 days 00:01:40.640000,2021-02-27,2021.0,Georgia Institute of Technology,2021 ACC Men's Championship,1997-11-13,19
+Tomer Frankel,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.68,100.68,0 days 00:01:40.680000,2021-03-27,2021.0,Indiana University,2021 NCAA Division I Men's Swi,2000-10-18,19
+Alexei Sancov,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.04,101.04,0 days 00:01:41.040000,2021-03-03,2021.0,University of Southern California,2021 MEN'S PAC12 SWIMMING/DIVI,1999-10-15,19
+William Kovac,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.14,101.14,0 days 00:01:41.140000,2021-03-27,2021.0,University of Missouri,2021 NCAA Division I Men's Swi,2000-06-27,19
+Brooks Fail,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.17,101.17,0 days 00:01:41.170000,2021-03-27,2021.0,University of Arizona,2021 NCAA Division I Men's Swi,1999-07-26,19
+Alvin Jiang,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.60,101.6,0 days 00:01:41.600000,2021-02-27,2021.0,University of Texas,2021 Big 12 Swimming Champions,1998-12-03,19
+David Dixon,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.91,101.91,0 days 00:01:41.910000,2021-03-27,2021.0,West Virginia University,2021 NCAA Division I Men's Swi,1998-12-16,19
+Zachary Brown,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.13,102.13,0 days 00:01:42.130000,2021-02-27,2021.0,North Carolina State University,2021 ACC Men's Championship,2000-05-15,19
+Oludare Rose,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.13,102.13,0 days 00:01:42.130000,2021-03-03,2021.0,University of California Berkeley,2021 MEN'S PAC12 SWIMMING/DIVI,2002-11-01,19
+Katherine Douglass,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:50.92,110.92,0 days 00:01:50.920000,2020-11-19,2021.0,University of Virginia,2020 UT Double Dual Finals,2001-11-17,21
+Alexandra Walsh,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:51.53,111.53,0 days 00:01:51.530000,2021-02-18,2021.0,University of Virginia,2021 ACC Women's Championship,2001-07-31,21
+Zoie Hartman,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.34,113.34,0 days 00:01:53.340000,2021-03-18,2021.0,University of Georgia,2021 NCAA DI Women's Swimming,2000-12-20,21
+Alicia Wilson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.58,113.58,0 days 00:01:53.580000,2021-01-30,2021.0,University of California Berkeley,2021 Cal vs UCLA,2000-03-05,21
+Kristen Romano,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.19,114.19,0 days 00:01:54.190000,2021-02-24,2021.0,Ohio State University,2021 B1G Women's Swim & Dive C,1999-09-24,21
+Julia Poole,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.52,114.52,0 days 00:01:54.520000,2021-02-18,2021.0,North Carolina State University,2021 ACC Women's Championship,1999-03-12,21
+Phoebe Bacon,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.55,114.55,0 days 00:01:54.550000,2021-03-18,2021.0,University of Wisconsin Madison,2021 NCAA DI Women's Swimming,2002-08-12,21
+Margaret Nelson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.72,114.72,0 days 00:01:54.720000,2020-11-19,2021.0,University of Virginia,2020 UT Double Dual Finals,2001-07-28,21
+Vanessa Pearl,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.72,114.72,0 days 00:01:54.720000,2021-02-18,2021.0,University of Florida,2021 Women's SEC Champs,1999-10-18,21
+Isabel Ivey,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.08,115.08,0 days 00:01:55.080000,2021-01-30,2021.0,University of California Berkeley,2021 Cal vs UCLA,2000-11-22,21
+Kelly Pash,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.13,115.13,0 days 00:01:55.130000,2021-02-25,2021.0,University of Texas,2021 Big 12 Swimming Champions,2001-03-27,21
+Danielle Dellatorre,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.29,115.29,0 days 00:01:55.290000,2021-02-18,2021.0,University of Georgia,2021 Women's SEC Champs,1999-07-24,21
+Abigail Arens,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.45,115.45,0 days 00:01:55.450000,2021-02-18,2021.0,North Carolina State University,2021 ACC Women's Championship,2002-03-09,21
+Lauren Poole,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.56,115.56,0 days 00:01:55.560000,2021-02-18,2021.0,University of Kentucky,2021 Women's SEC Champs,2000-11-05,21
+Alexis Yager,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.67,115.67,0 days 00:01:55.670000,2021-02-18,2021.0,University of Tennessee,2021 Women's SEC Champs,1998-10-22,21
+Isabelle Stadden,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.80,115.8,0 days 00:01:55.800000,2021-02-25,2021.0,University of California Berkeley,2021 PAC-12 WOMEN'S SWIMMING &,2002-07-09,21
+Shaine Casas,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:38.95,98.95,0 days 00:01:38.950000,2020-11-18,2021.0,Texas A&M University,2020 Art Adamson Invitational,1999-12-25,21
+Hugo Gonzalez de Oliveira,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.99,99.99,0 days 00:01:39.990000,2021-03-25,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1999-02-19,21
+Destin Lasco,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.01,100.01,0 days 00:01:40.010000,2021-03-25,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,2001-08-07,21
+Carson Foster,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.99,100.99,0 days 00:01:40.990000,2021-03-25,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2001-10-26,21
+Caio Pumputis,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.34,101.34,0 days 00:01:41.340000,2021-03-25,2021.0,Georgia Institute of Technology,2021 NCAA Division I Men's Swi,1999-01-08,21
+William Kovac,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.35,101.35,0 days 00:01:41.350000,2021-02-24,2021.0,University of Missouri,2021 Men's SEC Swimming & Divi,2000-06-27,21
+Paul Delakis,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.71,101.71,0 days 00:01:41.710000,2021-03-03,2021.0,Ohio State University,2021 B1G Men's Swim & Dive Cha,1998-09-27,21
+Javier Acevedo,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.72,101.72,0 days 00:01:41.720000,2021-03-25,2021.0,University of Georgia,2021 NCAA Division I Men's Swi,1998-01-28,21
+Kieran Smith,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.72,101.72,0 days 00:01:41.720000,2020-11-18,2021.0,University of Florida,2020 Auburn Fall Invitational,2000-05-20,21
+David Schlicht,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.82,101.82,0 days 00:01:41.820000,2021-03-25,2021.0,University of Arizona,2021 NCAA Division I Men's Swi,1999-09-03,21
+Bryce Mefford,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.86,101.86,0 days 00:01:41.860000,2021-03-25,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-10-03,21
+Jacob Foster,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.17,102.17,0 days 00:01:42.170000,2021-03-25,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2000-09-06,21
+Daniel Carr,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.34,102.34,0 days 00:01:42.340000,2021-03-01,2021.0,University of California Berkeley,2021 MEN'S PAC12 SWIMMING/DIVI,1998-09-08,21
+Braden Vines,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.71,102.71,0 days 00:01:42.710000,2021-03-25,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-12-29,21
+Caspar Corbeau,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.73,102.73,0 days 00:01:42.730000,2021-03-25,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2001-04-03,21
+Gianluca Urlando,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.81,102.81,0 days 00:01:42.810000,2021-02-24,2021.0,University of Georgia,2021 Men's SEC Swimming & Divi,2002-03-16,21
+Brooke Forde,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.57,241.57,0 days 00:04:01.570000,2021-03-19,2021.0,Stanford University,2021 NCAA DI Women's Swimming,1999-03-04,22
+Margaret Nelson,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.33,242.33,0 days 00:04:02.330000,2021-03-19,2021.0,University of Virginia,2021 NCAA DI Women's Swimming,2001-07-28,22
+Lauren Poole,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.73,242.73,0 days 00:04:02.730000,2021-03-19,2021.0,University of Kentucky,2021 NCAA DI Women's Swimming,2000-11-05,22
+Alicia Wilson,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.10,244.1,0 days 00:04:04.100000,2020-11-21,2021.0,University of California Berkeley,2020 Stanford Invite,2000-03-05,22
+Kristen Romano,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.28,244.28,0 days 00:04:04.280000,2021-03-19,2021.0,Ohio State University,2021 NCAA DI Women's Swimming,1999-09-24,22
+Genevieve Pfeifer,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.61,244.61,0 days 00:04:04.610000,2021-02-26,2021.0,University of Texas,2021 Big 12 Swimming Champions,1999-04-19,22
+Kathleen Moore,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.73,244.73,0 days 00:04:04.730000,2021-02-19,2021.0,North Carolina State University,2021 ACC Women's Championship,1999-03-25,22
+Reka Gyorgy,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.77,244.77,0 days 00:04:04.770000,2021-02-19,2021.0,VA Tech,2021 ACC Women's Championship,1996-05-25,22
+Kelly Pash,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.93,244.93,0 days 00:04:04.930000,2021-02-26,2021.0,University of Texas,2021 Big 12 Swimming Champions,2001-03-27,22
+Josephine Grote,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.06,245.06,0 days 00:04:05.060000,2021-03-19,2021.0,Indiana University,2021 NCAA DI Women's Swimming,1998-10-20,22
+Kathryn Ackerman,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.58,245.58,0 days 00:04:05.580000,2020-11-17,2021.0,University of Michigan,2020 MI University of Michigan Tuesday,2002-04-22,22
+Emma Muzzy,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.60,245.6,0 days 00:04:05.600000,2021-02-19,2021.0,North Carolina State University,2021 ACC Women's Championship,2000-11-21,22
+Gillian Davey,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.96,245.96,0 days 00:04:05.960000,2021-02-19,2021.0,University of Kentucky,2021 Women's SEC Champs,2001-08-21,22
+Katherine Trace,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.20,246.2,0 days 00:04:06.200000,2021-03-19,2021.0,Ohio State University,2021 NCAA DI Women's Swimming,1999-04-16,22
+Camryn Toney,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.30,246.3,0 days 00:04:06.300000,2021-03-19,2021.0,Texas A&M University,2021 NCAA DI Women's Swimming,1999-07-17,22
+Bailey Bonnett,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.41,246.41,0 days 00:04:06.410000,2021-03-19,2021.0,University of Kentucky,2021 NCAA DI Women's Swimming,1998-10-30,22
+Carson Foster,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:35.27,215.27,0 days 00:03:35.270000,2020-10-16,2021.0,University of Texas,2020 ST TEX First Chance Invit,2001-10-26,22
+Hugo Gonzalez de Oliveira,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.73,216.73,0 days 00:03:36.730000,2021-03-26,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1999-02-19,22
+Robert Finke,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.90,216.9,0 days 00:03:36.900000,2021-03-26,2021.0,University of Florida,2021 NCAA Division I Men's Swi,1999-11-06,22
+Kieran Smith,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.47,217.47,0 days 00:03:37.470000,2021-02-25,2021.0,University of Florida,2021 Men's SEC Swimming & Divi,2000-05-20,22
+Shaine Casas,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.22,218.22,0 days 00:03:38.220000,2020-10-16,2021.0,Texas A&M University,2020 ST TEX First Chance Invit,1999-12-25,22
+Sean Grieshop,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.68,218.68,0 days 00:03:38.680000,2021-03-26,2021.0,University of California Berkeley,2021 NCAA Division I Men's Swi,1998-11-23,22
+David Schlicht,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.59,219.59,0 days 00:03:39.590000,2021-03-02,2021.0,University of Arizona,2021 MEN'S PAC12 SWIMMING/DIVI,1999-09-03,22
+Jacob Foster,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.69,219.69,0 days 00:03:39.690000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2000-09-06,22
+Braden Vines,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.18,220.18,0 days 00:03:40.180000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,1999-12-29,22
+Ian Grum,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.51,220.51,0 days 00:03:40.510000,2021-02-25,2021.0,University of Georgia,2021 Men's SEC Swimming & Divi,2001-06-23,22
+David Johnston,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.80,220.8,0 days 00:03:40.800000,2021-03-26,2021.0,University of Texas,2021 NCAA Division I Men's Swi,2001-10-28,22
+Jack Hoagland,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.99,220.99,0 days 00:03:40.990000,2021-02-26,2021.0,University of Notre Dame,2021 ACC Men's Championship,2000-11-12,22
+Michael Daly,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.09,221.09,0 days 00:03:41.090000,2021-03-04,2021.0,Pennsylvania State University,2021 B1G Men's Swim & Dive Cha,2000-04-30,22
+Daniel Berlitz,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.45,221.45,0 days 00:03:41.450000,2021-03-04,2021.0,University of Michigan,2021 B1G Men's Swim & Dive Cha,2001-03-28,22
+Casey Storch,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.79,221.79,0 days 00:03:41.790000,2021-03-26,2021.0,University of Virginia,2021 NCAA Division I Men's Swi,1999-05-25,22
+Alex Liang,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.44,222.44,0 days 00:03:42.440000,2021-03-02,2021.0,Stanford University,2021 MEN'S PAC12 SWIMMING/DIVI,1999-07-10,22

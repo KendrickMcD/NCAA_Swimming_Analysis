@@ -1,0 +1,450 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Simone Manuel,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.32,21.32,0 days 00:00:21.320000,2015-03-19,2015.0,Stanford University,2015 NCAA DI - Women,1996-08-02,1
+Ivy Martin,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.57,21.57,0 days 00:00:21.570000,2015-03-19,2015.0,University of Wisconsin Madison,2015 NCAA DI - Women,1993-07-29,1
+Kelsi Dahlia,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.62,21.62,0 days 00:00:21.620000,2015-03-19,2015.0,University of Louisville,2015 NCAA DI - Women,1994-07-15,1
+Farida Osman,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.63,21.63,0 days 00:00:21.630000,2015-03-19,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-01-18,1
+Chantal Van Landeghem,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.74,21.74,0 days 00:00:21.740000,2015-02-18,2015.0,University of Georgia,2015 SEC Champs,1994-03-05,1
+Beryl Gastaldello,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.76,21.76,0 days 00:00:21.760000,2015-03-19,2015.0,Texas A&M University,2015 NCAA DI - Women,1995-02-16,1
+Madeline Locus,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.77,21.77,0 days 00:00:21.770000,2015-02-18,2015.0,University of Georgia,2015 SEC Champs,1993-07-29,1
+Anika Apostalon,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.82,21.82,0 days 00:00:21.820000,2015-02-19,2015.0,San Diego State University,2015 MW Champs,1995-02-09,1
+Erika Bonnema,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.87,21.87,0 days 00:00:21.870000,2015-02-19,2015.0,North Carolina State University,2015 ACC Champs Women's ,1994-01-08,1
+Rebecca Weiland,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.88,21.88,0 days 00:00:21.880000,2015-02-19,2015.0,University of Minnesota,2015 B1G 10 Champs Women,1993-01-21,1
+Natalie Hinds,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.90,21.9,0 days 00:00:21.900000,2015-02-18,2015.0,University of Florida,2015 SEC Champs,1993-12-07,1
+Madeline Schaefer,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.93,21.93,0 days 00:00:21.930000,2014-11-20,2015.0,Stanford University,Art Adamson Invitational,1993-08-04,1
+Olivia Smoliga,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.96,21.96,0 days 00:00:21.960000,2015-02-18,2015.0,University of Georgia,2015 SEC Champs,1994-10-12,1
+Carolyn Fittin,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.98,21.98,0 days 00:00:21.980000,2015-03-19,2015.0,Pennsylvania State University,2015 NCAA DI - Women,1993-01-22,1
+Emma Svensson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.98,21.98,0 days 00:00:21.980000,2015-02-19,2015.0,Florida Gulf Coast University,2015 CCSA Champs,1992-08-03,1
+Faith Johnson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.00,22.0,0 days 00:00:22,2015-02-18,2015.0,University of Tennessee,2015 SEC Champs,1994-10-06,1
+Kristian Gkolomeev,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.64,18.64,0 days 00:00:18.640000,2015-02-18,2015.0,University of Alabama,2015 SEC Champs,1993-07-04,1
+Caeleb Dressel,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.67,18.67,0 days 00:00:18.670000,2015-03-26,2015.0,University of Florida,2015 NCAA DI - Men,1996-08-16,1
+Simonas Bilis,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.91,18.91,0 days 00:00:18.910000,2015-03-26,2015.0,North Carolina State University,2015 NCAA DI - Men,1993-11-11,1
+Bradley Tandy,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.91,18.91,0 days 00:00:18.910000,2015-03-26,2015.0,University of Arizona,2015 NCAA DI - Men,1991-05-02,1
+Tyler Messerschmidt,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.07,19.07,0 days 00:00:19.070000,2015-03-26,2015.0,University of California Berkeley,2015 NCAA DI - Men,1992-09-11,1
+Bruno Ortiz,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.09,19.09,0 days 00:00:19.090000,2015-03-26,2015.0,University of Michigan,2015 NCAA DI - Men,1993-02-15,1
+Andrew Kosic,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.10,19.1,0 days 00:00:19.100000,2015-03-26,2015.0,Georgia Institute of Technology,2015 NCAA DI - Men,1993-05-27,1
+David Williams,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.12,19.12,0 days 00:00:19.120000,2015-02-26,2015.0,North Carolina State University,2015 ACC Champs Men's ,1993-08-29,1
+Dillon Virva,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.17,19.17,0 days 00:00:19.170000,2015-02-26,2015.0,Las Vegas (M) University of Nevada,2015 WAC Champs,1993-12-27,1
+Paul Powers,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.21,19.21,0 days 00:00:19.210000,2015-02-26,2015.0,University of Michigan,2015 B1G 10 Champs Men,1995-11-07,1
+Michael Chadwick,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.27,19.27,0 days 00:00:19.270000,2015-03-26,2015.0,University of Missouri,2015 NCAA DI - Men,1995-04-15,1
+Santo Condorelli,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.27,19.27,0 days 00:00:19.270000,2015-03-05,2015.0,University of Southern California,2015 PAC 12 Champs men,1995-01-17,1
+Ryan Held,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.27,19.27,0 days 00:00:19.270000,2015-02-26,2015.0,North Carolina State University,2015 ACC Champs Men's ,1995-06-27,1
+Seth Stubblefield,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.31,19.31,0 days 00:00:19.310000,2015-03-26,2015.0,University of California Berkeley,2015 NCAA DI - Men,1993-07-21,1
+Kyle Darmody,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.33,19.33,0 days 00:00:19.330000,2015-02-18,2015.0,Auburn University,2015 SEC Champs,1994-09-30,1
+Matthew Ellis,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.33,19.33,0 days 00:00:19.330000,2015-03-26,2015.0,University of Texas,2015 NCAA DI - Men,1993-12-21,1
+Simone Manuel,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.09,46.09,0 days 00:00:46.090000,2015-03-21,2015.0,Stanford University,2015 NCAA DI - Women,1996-08-02,2
+Melissa Johnson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.66,46.66,0 days 00:00:46.660000,2015-03-21,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-05-10,2
+Lia Neal,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.84,46.84,0 days 00:00:46.840000,2015-03-21,2015.0,Stanford University,2015 NCAA DI - Women,1995-02-13,2
+Natalie Hinds,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.19,47.19,0 days 00:00:47.190000,2015-03-21,2015.0,University of Florida,2015 NCAA DI - Women,1993-12-07,2
+Ivy Martin,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.24,47.24,0 days 00:00:47.240000,2015-03-21,2015.0,University of Wisconsin Madison,2015 NCAA DI - Women,1993-07-29,2
+Chantal Van Landeghem,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.48,47.48,0 days 00:00:47.480000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1994-03-05,2
+Beryl Gastaldello,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.59,47.59,0 days 00:00:47.590000,2015-02-21,2015.0,Texas A&M University,2015 SEC Champs,1995-02-16,2
+Kelsi Dahlia,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.71,47.71,0 days 00:00:47.710000,2015-02-21,2015.0,University of Louisville,2015 ACC Champs Women's ,1994-07-15,2
+Madeline Locus,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.75,47.75,0 days 00:00:47.750000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1993-07-29,2
+Farida Osman,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.79,47.79,0 days 00:00:47.790000,2015-03-21,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-01-18,2
+Olivia Smoliga,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.84,47.84,0 days 00:00:47.840000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1994-10-12,2
+Anika Apostalon,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.88,47.88,0 days 00:00:47.880000,2015-02-21,2015.0,San Diego State University,2015 MW Champs,1995-02-09,2
+Katarzyna Wasick,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.12,48.12,0 days 00:00:48.120000,2015-03-21,2015.0,University of Southern California,2015 NCAA DI - Women,1992-03-21,2
+Alexia Zevnik,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.14,48.14,0 days 00:00:48.140000,2015-03-21,2015.0,North Carolina State University,2015 NCAA DI - Women,1994-03-04,2
+Kaylin Bing,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.18,48.18,0 days 00:00:48.180000,2015-02-28,2015.0,University of California Berkeley,2015 PAC-12 Champs women,1993-06-09,2
+Gretchen Jaques,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.21,48.21,0 days 00:00:48.210000,2015-03-21,2015.0,University of Texas,2015 NCAA DI - Women,1993-04-10,2
+Kristian Gkolomeev,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.56,41.56,0 days 00:00:41.560000,2015-03-28,2015.0,University of Alabama,2015 NCAA DI - Men,1993-07-04,2
+Simonas Bilis,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.78,41.78,0 days 00:00:41.780000,2015-03-28,2015.0,North Carolina State University,2015 NCAA DI - Men,1993-11-11,2
+Caeleb Dressel,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.90,41.9,0 days 00:00:41.900000,2015-02-21,2015.0,University of Florida,2015 SEC Champs,1996-08-16,2
+Cristian Quintero,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.18,42.18,0 days 00:00:42.180000,2015-03-28,2015.0,University of Southern California,2015 NCAA DI - Men,1992-10-14,2
+Santo Condorelli,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.20,42.2,0 days 00:00:42.200000,2015-03-28,2015.0,University of Southern California,2015 NCAA DI - Men,1995-01-17,2
+Bruno Ortiz,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.26,42.26,0 days 00:00:42.260000,2015-03-28,2015.0,University of Michigan,2015 NCAA DI - Men,1993-02-15,2
+John Murray,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.27,42.27,0 days 00:00:42.270000,2015-03-28,2015.0,University of Texas,2015 NCAA DI - Men,1994-04-21,2
+Michael Chadwick,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.29,42.29,0 days 00:00:42.290000,2015-03-28,2015.0,University of Missouri,2015 NCAA DI - Men,1995-04-15,2
+Andrew Kosic,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.30,42.3,0 days 00:00:42.300000,2015-02-28,2015.0,Georgia Institute of Technology,2015 ACC Champs Men's ,1993-05-27,2
+Nicholas Soedel,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.31,42.31,0 days 00:00:42.310000,2015-03-28,2015.0,University of Utah,2015 NCAA DI - Men,1993-07-21,2
+Tyler Messerschmidt,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.32,42.32,0 days 00:00:42.320000,2015-03-28,2015.0,University of California Berkeley,2015 NCAA DI - Men,1992-09-11,2
+Kyle Darmody,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.44,42.44,0 days 00:00:42.440000,2015-02-21,2015.0,Auburn University,2015 SEC Champs,1994-09-30,2
+Matthew Ellis,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.44,42.44,0 days 00:00:42.440000,2015-03-28,2015.0,University of Texas,2015 NCAA DI - Men,1993-12-21,2
+Ryan Held,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.44,42.44,0 days 00:00:42.440000,2015-03-28,2015.0,North Carolina State University,2015 NCAA DI - Men,1995-06-27,2
+Michael Disalle,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.47,42.47,0 days 00:00:42.470000,2015-03-28,2015.0,Ohio State University,2015 NCAA DI - Men,1993-04-20,2
+Seth Stubblefield,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.57,42.57,0 days 00:00:42.570000,2015-03-28,2015.0,University of California Berkeley,2015 NCAA DI - Men,1993-07-21,2
+Melissa Johnson,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:39.10,99.1,0 days 00:01:39.100000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-05-10,3
+Simone Manuel,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.15,101.15,0 days 00:01:41.150000,2015-02-27,2015.0,Stanford University,2015 PAC-12 Champs women,1996-08-02,3
+Chelsea Chenault,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.53,102.53,0 days 00:01:42.530000,2015-03-20,2015.0,University of Southern California,2015 NCAA DI - Women,1994-10-19,3
+Lia Neal,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.65,102.65,0 days 00:01:42.650000,2015-03-20,2015.0,Stanford University,2015 NCAA DI - Women,1995-02-13,3
+Cierra Runge,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.73,102.73,0 days 00:01:42.730000,2015-02-25,2015.0,University of California Berkeley,2015 PAC-12 Champs women,1996-03-07,3
+Camille Cheng,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.82,102.82,0 days 00:01:42.820000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1993-05-09,3
+Elizabeth Pelton,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.13,103.13,0 days 00:01:43.130000,2014-12-06,2015.0,University of California Berkeley,UGA Fall Invitational 2014,1993-11-26,3
+Kennedy Goss,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.37,103.37,0 days 00:01:43.370000,2015-03-20,2015.0,Indiana University,2015 NCAA DI - Women,1996-08-19,3
+Caroline Piehl,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.78,103.78,0 days 00:01:43.780000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1993-05-03,3
+Alyson Ackman,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.79,103.79,0 days 00:01:43.790000,2015-03-20,2015.0,Pennsylvania State University,2015 NCAA DI - Women,1993-02-06,3
+Leah Smith,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.80,103.8,0 days 00:01:43.800000,2015-03-20,2015.0,University of Virginia,2015 NCAA DI - Women,1995-04-19,3
+Jordan Mattern,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.90,103.9,0 days 00:01:43.900000,2015-03-20,2015.0,University of Georgia,2015 NCAA DI - Women,1993-02-01,3
+Haley Lips,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.06,104.06,0 days 00:01:44.060000,2015-03-20,2015.0,Indiana University,2015 NCAA DI - Women,1994-02-10,3
+Bonnie Brandon,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.11,104.11,0 days 00:01:44.110000,2014-12-05,2015.0,University of Arizona,Texas Swimming & Diving Hall o,1993-12-28,3
+Danielle Siverling,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.30,104.3,0 days 00:01:44.300000,2015-03-20,2015.0,University of North Carolina Chapel Hill,2015 NCAA DI - Women,1992-10-03,3
+Amelia Maughan,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.68,104.68,0 days 00:01:44.680000,2015-02-19,2015.0,University of Florida,2015 SEC Champs,1996-05-16,3
+Cristian Quintero,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.03,92.03,0 days 00:01:32.030000,2015-03-27,2015.0,University of Southern California,2015 NCAA DI - Men,1992-10-14,3
+Anders Nielsen,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.73,92.73,0 days 00:01:32.730000,2015-03-27,2015.0,University of Michigan,2015 NCAA DI - Men,1991-04-11,3
+Clay Youngquist,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.85,92.85,0 days 00:01:32.850000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1992-09-21,3
+Trenton Williams,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.01,93.01,0 days 00:01:33.010000,2015-03-27,2015.0,University of California Berkeley,2015 NCAA DI - Men,1994-03-16,3
+Joshua Fleagle,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.09,93.09,0 days 00:01:33.090000,2015-03-27,2015.0,Ohio State University,2015 NCAA DI - Men,1993-12-23,3
+Andrea D'Arrigo,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.10,93.1,0 days 00:01:33.100000,2014-12-04,2015.0,University of Florida,Unknown Record Meet 1252,1995-04-28,3
+Blake Pieroni,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.10,93.1,0 days 00:01:33.100000,2015-02-25,2015.0,Indiana University,2015 B1G 10 Champs Men,1995-11-15,3
+Tom Kremer,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.18,93.18,0 days 00:01:33.180000,2015-03-27,2015.0,Stanford University,2015 NCAA DI - Men,1994-08-24,3
+Michael Disalle,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.22,93.22,0 days 00:01:33.220000,2015-03-27,2015.0,Ohio State University,2015 NCAA DI - Men,1993-04-20,3
+Matias Koski,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.23,93.23,0 days 00:01:33.230000,2015-02-19,2015.0,University of Georgia,2015 SEC Champs,1994-05-18,3
+Dylan Carter,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.27,93.27,0 days 00:01:33.270000,2015-03-27,2015.0,University of Southern California,2015 NCAA DI - Men,1996-01-30,3
+Simonas Bilis,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.31,93.31,0 days 00:01:33.310000,2015-03-27,2015.0,North Carolina State University,2015 NCAA DI - Men,1993-11-11,3
+Long Yuan Gutierrez Feng,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.34,93.34,0 days 00:01:33.340000,2015-03-27,2015.0,University of California Berkeley,2015 NCAA DI - Men,1995-02-23,3
+Hugo Morris,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.39,93.39,0 days 00:01:33.390000,2015-02-17,2015.0,Auburn University,2015 SEC Champs,1994-08-05,3
+Ryan Held,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.62,93.62,0 days 00:01:33.620000,2015-03-27,2015.0,North Carolina State University,2015 NCAA DI - Men,1995-06-27,3
+Clark Smith,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.66,93.66,0 days 00:01:33.660000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1995-04-17,3
+Leah Smith,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:30.37,270.37,0 days 00:04:30.370000,2015-03-19,2015.0,University of Virginia,2015 NCAA DI - Women,1995-04-19,4
+Cierra Runge,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:31.90,271.9,0 days 00:04:31.900000,2015-02-26,2015.0,University of California Berkeley,2015 PAC-12 Champs women,1996-03-07,4
+Sarah Henry,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.34,274.34,0 days 00:04:34.340000,2015-03-19,2015.0,Texas A&M University,2015 NCAA DI - Women,1992-01-13,4
+Amber McDermott,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.17,275.17,0 days 00:04:35.170000,2015-03-19,2015.0,University of Georgia,2015 NCAA DI - Women,1993-03-10,4
+Brittany MacLean,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.42,276.42,0 days 00:04:36.420000,2014-12-05,2015.0,University of Georgia,UGA Fall Invitational 2014,1994-03-03,4
+Jordan Mattern,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.49,276.49,0 days 00:04:36.490000,2015-03-19,2015.0,University of Georgia,2015 NCAA DI - Women,1993-02-01,4
+Jessica Thielmann,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.62,276.62,0 days 00:04:36.620000,2015-02-18,2015.0,University of Florida,2015 SEC Champs,1993-11-25,4
+Hali Flickinger,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.13,277.13,0 days 00:04:37.130000,2015-03-19,2015.0,University of Georgia,2015 NCAA DI - Women,1994-07-06,4
+Chelsea Chenault,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.55,277.55,0 days 00:04:37.550000,2015-02-26,2015.0,University of Southern California,2015 PAC-12 Champs women,1994-10-19,4
+G Ryan,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.78,277.78,0 days 00:04:37.780000,2014-12-04,2015.0,University of Michigan,2014 Winter Nationals,1995-10-01,4
+Kennedy Goss,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.83,277.83,0 days 00:04:37.830000,2015-02-19,2015.0,Indiana University,2015 B1G 10 Champs Women,1996-08-19,4
+Haley Lips,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.27,278.27,0 days 00:04:38.270000,2015-02-19,2015.0,Indiana University,2015 B1G 10 Champs Women,1994-02-10,4
+Rachel Zilinskas,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.32,278.32,0 days 00:04:38.320000,2015-03-19,2015.0,University of Georgia,2015 NCAA DI - Women,1994-09-02,4
+Danielle Siverling,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.53,278.53,0 days 00:04:38.530000,2015-03-19,2015.0,University of North Carolina Chapel Hill,2015 NCAA DI - Women,1992-10-03,4
+Brooke Zeiger,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.66,278.66,0 days 00:04:38.660000,2015-02-19,2015.0,University of Minnesota,2015 B1G 10 Champs Women,1996-01-09,4
+Bonnie Brandon,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.87,278.87,0 days 00:04:38.870000,2015-02-26,2015.0,University of Arizona,2015 PAC-12 Champs women,1993-12-28,4
+Clark Smith,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:09.72,249.72,0 days 00:04:09.720000,2015-03-26,2015.0,University of Texas,2015 NCAA DI - Men,1995-04-17,4
+Dan Wallace,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.48,250.48,0 days 00:04:10.480000,2015-03-26,2015.0,University of Florida,2015 NCAA DI - Men,1993-04-14,4
+Andrea D'Arrigo,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.77,250.77,0 days 00:04:10.770000,2015-02-18,2015.0,University of Florida,2015 SEC Champs,1995-04-28,4
+Cristian Quintero,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.25,251.25,0 days 00:04:11.250000,2015-03-05,2015.0,University of Southern California,2015 PAC 12 Champs men,1992-10-14,4
+Reed Malone,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.30,251.3,0 days 00:04:11.300000,2015-03-05,2015.0,University of Southern California,2015 PAC 12 Champs men,1995-04-03,4
+Matias Koski,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.83,251.83,0 days 00:04:11.830000,2015-03-26,2015.0,University of Georgia,2015 NCAA DI - Men,1994-05-18,4
+Anders Nielsen,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.16,252.16,0 days 00:04:12.160000,2015-03-26,2015.0,University of Michigan,2015 NCAA DI - Men,1991-04-11,4
+John Lewis,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.44,252.44,0 days 00:04:12.440000,2015-03-26,2015.0,University of Texas,2015 NCAA DI - Men,1993-11-01,4
+Jonathan Roberts,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.10,253.1,0 days 00:04:13.100000,2015-03-26,2015.0,University of Texas,2015 NCAA DI - Men,1995-09-08,4
+Anton Ipsen,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.58,253.58,0 days 00:04:13.580000,2015-03-26,2015.0,North Carolina State University,2015 NCAA DI - Men,1994-09-04,4
+Bence Kiraly,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.83,253.83,0 days 00:04:13.830000,2015-03-26,2015.0,University of Utah,2015 NCAA DI - Men,1993-03-25,4
+Matthew Hutchins,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.00,254.0,0 days 00:04:14,2015-02-26,2015.0,University of Wisconsin Madison,2015 B1G 10 Champs Men,1994-09-19,4
+Jordan Wilimovsky,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.70,254.7,0 days 00:04:14.700000,2015-02-26,2015.0,Northwestern University,2015 B1G 10 Champs Men,1994-04-22,4
+Anton McKee,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.98,254.98,0 days 00:04:14.980000,2015-02-18,2015.0,University of Alabama,2015 SEC Champs,1993-12-18,4
+Daniel Thomson,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.98,254.98,0 days 00:04:14.980000,2015-03-05,2015.0,Stanford University,2015 PAC 12 Champs men,1993-05-20,4
+Kevin Litherland,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.09,255.09,0 days 00:04:15.090000,2015-03-26,2015.0,University of Georgia,2015 NCAA DI - Men,1995-08-24,4
+Chelsea Chenault,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:33.87,573.87,0 days 00:09:33.870000,2015-02-13,2015.0,University of Southern California,2015 CA OB USC vs UCLA -Women,1994-10-19,5
+Samantha Harrison,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:35.36,575.36,0 days 00:09:35.360000,2015-02-28,2015.0,Oregon State University,2015 PAC-12 Champs women,1994-04-27,5
+Jessica Thielmann,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:37.22,577.22,0 days 00:09:37.220000,2015-01-31,2015.0,University of Florida,UF vs. Tennessee,1993-11-25,5
+Madeline Tegner,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:38.74,578.74,0 days 00:09:38.740000,2015-02-21,2015.0,University of Tennessee,2015 SEC Champs,1995-09-11,5
+Bonnie Brandon,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:39.03,579.03,0 days 00:09:39.030000,2015-01-30,2015.0,University of Arizona,UT vs Arizona vs SMU,1993-12-28,5
+Kaitlin Pawlowicz,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.32,581.32,0 days 00:09:41.320000,2015-01-30,2015.0,University of Texas,UT vs Arizona vs SMU,1993-03-03,5
+Rebecca Stoughton,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.39,581.39,0 days 00:09:41.390000,2015-02-21,2015.0,University of Iowa,2015 B1G 10 Champs Women,1992-11-13,5
+Amber McDermott,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.00,583.0,0 days 00:09:43,2014-10-31,2015.0,University of Georgia,UGA vs Florida,1993-03-10,5
+Brittany MacLean,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.04,583.04,0 days 00:09:43.040000,2014-10-17,2015.0,University of Georgia,2014 UNCv.UGA,1994-03-03,5
+Sarah Henry,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.35,583.35,0 days 00:09:43.350000,2014-11-07,2015.0,Texas A&M University,2014 ST UT Women vs. Texas A&M,1992-01-13,5
+Hannah Moore,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.98,583.98,0 days 00:09:43.980000,2014-10-24,2015.0,University of Michigan,Michigan Quad Meet,1996-08-22,5
+Brooke Zeiger,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.67,584.67,0 days 00:09:44.670000,2014-11-08,2015.0,University of Minnesota,UF vs. Minnesota,1996-01-09,5
+Ashley Neidigh,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.82,584.82,0 days 00:09:44.820000,2014-11-14,2015.0,Auburn University,2014 TN vs AUB & Louisville,1995-05-26,5
+Morgan Dickson,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.51,586.51,0 days 00:09:46.510000,2014-11-22,2015.0,University of Tennessee,2014 NIke Cup Invitational,1995-01-22,5
+Kaleigh Ritter,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.54,586.54,0 days 00:09:46.540000,2015-03-21,2015.0,University of Pittsburgh,2015 NCAA DI - Women,1994-06-10,5
+Eva Fabian,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.60,586.6,0 days 00:09:46.600000,2015-02-20,2015.0,Yale University,2015 Ivy Champs Women,1993-08-03,5
+Patrick Ransford,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:46.40,526.4,0 days 00:08:46.400000,2015-03-28,2015.0,University of Michigan,2015 NCAA DI - Men,1996-09-08,5
+Christopher Swanson,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:49.55,529.55,0 days 00:08:49.550000,2015-02-27,2015.0,University of Pennsylvania,2015 Ivy League Champs men,1994-08-31,5
+John Lewis,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:52.72,532.72,0 days 00:08:52.720000,2015-02-06,2015.0,University of Texas,UT Men & Women vs. TCU,1993-11-01,5
+Brian Hogan,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:54.32,534.32,0 days 00:08:54.320000,2015-02-27,2015.0,Yale University,2015 Ivy League Champs men,1994-06-10,5
+Evan Pinion,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.62,535.62,0 days 00:08:55.620000,2014-11-22,2015.0,University of Tennessee,2014 NIke Cup Invitational,1994-11-11,5
+Anton Ipsen,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:55.70,535.7,0 days 00:08:55.700000,2015-01-31,2015.0,North Carolina State University,NC State vs UNC,1994-09-04,5
+Nicholas Arakelian,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.47,538.47,0 days 00:08:58.470000,2015-03-11,2015.0,Queens University of Charlotte,2015 NCAA DII ,1996-05-26,5
+Arthur Frayler,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.53,538.53,0 days 00:08:58.530000,2015-01-31,2015.0,University of Florida,UF vs. Tennessee,1993-12-16,5
+Kei Hyogo,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:58.89,538.89,0 days 00:08:58.890000,2015-02-26,2015.0,Yale University,2015 Ivy League Champs men,1995-09-29,5
+Clark Smith,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.73,540.73,0 days 00:09:00.730000,2015-01-10,2015.0,University of Texas,UGA vs Texas,1995-04-17,5
+Ryan Rosenbaum,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.92,541.92,0 days 00:09:01.920000,2015-01-31,2015.0,University of Florida,UF vs. Tennessee,1994-08-30,5
+Blake Manganiello,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.95,541.95,0 days 00:09:01.950000,2015-01-31,2015.0,University of Florida,UF vs. Tennessee,1995-06-21,5
+Kevin Litherland,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:02.28,542.28,0 days 00:09:02.280000,2015-01-10,2015.0,University of Georgia,UGA vs Texas,1995-08-24,5
+David Heron,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:02.64,542.64,0 days 00:09:02.640000,2015-02-21,2015.0,University of Tennessee,2015 SEC Champs,1995-03-26,5
+Taylor Uselis,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:02.89,542.89,0 days 00:09:02.890000,2015-02-27,2015.0,University of Pennsylvania,2015 Ivy League Champs men,1996-03-21,5
+Jack Boyd,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:04.18,544.18,0 days 00:09:04.180000,2015-02-27,2015.0,Harvard University,2015 Ivy League Champs men,1995-11-21,5
+Leah Smith,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:34.46,934.46,0 days 00:15:34.460000,2015-03-21,2015.0,University of Virginia,2015 NCAA DI - Women,1995-04-19,6
+Cierra Runge,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:40.17,940.17,0 days 00:15:40.170000,2015-02-28,2015.0,University of California Berkeley,2015 PAC-12 Champs women,1996-03-07,6
+Jessica Thielmann,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:46.68,946.68,0 days 00:15:46.680000,2015-03-21,2015.0,University of Florida,2015 NCAA DI - Women,1993-11-25,6
+Sarah Henry,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:46.83,946.83,0 days 00:15:46.830000,2015-03-21,2015.0,Texas A&M University,2015 NCAA DI - Women,1992-01-13,6
+Bonnie Brandon,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:48.35,948.35,0 days 00:15:48.350000,2014-12-06,2015.0,University of Arizona,Texas Swimming & Diving Hall o,1993-12-28,6
+Amber McDermott,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:49.79,949.79,0 days 00:15:49.790000,2015-02-21,2015.0,University of Georgia,2015 SEC Champs,1993-03-10,6
+Brittany MacLean,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:51.73,951.73,0 days 00:15:51.730000,2014-12-07,2015.0,University of Georgia,UGA Fall Invitational 2014,1994-03-03,6
+Tjasa Oder,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:53.33,953.33,0 days 00:15:53.330000,2014-12-06,2015.0,University of Arizona,Texas Swimming & Diving Hall o,1994-06-22,6
+G Ryan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:54.31,954.31,0 days 00:15:54.310000,2014-12-06,2015.0,University of Michigan,2014 Winter Nationals,1995-10-01,6
+Samantha Harrison,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:54.61,954.61,0 days 00:15:54.610000,2015-02-28,2015.0,Oregon State University,2015 PAC-12 Champs women,1994-04-27,6
+Rachel Zilinskas,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:55.22,955.22,0 days 00:15:55.220000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1994-09-02,6
+Kaitlin Pawlowicz,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:57.37,957.37,0 days 00:15:57.370000,2014-12-06,2015.0,University of Texas,Texas Swimming & Diving Hall o,1993-03-03,6
+Rebecca Stoughton,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:57.43,957.43,0 days 00:15:57.430000,2015-02-21,2015.0,University of Iowa,2015 B1G 10 Champs Women,1992-11-13,6
+Madeline Tegner,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.64,959.64,0 days 00:15:59.640000,2015-02-21,2015.0,University of Tennessee,2015 SEC Champs,1995-09-11,6
+Kathryn Campbell,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:00.34,960.34,0 days 00:16:00.340000,2015-02-28,2015.0,Los Angeles University of California,2015 PAC-12 Champs women,1994-03-04,6
+Danielle Valley,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:02.82,962.82,0 days 00:16:02.820000,2015-03-21,2015.0,University of Wisconsin Madison,2015 NCAA DI - Women,1995-05-11,6
+Matias Koski,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:32.38,872.38,0 days 00:14:32.380000,2015-03-28,2015.0,University of Georgia,2015 NCAA DI - Men,1994-05-18,6
+Jordan Wilimovsky,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:33.50,873.5,0 days 00:14:33.500000,2015-02-28,2015.0,Northwestern University,2015 B1G 10 Champs Men,1994-04-22,6
+Patrick Ransford,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:34.36,874.36,0 days 00:14:34.360000,2015-03-28,2015.0,University of Michigan,2015 NCAA DI - Men,1996-09-08,6
+Andrea D'Arrigo,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:39.90,879.9,0 days 00:14:39.900000,2015-02-21,2015.0,University of Florida,2015 SEC Champs,1995-04-28,6
+Arthur Frayler,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:40.05,880.05,0 days 00:14:40.050000,2015-02-21,2015.0,University of Florida,2015 SEC Champs,1993-12-16,6
+Bence Kiraly,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:41.86,881.86,0 days 00:14:41.860000,2015-03-28,2015.0,University of Utah,2015 NCAA DI - Men,1993-03-25,6
+Evan Pinion,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:42.04,882.04,0 days 00:14:42.040000,2014-11-22,2015.0,University of Tennessee,2014 NIke Cup Invitational,1994-11-11,6
+Anton Ipsen,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:43.16,883.16,0 days 00:14:43.160000,2015-03-28,2015.0,North Carolina State University,2015 NCAA DI - Men,1994-09-04,6
+Christopher Swanson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:43.87,883.87,0 days 00:14:43.870000,2014-12-04,2015.0,University of Pennsylvania,TPSC Invitational @ Kenyon 14-,1994-08-31,6
+Ahmed Mahmoud,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:46.50,886.5,0 days 00:14:46.500000,2015-03-28,2015.0,University of South Carolina Columbia,2015 NCAA DI - Men,1996-10-20,6
+Dylan Bunch,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:47.53,887.53,0 days 00:14:47.530000,2015-03-28,2015.0,University of Denver,2015 NCAA DI - Men,1993-11-05,6
+John Lewis,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:47.99,887.99,0 days 00:14:47.990000,2015-03-28,2015.0,University of Texas,2015 NCAA DI - Men,1993-11-01,6
+Matthew Hutchins,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:49.87,889.87,0 days 00:14:49.870000,2015-03-28,2015.0,University of Wisconsin Madison,2015 NCAA DI - Men,1994-09-19,6
+Daniel Thomson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:50.19,890.19,0 days 00:14:50.190000,2015-03-07,2015.0,Stanford University,2015 PAC 12 Champs men,1993-05-20,6
+Tomas Peribonio Avila,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:50.25,890.25,0 days 00:14:50.250000,2015-02-21,2015.0,University of South Carolina Columbia,2015 SEC Champs,1996-01-16,6
+Kei Hyogo,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:50.88,890.88,0 days 00:14:50.880000,2015-02-28,2015.0,Yale University,2015 Ivy League Champs men,1995-09-29,6
+Courtney Bartholomew,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.01,50.01,0 days 00:00:50.010000,2014-12-05,2015.0,University of Virginia,UGA Fall Invitational 2014,1994-06-24,12
+Rachel Bootsma,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.03,50.03,0 days 00:00:50.030000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1993-12-15,12
+Melanie Klaren,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.31,51.31,0 days 00:00:51.310000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1992-12-05,12
+Elizabeth Pelton,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.31,51.31,0 days 00:00:51.310000,2014-12-05,2015.0,University of California Berkeley,UGA Fall Invitational 2014,1993-11-26,12
+Brooklynn Snodgrass,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.39,51.39,0 days 00:00:51.390000,2015-03-20,2015.0,Indiana University,2015 NCAA DI - Women,1994-04-19,12
+Olivia Smoliga,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.45,51.45,0 days 00:00:51.450000,2015-03-20,2015.0,University of Georgia,2015 NCAA DI - Women,1994-10-12,12
+Hannah Weiss,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.60,51.6,0 days 00:00:51.600000,2015-03-20,2015.0,University of Southern California,2015 NCAA DI - Women,1995-10-03,12
+Ally Howe,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.63,51.63,0 days 00:00:51.630000,2015-03-20,2015.0,Stanford University,2015 NCAA DI - Women,1995-12-07,12
+Beryl Gastaldello,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.73,51.73,0 days 00:00:51.730000,2015-02-20,2015.0,Texas A&M University,2015 SEC Champs,1995-02-16,12
+Kira Toussaint,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.73,51.73,0 days 00:00:51.730000,2015-03-20,2015.0,Florida Gulf Coast University,2015 NCAA DI - Women,1994-05-22,12
+Melissa Johnson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.75,51.75,0 days 00:00:51.750000,2015-02-27,2015.0,University of California Berkeley,2015 PAC-12 Champs women,1995-05-10,12
+Justine Ress,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.75,51.75,0 days 00:00:51.750000,2015-03-20,2015.0,Indiana University,2015 NCAA DI - Women,1993-01-28,12
+Danielle Galyer,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.76,51.76,0 days 00:00:51.760000,2015-03-19,2015.0,University of Kentucky,2015 NCAA DI - Women,1995-09-15,12
+Tasija Karosas,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.76,51.76,0 days 00:00:51.760000,2015-03-20,2015.0,University of Texas,2015 NCAA DI - Women,1995-08-11,12
+Clara Smiddy,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.83,51.83,0 days 00:00:51.830000,2015-02-20,2015.0,University of Michigan,2015 B1G 10 Champs Women,1996-01-04,12
+Kylie Stewart,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.85,51.85,0 days 00:00:51.850000,2015-03-19,2015.0,University of Georgia,2015 NCAA DI - Women,1996-03-27,12
+Ryan Murphy,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.17,44.17,0 days 00:00:44.170000,2015-03-26,2015.0,University of California Berkeley,2015 NCAA DI - Men,1995-07-02,12
+David Nolan,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.78,44.78,0 days 00:00:44.780000,2015-03-27,2015.0,Stanford University,2015 NCAA DI - Men,1992-12-05,12
+Ralf Tribuntsov,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.95,44.95,0 days 00:00:44.950000,2015-03-06,2015.0,University of Southern California,2015 PAC 12 Champs men,1994-09-22,12
+Connor Oslin,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.08,45.08,0 days 00:00:45.080000,2015-03-26,2015.0,University of Alabama,2015 NCAA DI - Men,1994-09-14,12
+Shane Ryan,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.24,45.24,0 days 00:00:45.240000,2015-03-27,2015.0,Pennsylvania State University,2015 NCAA DI - Men,1994-01-27,12
+Jacob Taylor,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.34,45.34,0 days 00:00:45.340000,2015-03-27,2015.0,Brigham Young University,2015 NCAA DI - Men,1992-01-26,12
+Kevin Darmody,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.39,45.39,0 days 00:00:45.390000,2015-03-26,2015.0,University of Texas,2015 NCAA DI - Men,1993-02-16,12
+Luca Spinazzola,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.40,45.4,0 days 00:00:45.400000,2015-03-06,2015.0,University of Southern California,2015 PAC 12 Champs men,1992-12-18,12
+John Conger,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.50,45.5,0 days 00:00:45.500000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1994-09-26,12
+Grant Betulius,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.56,45.56,0 days 00:00:45.560000,2014-12-05,2015.0,University of Iowa,2014 Hawkeye Invitational,1992-05-05,12
+John Blyzinskyj,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.61,45.61,0 days 00:00:45.610000,2015-03-26,2015.0,University of Florida,2015 NCAA DI - Men,1995-03-27,12
+Nathaniel Savoy,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.70,45.7,0 days 00:00:45.700000,2015-03-26,2015.0,Pennsylvania State University,2015 NCAA DI - Men,1993-02-22,12
+Lucas Kaliszak,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.74,45.74,0 days 00:00:45.740000,2015-02-28,2015.0,University of Alabama,Bulldog Invitational 2015,1995-10-04,12
+Matt McHugh,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.75,45.75,0 days 00:00:45.750000,2015-03-27,2015.0,Ohio State University,2015 NCAA DI - Men,1995-08-09,12
+Taylor Dale,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.78,45.78,0 days 00:00:45.780000,2015-03-26,2015.0,University of Georgia,2015 NCAA DI - Men,1994-12-29,12
+Sean Lehane,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.85,45.85,0 days 00:00:45.850000,2015-03-27,2015.0,University of Tennessee,2015 NCAA DI - Men,1994-11-21,12
+Melissa Johnson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:47.91,107.91,0 days 00:01:47.910000,2015-03-21,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-05-10,13
+Elizabeth Pelton,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.00,109.0,0 days 00:01:49,2014-12-07,2015.0,University of California Berkeley,UGA Fall Invitational 2014,1993-11-26,13
+Courtney Bartholomew,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:49.35,109.35,0 days 00:01:49.350000,2015-03-21,2015.0,University of Virginia,2015 NCAA DI - Women,1994-06-24,13
+Samantha Corea,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.56,110.56,0 days 00:01:50.560000,2015-03-21,2015.0,University of Denver,2015 NCAA DI - Women,1993-10-16,13
+Brooklynn Snodgrass,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.60,110.6,0 days 00:01:50.600000,2015-02-21,2015.0,Indiana University,2015 B1G 10 Champs Women,1994-04-19,13
+Danielle Galyer,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.86,110.86,0 days 00:01:50.860000,2015-03-21,2015.0,University of Kentucky,2015 NCAA DI - Women,1995-09-15,13
+Hali Flickinger,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.68,111.68,0 days 00:01:51.680000,2015-02-21,2015.0,University of Georgia,2015 SEC Champs,1994-07-06,13
+Kylie Stewart,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.70,111.7,0 days 00:01:51.700000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1996-03-27,13
+Clara Smiddy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.76,111.76,0 days 00:01:51.760000,2015-02-21,2015.0,University of Michigan,2015 B1G 10 Champs Women,1996-01-04,13
+Melanie Klaren,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.83,111.83,0 days 00:01:51.830000,2015-03-21,2015.0,University of California Berkeley,2015 NCAA DI - Women,1992-12-05,13
+Ashlee Linn,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.01,112.01,0 days 00:01:52.010000,2015-03-21,2015.0,University of Florida,2015 NCAA DI - Women,1993-01-09,13
+Lisa Bratton,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.11,112.11,0 days 00:01:52.110000,2015-03-21,2015.0,Texas A&M University,2015 NCAA DI - Women,1996-05-05,13
+Jillian Vitarius,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.38,112.38,0 days 00:01:52.380000,2015-03-21,2015.0,Auburn University,2015 NCAA DI - Women,1993-09-30,13
+Kennedy Goss,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.41,112.41,0 days 00:01:52.410000,2014-12-06,2015.0,Indiana University,2014 Winter Nationals,1996-08-19,13
+Sarah Bennett,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.61,112.61,0 days 00:01:52.610000,2014-12-06,2015.0,University of Texas,Texas Swimming & Diving Hall o,1992-04-08,13
+Tasija Karosas,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.74,112.74,0 days 00:01:52.740000,2015-02-28,2015.0,University of Texas,2015 Big 12 Champs,1995-08-11,13
+Ryan Murphy,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:36.77,96.77,0 days 00:01:36.770000,2015-03-28,2015.0,University of California Berkeley,2015 NCAA DI - Men,1995-07-02,13
+Sean Lehane,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.76,98.76,0 days 00:01:38.760000,2015-03-28,2015.0,University of Tennessee,2015 NCAA DI - Men,1994-11-21,13
+Hennessey Stuart,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.37,99.37,0 days 00:01:39.370000,2015-02-28,2015.0,North Carolina State University,2015 ACC Champs Men's ,1995-05-15,13
+David Nolan,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.59,99.59,0 days 00:01:39.590000,2015-03-28,2015.0,Stanford University,2015 NCAA DI - Men,1992-12-05,13
+John Conger,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.70,99.7,0 days 00:01:39.700000,2015-02-28,2015.0,University of Texas,2015 Big 12 Champs,1994-09-26,13
+Andrew Teduits,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.72,99.72,0 days 00:01:39.720000,2014-12-06,2015.0,University of Wisconsin Madison,Texas Swimming & Diving Hall o,1993-07-09,13
+Jacob Taylor,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.76,99.76,0 days 00:01:39.760000,2015-03-28,2015.0,Brigham Young University,2015 NCAA DI - Men,1992-01-26,13
+Jacob Pebley,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.87,99.87,0 days 00:01:39.870000,2015-03-28,2015.0,University of California Berkeley,2015 NCAA DI - Men,1993-09-17,13
+Joseph Patching,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.16,100.16,0 days 00:01:40.160000,2015-03-28,2015.0,Auburn University,2015 NCAA DI - Men,1994-04-16,13
+Carter Griffin,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.17,100.17,0 days 00:01:40.170000,2015-02-21,2015.0,University of Missouri,2015 SEC Champs,1995-05-04,13
+Nathaniel Savoy,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.25,100.25,0 days 00:01:40.250000,2015-03-28,2015.0,Pennsylvania State University,2015 NCAA DI - Men,1993-02-22,13
+Tristan Sanders,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.34,100.34,0 days 00:01:40.340000,2015-03-28,2015.0,University of Michigan,2015 NCAA DI - Men,1996-02-25,13
+Patrick Conaton,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.48,100.48,0 days 00:01:40.480000,2015-03-04,2015.0,Stanford University,2015 PAC 12 Champs men TT,1996-02-11,13
+Grigory Tarasevich,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.66,100.66,0 days 00:01:40.660000,2015-03-28,2015.0,University of Louisville,2015 NCAA DI - Men,1995-08-01,13
+William Glass,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.74,100.74,0 days 00:01:40.740000,2015-03-28,2015.0,University of Texas,2015 NCAA DI - Men,1995-06-14,13
+Connor Oslin,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.77,100.77,0 days 00:01:40.770000,2015-02-21,2015.0,University of Alabama,2015 SEC Champs,1994-09-14,13
+Sarah Haase,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.19,58.19,0 days 00:00:58.190000,2015-03-20,2015.0,Stanford University,2015 NCAA DI - Women,1994-05-31,15
+Patricia Burchell,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.38,58.38,0 days 00:00:58.380000,2015-03-20,2015.0,University of Alabama,2015 NCAA DI - Women,1993-05-04,15
+Molly Hannis,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.42,58.42,0 days 00:00:58.420000,2014-12-05,2015.0,University of Tennessee,2014 Winter Nationals,1992-03-13,15
+Emma Reaney,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.43,58.43,0 days 00:00:58.430000,2015-03-20,2015.0,University of Notre Dame,2015 NCAA DI - Women,1992-10-20,15
+Laura Simon,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.53,58.53,0 days 00:00:58.530000,2015-03-20,2015.0,University of Virginia,2015 NCAA DI - Women,1994-04-24,15
+Gretchen Jaques,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.71,58.71,0 days 00:00:58.710000,2015-02-27,2015.0,University of Texas,2015 Big 12 Champs,1993-04-10,15
+Kierra Smith,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.00,59.0,0 days 00:00:59,2015-03-20,2015.0,University of Minnesota,2015 NCAA DI - Women,1994-02-01,15
+Tara-Lynn Nicholas,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.12,59.12,0 days 00:00:59.120000,2015-02-20,2015.0,Southern Methodist University,2015 American Ath. Conf. ,1995-05-28,15
+Heidi Poppe,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.21,59.21,0 days 00:00:59.210000,2014-11-21,2015.0,Stanford University,Art Adamson Invitational,1996-03-21,15
+Andrea Cottrell,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.27,59.27,0 days 00:00:59.270000,2015-02-20,2015.0,University of Louisville,2015 ACC Champs Women's ,1995-06-30,15
+Mary Olsen,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.28,59.28,0 days 00:00:59.280000,2015-03-20,2015.0,Stanford University,2015 NCAA DI - Women,1992-12-07,15
+Katharine Ross,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.43,59.43,0 days 00:00:59.430000,2014-11-21,2015.0,University of Missouri,Mizzou Invitational,1995-07-23,15
+Bethany Galat,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.44,59.44,0 days 00:00:59.440000,2015-03-20,2015.0,Texas A&M University,2015 NCAA DI - Women,1995-08-10,15
+Allison Wine,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.46,59.46,0 days 00:00:59.460000,2015-02-27,2015.0,Los Angeles University of California,2015 PAC-12 Champs women,1993-09-03,15
+Rachel Nicol,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.49,59.49,0 days 00:00:59.490000,2015-03-20,2015.0,Southern Methodist University,2015 NCAA DI - Women,1993-02-16,15
+Nicole Daniels,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.52,59.52,0 days 00:00:59.520000,2015-02-20,2015.0,University of Arkansas,2015 SEC Champs,1993-06-11,15
+Kevin Cordes,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.25,50.25,0 days 00:00:50.250000,2015-03-27,2015.0,University of Arizona,2015 NCAA DI - Men,1993-08-13,15
+Charles Katis,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.89,50.89,0 days 00:00:50.890000,2015-03-27,2015.0,University of California Berkeley,2015 NCAA DI - Men,1993-01-15,15
+Nicolas Fink,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.08,51.08,0 days 00:00:51.080000,2015-03-27,2015.0,University of Georgia,2015 NCAA DI - Men,1993-07-03,15
+Richard Funk,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.41,51.41,0 days 00:00:51.410000,2015-03-27,2015.0,University of Michigan,2015 NCAA DI - Men,1992-11-22,15
+Sam Tierney,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.54,51.54,0 days 00:00:51.540000,2015-03-27,2015.0,University of Missouri,2015 NCAA DI - Men,1993-05-02,15
+Fabian Schwingenschloegl,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.66,51.66,0 days 00:00:51.660000,2015-03-27,2015.0,Western Kentucky University,2015 NCAA DI - Men,1991-08-15,15
+Bruno Ortiz,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.68,51.68,0 days 00:00:51.680000,2015-03-27,2015.0,University of Michigan,2015 NCAA DI - Men,1993-02-15,15
+Thomas Dahlia,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.83,51.83,0 days 00:00:51.830000,2015-03-27,2015.0,University of Louisville,2015 NCAA DI - Men,1990-03-07,15
+Michael Duderstadt,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.83,51.83,0 days 00:00:51.830000,2015-03-27,2015.0,Auburn University,2015 NCAA DI - Men,1994-12-02,15
+Peter Stevens,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.88,51.88,0 days 00:00:51.880000,2015-02-20,2015.0,University of Tennessee,2015 SEC Champs,1995-06-01,15
+Peter Kropp,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.02,52.02,0 days 00:00:52.020000,2014-11-21,2015.0,Duke University,2014 NIke Cup Invitational,1996-03-24,15
+Jason Coombs,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.11,52.11,0 days 00:00:52.110000,2015-03-27,2015.0,Florida State University,2015 NCAA DI - Men,1995-02-20,15
+Austin Temple,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.34,52.34,0 days 00:00:52.340000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1996-03-10,15
+Daniel Macdonald,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.43,52.43,0 days 00:00:52.430000,2015-02-27,2015.0,Ohio State University,2015 B1G 10 Champs Men,1994-04-16,15
+Jacob Molacek,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.45,52.45,0 days 00:00:52.450000,2015-02-20,2015.0,Auburn University,2015 SEC Champs,1995-11-27,15
+Yannick Kaser,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.47,52.47,0 days 00:00:52.470000,2014-12-06,2015.0,University of Virginia,UGA Fall Invitational 2014,1992-07-03,15
+Kierra Smith,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:04.56,124.56,0 days 00:02:04.560000,2015-03-21,2015.0,University of Minnesota,2015 NCAA DI - Women,1994-02-01,16
+Laura Simon,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.65,126.65,0 days 00:02:06.650000,2015-03-21,2015.0,University of Virginia,2015 NCAA DI - Women,1994-04-24,16
+Molly Hannis,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.98,126.98,0 days 00:02:06.980000,2014-12-06,2015.0,University of Tennessee,2014 Winter Nationals,1992-03-13,16
+Mary Olsen,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.06,127.06,0 days 00:02:07.060000,2015-03-21,2015.0,Stanford University,2015 NCAA DI - Women,1992-12-07,16
+Emma Reaney,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.10,127.1,0 days 00:02:07.100000,2015-03-21,2015.0,University of Notre Dame,2015 NCAA DI - Women,1992-10-20,16
+Patricia Burchell,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.75,127.75,0 days 00:02:07.750000,2015-03-21,2015.0,University of Alabama,2015 NCAA DI - Women,1993-05-04,16
+Weronika Paluszek,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.83,127.83,0 days 00:02:07.830000,2015-03-21,2015.0,VA Tech,2015 NCAA DI - Women,1993-10-26,16
+Emily Kopas,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.88,127.88,0 days 00:02:07.880000,2015-03-21,2015.0,University of Michigan,2015 NCAA DI - Women,1996-07-30,16
+Anne Lazor,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.41,128.41,0 days 00:02:08.410000,2015-03-21,2015.0,Auburn University,2015 NCAA DI - Women,1994-08-17,16
+Andrea Cottrell,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.48,128.48,0 days 00:02:08.480000,2015-02-21,2015.0,University of Louisville,2015 ACC Champs Women's ,1995-06-30,16
+Yawen Li,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.49,128.49,0 days 00:02:08.490000,2015-02-21,2015.0,Reno University of Nevada,2015 MW Champs,1994-03-12,16
+Andrea Kropp,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.51,128.51,0 days 00:02:08.510000,2015-02-28,2015.0,University of Southern California,2015 PAC-12 Champs women,1993-06-25,16
+Gretchen Jaques,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.57,128.57,0 days 00:02:08.570000,2015-02-28,2015.0,University of Texas,2015 Big 12 Champs,1993-04-10,16
+Ashley McGregor,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.67,128.67,0 days 00:02:08.670000,2015-03-21,2015.0,Texas A&M University,2015 NCAA DI - Women,1993-03-01,16
+Abigail Duncan,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.74,128.74,0 days 00:02:08.740000,2015-03-21,2015.0,University of Missouri,2015 NCAA DI - Women,1993-05-20,16
+Annie Zhu,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.87,128.87,0 days 00:02:08.870000,2014-12-07,2015.0,University of Georgia,UGA Fall Invitational 2014,1994-09-01,16
+William Licon,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.48,109.48,0 days 00:01:49.480000,2015-03-28,2015.0,University of Texas,2015 NCAA DI - Men,1994-08-25,16
+Kevin Cordes,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:49.53,109.53,0 days 00:01:49.530000,2015-03-28,2015.0,University of Arizona,2015 NCAA DI - Men,1993-08-13,16
+Charles Katis,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.54,110.54,0 days 00:01:50.540000,2015-03-28,2015.0,University of California Berkeley,2015 NCAA DI - Men,1993-01-15,16
+Nicolas Fink,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:50.80,110.8,0 days 00:01:50.800000,2015-03-28,2015.0,University of Georgia,2015 NCAA DI - Men,1993-07-03,16
+Sam Tierney,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.78,111.78,0 days 00:01:51.780000,2015-03-28,2015.0,University of Missouri,2015 NCAA DI - Men,1993-05-02,16
+Anton McKee,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.97,111.97,0 days 00:01:51.970000,2015-03-28,2015.0,University of Alabama,2015 NCAA DI - Men,1993-12-18,16
+Steven Stumph,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.50,112.5,0 days 00:01:52.500000,2015-03-07,2015.0,University of Southern California,2015 PAC 12 Champs men,1994-03-23,16
+Richard Funk,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.60,112.6,0 days 00:01:52.600000,2015-03-28,2015.0,University of Michigan,2015 NCAA DI - Men,1992-11-22,16
+Nils Wich-Glasen,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.60,112.6,0 days 00:01:52.600000,2015-03-28,2015.0,University of South Carolina Columbia,2015 NCAA DI - Men,1994-09-24,16
+Joshua Prenot,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.61,112.61,0 days 00:01:52.610000,2015-03-07,2015.0,University of California Berkeley,2015 PAC 12 Champs men,1993-07-28,16
+Eduardo Solaeche,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.67,112.67,0 days 00:01:52.670000,2015-03-28,2015.0,University of Florida,2015 NCAA DI - Men,1993-11-22,16
+Thomas Dahlia,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.68,112.68,0 days 00:01:52.680000,2015-03-28,2015.0,University of Louisville,2015 NCAA DI - Men,1990-03-07,16
+Matthew Elliott,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.76,112.76,0 days 00:01:52.760000,2015-03-28,2015.0,University of Florida,2015 NCAA DI - Men,1992-09-12,16
+Lyam Dias,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.97,112.97,0 days 00:01:52.970000,2015-03-28,2015.0,Purdue University,2015 NCAA DI - Men,1993-04-19,16
+Fabian Schwingenschloegl,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.25,113.25,0 days 00:01:53.250000,2015-03-28,2015.0,Western Kentucky University,2015 NCAA DI - Men,1991-08-15,16
+Zachary Stephens,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.33,113.33,0 days 00:01:53.330000,2015-03-28,2015.0,University of Notre Dame,2015 NCAA DI - Men,1992-11-18,16
+Kelsi Dahlia,100 Butterfly SCY Female,100,Butterfly,SCY,Female,49.81,49.81,0 days 00:00:49.810000,2015-03-20,2015.0,University of Louisville,2015 NCAA DI - Women,1994-07-15,18
+Samantha Corea,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.86,50.86,0 days 00:00:50.860000,2015-03-20,2015.0,University of Denver,2015 NCAA DI - Women,1993-10-16,18
+Beryl Gastaldello,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.87,50.87,0 days 00:00:50.870000,2015-02-19,2015.0,Texas A&M University,2015 SEC Champs,1995-02-16,18
+Kendyl Stewart,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.92,50.92,0 days 00:00:50.920000,2015-03-20,2015.0,University of Southern California,2015 NCAA DI - Women,1994-08-17,18
+Farida Osman,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.94,50.94,0 days 00:00:50.940000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-01-18,18
+Christina Bechtel,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.04,51.04,0 days 00:00:51.040000,2015-02-19,2015.0,University of Kentucky,2015 SEC Champs,1993-06-24,18
+Natalie Hinds,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.30,51.3,0 days 00:00:51.300000,2015-03-20,2015.0,University of Florida,2015 NCAA DI - Women,1993-12-07,18
+Danielle Barbiea,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.51,51.51,0 days 00:00:51.510000,2014-11-20,2015.0,University of Missouri,Mizzou Invitational,1992-12-14,18
+Rachel Bootsma,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.53,51.53,0 days 00:00:51.530000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1993-12-15,18
+Ivy Martin,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.76,51.76,0 days 00:00:51.760000,2015-02-20,2015.0,University of Wisconsin Madison,2015 B1G 10 Champs Women,1993-07-29,18
+Chelsea Britt,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.79,51.79,0 days 00:00:51.790000,2015-02-20,2015.0,Florida State University,2015 ACC Champs Women's ,1994-10-27,18
+Lauren Harrington,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.79,51.79,0 days 00:00:51.790000,2015-03-20,2015.0,University of Georgia,2015 NCAA DI - Women,1992-10-16,18
+Janet Hu,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.90,51.9,0 days 00:00:51.900000,2015-03-20,2015.0,Stanford University,2015 NCAA DI - Women,1995-12-07,18
+Noemie Thomas,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.91,51.91,0 days 00:00:51.910000,2015-02-27,2015.0,University of California Berkeley,2015 PAC-12 Champs women,1996-02-04,18
+Casey Clark,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.98,51.98,0 days 00:00:51.980000,2015-02-20,2015.0,Rice University,2015 C-USA Champs Women,1993-04-27,18
+Hellen Moffitt,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.98,51.98,0 days 00:00:51.980000,2015-02-20,2015.0,University of North Carolina Chapel Hill,2015 ACC Champs Women's ,1995-05-21,18
+Joseph Schooling,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.51,44.51,0 days 00:00:44.510000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1995-06-16,18
+John Conger,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.55,44.55,0 days 00:00:44.550000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1994-09-26,18
+Matthew Austin,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.89,44.89,0 days 00:00:44.890000,2015-03-12,2015.0,Queens University of Charlotte,2015 NCAA DII ,1995-03-31,18
+James Cooper,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.06,45.06,0 days 00:00:45.060000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1993-02-20,18
+Caeleb Dressel,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.28,45.28,0 days 00:00:45.280000,2015-02-19,2015.0,University of Florida,2015 SEC Champs,1996-08-16,18
+William Glass,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.40,45.4,0 days 00:00:45.400000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1995-06-14,18
+Samuel Lewis,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.60,45.6,0 days 00:00:45.600000,2015-03-27,2015.0,University of North Carolina Chapel Hill,2015 NCAA DI - Men,1994-06-02,18
+Matt McHugh,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.75,45.75,0 days 00:00:45.750000,2015-02-27,2015.0,Ohio State University,2015 B1G 10 Champs Men,1995-08-09,18
+Santo Condorelli,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.79,45.79,0 days 00:00:45.790000,2015-03-27,2015.0,University of Southern California,2015 NCAA DI - Men,1995-01-17,18
+Pedro Coutinho,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.84,45.84,0 days 00:00:45.840000,2015-03-27,2015.0,University of Louisville,2015 NCAA DI - Men,1994-02-24,18
+Seth Stubblefield,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.84,45.84,0 days 00:00:45.840000,2015-03-06,2015.0,University of California Berkeley,2015 PAC 12 Champs men,1993-07-21,18
+John Murray,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.89,45.89,0 days 00:00:45.890000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1994-04-21,18
+Matthew Ellis,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.92,45.92,0 days 00:00:45.920000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1993-12-21,18
+Arthur Mendes,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.92,45.92,0 days 00:00:45.920000,2015-02-19,2015.0,Auburn University,2015 SEC Champs,1993-09-07,18
+Ralf Tribuntsov,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.92,45.92,0 days 00:00:45.920000,2015-03-06,2015.0,University of Southern California,2015 PAC 12 Champs men,1994-09-22,18
+David Jakl,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.05,46.05,0 days 00:00:46.050000,2015-02-27,2015.0,Columbia University,2015 Ivy League Champs men,1993-11-22,18
+Kelsi Dahlia,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.11,111.11,0 days 00:01:51.110000,2015-03-21,2015.0,University of Louisville,2015 NCAA DI - Women,1994-07-15,19
+Christina Bechtel,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.08,112.08,0 days 00:01:52.080000,2015-03-21,2015.0,University of Kentucky,2015 NCAA DI - Women,1993-06-24,19
+Hali Flickinger,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.73,112.73,0 days 00:01:52.730000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1994-07-06,19
+Chelsea Chenault,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.17,113.17,0 days 00:01:53.170000,2015-03-21,2015.0,University of Southern California,2015 NCAA DI - Women,1994-10-19,19
+Tanja Kylliainen,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.19,113.19,0 days 00:01:53.190000,2015-02-21,2015.0,University of Louisville,2015 ACC Champs Women's ,1993-01-30,19
+Chelsea Britt,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.68,113.68,0 days 00:01:53.680000,2014-12-07,2015.0,Florida State University,UGA Fall Invitational 2014,1994-10-27,19
+Lauren Harrington,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.76,113.76,0 days 00:01:53.760000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1992-10-16,19
+Noemie Thomas,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.10,114.1,0 days 00:01:54.100000,2015-02-28,2015.0,University of California Berkeley,2015 PAC-12 Champs women,1996-02-04,19
+Taylor Katz,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.44,114.44,0 days 00:01:54.440000,2015-02-20,2015.0,University of Florida,2015 SEC Champs,1994-09-17,19
+Noelle Tarazona,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.65,114.65,0 days 00:01:54.650000,2015-03-21,2015.0,Los Angeles University of California,2015 NCAA DI - Women,1993-01-19,19
+Gia Dalesandro,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.66,114.66,0 days 00:01:54.660000,2015-03-21,2015.0,Indiana University,2015 NCAA DI - Women,1995-04-22,19
+Jasmine Mau,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.85,114.85,0 days 00:01:54.850000,2015-03-21,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-11-21,19
+Megan Kingsley,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.98,114.98,0 days 00:01:54.980000,2015-03-21,2015.0,University of Georgia,2015 NCAA DI - Women,1996-04-06,19
+Kara Kopcso,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.01,115.01,0 days 00:01:55.010000,2015-03-21,2015.0,Louisiana State University,2015 NCAA DI - Women,1995-09-02,19
+Sharli Brady,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.05,115.05,0 days 00:01:55.050000,2015-03-21,2015.0,University of Missouri,2015 NCAA DI - Women,1995-12-20,19
+Klaudia Nazieblo,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.16,115.16,0 days 00:01:55.160000,2015-02-21,2015.0,VA Tech,2015 ACC Champs Women's ,1993-12-03,19
+John Conger,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.31,99.31,0 days 00:01:39.310000,2015-02-25,2015.0,University of Texas,2015 Big 12 Champs TT,1994-09-26,19
+Joseph Schooling,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:39.62,99.62,0 days 00:01:39.620000,2015-03-28,2015.0,University of Texas,2015 NCAA DI - Men,1995-06-16,19
+Dylan Bosch,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.12,100.12,0 days 00:01:40.120000,2015-03-28,2015.0,University of Michigan,2015 NCAA DI - Men,1993-07-17,19
+Clark Smith,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.42,101.42,0 days 00:01:41.420000,2014-12-06,2015.0,University of Texas,Texas Swimming & Diving Hall o,1995-04-17,19
+David Knight,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.66,101.66,0 days 00:01:41.660000,2015-02-28,2015.0,Florida State University,2015 ACC Champs Men's ,1993-05-27,19
+Chase Kalisz,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.70,101.7,0 days 00:01:41.700000,2015-02-20,2015.0,University of Georgia,2015 SEC Champs,1994-03-07,19
+Mackenzie Darragh,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.76,101.76,0 days 00:01:41.760000,2015-03-28,2015.0,University of Missouri,2015 NCAA DI - Men,1993-12-08,19
+Christian McCurdy,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.99,101.99,0 days 00:01:41.990000,2015-03-28,2015.0,North Carolina State University,2015 NCAA DI - Men,1994-08-18,19
+Robert McHugh,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.01,102.01,0 days 00:01:42.010000,2015-02-20,2015.0,University of Tennessee,2015 SEC Champs,1995-10-12,19
+Tynan Stewart,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.08,102.08,0 days 00:01:42.080000,2015-03-28,2015.0,University of Georgia,2015 NCAA DI - Men,1994-07-13,19
+Hugo Morris,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.11,102.11,0 days 00:01:42.110000,2015-02-20,2015.0,Auburn University,2015 SEC Champs,1994-08-05,19
+Adam Hinshaw,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.13,102.13,0 days 00:01:42.130000,2015-03-28,2015.0,University of California Berkeley,2015 NCAA DI - Men,1993-09-14,19
+William Hamilton,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.14,102.14,0 days 00:01:42.140000,2015-03-28,2015.0,University of California Berkeley,2015 NCAA DI - Men,1992-06-13,19
+Evan White,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.32,102.32,0 days 00:01:42.320000,2015-02-28,2015.0,University of Michigan,2015 B1G 10 Champs Men,1996-01-23,19
+Pace Clark,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.33,102.33,0 days 00:01:42.330000,2015-02-20,2015.0,University of Georgia,2015 SEC Champs,1994-06-24,19
+Dan Wallace,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.48,102.48,0 days 00:01:42.480000,2015-03-28,2015.0,University of Florida,2015 NCAA DI - Men,1993-04-14,19
+Melissa Johnson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.11,112.11,0 days 00:01:52.110000,2015-03-19,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-05-10,21
+Elizabeth Pelton,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.80,112.8,0 days 00:01:52.800000,2015-03-19,2015.0,University of California Berkeley,2015 NCAA DI - Women,1993-11-26,21
+Madisyn Cox,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.43,114.43,0 days 00:01:54.430000,2015-03-19,2015.0,University of Texas,2015 NCAA DI - Women,1995-05-30,21
+Celina Li,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.84,114.84,0 days 00:01:54.840000,2015-03-19,2015.0,University of California Berkeley,2015 NCAA DI - Women,1995-07-25,21
+Emma Reaney,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.13,115.13,0 days 00:01:55.130000,2015-03-19,2015.0,University of Notre Dame,2015 NCAA DI - Women,1992-10-20,21
+Courtney Bartholomew,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.23,115.23,0 days 00:01:55.230000,2014-12-05,2015.0,University of Virginia,UGA Fall Invitational 2014,1994-06-24,21
+Bethany Galat,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.48,115.48,0 days 00:01:55.480000,2015-03-19,2015.0,Texas A&M University,2015 NCAA DI - Women,1995-08-10,21
+Kaitlyn Jones,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.61,115.61,0 days 00:01:55.610000,2014-12-05,2015.0,University of Virginia,UGA Fall Invitational 2014,1994-10-12,21
+Tanja Kylliainen,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.68,115.68,0 days 00:01:55.680000,2015-03-19,2015.0,University of Louisville,2015 NCAA DI - Women,1993-01-30,21
+Ellen Williamson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.93,115.93,0 days 00:01:55.930000,2014-12-05,2015.0,University of Virginia,UGA Fall Invitational 2014,1992-10-10,21
+Theresa Michalak,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.09,116.09,0 days 00:01:56.090000,2015-02-18,2015.0,University of Florida,2015 SEC Champs,1992-05-07,21
+Lindsey McKnight,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.16,116.16,0 days 00:01:56.160000,2015-02-18,2015.0,University of Florida,2015 SEC Champs,1994-03-23,21
+Ashley Vance,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.16,116.16,0 days 00:01:56.160000,2015-03-19,2015.0,Ohio State University,2015 NCAA DI - Women,1992-12-28,21
+Annie Zhu,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.16,116.16,0 days 00:01:56.160000,2015-03-19,2015.0,University of Georgia,2015 NCAA DI - Women,1994-09-01,21
+Caroline Piehl,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.28,116.28,0 days 00:01:56.280000,2015-03-19,2015.0,University of California Berkeley,2015 NCAA DI - Women,1993-05-03,21
+Sarah Henry,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.40,116.4,0 days 00:01:56.400000,2014-11-20,2015.0,Texas A&M University,Art Adamson Invitational,1992-01-13,21
+Ashlee Linn,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.40,116.4,0 days 00:01:56.400000,2015-02-18,2015.0,University of Florida,2015 SEC Champs,1993-01-09,21
+David Nolan,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:39.38,99.38,0 days 00:01:39.380000,2015-03-26,2015.0,Stanford University,2015 NCAA DI - Men,1992-12-05,21
+William Licon,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.09,100.09,0 days 00:01:40.090000,2015-03-26,2015.0,University of Texas,2015 NCAA DI - Men,1994-08-25,21
+Ryan Murphy,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.76,101.76,0 days 00:01:41.760000,2015-03-26,2015.0,University of California Berkeley,2015 NCAA DI - Men,1995-07-02,21
+Joshua Prenot,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.79,101.79,0 days 00:01:41.790000,2015-03-05,2015.0,University of California Berkeley,2015 PAC 12 Champs men,1993-07-28,21
+Dylan Bosch,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.93,101.93,0 days 00:01:41.930000,2015-02-26,2015.0,University of Michigan,2015 B1G 10 Champs Men,1993-07-17,21
+Matthew Austin,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.94,101.94,0 days 00:01:41.940000,2015-03-11,2015.0,Queens University of Charlotte,2015 NCAA DII ,1995-03-31,21
+Eduardo Solaeche,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.05,102.05,0 days 00:01:42.050000,2015-03-26,2015.0,University of Florida,2015 NCAA DI - Men,1993-11-22,21
+Tom Kremer,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.40,102.4,0 days 00:01:42.400000,2015-03-26,2015.0,Stanford University,2015 NCAA DI - Men,1994-08-24,21
+Joseph Bentz,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.44,102.44,0 days 00:01:42.440000,2015-03-26,2015.0,University of Georgia,2015 NCAA DI - Men,1996-01-03,21
+Joseph Schooling,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.62,102.62,0 days 00:01:42.620000,2015-03-26,2015.0,University of Texas,2015 NCAA DI - Men,1995-06-16,21
+Tynan Stewart,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.83,102.83,0 days 00:01:42.830000,2015-02-18,2015.0,University of Georgia,2015 SEC Champs,1994-07-13,21
+Mark Szaranek,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.04,103.04,0 days 00:01:43.040000,2015-03-26,2015.0,University of Florida,2015 NCAA DI - Men,1995-08-16,21
+Nicolas Fink,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.07,103.07,0 days 00:01:43.070000,2015-03-26,2015.0,University of Georgia,2015 NCAA DI - Men,1993-07-03,21
+Chase Kalisz,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.10,103.1,0 days 00:01:43.100000,2014-12-05,2015.0,University of Georgia,UGA Fall Invitational 2014,1994-03-07,21
+William Hamilton,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.12,103.12,0 days 00:01:43.120000,2015-03-26,2015.0,University of California Berkeley,2015 NCAA DI - Men,1992-06-13,21
+Joseph Patching,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.16,103.16,0 days 00:01:43.160000,2015-02-18,2015.0,Auburn University,2015 SEC Champs,1994-04-16,21
+Sarah Henry,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.47,242.47,0 days 00:04:02.470000,2015-03-20,2015.0,Texas A&M University,2015 NCAA DI - Women,1992-01-13,22
+Hali Flickinger,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.73,242.73,0 days 00:04:02.730000,2015-03-20,2015.0,University of Georgia,2015 NCAA DI - Women,1994-07-06,22
+Brooke Zeiger,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.28,243.28,0 days 00:04:03.280000,2015-02-20,2015.0,University of Minnesota,2015 B1G 10 Champs Women,1996-01-09,22
+Amber McDermott,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.34,243.34,0 days 00:04:03.340000,2015-03-20,2015.0,University of Georgia,2015 NCAA DI - Women,1993-03-10,22
+Tanja Kylliainen,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.51,243.51,0 days 00:04:03.510000,2015-03-20,2015.0,University of Louisville,2015 NCAA DI - Women,1993-01-30,22
+Madisyn Cox,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.63,243.63,0 days 00:04:03.630000,2015-03-20,2015.0,University of Texas,2015 NCAA DI - Women,1995-05-30,22
+Celina Li,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.13,245.13,0 days 00:04:05.130000,2014-12-06,2015.0,University of California Berkeley,UGA Fall Invitational 2014,1995-07-25,22
+Yawen Li,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.56,245.56,0 days 00:04:05.560000,2015-03-20,2015.0,Reno University of Nevada,2015 NCAA DI - Women,1994-03-12,22
+Chelsie Miller,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.67,245.67,0 days 00:04:05.670000,2015-02-27,2015.0,University of Kansas,2015 Big 12 Champs,1994-01-27,22
+Amanda Carner,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.97,245.97,0 days 00:04:05.970000,2015-03-20,2015.0,University of Tennessee,2015 NCAA DI - Women,1993-10-18,22
+Kaitlyn Jones,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.62,246.62,0 days 00:04:06.620000,2015-02-20,2015.0,University of Virginia,2015 ACC Champs Women's ,1994-10-12,22
+Jessica Thielmann,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.72,246.72,0 days 00:04:06.720000,2015-03-20,2015.0,University of Florida,2015 NCAA DI - Women,1993-11-25,22
+Kelly Naze,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:07.07,247.07,0 days 00:04:07.070000,2015-03-20,2015.0,University of California Berkeley,2015 NCAA DI - Women,1993-12-17,22
+Emily Cameron,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:07.15,247.15,0 days 00:04:07.150000,2015-03-20,2015.0,University of Georgia,2015 NCAA DI - Women,1994-09-28,22
+Sharli Brady,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:08.01,248.01,0 days 00:04:08.010000,2015-03-20,2015.0,University of Missouri,2015 NCAA DI - Women,1995-12-20,22
+Lindsey Clary,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:08.07,248.07,0 days 00:04:08.070000,2015-02-20,2015.0,Ohio State University,2015 B1G 10 Champs Women,1995-10-20,22
+William Licon,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:36.37,216.37,0 days 00:03:36.370000,2015-03-27,2015.0,University of Texas,2015 NCAA DI - Men,1994-08-25,22
+Chase Kalisz,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.39,218.39,0 days 00:03:38.390000,2015-02-19,2015.0,University of Georgia,2015 SEC Champs,1994-03-07,22
+Joshua Prenot,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.83,218.83,0 days 00:03:38.830000,2015-03-06,2015.0,University of California Berkeley,2015 PAC 12 Champs men,1993-07-28,22
+Joseph Bentz,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:39.87,219.87,0 days 00:03:39.870000,2015-03-27,2015.0,University of Georgia,2015 NCAA DI - Men,1996-01-03,22
+Mark Szaranek,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.22,220.22,0 days 00:03:40.220000,2015-02-19,2015.0,University of Florida,2015 SEC Champs,1995-08-16,22
+Carlos Omana,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.35,220.35,0 days 00:03:40.350000,2015-02-19,2015.0,University of Florida,2015 SEC Champs,1993-02-08,22
+Dylan Bosch,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.61,220.61,0 days 00:03:40.610000,2015-02-27,2015.0,University of Michigan,2015 B1G 10 Champs Men,1993-07-17,22
+Robert McHugh,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.64,220.64,0 days 00:03:40.640000,2015-02-19,2015.0,University of Tennessee,2015 SEC Champs,1995-10-12,22
+Dan Wallace,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.14,221.14,0 days 00:03:41.140000,2015-02-19,2015.0,University of Florida,2015 SEC Champs,1993-04-14,22
+Curtis Ogren,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.23,221.23,0 days 00:03:41.230000,2015-03-06,2015.0,Stanford University,2015 PAC 12 Champs men,1996-01-25,22
+Jay Litherland,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.52,221.52,0 days 00:03:41.520000,2014-12-06,2015.0,University of Georgia,UGA Fall Invitational 2014,1995-08-24,22
+Adam Hinshaw,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.58,221.58,0 days 00:03:41.580000,2015-03-27,2015.0,University of California Berkeley,2015 NCAA DI - Men,1993-09-14,22
+Robert Owen,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.79,221.79,0 days 00:03:41.790000,2015-02-27,2015.0,VA Tech,2015 ACC Champs Men's ,1995-08-28,22
+Stephen Schmuhl,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.88,221.88,0 days 00:03:41.880000,2015-02-27,2015.0,Indiana University,2015 B1G 10 Champs Men,1993-03-01,22
+Christian McCurdy,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.92,221.92,0 days 00:03:41.920000,2015-02-27,2015.0,North Carolina State University,2015 ACC Champs Men's ,1994-08-18,22
+Connor Green,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.23,222.23,0 days 00:03:42.230000,2015-03-06,2015.0,University of California Berkeley,2015 PAC 12 Champs men,1996-02-04,22
