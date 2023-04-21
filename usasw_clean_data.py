@@ -1,6 +1,6 @@
 # This script is used to clean NCAA Swimming data from the USA Swimming website to make it easier for data analysis
 # The first function, clean_ncaa_record_data(), is used to clean a csv file, downloaded from USA Swimming, which shows
-# the progress of NCAA records over time. The function is used to remove unnecessary columns, rename columns, and convert data types
+# the progress of NCAA df over time. The function is used to remove unnecessary columns, rename columns, and convert data types
 # The second function, clean_ncaa_swimming_data(), is similarly used to clean a csv file, downloaded from USA Swimming, which shows
 # the top swimmers per event for a given season.
 
@@ -108,7 +108,7 @@ def clean_ncaa_record_data(csv_file):
     # Sort the dataframe by event_id, gender, and time in ascending order
     df = df.sort_values(['event_id', 'gender', 'time_(seconds)'])
 
-    # Calculate the time difference between consecutive records within each event/gender group
+    # Calculate the time difference between consecutive df within each event/gender group
     time_diff = df.groupby(['event_id', 'gender'])['time_(seconds)'].diff()
     time_diff = time_diff.fillna(0)
     time_diff = time_diff[1:]
@@ -118,7 +118,7 @@ def clean_ncaa_record_data(csv_file):
     last_record_mask = df.groupby(['event_id', 'gender']).tail(1).index
     time_diff[last_record_mask] = np.nan
 
-    # For records that are not new records, set the record_broken_by value to 0
+    # For df that are not new df, set the record_broken_by value to 0
     time_diff[time_diff <= 0] = 0
 
     # Add the record_broken_by column to the dataframe
@@ -237,7 +237,7 @@ def clean_ncaa_swimming_data(csv_file):
         event = df['distance'][i] + ' ' + df['stroke'][i]
         if event not in valid_events:
             df = df.drop(i)
-    
+
     df['distance'] = df['distance'].astype(int)
 
     # Return cleaned dataframe
@@ -255,7 +255,7 @@ def calculate_record_stats(df):
     # Sort the dataframe by event_id, gender, and time in ascending order
     df = df.sort_values(['event_id', 'gender', 'time_(seconds)'])
 
-    # Calculate the time difference between consecutive records within each event/gender group
+    # Calculate the time difference between consecutive df within each event/gender group
     time_diff = df.groupby(['event_id', 'gender'])['time_(seconds)'].diff()
     time_diff = time_diff.fillna(0)
     time_diff = time_diff[1:]
@@ -265,21 +265,51 @@ def calculate_record_stats(df):
     last_record_mask = df.groupby(['event_id', 'gender']).tail(1).index
     time_diff[last_record_mask] = np.nan
 
-    # For records that are not new records, set the record_broken_by value to 0
+    # For df that are not new df, set the record_broken_by value to 0
     time_diff[time_diff <= 0] = 0
 
     # Add the record_broken_by column to the dataframe
     df['record_broken_by'] = time_diff
 
+    # Initialize a dictionary to keep track of the new values for each athlete and event combination
+    total_improvement = {}
+
     for i in range(len(df)):
-        val = df.loc[i, 'record_broken_by']
-        if np.isnan(val):
+        # Get the current athlete and event IDs
+        record_sum = df.loc[i, 'record_broken_by']
+        athlete_id = df.loc[i, 'athlete_id']
+        event_id = df.loc[i, 'event_id']
+
+        # Check if the current observation has a record_broken_by value
+        if np.isnan(record_sum):
             pass
         else:
-            df.loc[i, 'record_broken_by'] = \
-                df.loc[i, 'record_broken_by']
-            df.loc[i, 'record_improvement_%'] = \
-                (df.loc[i, 'record_broken_by'] /
-                 df.loc[i+1, 'time_(seconds)'])*100
+
+            # Calculate the record improvement percentage
+            df.loc[i, 'record_improvement_%'] = (
+                record_sum/df.loc[i+1, 'time_(seconds)'])*100
+
+            # Check if the current athlete and event combination already has a record_sum
+            if (athlete_id, event_id) not in total_improvement:
+                # Calculate the sum of record_broken_by for the current athlete and event IDs
+                new_record_holder_sum = df[(df['athlete_id'] == athlete_id) & (
+                    df['event_id'] == event_id)]['record_broken_by'].sum()
+                total_improvement[(athlete_id, event_id)
+                                  ] = new_record_holder_sum
+            else:
+                # Use the existing record_sum for the current athlete and event combination
+                new_record_holder_sum = total_improvement[(
+                    athlete_id, event_id)]
+
+            # Update the new_record_holder_broken_by column in the first observation for the athlete and event combination
+            if i == df[(df['athlete_id'] == athlete_id) & (df['event_id'] == event_id)].index[0]:
+                df.loc[i, 'new_record_holder_broken_by'] = new_record_holder_sum
+                df.loc[i, 'new_record_holder_improvement_%'] = (
+                    new_record_holder_sum/((df.loc[i+1, 'time_(seconds)'])+new_record_holder_sum))*100
+
+            else:
+                # Set the remaining values to NaN
+                df.loc[i, 'new_record_holder_broken_by'] = np.nan
+                df.loc[i, 'new_record_holder_improvement_%'] = np.nan
 
     return df
