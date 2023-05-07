@@ -1,0 +1,449 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Lara Jackson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.27,21.27,0 days 00:00:21.270000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1986-10-14,1
+Anne-Marie Botek,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.80,21.8,0 days 00:00:21.800000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1988-02-29,1
+Michele King,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.82,21.82,0 days 00:00:21.820000,2009-03-19,2009.0,University of Tennessee,2009 NCAA DI - Women,1988-06-23,1
+Hee-jin Chang,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.87,21.87,0 days 00:00:21.870000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1986-09-05,1
+Julia Smit,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.91,21.91,0 days 00:00:21.910000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1987-12-14,1
+Triin Aljand,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.93,21.93,0 days 00:00:21.930000,2009-03-19,2009.0,Texas A&M University,2009 NCAA DI - Women,1985-07-08,1
+Liv Jensen,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.94,21.94,0 days 00:00:21.940000,2009-02-25,2009.0,University of California Berkeley,2009 PAC 10 Champs women,1990-04-24,1
+Madison Kennedy,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.94,21.94,0 days 00:00:21.940000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1987-12-22,1
+Anne May,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.96,21.96,0 days 00:00:21.960000,2008-12-04,2009.0,UC Santa Barbara (M),2008 Husky Invite,1987-06-24,1
+Sara Smith,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.96,21.96,0 days 00:00:21.960000,2009-02-18,2009.0,VA Tech,2009 ACC Champs women,1987-04-07,1
+Hannah Wilson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.06,22.06,0 days 00:00:22.060000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1989-03-10,1
+Rebecca Thompson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.09,22.09,0 days 00:00:22.090000,2009-02-18,2009.0,University of Wisconsin Madison,2009 B1G 10 Champs women,1990-06-14,1
+Karlee Carver,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.10,22.1,0 days 00:00:22.100000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-01-24,1
+Arianna Vanderpool-Wallace,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.10,22.1,0 days 00:00:22.100000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1990-03-04,1
+Samantha Woodward,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.16,22.16,0 days 00:00:22.160000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1990-12-05,1
+Stephanie Napier,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.17,22.17,0 days 00:00:22.170000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1988-04-25,1
+Matthew Targett,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.52,18.52,0 days 00:00:18.520000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1985-12-24,1
+Nathan Adrian,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.71,18.71,0 days 00:00:18.710000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1988-12-07,1
+Alexander Righi,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.82,18.82,0 days 00:00:18.820000,2009-03-26,2009.0,Yale University,2009 NCAA DI - Men,1986-08-13,1
+Jakob Andkjaer,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.83,18.83,0 days 00:00:18.830000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1985-05-07,1
+James Feigen,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.84,18.84,0 days 00:00:18.840000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1989-09-26,1
+Alexander Coville,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.87,18.87,0 days 00:00:18.870000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-07-17,1
+Austin Staab,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.96,18.96,0 days 00:00:18.960000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-11-21,1
+Gideon Louw,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.99,18.99,0 days 00:00:18.990000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1987-09-04,1
+Jason Dunford,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.09,19.09,0 days 00:00:19.090000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1986-11-28,1
+Jordan Smith,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.09,19.09,0 days 00:00:19.090000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-09-25,1
+Barry Murphy,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.14,19.14,0 days 00:00:19.140000,2009-03-26,2009.0,University of Tennessee,2009 NCAA DI - Men,1985-10-05,1
+Josh Schneider,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.17,19.17,0 days 00:00:19.170000,2009-02-18,2009.0,University of Cincinnati,2009 Big East Champs,1988-01-11,1
+David Walters,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.18,19.18,0 days 00:00:19.180000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1987-09-27,1
+Graeme Moore,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.22,19.22,0 days 00:00:19.220000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1989-01-28,1
+Lars Persson,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.27,19.27,0 days 00:00:19.270000,2009-03-26,2009.0,University of Tennessee,2009 NCAA DI - Men,1983-12-15,1
+David Dunford,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.28,19.28,0 days 00:00:19.280000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-09-29,1
+Dana Vollmer,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.17,47.17,0 days 00:00:47.170000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1987-11-13,2
+Triin Aljand,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.35,47.35,0 days 00:00:47.350000,2008-11-21,2009.0,Texas A&M University,Art Adamson Invitational,1985-07-08,2
+Julia Smit,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.44,47.44,0 days 00:00:47.440000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1987-12-14,2
+Karlee Carver,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.48,47.48,0 days 00:00:47.480000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-01-24,2
+Kate Dwelley,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.50,47.5,0 days 00:00:47.500000,2009-03-21,2009.0,Stanford University,2009 NCAA DI - Women,1989-02-10,2
+Morgan Scroggy,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.73,47.73,0 days 00:00:47.730000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1988-08-02,2
+Justine Schluntz,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.74,47.74,0 days 00:00:47.740000,2008-12-06,2009.0,University of Arizona,UT Invite,1987-05-28,2
+Lara Jackson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.76,47.76,0 days 00:00:47.760000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1986-10-14,2
+Hannah Wilson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.85,47.85,0 days 00:00:47.850000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1989-03-10,2
+Arianna Vanderpool-Wallace,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.90,47.9,0 days 00:00:47.900000,2008-12-04,2009.0,Auburn University,2008 Winter Nationals,1990-03-04,2
+Caitlin Geary,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.92,47.92,0 days 00:00:47.920000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1989-06-19,2
+Hee-jin Chang,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.93,47.93,0 days 00:00:47.930000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1986-09-05,2
+Stacy Busack,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.08,48.08,0 days 00:00:48.080000,2009-02-18,2009.0,University of Minnesota,2009 B1G 10 Champs women,1986-12-02,2
+Sara Smith,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.10,48.1,0 days 00:00:48.100000,2009-02-18,2009.0,VA Tech,2009 ACC Champs women,1987-04-07,2
+Taylor Baughman,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.14,48.14,0 days 00:00:48.140000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1986-12-10,2
+Madison Kennedy,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.18,48.18,0 days 00:00:48.180000,2009-02-25,2009.0,University of California Berkeley,2009 PAC 10 Champs women,1987-12-22,2
+Nathan Adrian,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.08,41.08,0 days 00:00:41.080000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1988-12-07,2
+James Feigen,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.49,41.49,0 days 00:00:41.490000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1989-09-26,2
+Matthew Targett,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.55,41.55,0 days 00:00:41.550000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1985-12-24,2
+Alexander Righi,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.71,41.71,0 days 00:00:41.710000,2009-03-26,2009.0,Yale University,2009 NCAA DI - Men,1986-08-13,2
+David Walters,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.92,41.92,0 days 00:00:41.920000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1987-09-27,2
+Gideon Louw,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.95,41.95,0 days 00:00:41.950000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1987-09-04,2
+Austin Staab,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.06,42.06,0 days 00:00:42.060000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-11-21,2
+Nicolas Nilo,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.08,42.08,0 days 00:00:42.080000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-08-04,2
+Jakob Andkjaer,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.18,42.18,0 days 00:00:42.180000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1985-05-07,2
+Alexander Coville,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.37,42.37,0 days 00:00:42.370000,2009-03-07,2009.0,Stanford University,2009 PAC 10 Champs men,1988-07-17,2
+Lars Persson,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.40,42.4,0 days 00:00:42.400000,2008-11-19,2009.0,University of Tennessee,Tennessee Invitational,1983-12-15,2
+Jakob Allen,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.45,42.45,0 days 00:00:42.450000,2009-03-04,2009.0,Stanford University,2009 PAC 10 Champs men,1989-05-18,2
+Graeme Moore,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.57,42.57,0 days 00:00:42.570000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1989-01-28,2
+Peter Jameson,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.63,42.63,0 days 00:00:42.630000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1987-06-07,2
+Brett Fraser,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.64,42.64,0 days 00:00:42.640000,2009-02-21,2009.0,University of Florida,2009 SEC Championships,1989-08-28,2
+Eric McGinnis,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.67,42.67,0 days 00:00:42.670000,2009-02-18,2009.0,University of Kentucky,2009 SEC Championships,1987-11-29,2
+Dana Vollmer,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:41.53,101.53,0 days 00:01:41.530000,2009-02-25,2009.0,University of California Berkeley,2009 PAC 10 Champs women,1987-11-13,3
+Allison Schmitt,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.90,102.9,0 days 00:01:42.900000,2009-02-18,2009.0,University of Georgia,2009 SEC Championships,1990-06-07,3
+Morgan Scroggy,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.90,102.9,0 days 00:01:42.900000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1988-08-02,3
+Ava Ohlgren,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.99,102.99,0 days 00:01:42.990000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1988-01-31,3
+Sara Isakovic,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.00,103.0,0 days 00:01:43,2009-02-25,2009.0,University of California Berkeley,2009 PAC 10 Champs women,1988-06-09,3
+Kate Dwelley,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.14,103.14,0 days 00:01:43.140000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1989-02-10,3
+Caitlin Geary,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.17,103.17,0 days 00:01:43.170000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1989-06-19,3
+Karlee Carver,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.21,103.21,0 days 00:01:43.210000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-01-24,3
+Christine Marshall,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.85,103.85,0 days 00:01:43.850000,2009-03-19,2009.0,Texas A&M University,2009 NCAA DI - Women,1986-08-11,3
+Julia Smit,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.88,103.88,0 days 00:01:43.880000,2009-02-25,2009.0,Stanford University,2009 PAC 10 Champs women,1987-12-14,3
+Chelsea Nauta,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.00,104.0,0 days 00:01:44,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1988-10-14,3
+Justine Schluntz,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.00,104.0,0 days 00:01:44,2008-12-04,2009.0,University of Arizona,UT Invite,1987-05-28,3
+Jenny Shaughnessy,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.73,104.73,0 days 00:01:44.730000,2009-02-18,2009.0,University of Minnesota,2009 B1G 10 Champs women,1987-01-15,3
+Leone Vorster,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.73,104.73,0 days 00:01:44.730000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1988-02-05,3
+Meredith McCarthy,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.80,104.8,0 days 00:01:44.800000,2009-03-19,2009.0,University of Minnesota,2009 NCAA DI - Women,1987-08-09,3
+Liv Jensen,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.81,104.81,0 days 00:01:44.810000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1990-04-24,3
+Shaune Fraser,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.70,91.7,0 days 00:01:31.700000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1988-03-29,3
+David Walters,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.72,91.72,0 days 00:01:31.720000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1987-09-27,3
+Richard Berens,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.01,92.01,0 days 00:01:32.010000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1988-04-21,3
+Jean Basson,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.48,92.48,0 days 00:01:32.480000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-10-05,3
+Austin Staab,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.71,92.71,0 days 00:01:32.710000,2009-03-04,2009.0,Stanford University,2009 PAC 10 Champs men,1988-11-21,3
+Lars Persson,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.79,92.79,0 days 00:01:32.790000,2008-11-19,2009.0,University of Tennessee,Tennessee Invitational,1983-12-15,3
+Matthew McLean,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.80,92.8,0 days 00:01:32.800000,2009-02-25,2009.0,University of Virginia,2009 ACC Champs men,1988-05-13,3
+Nathan Adrian,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.98,92.98,0 days 00:01:32.980000,2009-03-04,2009.0,University of California Berkeley,2009 PAC 10 Champs men,1988-12-07,3
+Douglas Robison,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.05,93.05,0 days 00:01:33.050000,2009-02-25,2009.0,University of Virginia,2009 ACC Champs men,1988-12-05,3
+Scott Clary,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.10,93.1,0 days 00:01:33.100000,2009-03-27,2009.0,University of Michigan,2009 NCAA DI - Men,1989-03-12,3
+Scott Jostes,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.21,93.21,0 days 00:01:33.210000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1989-06-07,3
+Blake Worsley,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.40,93.4,0 days 00:01:33.400000,2009-02-18,2009.0,University of Denver,2009 Sun Belt Champs,1987-11-07,3
+Nicolas Nilo,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.45,93.45,0 days 00:01:33.450000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-08-04,3
+Douglas Lennox,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.50,93.5,0 days 00:01:33.500000,2009-03-06,2009.0,Princeton University,2009 Ivy League Champs men,1987-04-10,3
+Brett Fraser,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.62,93.62,0 days 00:01:33.620000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1989-08-28,3
+Peter Jameson,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.64,93.64,0 days 00:01:33.640000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1987-06-07,3
+Allison Schmitt,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.17,275.17,0 days 00:04:35.170000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1990-06-07,4
+Wendy Trott,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.80,275.8,0 days 00:04:35.800000,2008-12-05,2009.0,University of Georgia,2008 GA Georgia Fall Invite,1990-02-14,4
+Chelsea Nauta,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:35.86,275.86,0 days 00:04:35.860000,2008-12-05,2009.0,University of Georgia,Georgia Fall Invite,1988-10-14,4
+Jessica White,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.61,276.61,0 days 00:04:36.610000,2008-11-21,2009.0,Indiana University,2008 Hoosierland Open Invitati,1990-09-12,4
+Margaret Bird,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.63,276.63,0 days 00:04:36.630000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1988-07-24,4
+Sara Isakovic,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.79,276.79,0 days 00:04:36.790000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1988-06-09,4
+Alyssa Anderson,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.87,277.87,0 days 00:04:37.870000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1990-09-30,4
+Alicia Aemisegger,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.02,278.02,0 days 00:04:38.020000,2009-03-19,2009.0,Princeton University,2009 NCAA DI - Women,1987-11-01,4
+Katinka Hosszu,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.52,278.52,0 days 00:04:38.520000,2009-03-19,2009.0,University of Southern California,2009 NCAA DI - Women,1989-05-03,4
+Whitney Sprague,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.72,278.72,0 days 00:04:38.720000,2009-03-19,2009.0,University of North Carolina Chapel Hill,2009 NCAA DI - Women,1986-12-16,4
+Yuen Kobayashi,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.91,278.91,0 days 00:04:38.910000,2009-03-19,2009.0,University of Minnesota,2009 NCAA DI - Women,1986-05-16,4
+Lauren Boyle,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.99,278.99,0 days 00:04:38.990000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1987-12-14,4
+Katura Harvey,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.12,279.12,0 days 00:04:39.120000,2009-02-18,2009.0,University of North Carolina Chapel Hill,2009 ACC Champs women,1989-02-25,4
+Laurabeth Guenthner,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.16,279.16,0 days 00:04:39.160000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1987-02-25,4
+Leone Vorster,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.83,279.83,0 days 00:04:39.830000,2008-12-04,2009.0,University of Arizona,UT Invite,1988-02-05,4
+Ashley Wise,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.85,279.85,0 days 00:04:39.850000,2009-02-18,2009.0,University of Minnesota,2009 B1G 10 Champs women,1990-10-21,4
+Jean Basson,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:08.92,248.92,0 days 00:04:08.920000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-10-05,4
+Matthew McLean,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.00,250.0,0 days 00:04:10,2009-02-25,2009.0,University of Virginia,2009 ACC Champs men,1988-05-13,4
+Troy Prinsloo,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.49,252.49,0 days 00:04:12.490000,2009-03-26,2009.0,University of Georgia,2009 NCAA DI - Men,1985-11-16,4
+Matthew Patton,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:12.80,252.8,0 days 00:04:12.800000,2008-12-04,2009.0,University of Michigan,2008 Winter Nationals,1987-04-03,4
+Jackson Wilcox,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.50,253.5,0 days 00:04:13.500000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1989-08-16,4
+Scott Spansail,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.79,253.79,0 days 00:04:13.790000,2009-03-26,2009.0,University of Washington,2009 NCAA DI - Men,1987-01-26,4
+Blake Worsley,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.81,253.81,0 days 00:04:13.810000,2009-03-26,2009.0,University of Denver,2009 NCAA DI - Men,1987-11-07,4
+John Snawerdt,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.26,254.26,0 days 00:04:14.260000,2009-03-26,2009.0,University of Virginia,2009 NCAA DI - Men,1989-04-11,4
+Kyle Young,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.60,254.6,0 days 00:04:14.600000,2009-02-25,2009.0,Florida State University,2009 ACC Champs men,1986-06-09,4
+Scott Clary,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.66,254.66,0 days 00:04:14.660000,2008-12-04,2009.0,University of Michigan,2008 Winter Nationals,1989-03-12,4
+Balazs Gercsak,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.67,254.67,0 days 00:04:14.670000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1986-10-14,4
+David Mosko,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.67,254.67,0 days 00:04:14.670000,2009-03-04,2009.0,Stanford University,2009 PAC 10 Champs men,1988-12-22,4
+Robert Bollier,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.75,254.75,0 days 00:04:14.750000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1989-08-22,4
+Taylor Smith,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.19,255.19,0 days 00:04:15.190000,2009-02-25,2009.0,University of Virginia,2009 ACC Champs men,1988-08-28,4
+Mark Randall,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.64,255.64,0 days 00:04:15.640000,2009-02-18,2009.0,University of Alabama,2009 SEC Championships,1986-01-21,4
+Chad La Tourette,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.84,255.84,0 days 00:04:15.840000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-10-07,4
+Julia Smit,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:37.35,577.35,0 days 00:09:37.350000,2009-02-14,2009.0,Stanford University,Cal vs. Stanford 2-14-09,1987-12-14,5
+Ashley Twichell,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:37.48,577.48,0 days 00:09:37.480000,2009-02-18,2009.0,Duke University,2009 ACC Champs women,1989-06-16,5
+Wendy Trott,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:38.80,578.8,0 days 00:09:38.800000,2009-01-10,2009.0,University of Georgia,UGA vs Texas,1990-02-14,5
+Kelsey Ditto,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:39.05,579.05,0 days 00:09:39.050000,2009-01-10,2009.0,University of Georgia,UGA vs Texas,1989-04-21,5
+Alicia Aemisegger,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:40.09,580.09,0 days 00:09:40.090000,2009-01-30,2009.0,Princeton University,Women's Harvard-Yale-Princeton,1987-11-01,5
+Kristen Beales,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:41.96,581.96,0 days 00:09:41.960000,2009-01-30,2009.0,University of Florida,Florida vs.Tennessee (Women's),1988-03-04,5
+Lauren Boyle,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.93,582.93,0 days 00:09:42.930000,2009-02-14,2009.0,University of California Berkeley,Cal vs. Stanford 2-14-09,1987-12-14,5
+Alexandra Clarke,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.09,583.09,0 days 00:09:43.090000,2009-02-26,2009.0,Harvard University,2009 IVY League Champs women,1988-08-17,5
+Katinka Hosszu,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.61,583.61,0 days 00:09:43.610000,2009-01-30,2009.0,University of Southern California,Cal vs. USC 1-30-09,1989-05-03,5
+Casey Radcliff,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.91,583.91,0 days 00:09:43.910000,2009-03-05,2009.0,Texas A&M University,2009 GU AGS Sectional Champs,1989-03-08,5
+Alyssa Anderson,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.65,584.65,0 days 00:09:44.650000,2008-11-14,2009.0,University of Arizona,2008 OB USC-Arizona-Arizona St,1990-09-30,5
+Laurabeth Guenthner,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:44.78,584.78,0 days 00:09:44.780000,2009-01-30,2009.0,University of Florida,Florida vs.Tennessee (Women's),1987-02-25,5
+Aleksa Akerfelds,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.98,585.98,0 days 00:09:45.980000,2009-01-24,2009.0,University of Tennessee,Tennessee vs. Georgia,1989-08-03,5
+Meredith Budner,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.49,586.49,0 days 00:09:46.490000,2009-03-19,2009.0,Towson University,2009 NCAA DI - Women,1989-03-31,5
+Ashley Wise,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.74,586.74,0 days 00:09:46.740000,2008-11-14,2009.0,University of Minnesota,2008 Pro Swim - Minnesota ,1990-10-21,5
+Charetzeni Escobar,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:46.79,586.79,0 days 00:09:46.790000,2009-01-10,2009.0,University of Texas,UGA vs Texas,1987-12-13,5
+Matthew McLean,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:46.50,526.5,0 days 00:08:46.500000,2009-02-25,2009.0,University of Virginia,2009 ACC Champs men,1988-05-13,5
+Alexander Meyer,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:57.28,537.28,0 days 00:08:57.280000,2009-03-05,2009.0,Harvard University,2009 Ivy League Champs men,1988-07-05,5
+Chad La Tourette,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:59.35,539.35,0 days 00:08:59.350000,2009-01-24,2009.0,Stanford University,Arizona vs Stanford,1988-10-07,5
+Eric Lynch,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:59.82,539.82,0 days 00:08:59.820000,2009-03-05,2009.0,Harvard University,2009 Ivy League Champs men,1987-08-31,5
+Blake Lewkowitz,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.46,541.46,0 days 00:09:01.460000,2009-03-05,2009.0,Harvard University,2009 Ivy League Champs men,1989-04-28,5
+Alexander Arbios,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.78,541.78,0 days 00:09:01.780000,2009-02-25,2009.0,Davis University of California,2009 Big West Champs,1986-12-17,5
+Troy Prinsloo,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.86,541.86,0 days 00:09:01.860000,2008-10-15,2009.0,University of Georgia,UNC VS GEORGIA,1985-11-16,5
+Travis McNamara,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:01.91,541.91,0 days 00:09:01.910000,2009-03-05,2009.0,Princeton University,2009 Ivy League Champs men,1990-01-05,5
+Patrick Biggs,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:02.21,542.21,0 days 00:09:02.210000,2009-03-05,2009.0,Princeton University,2009 Ivy League Champs men,1989-04-07,5
+Josef Kinderwater,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:03.88,543.88,0 days 00:09:03.880000,2009-01-24,2009.0,University of North Carolina Chapel Hill,UVA vs UNC Men,1989-03-31,5
+Mark Randall,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:03.88,543.88,0 days 00:09:03.880000,2009-01-31,2009.0,University of Alabama,ALABAMA v UGA v USC,1986-01-21,5
+Mark deSwardt,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.64,545.64,0 days 00:09:05.640000,2009-01-24,2009.0,Cleveland State University,Cleveland Statev WSU & YSU,1989-09-04,5
+Cody Kauffman,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.79,545.79,0 days 00:09:05.790000,2009-01-30,2009.0,University of Florida,Florida vs. Tennessee (Men),1987-07-21,5
+Matthew Stewart,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.80,545.8,0 days 00:09:05.800000,2009-02-07,2009.0,Purdue University,Indiana/Purdue Men's Dual Meet,1989-02-12,5
+Michael Zoldos,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.86,545.86,0 days 00:09:05.860000,2009-01-24,2009.0,Stanford University,Arizona vs Stanford,1989-12-26,5
+Brent Hitchcock,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.97,545.97,0 days 00:09:05.970000,2009-01-30,2009.0,Ohio State University,Ohio St. vs Mich vs Northweste,1989-12-29,5
+Wendy Trott,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:45.49,945.49,0 days 00:15:45.490000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1990-02-14,6
+Whitney Sprague,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:46.57,946.57,0 days 00:15:46.570000,2009-03-19,2009.0,University of North Carolina Chapel Hill,2009 NCAA DI - Women,1986-12-16,6
+Alicia Aemisegger,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:50.60,950.6,0 days 00:15:50.600000,2009-03-19,2009.0,Princeton University,2009 NCAA DI - Women,1987-11-01,6
+Margaret Bird,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:52.35,952.35,0 days 00:15:52.350000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1988-07-24,6
+Chelsea Nauta,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:55.37,955.37,0 days 00:15:55.370000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1988-10-14,6
+Ashley Wise,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:55.78,955.78,0 days 00:15:55.780000,2009-02-18,2009.0,University of Minnesota,2009 B1G 10 Champs women,1990-10-21,6
+Laurabeth Guenthner,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:56.44,956.44,0 days 00:15:56.440000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1987-02-25,6
+Allison Kay,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:56.50,956.5,0 days 00:15:56.500000,2009-03-19,2009.0,Indiana University,2009 NCAA DI - Women,1987-08-08,6
+Ashley Twichell,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:56.50,956.5,0 days 00:15:56.500000,2009-02-18,2009.0,Duke University,2009 ACC Champs women,1989-06-16,6
+Katura Harvey,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:56.77,956.77,0 days 00:15:56.770000,2009-03-19,2009.0,University of North Carolina Chapel Hill,2009 NCAA DI - Women,1989-02-25,6
+Lauren Boyle,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:56.93,956.93,0 days 00:15:56.930000,2009-02-25,2009.0,University of California Berkeley,2009 PAC 10 Champs women,1987-12-14,6
+Kelsey Ditto,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:58.15,958.15,0 days 00:15:58.150000,2008-12-05,2009.0,University of Georgia,2008 GA Georgia Fall Invite,1989-04-21,6
+Amanda Smith,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:00.02,960.02,0 days 00:16:00.020000,2009-02-18,2009.0,Indiana University,2009 B1G 10 Champs women,1988-09-29,6
+Jessica White,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:02.98,962.98,0 days 00:16:02.980000,2009-03-19,2009.0,Indiana University,2009 NCAA DI - Women,1990-09-12,6
+Aleksa Akerfelds,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:03.34,963.34,0 days 00:16:03.340000,2009-02-18,2009.0,University of Tennessee,2009 SEC Championships,1989-08-03,6
+Meredith Budner,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:06.82,966.82,0 days 00:16:06.820000,2009-03-19,2009.0,Towson University,2009 NCAA DI - Women,1989-03-31,6
+Troy Prinsloo,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:30.91,870.91,0 days 00:14:30.910000,2009-03-26,2009.0,University of Georgia,2009 NCAA DI - Men,1985-11-16,6
+Chad La Tourette,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:33.55,873.55,0 days 00:14:33.550000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-10-07,6
+Scott Spansail,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:34.95,874.95,0 days 00:14:34.950000,2009-03-26,2009.0,University of Washington,2009 NCAA DI - Men,1987-01-26,6
+Matthew McLean,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:35.12,875.12,0 days 00:14:35.120000,2009-02-25,2009.0,University of Virginia,2009 ACC Champs men,1988-05-13,6
+Jackson Wilcox,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:41.27,881.27,0 days 00:14:41.270000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1989-08-16,6
+Matthew Patton,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:44.13,884.13,0 days 00:14:44.130000,2009-03-26,2009.0,University of Michigan,2009 NCAA DI - Men,1987-04-03,6
+Taylor Smith,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:45.00,885.0,0 days 00:14:45,2009-02-25,2009.0,University of Virginia,2009 ACC Champs men,1988-08-28,6
+David Mosko,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:45.30,885.3,0 days 00:14:45.300000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-12-22,6
+Josef Kinderwater,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:46.06,886.06,0 days 00:14:46.060000,2009-03-26,2009.0,University of North Carolina Chapel Hill,2009 NCAA DI - Men,1989-03-31,6
+Kyle Young,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:46.68,886.68,0 days 00:14:46.680000,2009-02-25,2009.0,Florida State University,2009 ACC Champs men,1986-06-09,6
+Mark Randall,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:48.39,888.39,0 days 00:14:48.390000,2009-03-26,2009.0,University of Alabama,2009 NCAA DI - Men,1986-01-21,6
+Charles Peterson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:49.78,889.78,0 days 00:14:49.780000,2009-03-26,2009.0,University of North Carolina Chapel Hill,2009 NCAA DI - Men,1987-12-03,6
+Trevor Scheid,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:49.88,889.88,0 days 00:14:49.880000,2009-03-04,2009.0,Stanford University,2009 PAC 10 Champs men,1989-10-18,6
+Christopher Crete,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:50.29,890.29,0 days 00:14:50.290000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1988-04-12,6
+Jean Basson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:52.02,892.02,0 days 00:14:52.020000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-10-05,6
+Nelson Maitland,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:53.08,893.08,0 days 00:14:53.080000,2009-02-25,2009.0,Las Vegas (W) University of Nevada,2009 MW Champs,1988-11-16,6
+Gemma Spofforth,100 Backstroke SCY Female,100,Backstroke,SCY,Female,50.46,50.46,0 days 00:00:50.460000,2009-02-20,2009.0,University of Florida,2009 SEC Championships,1987-11-17,12
+Ana Agy,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.13,51.13,0 days 00:00:51.130000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1988-03-31,12
+Jennifer Hanselmann,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.34,51.34,0 days 00:00:51.340000,2009-02-18,2009.0,University of Tennessee,2009 SEC Championships,1990-01-12,12
+Rachel Goh,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.46,51.46,0 days 00:00:51.460000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1986-04-14,12
+Kateryna Zubkova,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.52,51.52,0 days 00:00:51.520000,2009-02-18,2009.0,Indiana University,2009 B1G 10 Champs women,1988-07-14,12
+Mei Christensen,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.62,51.62,0 days 00:00:51.620000,2009-03-19,2009.0,University of Virginia,2009 NCAA DI - Women,1988-08-08,12
+Margo McCawley,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.63,51.63,0 days 00:00:51.630000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1986-11-09,12
+Hailey Degolia,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.69,51.69,0 days 00:00:51.690000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1987-06-04,12
+Lauren Rogers,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.69,51.69,0 days 00:00:51.690000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1987-06-20,12
+Kathleen Hersey,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.78,51.78,0 days 00:00:51.780000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1990-02-21,12
+Kristen Lahey,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.11,52.11,0 days 00:00:52.110000,2009-03-19,2009.0,University of Southern California,2009 NCAA DI - Women,1987-08-02,12
+Aleksandra Putra,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.24,52.24,0 days 00:00:52.240000,2008-12-05,2009.0,University of Georgia,Georgia Fall Invite,1986-09-20,12
+Margaret Meyer,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.41,52.41,0 days 00:00:52.410000,2009-02-18,2009.0,University of Wisconsin Madison,2009 B1G 10 Champs women,1989-05-26,12
+Erin Campbell,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.47,52.47,0 days 00:00:52.470000,2009-03-19,2009.0,University of Washington,2009 NCAA DI - Women,1988-03-08,12
+Alana Dillette,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.64,52.64,0 days 00:00:52.640000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1987-12-02,12
+Kristen Shickora,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.66,52.66,0 days 00:00:52.660000,2008-12-05,2009.0,University of Georgia,Georgia Fall Invite,1990-04-12,12
+Pascal Wollach,100 Backstroke SCY Male,100,Backstroke,SCY,Male,44.90,44.9,0 days 00:00:44.900000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1987-10-16,12
+Kohlton Norys,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.13,45.13,0 days 00:00:45.130000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1989-07-07,12
+Wendell Taylor,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.17,45.17,0 days 00:00:45.170000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1987-08-06,12
+David Russell,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.30,45.3,0 days 00:00:45.300000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1986-09-18,12
+Eugene Godsoe,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.49,45.49,0 days 00:00:45.490000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-01-20,12
+Jared White,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.51,45.51,0 days 00:00:45.510000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1989-02-07,12
+Omar Pinzon,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.65,45.65,0 days 00:00:45.650000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1989-06-17,12
+Rexford Tullius,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.82,45.82,0 days 00:00:45.820000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1987-03-10,12
+John Tapp,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.07,46.07,0 days 00:00:46.070000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1988-08-06,12
+Alexander Righi,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.32,46.32,0 days 00:00:46.320000,2009-03-05,2009.0,Yale University,2009 Ivy League Champs men,1986-08-13,12
+Guy Barnea,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.33,46.33,0 days 00:00:46.330000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1987-09-09,12
+Scott Jostes,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.35,46.35,0 days 00:00:46.350000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1989-06-07,12
+Tommy Wyher,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.41,46.41,0 days 00:00:46.410000,2009-02-25,2009.0,University of North Carolina Chapel Hill,2009 ACC Champs men,1988-10-17,12
+Pontus Renholm,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.45,46.45,0 days 00:00:46.450000,2009-03-26,2009.0,Southern Methodist University,2009 NCAA DI - Men,1986-03-16,12
+Eric Ress,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.46,46.46,0 days 00:00:46.460000,2009-03-26,2009.0,Indiana University,2009 NCAA DI - Men,1990-11-08,12
+Alon Mandel,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.47,46.47,0 days 00:00:46.470000,2009-02-26,2009.0,University of Michigan,2009 B1G 10 Champs Men,1988-08-23,12
+Gemma Spofforth,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:48.34,108.34,0 days 00:01:48.340000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1987-11-17,13
+Erin Campbell,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.27,111.27,0 days 00:01:51.270000,2009-02-25,2009.0,University of Washington,2009 PAC 10 Champs women,1988-03-08,13
+Kateryna Zubkova,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.45,111.45,0 days 00:01:51.450000,2009-02-18,2009.0,Indiana University,2009 B1G 10 Champs women,1988-07-14,13
+Aleksandra Putra,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.57,111.57,0 days 00:01:51.570000,2008-12-05,2009.0,University of Georgia,Georgia Fall Invite,1986-09-20,13
+Teresa Crippen,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.59,111.59,0 days 00:01:51.590000,2009-03-19,2009.0,University of Florida,2009 NCAA DI - Women,1990-04-12,13
+Stephanie Proud,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.81,111.81,0 days 00:01:51.810000,2009-03-19,2009.0,University of Florida,2009 NCAA DI - Women,1988-08-29,13
+Ana Agy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.99,111.99,0 days 00:01:51.990000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1988-03-31,13
+Mei Christensen,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.22,112.22,0 days 00:01:52.220000,2009-02-18,2009.0,University of Virginia,2009 ACC Champs women,1988-08-08,13
+Jennifer Forster,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.50,112.5,0 days 00:01:52.500000,2008-12-04,2009.0,University of Arizona,UT Invite,1988-04-17,13
+Kathleen Hersey,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.58,112.58,0 days 00:01:52.580000,2009-02-25,2009.0,University of Texas,2009 Big 12 Champs,1990-02-21,13
+Dina Hegazy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.27,113.27,0 days 00:01:53.270000,2009-02-25,2009.0,University of Southern California,2009 PAC 10 Champs women,1989-03-21,13
+Katharine Riefenstahl,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.29,113.29,0 days 00:01:53.290000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-06-26,13
+Hannah Ross,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.36,113.36,0 days 00:01:53.360000,2009-03-19,2009.0,University of Washington,2009 NCAA DI - Women,1990-01-28,13
+Julianne McGill,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.43,113.43,0 days 00:01:53.430000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1987-11-10,13
+Melissa Marik,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.69,113.69,0 days 00:01:53.690000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1988-08-04,13
+Laura Wadden,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.72,113.72,0 days 00:01:53.720000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1987-02-03,13
+Scott Clary,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:37.58,97.58,0 days 00:01:37.580000,2009-03-26,2009.0,University of Michigan,2009 NCAA DI - Men,1989-03-12,13
+John Tapp,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.67,98.67,0 days 00:01:38.670000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1988-08-06,13
+Omar Pinzon,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.50,99.5,0 days 00:01:39.500000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1989-06-17,13
+Pascal Wollach,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.65,99.65,0 days 00:01:39.650000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1987-10-16,13
+Rexford Tullius,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:39.88,99.88,0 days 00:01:39.880000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1987-03-10,13
+Eugene Godsoe,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.08,100.08,0 days 00:01:40.080000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-01-20,13
+Jared White,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.21,100.21,0 days 00:01:40.210000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1989-02-07,13
+Kohlton Norys,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.24,100.24,0 days 00:01:40.240000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1989-07-07,13
+David Russell,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.36,100.36,0 days 00:01:40.360000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1986-09-18,13
+Wendell Taylor,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.47,100.47,0 days 00:01:40.470000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1987-08-06,13
+Max Murphy,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.53,100.53,0 days 00:01:40.530000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1990-05-09,13
+Patrick Schirk,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.63,100.63,0 days 00:01:40.630000,2009-03-26,2009.0,Pennsylvania State University,2009 NCAA DI - Men,1987-07-25,13
+Andrew Hodgson,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.11,101.11,0 days 00:01:41.110000,2009-03-26,2009.0,Florida State University,2009 NCAA DI - Men,1987-05-19,13
+Anders Jensen,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.27,101.27,0 days 00:01:41.270000,2009-03-26,2009.0,Oakland University,2009 NCAA DI - Men,1987-09-16,13
+Eric Ress,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.35,101.35,0 days 00:01:41.350000,2009-02-26,2009.0,Indiana University,2009 B1G 10 Champs Men,1990-11-08,13
+Neil Caskey,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.46,101.46,0 days 00:01:41.460000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1989-05-01,13
+Rebecca Soni,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.10,58.1,0 days 00:00:58.100000,2009-02-25,2009.0,University of Southern California,2009 PAC 10 Champs women,1987-03-18,15
+Ashley Wanland,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.14,59.14,0 days 00:00:59.140000,2009-03-19,2009.0,University of Wisconsin Madison,2009 NCAA DI - Women,1990-03-05,15
+Ann Grevers,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.18,59.18,0 days 00:00:59.180000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1987-08-21,15
+Mhyria Miller,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.18,59.18,0 days 00:00:59.180000,2008-12-05,2009.0,University of Georgia,Georgia Fall Invite,1987-04-27,15
+Michelle McKeehan,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.34,59.34,0 days 00:00:59.340000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1989-11-09,15
+Sarah Stockwell-Gregson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.40,59.4,0 days 00:00:59.400000,2009-02-18,2009.0,Indiana University,2009 B1G 10 Champs women,1986-12-19,15
+Jamie Saffer,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.42,59.42,0 days 00:00:59.420000,2009-01-24,2009.0,University of Tennessee,Tennessee vs. Georgia,1988-03-14,15
+Alia Atkinson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.43,59.43,0 days 00:00:59.430000,2009-03-19,2009.0,Texas A&M University,2009 NCAA DI - Women,1988-12-11,15
+Samantha Maxwell,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.44,59.44,0 days 00:00:59.440000,2009-03-19,2009.0,University of Notre Dame,2009 NCAA DI - Women,1989-05-05,15
+Colleen Haase,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.67,59.67,0 days 00:00:59.670000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1989-01-10,15
+Genevieve Patterson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.77,59.77,0 days 00:00:59.770000,2009-03-19,2009.0,University of Washington,2009 NCAA DI - Women,1986-04-12,15
+Ashley Wolter,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.78,59.78,0 days 00:00:59.780000,2009-02-25,2009.0,George Mason University,2009 CAA Champs,1990-08-24,15
+Layne Brodie,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:00.02,60.02,0 days 00:01:00.020000,2009-02-18,2009.0,University of North Carolina Chapel Hill,2009 ACC Champs women,1989-11-27,15
+Abigail Cooper,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:00.07,60.07,0 days 00:01:00.070000,2009-02-18,2009.0,Indiana University,2009 B1G 10 Champs women,1987-07-18,15
+Kathryn Houston,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:00.07,60.07,0 days 00:01:00.070000,2009-03-19,2009.0,University of Southern California,2009 NCAA DI - Women,1987-07-10,15
+Kelly McNichols,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:00.08,60.08,0 days 00:01:00.080000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1987-12-21,15
+Damir Dugonjic,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.86,50.86,0 days 00:00:50.860000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1988-02-21,15
+John Criste,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.75,51.75,0 days 00:00:51.750000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1989-01-17,15
+George Klein,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.80,51.8,0 days 00:00:51.800000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1988-11-29,15
+Paul Kornfeld,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.05,52.05,0 days 00:00:52.050000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1987-04-19,15
+Sean Mahoney,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.07,52.07,0 days 00:00:52.070000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1988-08-12,15
+Michael Silva,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.09,52.09,0 days 00:00:52.090000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1987-11-21,15
+Marcus Titus,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.21,52.21,0 days 00:00:52.210000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1986-05-20,15
+Martti Aljand,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.40,52.4,0 days 00:00:52.400000,2009-03-04,2009.0,University of California Berkeley,2009 PAC 10 Champs men,1987-11-22,15
+Robert Lovelace,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.50,52.5,0 days 00:00:52.500000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1989-09-11,15
+Nolan Koon,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.56,52.56,0 days 00:00:52.560000,2009-03-04,2009.0,University of California Berkeley,2009 PAC 10 Champs men,1990-05-03,15
+Kevin Bartell,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.81,52.81,0 days 00:00:52.810000,2009-03-04,2009.0,University of Southern California,2009 OB MENS PAC10 INVITATIONA,1985-02-04,15
+Michael Malul,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.86,52.86,0 days 00:00:52.860000,2009-02-25,2009.0,Georgia Institute of Technology,2009 ACC Champs men,1985-07-13,15
+Barry Murphy,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.86,52.86,0 days 00:00:52.860000,2009-02-18,2009.0,University of Tennessee,2009 SEC Championships,1985-10-05,15
+Jakub Dobies,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.94,52.94,0 days 00:00:52.940000,2009-02-25,2009.0,Cleveland State University,2009 Horizon League Champs,1987-01-09,15
+Agustin Magruder,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.97,52.97,0 days 00:00:52.970000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1985-11-28,15
+Colin Lee-To,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,53.17,53.17,0 days 00:00:53.170000,2009-02-26,2009.0,University of Minnesota,2009 B1G 10 Champs Men,1987-04-23,15
+Rebecca Soni,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:04.75,124.75,0 days 00:02:04.750000,2009-02-25,2009.0,University of Southern California,2009 PAC 10 Champs women,1987-03-18,16
+Alia Atkinson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.99,126.99,0 days 00:02:06.990000,2009-03-19,2009.0,Texas A&M University,2009 NCAA DI - Women,1988-12-11,16
+Ashley Wanland,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.47,127.47,0 days 00:02:07.470000,2009-03-19,2009.0,University of Wisconsin Madison,2009 NCAA DI - Women,1990-03-05,16
+Yi-ting Siow,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.41,128.41,0 days 00:02:08.410000,2009-03-19,2009.0,University of Arkansas,2009 NCAA DI - Women,1985-12-11,16
+Katlin Freeman,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.50,128.5,0 days 00:02:08.500000,2009-03-19,2009.0,UC Santa Barbara (M),2009 NCAA DI - Women,1987-05-16,16
+Mhyria Miller,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.61,128.61,0 days 00:02:08.610000,2008-12-05,2009.0,University of Georgia,2008 GA Georgia Fall Invite,1987-04-27,16
+Colleen Haase,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.63,128.63,0 days 00:02:08.630000,2008-12-05,2009.0,University of Georgia,Georgia Fall Invite,1989-01-10,16
+Julie Stupp,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.74,128.74,0 days 00:02:08.740000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1986-03-12,16
+Ann Grevers,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.94,128.94,0 days 00:02:08.940000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1987-08-21,16
+Micah Sumrall,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.99,128.99,0 days 00:02:08.990000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1990-07-20,16
+Heidi Kucera,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.41,129.41,0 days 00:02:09.410000,2009-02-25,2009.0,Davis University of California,2009 Big West Champs,1988-09-11,16
+Alexandra Ellis,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.51,129.51,0 days 00:02:09.510000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1988-09-09,16
+Michelle McKeehan,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.55,129.55,0 days 00:02:09.550000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1989-11-09,16
+Samantha Maxwell,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.62,129.62,0 days 00:02:09.620000,2009-03-19,2009.0,University of Notre Dame,2009 NCAA DI - Women,1989-05-05,16
+Elizabeth Amuchastegui,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.84,129.84,0 days 00:02:09.840000,2009-02-14,2009.0,Stanford University,Cal vs. Stanford 2-14-09,1989-01-11,16
+Sarah Stockwell-Gregson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.84,129.84,0 days 00:02:09.840000,2009-02-18,2009.0,Indiana University,2009 B1G 10 Champs women,1986-12-19,16
+Sean Mahoney,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:51.96,111.96,0 days 00:01:51.960000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1988-08-12,16
+Paul Kornfeld,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.55,112.55,0 days 00:01:52.550000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1987-04-19,16
+George Klein,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.96,112.96,0 days 00:01:52.960000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1988-11-29,16
+John Criste,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.98,112.98,0 days 00:01:52.980000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1989-01-17,16
+Martti Aljand,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.68,113.68,0 days 00:01:53.680000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1987-11-22,16
+Nolan Koon,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.78,113.78,0 days 00:01:53.780000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1990-05-03,16
+Christopher Burckle,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.89,113.89,0 days 00:01:53.890000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1988-02-23,16
+Ryan Hurley,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.93,113.93,0 days 00:01:53.930000,2009-03-26,2009.0,University of Virginia,2009 NCAA DI - Men,1985-10-15,16
+Agustin Magruder,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.97,113.97,0 days 00:01:53.970000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1985-11-28,16
+Jack Brown,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.05,114.05,0 days 00:01:54.050000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-09-22,16
+Damir Dugonjic,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.07,114.07,0 days 00:01:54.070000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1988-02-21,16
+Robert Lovelace,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.63,114.63,0 days 00:01:54.630000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1989-09-11,16
+Scott Weltz,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.91,114.91,0 days 00:01:54.910000,2009-02-25,2009.0,Davis University of California,2009 Big West Champs,1987-03-19,16
+Marcus Titus,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:55.11,115.11,0 days 00:01:55.110000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1986-05-20,16
+Sam Pelkey,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:55.19,115.19,0 days 00:01:55.190000,2009-02-26,2009.0,Ohio State University,2009 B1G 10 Champs Men,1988-04-12,16
+Carlos Almeida,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:55.21,115.21,0 days 00:01:55.210000,2009-02-18,2009.0,University of Louisville,2009 Big East Champs,1988-08-04,16
+Elaine Breeden,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.87,50.87,0 days 00:00:50.870000,2009-02-25,2009.0,Stanford University,2009 PAC 10 Champs women,1988-11-18,18
+Dana Vollmer,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.94,50.94,0 days 00:00:50.940000,2009-02-25,2009.0,University of California Berkeley,2009 PAC 10 Champs women,1987-11-13,18
+Lara Jackson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.12,51.12,0 days 00:00:51.120000,2008-12-04,2009.0,University of Arizona,UT Invite,1986-10-14,18
+Amanda Sims,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.12,51.12,0 days 00:00:51.120000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1989-03-02,18
+Hannah Wilson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.24,51.24,0 days 00:00:51.240000,2009-02-25,2009.0,University of California Berkeley,2009 PAC 10 Champs women,1989-03-10,18
+Triin Aljand,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.32,51.32,0 days 00:00:51.320000,2008-11-21,2009.0,Texas A&M University,Art Adamson Invitational,1985-07-08,18
+Saori Haruguchi,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.33,51.33,0 days 00:00:51.330000,2009-02-25,2009.0,Oregon State University,2009 PAC 10 Champs women,1987-01-20,18
+Kathleen Hersey,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.40,51.4,0 days 00:00:51.400000,2008-12-04,2009.0,University of Texas,UT Invite,1990-02-21,18
+Jemma Lowe,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.65,51.65,0 days 00:00:51.650000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1990-03-31,18
+Ana Agy,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.67,51.67,0 days 00:00:51.670000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1988-03-31,18
+Hailey Degolia,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.73,51.73,0 days 00:00:51.730000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1987-06-04,18
+Caroline Rodriguez,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.85,51.85,0 days 00:00:51.850000,2009-02-18,2009.0,University of Michigan,2009 B1G 10 Champs women,1985-11-02,18
+Kelley Hug,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.09,52.09,0 days 00:00:52.090000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1988-06-17,18
+Megan Pulskamp,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.10,52.1,0 days 00:00:52.100000,2009-02-18,2009.0,University of Kentucky,2009 SEC Championships,1988-01-15,18
+Ashton Aubry,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.11,52.11,0 days 00:00:52.110000,2009-02-25,2009.0,Arizona State University,2009 PAC 10 Champs women,1988-07-27,18
+Julianne Lago,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.17,52.17,0 days 00:00:52.170000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1988-08-06,18
+Austin Staab,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.18,44.18,0 days 00:00:44.180000,2009-03-27,2009.0,Stanford University,2009 NCAA DI - Men,1988-11-21,18
+Tyler McGill,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.63,44.63,0 days 00:00:44.630000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1987-08-18,18
+Logan Madson,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.99,44.99,0 days 00:00:44.990000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1986-09-23,18
+Matthew Targett,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.02,45.02,0 days 00:00:45.020000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1985-12-24,18
+Douglas Lennox,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.12,45.12,0 days 00:00:45.120000,2009-03-05,2009.0,Princeton University,2009 Ivy League Champs men,1987-04-10,18
+Christopher Brady,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.24,45.24,0 days 00:00:45.240000,2009-03-26,2009.0,University of Michigan,2009 NCAA DI - Men,1988-06-30,18
+Wendell Taylor,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.40,45.4,0 days 00:00:45.400000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1987-08-06,18
+Jason Dunford,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.43,45.43,0 days 00:00:45.430000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1986-11-28,18
+Boris Loncaric,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.53,45.53,0 days 00:00:45.530000,2009-03-26,2009.0,Texas A&M University,2009 NCAA DI - Men,1989-02-10,18
+Richard Berens,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.54,45.54,0 days 00:00:45.540000,2008-12-04,2009.0,University of Texas,UT Invite,1988-04-21,18
+Randall Tom,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.64,45.64,0 days 00:00:45.640000,2009-03-26,2009.0,University of California Irvine,2009 NCAA DI - Men,1986-10-03,18
+Jordan Anderson,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.70,45.7,0 days 00:00:45.700000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1987-11-30,18
+Jakob Andkjaer,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.87,45.87,0 days 00:00:45.870000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1985-05-07,18
+Christoph Lubenau,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.97,45.97,0 days 00:00:45.970000,2009-03-26,2009.0,Louisiana State University,2009 NCAA DI - Men,1984-06-16,18
+Eugene Godsoe,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.99,45.99,0 days 00:00:45.990000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-01-20,18
+Graeme Moore,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.02,46.02,0 days 00:00:46.020000,2009-03-04,2009.0,University of California Berkeley,2009 PAC 10 Champs men,1989-01-28,18
+Elaine Breeden,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:49.92,109.92,0 days 00:01:49.920000,2009-02-25,2009.0,Stanford University,2009 PAC 10 Champs women,1988-11-18,19
+Kathleen Hersey,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.18,111.18,0 days 00:01:51.180000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-02-21,19
+Jemma Lowe,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.53,112.53,0 days 00:01:52.530000,2009-02-18,2009.0,University of Florida,2009 SEC Championships,1990-03-31,19
+Saori Haruguchi,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.81,112.81,0 days 00:01:52.810000,2009-02-25,2009.0,Oregon State University,2009 PAC 10 Champs women,1987-01-20,19
+Katinka Hosszu,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.45,113.45,0 days 00:01:53.450000,2009-03-19,2009.0,University of Southern California,2009 NCAA DI - Women,1989-05-03,19
+Amanda Sims,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.54,113.54,0 days 00:01:53.540000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1989-03-02,19
+Leah Gingrich,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.44,114.44,0 days 00:01:54.440000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-02-12,19
+Megan Evo,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.59,114.59,0 days 00:01:54.590000,2009-02-18,2009.0,University of Virginia,2009 ACC Champs women,1987-04-07,19
+Sara Isakovic,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.61,114.61,0 days 00:01:54.610000,2009-03-19,2009.0,University of California Berkeley,2009 NCAA DI - Women,1988-06-09,19
+Alyssa Anderson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.68,114.68,0 days 00:01:54.680000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1990-09-30,19
+Ava Ohlgren,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.94,114.94,0 days 00:01:54.940000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1988-01-31,19
+Anne Broome,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.95,114.95,0 days 00:01:54.950000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1987-11-11,19
+Kelly Nelson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.96,114.96,0 days 00:01:54.960000,2009-03-19,2009.0,Pennsylvania State University,2009 NCAA DI - Women,1987-05-14,19
+Whitney Lopus,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.52,115.52,0 days 00:01:55.520000,2009-02-25,2009.0,University of Utah,2009 MW Champs,1990-07-06,19
+Jennifer Vogel,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.81,115.81,0 days 00:01:55.810000,2009-02-18,2009.0,University of Maryland,2009 ACC Champs women,1988-02-07,19
+Alicia Aemisegger,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.85,115.85,0 days 00:01:55.850000,2008-12-05,2009.0,Princeton University,Princeton Swimming 'Big Al' Op,1987-11-01,19
+Shaune Fraser,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.75,100.75,0 days 00:01:40.750000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1988-03-29,19
+Mark Dylla,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.85,100.85,0 days 00:01:40.850000,2009-03-26,2009.0,University of Georgia,2009 NCAA DI - Men,1988-12-01,19
+Logan Madson,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.31,101.31,0 days 00:01:41.310000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1986-09-23,19
+Tyler McGill,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.49,101.49,0 days 00:01:41.490000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1987-08-18,19
+Robert Bollier,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.79,101.79,0 days 00:01:41.790000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1989-08-22,19
+David Mosko,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.98,101.98,0 days 00:01:41.980000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1988-12-22,19
+Alexander Tipton,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.38,102.38,0 days 00:01:42.380000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1990-02-15,19
+Nicholas Walkotten,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.48,102.48,0 days 00:01:42.480000,2009-03-26,2009.0,University of South Carolina Columbia,2009 NCAA DI - Men,1986-02-14,19
+Scott Rice,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.53,102.53,0 days 00:01:42.530000,2008-12-04,2009.0,University of Wisconsin Madison,UT Invite,1986-05-07,19
+Adam Meyer,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.54,102.54,0 days 00:01:42.540000,2009-02-19,2009.0,U.S. Naval Academy,2009 Patriot League Champs,1987-12-07,19
+Bradley Ally,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.56,102.56,0 days 00:01:42.560000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1986-12-11,19
+Douglas Lennox,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.71,102.71,0 days 00:01:42.710000,2009-03-26,2009.0,Princeton University,2009 NCAA DI - Men,1987-04-10,19
+Richard Berens,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.74,102.74,0 days 00:01:42.740000,2008-12-04,2009.0,University of Texas,UT Invite,1988-04-21,19
+Robert Looney,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.75,102.75,0 days 00:01:42.750000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1989-01-07,19
+Daniel Eckel,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.87,102.87,0 days 00:01:42.870000,2009-03-05,2009.0,Princeton University,2009 Ivy League Champs men,1987-06-17,19
+William Jones,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.24,103.24,0 days 00:01:43.240000,2009-03-05,2009.0,Harvard University,2009 Ivy League Champs men,1987-12-13,19
+Julia Smit,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:52.79,112.79,0 days 00:01:52.790000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1987-12-14,21
+Kathleen Hersey,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.33,113.33,0 days 00:01:53.330000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-02-21,21
+Ava Ohlgren,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.08,114.08,0 days 00:01:54.080000,2009-03-19,2009.0,Auburn University,2009 NCAA DI - Women,1988-01-31,21
+Elaine Breeden,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.32,114.32,0 days 00:01:54.320000,2009-02-25,2009.0,Stanford University,2009 PAC 10 Champs women,1988-11-18,21
+Gemma Spofforth,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.73,114.73,0 days 00:01:54.730000,2009-03-19,2009.0,University of Florida,2009 NCAA DI - Women,1987-11-17,21
+Jennifer Forster,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.07,115.07,0 days 00:01:55.070000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1988-04-17,21
+Morgan Scroggy,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.56,115.56,0 days 00:01:55.560000,2009-03-19,2009.0,University of Georgia,2009 NCAA DI - Women,1988-08-02,21
+Julie Stupp,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.81,115.81,0 days 00:01:55.810000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1986-03-12,21
+Margaret Kelly,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.90,115.9,0 days 00:01:55.900000,2009-02-18,2009.0,University of Michigan,2009 B1G 10 Champs women,1988-03-14,21
+Megan Evo,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.17,116.17,0 days 00:01:56.170000,2009-02-18,2009.0,University of Virginia,2009 ACC Champs women,1987-04-07,21
+Caitlin Geary,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.52,116.52,0 days 00:01:56.520000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1989-06-19,21
+Hailey Degolia,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.60,116.6,0 days 00:01:56.600000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1987-06-04,21
+Saori Haruguchi,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.80,116.8,0 days 00:01:56.800000,2009-03-19,2009.0,Oregon State University,2009 NCAA DI - Women,1987-01-20,21
+Ann Grevers,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.02,117.02,0 days 00:01:57.020000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1987-08-21,21
+Carolyn Beaudreau,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.14,117.14,0 days 00:01:57.140000,2008-12-04,2009.0,University of Arizona,UT Invite,1988-08-26,21
+Courtney Monsees,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.17,117.17,0 days 00:01:57.170000,2009-02-18,2009.0,University of Georgia,2009 SEC Championships,1989-01-05,21
+Bradley Ally,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:40.49,100.49,0 days 00:01:40.490000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1986-12-11,21
+Scott Clary,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.67,101.67,0 days 00:01:41.670000,2009-03-26,2009.0,University of Michigan,2009 NCAA DI - Men,1989-03-12,21
+Richard Berens,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.92,101.92,0 days 00:01:41.920000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1988-04-21,21
+Shaune Fraser,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.45,102.45,0 days 00:01:42.450000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1988-03-29,21
+Omar Pinzon,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.64,102.64,0 days 00:01:42.640000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1989-06-17,21
+Andre Schultz,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.69,102.69,0 days 00:01:42.690000,2009-03-26,2009.0,University of Michigan,2009 NCAA DI - Men,1988-07-16,21
+Gal Nevo,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.79,102.79,0 days 00:01:42.790000,2009-03-26,2009.0,Georgia Institute of Technology,2009 NCAA DI - Men,1987-06-29,21
+Martti Aljand,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.21,103.21,0 days 00:01:43.210000,2009-03-26,2009.0,University of California Berkeley,2009 NCAA DI - Men,1987-11-22,21
+Tyler McGill,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.39,103.39,0 days 00:01:43.390000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1987-08-18,21
+Bryan Collins,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.52,103.52,0 days 00:01:43.520000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1988-01-07,21
+Jack Brown,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.67,103.67,0 days 00:01:43.670000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-09-22,21
+Nathan Cass,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.82,103.82,0 days 00:01:43.820000,2009-03-26,2009.0,Stanford University,2009 NCAA DI - Men,1987-03-17,21
+Peter Benner,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.94,103.94,0 days 00:01:43.940000,2009-03-26,2009.0,University of Georgia,2009 NCAA DI - Men,1989-11-16,21
+Bryan O'Connor,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.96,103.96,0 days 00:01:43.960000,2008-12-04,2009.0,University of Arizona,UT Invite,1988-07-30,21
+Scott Weltz,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.97,103.97,0 days 00:01:43.970000,2009-03-26,2009.0,Davis University of California,2009 NCAA DI - Men,1987-03-19,21
+Logan Madson,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.06,104.06,0 days 00:01:44.060000,2009-03-26,2009.0,Auburn University,2009 NCAA DI - Men,1986-09-23,21
+Julia Smit,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:00.56,240.56,0 days 00:04:00.560000,2009-03-19,2009.0,Stanford University,2009 NCAA DI - Women,1987-12-14,22
+Katinka Hosszu,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.49,241.49,0 days 00:04:01.490000,2009-03-19,2009.0,University of Southern California,2009 NCAA DI - Women,1989-05-03,22
+Kathleen Hersey,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.91,241.91,0 days 00:04:01.910000,2009-03-19,2009.0,University of Texas,2009 NCAA DI - Women,1990-02-21,22
+Alicia Aemisegger,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.47,242.47,0 days 00:04:02.470000,2009-03-19,2009.0,Princeton University,2009 NCAA DI - Women,1987-11-01,22
+Julie Stupp,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:02.99,242.99,0 days 00:04:02.990000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1986-03-12,22
+Ava Ohlgren,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.70,243.7,0 days 00:04:03.700000,2009-02-18,2009.0,Auburn University,2009 SEC Championships,1988-01-31,22
+Teresa Crippen,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.00,245.0,0 days 00:04:05,2009-03-19,2009.0,University of Florida,2009 NCAA DI - Women,1990-04-12,22
+Jennifer Forster,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.10,246.1,0 days 00:04:06.100000,2009-03-19,2009.0,University of Arizona,2009 NCAA DI - Women,1988-04-17,22
+Jenny Shaughnessy,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.37,246.37,0 days 00:04:06.370000,2009-02-18,2009.0,University of Minnesota,2009 B1G 10 Champs women,1987-01-15,22
+Allison Kay,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.45,246.45,0 days 00:04:06.450000,2009-03-19,2009.0,Indiana University,2009 NCAA DI - Women,1987-08-08,22
+Zsuzsanna Jakabos,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.70,246.7,0 days 00:04:06.700000,2009-02-25,2009.0,Las Vegas (W) University of Nevada,2009 MW Champs,1989-04-03,22
+Stephanie Proud,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:07.00,247.0,0 days 00:04:07,2009-03-19,2009.0,University of Florida,2009 NCAA DI - Women,1988-08-29,22
+Katie Kastes,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:07.92,247.92,0 days 00:04:07.920000,2009-03-19,2009.0,University of Arkansas,2009 NCAA DI - Women,1989-05-12,22
+Elizabeth Amuchastegui,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:08.00,248.0,0 days 00:04:08,2009-02-25,2009.0,Stanford University,2009 PAC 10 Champs women,1989-01-11,22
+Claire Crippen,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:08.08,248.08,0 days 00:04:08.080000,2009-03-19,2009.0,University of Virginia,2009 NCAA DI - Women,1988-11-28,22
+Kaitlin O'Brien,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:08.10,248.1,0 days 00:04:08.100000,2009-02-18,2009.0,Pennsylvania State University,2009 B1G 10 Champs women,1987-04-16,22
+Scott Clary,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:35.98,215.98,0 days 00:03:35.980000,2009-03-27,2009.0,University of Michigan,2009 NCAA DI - Men,1989-03-12,22
+Gal Nevo,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.00,218.0,0 days 00:03:38,2009-03-26,2009.0,Georgia Institute of Technology,2009 NCAA DI - Men,1987-06-29,22
+Bradley Ally,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:38.20,218.2,0 days 00:03:38.200000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1986-12-11,22
+Bryan Collins,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.21,221.21,0 days 00:03:41.210000,2009-03-26,2009.0,University of Texas,2009 NCAA DI - Men,1988-01-07,22
+Jack Brown,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.49,221.49,0 days 00:03:41.490000,2009-03-26,2009.0,University of Arizona,2009 NCAA DI - Men,1987-09-22,22
+Christopher Burckle,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.57,221.57,0 days 00:03:41.570000,2009-03-26,2009.0,University of Florida,2009 NCAA DI - Men,1988-02-23,22
+Andre Schultz,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.29,222.29,0 days 00:03:42.290000,2009-03-26,2009.0,University of Michigan,2009 NCAA DI - Men,1988-07-16,22
+Peter Benner,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.48,222.48,0 days 00:03:42.480000,2009-03-26,2009.0,University of Georgia,2009 NCAA DI - Men,1989-11-16,22
+Alex Wold,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.61,222.61,0 days 00:03:42.610000,2009-03-26,2009.0,University of Minnesota,2009 NCAA DI - Men,1987-06-26,22
+William Harris,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:43.52,223.52,0 days 00:03:43.520000,2009-02-25,2009.0,University of North Carolina Chapel Hill,2009 ACC Champs men,1988-09-23,22
+Martin Liivamagi,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:43.55,223.55,0 days 00:03:43.550000,2009-03-04,2009.0,University of California Berkeley,2009 PAC 10 Champs men,1988-07-05,22
+Aaron Casey,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.43,224.43,0 days 00:03:44.430000,2009-03-04,2009.0,University of California Berkeley,2009 PAC 10 Champs men,1988-09-21,22
+Patrick Mellors,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.54,224.54,0 days 00:03:44.540000,2009-03-26,2009.0,University of Virginia,2009 NCAA DI - Men,1985-12-16,22
+Michael Walker,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.89,224.89,0 days 00:03:44.890000,2009-03-26,2009.0,West Virginia University,2009 NCAA DI - Men,1987-03-09,22
+Nathan Cass,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:45.02,225.02,0 days 00:03:45.020000,2009-03-04,2009.0,Stanford University,2009 PAC 10 Champs men,1987-03-17,22
+Julius Gloeckner,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:45.10,225.1,0 days 00:03:45.100000,2009-02-28,2009.0,Louisiana State University,2009 GA Bulldog Invitational,1984-11-29,22

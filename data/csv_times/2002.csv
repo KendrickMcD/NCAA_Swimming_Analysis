@@ -1,0 +1,243 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Eileen Coparropa,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.36,22.36,0 days 00:00:22.360000,2002-02-18,2002.0,Auburn University,2002 US Southeastern Con,1981-03-31,1
+Deirdre Dlugonski,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.20,23.2,0 days 00:00:23.200000,2002-02-20,2002.0,Pennsylvania State University,2002 MI Big 10 Champs,1982-10-15,1
+Irini Kosta,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.54,23.54,0 days 00:00:23.540000,2002-03-21,2002.0,University of Alabama,2002 Women's NCAA Champs,1979-10-08,1
+Laura Decook,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.62,23.62,0 days 00:00:23.620000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1980-04-27,1
+Piper Chamberlin,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.84,23.84,0 days 00:00:23.840000,2002-03-21,2002.0,Pennsylvania State University,2002 Women's NCAA Champs,1980-05-28,1
+Katheryn Hunter,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.96,23.96,0 days 00:00:23.960000,2002-03-14,2002.0,University of Pittsburgh,2002 US Eastern Ii Secti,1979-08-16,1
+Lisa Anderson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.99,23.99,0 days 00:00:23.990000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1980-05-21,1
+Clara Ho,50 Freestyle SCY Female,50,Freestyle,SCY,Female,24.27,24.27,0 days 00:00:24.270000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1980-05-20,1
+Lindsay Weaverling,50 Freestyle SCY Female,50,Freestyle,SCY,Female,24.28,24.28,0 days 00:00:24.280000,2002-02-21,2002.0,University of Pittsburgh,2002 US Big East,1981-07-03,1
+Kelli Deavenport,50 Freestyle SCY Female,50,Freestyle,SCY,Female,24.90,24.9,0 days 00:00:24.900000,2002-02-28,2002.0,Texas A&M University,Usa Swimming Sec,1982-02-10,1
+Lisa Haunz,50 Freestyle SCY Female,50,Freestyle,SCY,Female,25.57,25.57,0 days 00:00:25.570000,2002-03-01,2002.0,University of Iowa,2002 US Iowa Senior,1980-10-06,1
+Amy Brown,50 Freestyle SCY Female,50,Freestyle,SCY,Female,25.94,25.94,0 days 00:00:25.940000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-09,1
+Faris Montgomery,50 Freestyle SCY Female,50,Freestyle,SCY,Female,26.76,26.76,0 days 00:00:26.760000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1987-11-20,1
+Claire Busby,50 Freestyle SCY Female,50,Freestyle,SCY,Female,27.25,27.25,0 days 00:00:27.250000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-08-20,1
+Melanie Grant,50 Freestyle SCY Female,50,Freestyle,SCY,Female,27.38,27.38,0 days 00:00:27.380000,2002-06-28,2002.0,Brigham Young University,2002 US Ymca-kiwani,1982-08-01,1
+Matthew Rose,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.98,19.98,0 days 00:00:19.980000,2002-03-28,2002.0,Texas A&M University,2002 US Men's NCAA Champs,1981-07-10,1
+Robert Molettiere,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.02,20.02,0 days 00:00:20.020000,2002-03-28,2002.0,Pennsylvania State University,2002 US Men's NCAA Champs,1980-01-25,1
+Jonathon Newton,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.56,20.56,0 days 00:00:20.560000,2002-03-28,2002.0,Southern Methodist University,2002 US Men's NCAA Champs,1981-01-22,1
+Matthew Kidd,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.57,20.57,0 days 00:00:20.570000,2001-11-30,2002.0,Auburn University,2001 US University,1979-10-27,1
+Brendan Ashby,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.85,20.85,0 days 00:00:20.850000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1980-06-30,1
+David Moilanen,50 Freestyle SCY Male,50,Freestyle,SCY,Male,21.05,21.05,0 days 00:00:21.050000,2002-03-07,2002.0,University of Washington,2002 Pac-10 Champs,1980-03-21,1
+Andreas Campioni,50 Freestyle SCY Male,50,Freestyle,SCY,Male,21.06,21.06,0 days 00:00:21.060000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1979-06-13,1
+Michael Buys,50 Freestyle SCY Male,50,Freestyle,SCY,Male,21.26,21.26,0 days 00:00:21.260000,2002-02-28,2002.0,University of Iowa,2002 US Men's Big T,1977-04-10,1
+Joshua Parkin,50 Freestyle SCY Male,50,Freestyle,SCY,Male,21.39,21.39,0 days 00:00:21.390000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1983-04-04,1
+Jason Folt,50 Freestyle SCY Male,50,Freestyle,SCY,Male,21.82,21.82,0 days 00:00:21.820000,2002-03-07,2002.0,Ohio University,Mac Championship,1982-04-10,1
+Gregory Gazvoda,50 Freestyle SCY Male,50,Freestyle,SCY,Male,21.98,21.98,0 days 00:00:21.980000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-01-05,1
+Andrei Prada,50 Freestyle SCY Male,50,Freestyle,SCY,Male,21.98,21.98,0 days 00:00:21.980000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1980-12-15,1
+Andrei Ciurca,50 Freestyle SCY Male,50,Freestyle,SCY,Male,22.40,22.4,0 days 00:00:22.400000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1981-11-30,1
+Calvin Shelangoski,50 Freestyle SCY Male,50,Freestyle,SCY,Male,22.50,22.5,0 days 00:00:22.500000,2002-02-28,2002.0,University of Iowa,2002 US Men's Big T,1983-08-07,1
+Matt Thunell,50 Freestyle SCY Male,50,Freestyle,SCY,Male,22.63,22.63,0 days 00:00:22.630000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,1
+Eric Hahn,50 Freestyle SCY Male,50,Freestyle,SCY,Male,22.64,22.64,0 days 00:00:22.640000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-12-13,1
+Eileen Coparropa,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.91,48.91,0 days 00:00:48.910000,2002-02-18,2002.0,Auburn University,2002 US Southeastern Con,1981-03-31,2
+Deirdre Dlugonski,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.51,50.51,0 days 00:00:50.510000,2002-02-20,2002.0,Pennsylvania State University,2002 MI Big 10 Champs,1982-10-15,2
+Irini Kosta,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.70,50.7,0 days 00:00:50.700000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1979-10-08,2
+Lindsay Fraschilla,100 Freestyle SCY Female,100,Freestyle,SCY,Female,51.39,51.39,0 days 00:00:51.390000,2002-02-20,2002.0,Pennsylvania State University,2002 MI Big 10 Champs,1979-10-31,2
+Laura Decook,100 Freestyle SCY Female,100,Freestyle,SCY,Female,52.25,52.25,0 days 00:00:52.250000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1980-04-27,2
+Kylie Lancken,100 Freestyle SCY Female,100,Freestyle,SCY,Female,52.26,52.26,0 days 00:00:52.260000,2002-02-20,2002.0,Ohio State University,2002 MI Big 10 Champs,1982-07-16,2
+Kelli Deavenport,100 Freestyle SCY Female,100,Freestyle,SCY,Female,52.49,52.49,0 days 00:00:52.490000,2002-02-28,2002.0,Texas A&M University,Usa Swimming Sec,1982-02-10,2
+Nicole Triebe,100 Freestyle SCY Female,100,Freestyle,SCY,Female,55.54,55.54,0 days 00:00:55.540000,2002-03-01,2002.0,University of Iowa,2002 US Iowa Senior,1982-12-01,2
+Amy Brown,100 Freestyle SCY Female,100,Freestyle,SCY,Female,55.57,55.57,0 days 00:00:55.570000,2002-02-22,2002.0,University of South Carolina Columbia,2002 US Snowflake ,1986-06-09,2
+Faris Montgomery,100 Freestyle SCY Female,100,Freestyle,SCY,Female,57.32,57.32,0 days 00:00:57.320000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1987-11-20,2
+Claire Busby,100 Freestyle SCY Female,100,Freestyle,SCY,Female,57.72,57.72,0 days 00:00:57.720000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-08-20,2
+Sarah Knowlton,100 Freestyle SCY Female,100,Freestyle,SCY,Female,1:01.09,61.09,0 days 00:01:01.090000,2002-02-22,2002.0,University of South Carolina Columbia,2002 US Snowflake ,1989-04-13,2
+Zsolt Gaspar,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.89,42.89,0 days 00:00:42.890000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1977-05-17,2
+Matthew Kidd,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.53,43.53,0 days 00:00:43.530000,2002-03-28,2002.0,Auburn University,2002 US Men's NCAA Champs,1979-10-27,2
+Robert Molettiere,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.60,43.6,0 days 00:00:43.600000,2002-02-28,2002.0,Pennsylvania State University,2002 US Men's Big T,1980-01-25,2
+Matthew Rose,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.71,43.71,0 days 00:00:43.710000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1981-07-10,2
+Dale Carver,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.68,44.68,0 days 00:00:44.680000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1980-03-28,2
+Javier Botello,100 Freestyle SCY Male,100,Freestyle,SCY,Male,45.45,45.45,0 days 00:00:45.450000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1976-01-27,2
+Brendan Ashby,100 Freestyle SCY Male,100,Freestyle,SCY,Male,45.72,45.72,0 days 00:00:45.720000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1980-06-30,2
+Matan Ratz,100 Freestyle SCY Male,100,Freestyle,SCY,Male,45.88,45.88,0 days 00:00:45.880000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1983-07-02,2
+Michael Buys,100 Freestyle SCY Male,100,Freestyle,SCY,Male,45.97,45.97,0 days 00:00:45.970000,2002-02-28,2002.0,University of Iowa,2002 US Men's Big T,1977-04-10,2
+Joshua Parkin,100 Freestyle SCY Male,100,Freestyle,SCY,Male,46.90,46.9,0 days 00:00:46.900000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1983-04-04,2
+Jason Folt,100 Freestyle SCY Male,100,Freestyle,SCY,Male,47.26,47.26,0 days 00:00:47.260000,2002-03-07,2002.0,Ohio University,Mac Championship,1982-04-10,2
+Andrei Prada,100 Freestyle SCY Male,100,Freestyle,SCY,Male,48.16,48.16,0 days 00:00:48.160000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1980-12-15,2
+Gregory Gazvoda,100 Freestyle SCY Male,100,Freestyle,SCY,Male,48.66,48.66,0 days 00:00:48.660000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-01-05,2
+Andrei Ciurca,100 Freestyle SCY Male,100,Freestyle,SCY,Male,48.67,48.67,0 days 00:00:48.670000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1981-11-30,2
+Matt Thunell,100 Freestyle SCY Male,100,Freestyle,SCY,Male,49.36,49.36,0 days 00:00:49.360000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,2
+David Mazur,100 Freestyle SCY Male,100,Freestyle,SCY,Male,49.72,49.72,0 days 00:00:49.720000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-01-20,2
+Irini Kosta,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:49.77,109.77,0 days 00:01:49.770000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1979-10-08,3
+Kylie Lancken,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:49.80,109.8,0 days 00:01:49.800000,2002-02-20,2002.0,Ohio State University,2002 MI Big 10 Champs,1982-07-16,3
+Loren Sweny,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:51.56,111.56,0 days 00:01:51.560000,2002-03-02,2002.0,University of Utah,Mwc,1982-05-18,3
+Kelli Deavenport,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:51.76,111.76,0 days 00:01:51.760000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1982-02-10,3
+Kristin Rygg,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:53.26,113.26,0 days 00:01:53.260000,2002-03-07,2002.0,University of Minnesota,2002 US Speedo Champions,1980-03-08,3
+Lindsay Hansen,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:53.28,113.28,0 days 00:01:53.280000,2001-12-06,2002.0,University of Connecticut,Nd Invite,1982-09-11,3
+Abigail Ruess,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:56.34,116.34,0 days 00:01:56.340000,2002-03-02,2002.0,University of Minnesota,2002 US Sc Senior State,1984-08-01,3
+Amy Brown,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:57.91,117.91,0 days 00:01:57.910000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-09,3
+Nicole Triebe,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:58.42,118.42,0 days 00:01:58.420000,2002-03-01,2002.0,University of Iowa,2002 US Iowa Senior,1982-12-01,3
+Laura Decook,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:59.26,119.26,0 days 00:01:59.260000,2002-02-28,2002.0,Texas A&M University,Usa Swimming Sec,1980-04-27,3
+Faris Montgomery,200 Freestyle SCY Female,200,Freestyle,SCY,Female,2:03.72,123.72,0 days 00:02:03.720000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1987-11-20,3
+Claire Busby,200 Freestyle SCY Female,200,Freestyle,SCY,Female,2:04.81,124.81,0 days 00:02:04.810000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1989-08-20,3
+Courtney Morrell,200 Freestyle SCY Female,200,Freestyle,SCY,Female,2:05.39,125.39,0 days 00:02:05.390000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1984-12-05,3
+Sarah Knowlton,200 Freestyle SCY Female,200,Freestyle,SCY,Female,2:10.70,130.7,0 days 00:02:10.700000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-04-13,3
+Martin Schierhorn,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:36.67,96.67,0 days 00:01:36.670000,2002-02-28,2002.0,Pennsylvania State University,2002 US Men's Big T,1978-08-30,3
+Javier Botello,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:38.88,98.88,0 days 00:01:38.880000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1976-01-27,3
+Dale Carver,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:39.28,99.28,0 days 00:01:39.280000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1980-03-28,3
+Nicholas Goucher,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:39.43,99.43,0 days 00:01:39.430000,2002-03-07,2002.0,Auburn University,2002 US American Short C,1981-07-03,3
+Matthew Kidd,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:39.45,99.45,0 days 00:01:39.450000,2002-02-18,2002.0,Auburn University,2002 US Southeastern Con,1979-10-27,3
+Vladimir Dusil,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:39.92,99.92,0 days 00:01:39.920000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1980-03-16,3
+Matan Ratz,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:41.77,101.77,0 days 00:01:41.770000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1983-07-02,3
+Jason Folt,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:44.67,104.67,0 days 00:01:44.670000,2002-03-07,2002.0,Ohio University,Mac Championship,1982-04-10,3
+Charles Norton,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:44.79,104.79,0 days 00:01:44.790000,2002-03-07,2002.0,Texas A&M University,2002 US American Short C,1983-06-14,3
+Andrei Prada,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:46.42,106.42,0 days 00:01:46.420000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1980-12-15,3
+Matt Thunell,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:48.10,108.1,0 days 00:01:48.100000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,3
+Cody Hackney,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:48.37,108.37,0 days 00:01:48.370000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-11-22,3
+Hart Montgomery,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:49.08,109.08,0 days 00:01:49.080000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-12-17,3
+Micah Layton,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:51.81,111.81,0 days 00:01:51.810000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-02,3
+Payne Montgomery,200 Freestyle SCY Male,200,Freestyle,SCY,Male,2:05.81,125.81,0 days 00:02:05.810000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1991-04-12,3
+Flavia Rigamonti,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:40.13,280.13,0 days 00:04:40.130000,2002-03-21,2002.0,Southern Methodist University,2002 Women's NCAA Champs,1981-07-01,4
+Lindsay Hansen,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:57.13,297.13,0 days 00:04:57.130000,2001-12-06,2002.0,University of Connecticut,Nd Invite,1982-09-11,4
+Kristin Rygg,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:59.63,299.63,0 days 00:04:59.630000,2002-03-07,2002.0,University of Minnesota,2002 US Speedo Champions,1980-03-08,4
+Kelli Deavenport,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:59.83,299.83,0 days 00:04:59.830000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1982-02-10,4
+Lisa Anderson,500 Freestyle SCY Female,500,Freestyle,SCY,Female,5:05.61,305.61,0 days 00:05:05.610000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1980-05-21,4
+Amy Brown,500 Freestyle SCY Female,500,Freestyle,SCY,Female,5:13.76,313.76,0 days 00:05:13.760000,2002-02-28,2002.0,University of South Carolina Columbia,2002 US Southern Zo,1986-06-09,4
+Faris Montgomery,500 Freestyle SCY Female,500,Freestyle,SCY,Female,5:22.93,322.93,0 days 00:05:22.930000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1987-11-20,4
+Claire Busby,500 Freestyle SCY Female,500,Freestyle,SCY,Female,5:38.18,338.18,0 days 00:05:38.180000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-08-20,4
+Sarah Knowlton,500 Freestyle SCY Female,500,Freestyle,SCY,Female,5:41.22,341.22,0 days 00:05:41.220000,2002-02-22,2002.0,University of South Carolina Columbia,2002 US Snowflake ,1989-04-13,4
+Martin Schierhorn,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:19.70,259.7,0 days 00:04:19.700000,2002-03-28,2002.0,Pennsylvania State University,2002 US Men's NCAA Champs,1978-08-30,4
+Vladimir Dusil,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:28.73,268.73,0 days 00:04:28.730000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1980-03-16,4
+Marshal Livingstone,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:35.83,275.83,0 days 00:04:35.830000,2001-12-06,2002.0,University of Connecticut,Nd Invite,1980-09-01,4
+Andrei Prada,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:40.33,280.33,0 days 00:04:40.330000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1980-12-15,4
+Matan Ratz,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:40.40,280.4,0 days 00:04:40.400000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1983-07-02,4
+Cody Hackney,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:50.53,290.53,0 days 00:04:50.530000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-11-22,4
+Gregory Gazvoda,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:55.92,295.92,0 days 00:04:55.920000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1982-01-05,4
+Hart Montgomery,500 Freestyle SCY Male,500,Freestyle,SCY,Male,5:01.71,301.71,0 days 00:05:01.710000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1985-12-17,4
+Payne Montgomery,500 Freestyle SCY Male,500,Freestyle,SCY,Male,5:27.42,327.42,0 days 00:05:27.420000,2002-02-22,2002.0,University of South Carolina Columbia,2002 US Snowflake ,1991-04-12,4
+Lindsay Hansen,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,10:13.99,613.99,0 days 00:10:13.990000,2001-12-06,2002.0,University of Connecticut,Nd Invite,1982-09-11,5
+Kristin Rygg,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,10:14.43,614.43,0 days 00:10:14.430000,2002-03-07,2002.0,University of Minnesota,2002 US Speedo Champions,1980-03-08,5
+Amy Brown,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,10:41.40,641.4,0 days 00:10:41.400000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1986-06-09,5
+Faris Montgomery,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,11:07.29,667.29,0 days 00:11:07.290000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1987-11-20,5
+Claire Busby,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,11:44.45,704.45,0 days 00:11:44.450000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1989-08-20,5
+Sarah Knowlton,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,11:46.66,706.66,0 days 00:11:46.660000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1989-04-13,5
+Flavia Rigamonti,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:52.28,952.28,0 days 00:15:52.280000,2002-03-21,2002.0,Southern Methodist University,2002 Women's NCAA Champs,1981-07-01,6
+Lindsay Hansen,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:54.28,1014.28,0 days 00:16:54.280000,2001-12-06,2002.0,University of Connecticut,Nd Invite,1982-09-11,6
+Emily Kaszycki,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:15.72,1035.72,0 days 00:17:15.720000,2002-02-21,2002.0,University of Pittsburgh,2002 US Big East,1982-05-13,6
+Kristin Rygg,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:19.89,1039.89,0 days 00:17:19.890000,2002-03-07,2002.0,University of Minnesota,2002 US Speedo Champions,1980-03-08,6
+Amy Brown,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:53.55,1073.55,0 days 00:17:53.550000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1986-06-09,6
+Faris Montgomery,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,18:42.17,1122.17,0 days 00:18:42.170000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1987-11-20,6
+Vladimir Dusil,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:40.03,940.03,0 days 00:15:40.030000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1980-03-16,6
+Istvan Bathazi,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:45.28,945.28,0 days 00:15:45.280000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1978-12-16,6
+Cody Hackney,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,16:42.83,1002.83,0 days 00:16:42.830000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-11-22,6
+Kirsty Coventry,100 Backstroke SCY Female,100,Backstroke,SCY,Female,53.67,53.67,0 days 00:00:53.670000,2002-03-21,2002.0,Auburn University,2002 Women's NCAA Champs,1983-09-16,12
+Sara Shepherd,100 Backstroke SCY Female,100,Backstroke,SCY,Female,57.69,57.69,0 days 00:00:57.690000,2002-02-20,2002.0,Pennsylvania State University,2002 MI Big 10 Champs,1982-12-05,12
+Laura Decook,100 Backstroke SCY Female,100,Backstroke,SCY,Female,58.11,58.11,0 days 00:00:58.110000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1980-04-27,12
+Kelli Deavenport,100 Backstroke SCY Female,100,Backstroke,SCY,Female,1:03.13,63.13,0 days 00:01:03.130000,2002-02-28,2002.0,Texas A&M University,Usa Swimming Sec,1982-02-10,12
+Claire Busby,100 Backstroke SCY Female,100,Backstroke,SCY,Female,1:10.74,70.74,0 days 00:01:10.740000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-08-20,12
+Jakob Andersen,100 Backstroke SCY Male,100,Backstroke,SCY,Male,48.01,48.01,0 days 00:00:48.010000,2002-03-28,2002.0,Southern Methodist University,2002 US Men's NCAA Champs,1977-03-02,12
+Matthew Rose,100 Backstroke SCY Male,100,Backstroke,SCY,Male,48.23,48.23,0 days 00:00:48.230000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1981-07-10,12
+Brendan Ashby,100 Backstroke SCY Male,100,Backstroke,SCY,Male,50.28,50.28,0 days 00:00:50.280000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1980-06-30,12
+Andreas Campioni,100 Backstroke SCY Male,100,Backstroke,SCY,Male,50.91,50.91,0 days 00:00:50.910000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1979-06-13,12
+Marshal Livingstone,100 Backstroke SCY Male,100,Backstroke,SCY,Male,52.34,52.34,0 days 00:00:52.340000,2001-12-06,2002.0,University of Connecticut,Nd Invite,1980-09-01,12
+Andrei Ciurca,100 Backstroke SCY Male,100,Backstroke,SCY,Male,52.37,52.37,0 days 00:00:52.370000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1981-11-30,12
+Eric Hahn,100 Backstroke SCY Male,100,Backstroke,SCY,Male,54.51,54.51,0 days 00:00:54.510000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-12-13,12
+Matt Thunell,100 Backstroke SCY Male,100,Backstroke,SCY,Male,55.13,55.13,0 days 00:00:55.130000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,12
+John Waldron,100 Backstroke SCY Male,100,Backstroke,SCY,Male,55.56,55.56,0 days 00:00:55.560000,2001-11-30,2002.0,Southern Methodist University,2001 US University,1979-12-22,12
+Matthew Kidd,100 Backstroke SCY Male,100,Backstroke,SCY,Male,56.07,56.07,0 days 00:00:56.070000,2001-11-30,2002.0,Auburn University,2001 US University,1979-10-27,12
+Hart Montgomery,100 Backstroke SCY Male,100,Backstroke,SCY,Male,56.29,56.29,0 days 00:00:56.290000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-12-17,12
+Micah Layton,100 Backstroke SCY Male,100,Backstroke,SCY,Male,57.44,57.44,0 days 00:00:57.440000,2002-02-22,2002.0,University of South Carolina Columbia,2002 US Snowflake ,1986-06-02,12
+Cody Hackney,100 Backstroke SCY Male,100,Backstroke,SCY,Male,57.57,57.57,0 days 00:00:57.570000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1982-11-22,12
+Payne Montgomery,100 Backstroke SCY Male,100,Backstroke,SCY,Male,1:12.73,72.73,0 days 00:01:12.730000,2002-02-22,2002.0,University of South Carolina Columbia,2002 US Snowflake ,1991-04-12,12
+Kirsty Coventry,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:54.37,114.37,0 days 00:01:54.370000,2002-03-21,2002.0,Auburn University,2002 Women's NCAA Champs,1983-09-16,13
+Alecia Kornacki,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:00.82,120.82,0 days 00:02:00.820000,2002-02-20,2002.0,Pennsylvania State University,2002 MI Big 10 Champs,1980-04-14,13
+Catalina Casaru,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:02.36,122.36,0 days 00:02:02.360000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1979-01-26,13
+Loren Sweny,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:03.31,123.31,0 days 00:02:03.310000,2002-03-02,2002.0,University of Utah,Mwc,1982-05-18,13
+Amy Brown,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:20.46,140.46,0 days 00:02:20.460000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-09,13
+Matthew Rose,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:48.78,108.78,0 days 00:01:48.780000,2002-03-07,2002.0,Texas A&M University,2002 US American Short C,1981-07-10,13
+Calvin Zielsdorf,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:49.02,109.02,0 days 00:01:49.020000,2002-02-20,2002.0,Texas A&M University,2002 US Big 12 Conf,1983-01-07,13
+Andreas Campioni,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:49.21,109.21,0 days 00:01:49.210000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1979-06-13,13
+Andrei Ciurca,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:53.79,113.79,0 days 00:01:53.790000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1981-11-30,13
+Matt Thunell,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:57.84,117.84,0 days 00:01:57.840000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,13
+Cody Hackney,200 Backstroke SCY Male,200,Backstroke,SCY,Male,2:00.52,120.52,0 days 00:02:00.520000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-11-22,13
+Eric Hahn,200 Backstroke SCY Male,200,Backstroke,SCY,Male,2:00.56,120.56,0 days 00:02:00.560000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-12-13,13
+Micah Layton,200 Backstroke SCY Male,200,Backstroke,SCY,Male,2:02.76,122.76,0 days 00:02:02.760000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-02,13
+Hart Montgomery,200 Backstroke SCY Male,200,Backstroke,SCY,Male,2:05.54,125.54,0 days 00:02:05.540000,2002-02-01,2002.0,University of South Carolina Columbia,2002 US Asl Honda C,1985-12-17,13
+Abigail Ruess,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:05.04,65.04,0 days 00:01:05.040000,2002-03-07,2002.0,University of Minnesota,2002 US Speedo Champions,1984-08-01,15
+Amy Brown,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:07.95,67.95,0 days 00:01:07.950000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-09,15
+Melanie Grant,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:10.73,70.73,0 days 00:01:10.730000,2002-06-28,2002.0,Brigham Young University,2002 US Ymca-kiwani,1982-08-01,15
+Sarah Knowlton,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:16.63,76.63,0 days 00:01:16.630000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-04-13,15
+Calvin Shelangoski,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,56.61,56.61,0 days 00:00:56.610000,2002-02-28,2002.0,University of Iowa,2002 US Men's Big T,1983-08-07,15
+Andrei Prada,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,57.13,57.13,0 days 00:00:57.130000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1980-12-15,15
+Michael Laskowski,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,57.15,57.15,0 days 00:00:57.150000,2002-02-28,2002.0,Pennsylvania State University,2002 US Men's Big T,1980-03-04,15
+Ofri Brener,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,57.41,57.41,0 days 00:00:57.410000,2001-12-06,2002.0,University of Connecticut,Nd Invite,1977-03-20,15
+Calvin Zielsdorf,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,57.54,57.54,0 days 00:00:57.540000,2002-03-07,2002.0,Texas A&M University,2002 US American Short C,1983-01-07,15
+Daniel Godfrey,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,57.57,57.57,0 days 00:00:57.570000,2002-03-02,2002.0,University of Utah,Mwc,1980-06-23,15
+Payne Montgomery,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,1:18.22,78.22,0 days 00:01:18.220000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1991-04-12,15
+Amy Brown,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:25.43,145.43,0 days 00:02:25.430000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1986-06-09,16
+Sarah Knowlton,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:49.27,169.27,0 days 00:02:49.270000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1989-04-13,16
+Calvin Shelangoski,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:06.11,126.11,0 days 00:02:06.110000,2002-02-28,2002.0,University of Iowa,2002 US Men's Big T,1983-08-07,16
+Andrei Prada,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:07.06,127.06,0 days 00:02:07.060000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1980-12-15,16
+Jeffrey Stacy,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:07.15,127.15,0 days 00:02:07.150000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1980-03-28,16
+Piper Chamberlin,100 Butterfly SCY Female,100,Butterfly,SCY,Female,56.22,56.22,0 days 00:00:56.220000,2002-02-20,2002.0,Pennsylvania State University,2002 MI Big 10 Champs,1980-05-28,18
+Carolynn McHugh,100 Butterfly SCY Female,100,Butterfly,SCY,Female,57.39,57.39,0 days 00:00:57.390000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1983-07-01,18
+Kelli Deavenport,100 Butterfly SCY Female,100,Butterfly,SCY,Female,57.70,57.7,0 days 00:00:57.700000,2002-02-28,2002.0,Texas A&M University,Usa Swimming Sec,1982-02-10,18
+Laura Decook,100 Butterfly SCY Female,100,Butterfly,SCY,Female,57.73,57.73,0 days 00:00:57.730000,2002-02-28,2002.0,Texas A&M University,Usa Swimming Sec,1980-04-27,18
+Kathryn Nicholson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,58.93,58.93,0 days 00:00:58.930000,2002-02-21,2002.0,University of Pittsburgh,2002 US Big East,1982-09-28,18
+Faris Montgomery,100 Butterfly SCY Female,100,Butterfly,SCY,Female,1:01.55,61.55,0 days 00:01:01.550000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1987-11-20,18
+Suzanne Catterson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,1:01.72,61.72,0 days 00:01:01.720000,2002-04-04,2002.0,University of Maryland,2002 US Eastern Zones Sc,1978-12-01,18
+Nicole Triebe,100 Butterfly SCY Female,100,Butterfly,SCY,Female,1:03.04,63.04,0 days 00:01:03.040000,2002-03-01,2002.0,University of Iowa,2002 US Iowa Senior,1982-12-01,18
+Amy Brown,100 Butterfly SCY Female,100,Butterfly,SCY,Female,1:03.83,63.83,0 days 00:01:03.830000,2001-11-02,2002.0,University of South Carolina Columbia,2001 US 21st Annual War,1986-06-09,18
+Abigail Ruess,100 Butterfly SCY Female,100,Butterfly,SCY,Female,1:05.63,65.63,0 days 00:01:05.630000,2002-08-01,2002.0,University of Minnesota,2002 US Lc Senior State,1984-08-01,18
+Claire Busby,100 Butterfly SCY Female,100,Butterfly,SCY,Female,1:06.84,66.84,0 days 00:01:06.840000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-08-20,18
+Zsolt Gaspar,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.60,46.6,0 days 00:00:46.600000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1977-05-17,18
+Eugene Botes,100 Butterfly SCY Male,100,Butterfly,SCY,Male,47.01,47.01,0 days 00:00:47.010000,2002-02-28,2002.0,Pennsylvania State University,2002 US Men's Big T,1980-06-09,18
+Joshua Parkin,100 Butterfly SCY Male,100,Butterfly,SCY,Male,50.05,50.05,0 days 00:00:50.050000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1983-04-04,18
+Matthew Kidd,100 Butterfly SCY Male,100,Butterfly,SCY,Male,50.19,50.19,0 days 00:00:50.190000,2001-11-30,2002.0,Auburn University,2001 US University,1979-10-27,18
+Michael Buys,100 Butterfly SCY Male,100,Butterfly,SCY,Male,50.32,50.32,0 days 00:00:50.320000,2002-02-28,2002.0,University of Iowa,2002 US Men's Big T,1977-04-10,18
+Andrei Ciurca,100 Butterfly SCY Male,100,Butterfly,SCY,Male,50.61,50.61,0 days 00:00:50.610000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1981-11-30,18
+Eric Hahn,100 Butterfly SCY Male,100,Butterfly,SCY,Male,51.99,51.99,0 days 00:00:51.990000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1982-12-13,18
+Matt Thunell,100 Butterfly SCY Male,100,Butterfly,SCY,Male,53.70,53.7,0 days 00:00:53.700000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,18
+Gregory Gazvoda,100 Butterfly SCY Male,100,Butterfly,SCY,Male,55.04,55.04,0 days 00:00:55.040000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1982-01-05,18
+Hart Montgomery,100 Butterfly SCY Male,100,Butterfly,SCY,Male,55.18,55.18,0 days 00:00:55.180000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-12-17,18
+Cody Hackney,100 Butterfly SCY Male,100,Butterfly,SCY,Male,56.11,56.11,0 days 00:00:56.110000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1982-11-22,18
+Micah Layton,100 Butterfly SCY Male,100,Butterfly,SCY,Male,56.78,56.78,0 days 00:00:56.780000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-02,18
+Payne Montgomery,100 Butterfly SCY Male,100,Butterfly,SCY,Male,1:05.42,65.42,0 days 00:01:05.420000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1991-04-12,18
+Melissa Woltz,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:01.84,121.84,0 days 00:02:01.840000,2002-03-01,2002.0,University of Iowa,2002 US Iowa Senior,1980-04-07,19
+Jennifer Koch,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:04.36,124.36,0 days 00:02:04.360000,2002-02-21,2002.0,University of Pittsburgh,2002 US Big East,1983-07-12,19
+Bronwyn Dedekind,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:04.88,124.88,0 days 00:02:04.880000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1981-08-14,19
+Catalina Casaru,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:06.13,126.13,0 days 00:02:06.130000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1979-01-26,19
+Kelli Deavenport,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:09.63,129.63,0 days 00:02:09.630000,2002-02-28,2002.0,Texas A&M University,Usa Swimming Sec,1982-02-10,19
+Faris Montgomery,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:14.54,134.54,0 days 00:02:14.540000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1987-11-20,19
+Amy Brown,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:16.29,136.29,0 days 00:02:16.290000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-09,19
+Claire Busby,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:36.43,156.43,0 days 00:02:36.430000,2002-02-01,2002.0,University of South Carolina Columbia,2002 US Asl Honda C,1989-08-20,19
+Cody Rempfer,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:49.17,109.17,0 days 00:01:49.170000,2002-03-02,2002.0,University of Utah,Mwc,1982-07-13,19
+Andrei Ciurca,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:53.45,113.45,0 days 00:01:53.450000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1981-11-30,19
+Matt Thunell,200 Butterfly SCY Male,200,Butterfly,SCY,Male,2:00.93,120.93,0 days 00:02:00.930000,2002-02-28,2002.0,University of South Carolina Columbia,2002 US Southern Zo,1985-07-18,19
+Hart Montgomery,200 Butterfly SCY Male,200,Butterfly,SCY,Male,2:07.52,127.52,0 days 00:02:07.520000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1985-12-17,19
+Kirsty Coventry,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:59.37,119.37,0 days 00:01:59.370000,2002-03-21,2002.0,Auburn University,2002 Women's NCAA Champs,1983-09-16,21
+Jennifer Koch,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:03.74,123.74,0 days 00:02:03.740000,2002-02-21,2002.0,University of Pittsburgh,2002 US Big East,1983-07-12,21
+Courtney McKinney,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:05.94,125.94,0 days 00:02:05.940000,2002-03-02,2002.0,University of Utah,Mwc,1979-09-10,21
+Amy Brown,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:11.99,131.99,0 days 00:02:11.990000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-09,21
+Nicole Triebe,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:14.81,134.81,0 days 00:02:14.810000,2002-03-01,2002.0,University of Iowa,2002 US Iowa Senior,1982-12-01,21
+Faris Montgomery,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:19.44,139.44,0 days 00:02:19.440000,2002-02-22,2002.0,University of South Carolina Columbia,2002 US Snowflake ,1987-11-20,21
+Courtney Morrell,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:22.68,142.68,0 days 00:02:22.680000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1984-12-05,21
+Melanie Grant,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:23.01,143.01,0 days 00:02:23.010000,2002-06-28,2002.0,Brigham Young University,2002 US Ymca-kiwani,1982-08-01,21
+Claire Busby,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:23.59,143.59,0 days 00:02:23.590000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-08-20,21
+Sarah Knowlton,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:29.97,149.97,0 days 00:02:29.970000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1989-04-13,21
+Richard Hampson,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:45.76,105.76,0 days 00:01:45.760000,2002-03-28,2002.0,Southern Methodist University,2002 US Men's NCAA Champs,1981-04-22,21
+Istvan Bathazi,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:47.22,107.22,0 days 00:01:47.220000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1978-12-16,21
+Jakob Andersen,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:47.37,107.37,0 days 00:01:47.370000,2002-03-28,2002.0,Southern Methodist University,2002 US Men's NCAA Champs,1977-03-02,21
+Dale Carver,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:49.98,109.98,0 days 00:01:49.980000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1980-03-28,21
+Matthew Kidd,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:50.35,110.35,0 days 00:01:50.350000,2002-02-08,2002.0,Auburn University,2002 US Orange And Blue,1979-10-27,21
+Matthew Rusnov,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:53.24,113.24,0 days 00:01:53.240000,2002-02-28,2002.0,Ohio State University,2002 US Men's Big T,1981-05-22,21
+Andrei Ciurca,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:56.83,116.83,0 days 00:01:56.830000,2001-11-16,2002.0,University of Iowa,Minnesota Invita,1981-11-30,21
+Matt Thunell,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,2:01.89,121.89,0 days 00:02:01.890000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,21
+Eric Hahn,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,2:03.63,123.63,0 days 00:02:03.630000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1982-12-13,21
+Hart Montgomery,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,2:04.44,124.44,0 days 00:02:04.440000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-12-17,21
+Gregory Gazvoda,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,2:07.90,127.9,0 days 00:02:07.900000,2001-10-13,2002.0,University of Iowa,2001 US Senior Shootout,1982-01-05,21
+Micah Layton,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,2:08.08,128.08,0 days 00:02:08.080000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-02,21
+Payne Montgomery,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,2:23.28,143.28,0 days 00:02:23.280000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1991-04-12,21
+Capi Adams,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:20.25,260.25,0 days 00:04:20.250000,2002-02-18,2002.0,University of South Carolina Columbia,2002 US Southeastern Con,1983-12-06,22
+Catalina Casaru,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:23.45,263.45,0 days 00:04:23.450000,2002-02-18,2002.0,University of Alabama,2002 US Southeastern Con,1979-01-26,22
+Lisa Haunz,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:38.84,278.84,0 days 00:04:38.840000,2002-03-01,2002.0,University of Iowa,2002 US Iowa Senior,1980-10-06,22
+Amy Brown,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:39.64,279.64,0 days 00:04:39.640000,2001-12-06,2002.0,University of South Carolina Columbia,2001 US Sc State Ch,1986-06-09,22
+Faris Montgomery,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:49.51,289.51,0 days 00:04:49.510000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1987-11-20,22
+Courtney Morrell,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:56.08,296.08,0 days 00:04:56.080000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1984-12-05,22
+Claire Busby,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,5:06.92,306.92,0 days 00:05:06.920000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1989-08-20,22
+Sarah Knowlton,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,5:19.85,319.85,0 days 00:05:19.850000,2002-03-14,2002.0,University of South Carolina Columbia,2002 US Southern Zone,1989-04-13,22
+Istvan Bathazi,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:45.76,225.76,0 days 00:03:45.760000,2002-03-28,2002.0,University of South Carolina Columbia,2002 US Men's NCAA Champs,1978-12-16,22
+Kristopher Carver,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,4:04.06,244.06,0 days 00:04:04.060000,2001-11-16,2002.0,University of Minnesota,Minnesota Invita,1982-09-24,22
+Matt Thunell,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,4:21.18,261.18,0 days 00:04:21.180000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-07-18,22
+Hart Montgomery,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,4:24.11,264.11,0 days 00:04:24.110000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1985-12-17,22
+Micah Layton,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,4:36.65,276.65,0 days 00:04:36.650000,2002-03-22,2002.0,University of South Carolina Columbia,2002 US Gamecock Aq,1986-06-02,22

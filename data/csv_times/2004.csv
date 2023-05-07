@@ -1,0 +1,425 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Eileen Coparropa,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.26,22.26,0 days 00:00:22.260000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-03-31,1
+Becky Davis,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.42,22.42,0 days 00:00:22.420000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-05-07,1
+Jennifer Kellstrom,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.68,22.68,0 days 00:00:22.680000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-01-29,1
+Christina Swindle,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.72,22.72,0 days 00:00:22.720000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-06,1
+Laura Pomeroy,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.82,22.82,0 days 00:00:22.820000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-12-19,1
+Danielle Townsend,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.91,22.91,0 days 00:00:22.910000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-08-07,1
+Jana Kolukanova-Haitz,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.97,22.97,0 days 00:00:22.970000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-08-04,1
+Cynthia Weir,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.20,23.2,0 days 00:00:23.200000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1983-02-13,1
+Michelle Bird,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.24,23.24,0 days 00:00:23.240000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-03-09,1
+Sarah Hernandez,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.26,23.26,0 days 00:00:23.260000,2004-02-18,2004.0,University of Wisconsin Madison,2004 B1G 10 Champs women  ,1984-10-02,1
+Leane Darling,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.36,23.36,0 days 00:00:23.360000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1985-08-07,1
+Molly Buhrandt,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.50,23.5,0 days 00:00:23.500000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-06-14,1
+Catherine Koch,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.53,23.53,0 days 00:00:23.530000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-08-19,1
+Laura Templin,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.56,23.56,0 days 00:00:23.560000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-01-05,1
+Ewelina Zwierzykowski,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.65,23.65,0 days 00:00:23.650000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-03-10,1
+Brittany Epperson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,23.68,23.68,0 days 00:00:23.680000,2003-12-05,2004.0,University of Washington,2003 IE CWU Invitational,1985-08-27,1
+Ryan Wochomurka,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.43,19.43,0 days 00:00:19.430000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-06-20,1
+Frederick Bousquet,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.48,19.48,0 days 00:00:19.480000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-04-08,1
+Derek Gibb,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.70,19.7,0 days 00:00:19.700000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-03-02,1
+Matthew Rose,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.77,19.77,0 days 00:00:19.770000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1981-07-10,1
+Terrence Silkaitis,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.82,19.82,0 days 00:00:19.820000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-08-17,1
+Raymond Rosal,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.01,20.01,0 days 00:00:20.010000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1981-05-23,1
+Neil Osten,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.02,20.02,0 days 00:00:20.020000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-05-28,1
+Terry Gardner,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.17,20.17,0 days 00:00:20.170000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-02-23,1
+Shawn McLin,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.20,20.2,0 days 00:00:20.200000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1984-05-25,1
+Brandon Collins,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.21,20.21,0 days 00:00:20.210000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-06-25,1
+Ales Volcansek,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.23,20.23,0 days 00:00:20.230000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-04-26,1
+Joseph Pascale,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.26,20.26,0 days 00:00:20.260000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-06-21,1
+Andrew Sullivant,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.28,20.28,0 days 00:00:20.280000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-12-30,1
+Daniel Blanchard,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.29,20.29,0 days 00:00:20.290000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-09-02,1
+Todd Minnier,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.30,20.3,0 days 00:00:20.300000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1982-03-26,1
+Dale Rogers,50 Freestyle SCY Male,50,Freestyle,SCY,Male,20.33,20.33,0 days 00:00:20.330000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-09-11,1
+Eileen Coparropa,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.57,48.57,0 days 00:00:48.570000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-03-31,2
+Becky Davis,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.99,48.99,0 days 00:00:48.990000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-05-07,2
+Christina Swindle,100 Freestyle SCY Female,100,Freestyle,SCY,Female,49.28,49.28,0 days 00:00:49.280000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-06,2
+Heather Kemp,100 Freestyle SCY Female,100,Freestyle,SCY,Female,49.33,49.33,0 days 00:00:49.330000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-09-03,2
+Jana Kolukanova-Haitz,100 Freestyle SCY Female,100,Freestyle,SCY,Female,49.37,49.37,0 days 00:00:49.370000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-08-04,2
+Danielle Townsend,100 Freestyle SCY Female,100,Freestyle,SCY,Female,49.46,49.46,0 days 00:00:49.460000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-08-07,2
+Laura Pomeroy,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.16,50.16,0 days 00:00:50.160000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-12-19,2
+Carly Ryan,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.30,50.3,0 days 00:00:50.300000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-09-23,2
+Sarah Hernandez,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.31,50.31,0 days 00:00:50.310000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1984-10-02,2
+Bethany Pendleton,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.32,50.32,0 days 00:00:50.320000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-04-15,2
+Michelle Bird,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.35,50.35,0 days 00:00:50.350000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-03-09,2
+Tamberly Klemmer,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.36,50.36,0 days 00:00:50.360000,2004-02-18,2004.0,Michigan State University,2004 B1G 10 Champs women  ,1983-03-27,2
+Catherine Koch,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.41,50.41,0 days 00:00:50.410000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-08-19,2
+Leane Darling,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.49,50.49,0 days 00:00:50.490000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1985-08-07,2
+Michelle Vlasakova,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.52,50.52,0 days 00:00:50.520000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-10-15,2
+Celina Lemmen,100 Freestyle SCY Female,100,Freestyle,SCY,Female,50.61,50.61,0 days 00:00:50.610000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1985-03-02,2
+Frederick Bousquet,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.53,42.53,0 days 00:00:42.530000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-04-08,2
+Ryan Wochomurka,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.87,42.87,0 days 00:00:42.870000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-06-20,2
+Terrence Silkaitis,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.07,43.07,0 days 00:00:43.070000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-08-17,2
+Matthew Rose,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.53,43.53,0 days 00:00:43.530000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1981-07-10,2
+Derek Gibb,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.55,43.55,0 days 00:00:43.550000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-03-02,2
+Neil Osten,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.72,43.72,0 days 00:00:43.720000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-05-28,2
+Todd Minnier,100 Freestyle SCY Male,100,Freestyle,SCY,Male,43.88,43.88,0 days 00:00:43.880000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1982-03-26,2
+Bryan Lundquist,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.06,44.06,0 days 00:00:44.060000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-05-30,2
+Daniel Blanchard,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.23,44.23,0 days 00:00:44.230000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-09-02,2
+Raymond Rosal,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.38,44.38,0 days 00:00:44.380000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1981-05-23,2
+Andrew Sullivant,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.42,44.42,0 days 00:00:44.420000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-12-30,2
+Scott Mueller,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.60,44.6,0 days 00:00:44.600000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-05-03,2
+Walter Newmann,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.61,44.61,0 days 00:00:44.610000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-02-07,2
+Daryl Northrop,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.62,44.62,0 days 00:00:44.620000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1983-07-11,2
+Dale Rogers,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.69,44.69,0 days 00:00:44.690000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-09-11,2
+Terry Gardner,100 Freestyle SCY Male,100,Freestyle,SCY,Male,44.85,44.85,0 days 00:00:44.850000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-02-23,2
+Margaret Hoelzer,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:45.26,105.26,0 days 00:01:45.260000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-03-30,3
+Georgina Lee,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:45.52,105.52,0 days 00:01:45.520000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1981-08-14,3
+Heather Kemp,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:46.20,106.2,0 days 00:01:46.200000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-09-03,3
+Carly Ryan,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:47.04,107.04,0 days 00:01:47.040000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1983-09-23,3
+Celina Lemmen,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:47.55,107.55,0 days 00:01:47.550000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1985-03-02,3
+Bethany Pendleton,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:47.72,107.72,0 days 00:01:47.720000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1982-04-15,3
+Kalyn Keller,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:47.87,107.87,0 days 00:01:47.870000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-04-03,3
+Becky Davis,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:48.02,108.02,0 days 00:01:48.020000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-05-07,3
+Danielle Townsend,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:48.21,108.21,0 days 00:01:48.210000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-08-07,3
+Lisa Wanberg,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:48.21,108.21,0 days 00:01:48.210000,2003-12-04,2004.0,Southern Methodist University,2003  ST Univ. of Texas Invi SCY,1979-02-18,3
+Jeri Moss,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:48.47,108.47,0 days 00:01:48.470000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-23,3
+Susanna Grundlingh,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:48.50,108.5,0 days 00:01:48.500000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-01-14,3
+Catherine Koch,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:48.57,108.57,0 days 00:01:48.570000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-08-19,3
+Leslie Lunsmann,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:48.91,108.91,0 days 00:01:48.910000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-07-01,3
+Anna Heidinger,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:49.65,109.65,0 days 00:01:49.650000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-08-01,3
+Lotta Wanberg,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:49.76,109.76,0 days 00:01:49.760000,2003-12-04,2004.0,Southern Methodist University,2003  ST Univ. of Texas Invi SCY,1979-02-18,3
+Terrence Silkaitis,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:34.42,94.42,0 days 00:01:34.420000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-08-17,3
+George Bovell,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:34.54,94.54,0 days 00:01:34.540000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-07-18,3
+Benjamin Jones,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:35.54,95.54,0 days 00:01:35.540000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-07-07,3
+Todd Minnier,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:36.17,96.17,0 days 00:01:36.170000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1982-03-26,3
+Trent Staley,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:36.67,96.67,0 days 00:01:36.670000,2004-03-03,2004.0,University of Southern California,2004 PAC-10 Champs men,1982-01-08,3
+Scott Mueller,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:36.92,96.92,0 days 00:01:36.920000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-05-03,3
+Joseph Schneider,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:37.18,97.18,0 days 00:01:37.180000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-07-04,3
+Eric Wiesner,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:37.49,97.49,0 days 00:01:37.490000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-03-05,3
+Bryan Lundquist,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:37.59,97.59,0 days 00:01:37.590000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-05-30,3
+Sean McCaffrey,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:37.83,97.83,0 days 00:01:37.830000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1982-11-13,3
+Wesley Flatt,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:38.01,98.01,0 days 00:01:38.010000,2004-03-06,2004.0,Auburn University,2004 GA G.T. Yellow Jacket Inv,1985-01-22,3
+Jason Vadney,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:38.38,98.38,0 days 00:01:38.380000,2004-02-26,2004.0,Michigan State University,2004 IN  Big Ten Men,1985-02-16,3
+Matthew Marshall,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:38.43,98.43,0 days 00:01:38.430000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1982-07-12,3
+Gergely Meszaros,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:38.59,98.59,0 days 00:01:38.590000,2004-03-03,2004.0,University of Southern California,2004 PAC-10 Champs men,1984-05-21,3
+Walter Newmann,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:39.05,99.05,0 days 00:01:39.050000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-02-07,3
+Christopher Anderson,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:39.06,99.06,0 days 00:01:39.060000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1982-03-27,3
+Kalyn Keller,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.76,277.76,0 days 00:04:37.760000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-04-03,4
+Georgina Lee,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:43.51,283.51,0 days 00:04:43.510000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1981-08-14,4
+Carly Ryan,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:43.72,283.72,0 days 00:04:43.720000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1983-09-23,4
+Adrienne Binder,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:44.15,284.15,0 days 00:04:44.150000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-03-20,4
+Heather Kemp,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:46.29,286.29,0 days 00:04:46.290000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-09-03,4
+Susanna Grundlingh,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:46.38,286.38,0 days 00:04:46.380000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-01-14,4
+Elizabeth Lavell,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:47.44,287.44,0 days 00:04:47.440000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1982-03-04,4
+Magdelena Dyszkiewicz,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:48.30,288.3,0 days 00:04:48.300000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-09-12,4
+Hayley Peirsol,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:49.83,289.83,0 days 00:04:49.830000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-08-09,4
+Sarah Daly,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:50.18,290.18,0 days 00:04:50.180000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1985-08-29,4
+Celina Lemmen,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:51.66,291.66,0 days 00:04:51.660000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1985-03-02,4
+Brittany Davis,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:51.75,291.75,0 days 00:04:51.750000,2004-02-18,2004.0,Brigham Young University,2004 OK Mountain West Conference,1985-04-09,4
+Tiffany Gowens,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:52.07,292.07,0 days 00:04:52.070000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-01-13,4
+Debra Forinash,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:55.31,295.31,0 days 00:04:55.310000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1982-08-23,4
+Emily Carpenter,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:56.34,296.34,0 days 00:04:56.340000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1983-06-29,4
+Rachael Curci,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:57.42,297.42,0 days 00:04:57.420000,2004-02-18,2004.0,University of Utah,2004 OK Mountain West Conference,1985-05-14,4
+Benjamin Jones,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:17.35,257.35,0 days 00:04:17.350000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-07-07,4
+Joseph Schneider,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:22.76,262.76,0 days 00:04:22.760000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-07-04,4
+Daniel Slocki,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:22.77,262.77,0 days 00:04:22.770000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-24,4
+Travis Beckerle,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:24.42,264.42,0 days 00:04:24.420000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1984-06-03,4
+Jason Vadney,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:26.20,266.2,0 days 00:04:26.200000,2004-02-26,2004.0,Michigan State University,2004 IN  Big Ten Men,1985-02-16,4
+Nathan Knopf,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:26.32,266.32,0 days 00:04:26.320000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-01-24,4
+Zachary Wood,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:26.88,266.88,0 days 00:04:26.880000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1985-05-09,4
+Casey Dauw,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:28.29,268.29,0 days 00:04:28.290000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1984-08-04,4
+Ferdinand Postma,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:29.31,269.31,0 days 00:04:29.310000,2003-12-18,2004.0,Southern Methodist University,2003 OK KERR-MCGEE PRO-AM Elite Meet,1982-10-16,4
+David Moulder,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:29.85,269.85,0 days 00:04:29.850000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-06-10,4
+Dustin Thompson,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:30.47,270.47,0 days 00:04:30.470000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1983-05-26,4
+Michael Hamm,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:31.16,271.16,0 days 00:04:31.160000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1983-10-15,4
+Christopher Franklin,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:31.85,271.85,0 days 00:04:31.850000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1985-02-01,4
+Joel Travnicek,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:32.10,272.1,0 days 00:04:32.100000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1981-12-29,4
+Ryan Sciortino,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:32.56,272.56,0 days 00:04:32.560000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1983-04-30,4
+Martin Tomes,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:32.60,272.6,0 days 00:04:32.600000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1983-10-31,4
+Kalyn Keller,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:34.72,574.72,0 days 00:09:34.720000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-04-03,5
+Marta Stepanczuk,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,10:38.17,638.17,0 days 00:10:38.170000,2003-10-18,2004.0,University of Utah,2003 UT OCT SENIOR MEET,1981-09-20,5
+Cortney Hazelrigg,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,12:18.10,738.1,0 days 00:12:18.100000,2003-10-10,2004.0,Missouri State University (W),2003 MV Fall Halloween Classic,1990-08-07,5
+Zachary Wood,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:18.60,558.6,0 days 00:09:18.600000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1985-05-09,5
+Ferdinand Postma,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:27.75,567.75,0 days 00:09:27.750000,2003-12-18,2004.0,Southern Methodist University,2003 OK KERR-MCGEE PRO-AM Elite Meet,1982-10-16,5
+Matthew Chute,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:53.32,593.32,0 days 00:09:53.320000,2004-03-05,2004.0,Ohio State University,2004 OH Senior Champs,1983-12-31,5
+Shea Taylor,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,11:17.01,677.01,0 days 00:11:17.010000,2003-10-10,2004.0,Missouri State University (W),2003 MV Fall Halloween Classic,1988-10-10,5
+Brent Waters,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,12:27.72,747.72,0 days 00:12:27.720000,2003-10-10,2004.0,Missouri State University (W),2003 MV Fall Halloween Classic,1987-03-24,5
+Kalyn Keller,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:48.99,948.99,0 days 00:15:48.990000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-04-03,6
+Adrienne Binder,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:51.70,951.7,0 days 00:15:51.700000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-03-20,6
+Carly Ryan,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:12.48,972.48,0 days 00:16:12.480000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-09-23,6
+Hayley Peirsol,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:13.94,973.94,0 days 00:16:13.940000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-08-09,6
+Elizabeth Lavell,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:22.07,982.07,0 days 00:16:22.070000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1982-03-04,6
+Sarah Daly,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:31.63,991.63,0 days 00:16:31.630000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1985-08-29,6
+Susanna Grundlingh,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:34.71,994.71,0 days 00:16:34.710000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-01-14,6
+Magdelena Dyszkiewicz,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:40.41,1000.41,0 days 00:16:40.410000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-09-12,6
+Rachael Curci,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:43.05,1003.05,0 days 00:16:43.050000,2004-02-18,2004.0,University of Utah,2004 OK Mountain West Conference,1985-05-14,6
+Tiffany Gowens,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:57.73,1017.73,0 days 00:16:57.730000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-01-13,6
+Lindsay Hansen,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:06.67,1026.67,0 days 00:17:06.670000,2003-11-20,2004.0,University of Connecticut,2003 PV Terrapin Cup Invitational,1982-09-11,6
+Kathryn Fancher,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:13.47,1033.47,0 days 00:17:13.470000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-03-05,6
+Rebecca Johansson,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:19.64,1039.64,0 days 00:17:19.640000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1984-07-29,6
+Amanda Rice,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:30.30,1050.3,0 days 00:17:30.300000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1985-08-17,6
+Elizabeth Klanderman,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,17:42.25,1062.25,0 days 00:17:42.250000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1985-05-24,6
+Cortney Hazelrigg,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,20:44.31,1244.31,0 days 00:20:44.310000,2003-10-10,2004.0,Missouri State University (W),2003 MV Fall Halloween Classic,1990-08-07,6
+Nathan Knopf,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:09.49,909.49,0 days 00:15:09.490000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-01-24,6
+Benjamin Jones,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:17.58,917.58,0 days 00:15:17.580000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-07-07,6
+Travis Beckerle,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:18.57,918.57,0 days 00:15:18.570000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1984-06-03,6
+Zachary Wood,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:21.20,921.2,0 days 00:15:21.200000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1985-05-09,6
+Daniel Slocki,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:25.92,925.92,0 days 00:15:25.920000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-24,6
+David Moulder,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:30.96,930.96,0 days 00:15:30.960000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-06-10,6
+Michael Kauffman,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:37.03,937.03,0 days 00:15:37.030000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1983-10-24,6
+Patrick Healy,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:43.41,943.41,0 days 00:15:43.410000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1984-08-26,6
+Ryan Sciortino,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:48.68,948.68,0 days 00:15:48.680000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1983-04-30,6
+Paul Fahey,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:48.81,948.81,0 days 00:15:48.810000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1983-05-21,6
+Joel Travnicek,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:54.43,954.43,0 days 00:15:54.430000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1981-12-29,6
+Michael Hamm,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:55.23,955.23,0 days 00:15:55.230000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-10-15,6
+Mark Solomon,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:55.39,955.39,0 days 00:15:55.390000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-08-16,6
+Matthew Peterson,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,15:58.86,958.86,0 days 00:15:58.860000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1982-02-01,6
+Joseph Ebinger,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,16:00.69,960.69,0 days 00:16:00.690000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1984-07-29,6
+Andrew Ackley,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,16:01.43,961.43,0 days 00:16:01.430000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-11-10,6
+Margaret Hoelzer,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.54,52.54,0 days 00:00:52.540000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-03-30,12
+Rebecca Sturdy,100 Backstroke SCY Female,100,Backstroke,SCY,Female,53.64,53.64,0 days 00:00:53.640000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-02-09,12
+Sarah Haupt,100 Backstroke SCY Female,100,Backstroke,SCY,Female,53.78,53.78,0 days 00:00:53.780000,2004-02-18,2004.0,Pennsylvania State University,2004 B1G 10 Champs women  ,1983-09-01,12
+Courtney Patterson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,54.41,54.41,0 days 00:00:54.410000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-06-17,12
+Jeri Moss,100 Backstroke SCY Female,100,Backstroke,SCY,Female,54.61,54.61,0 days 00:00:54.610000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-23,12
+Jennifer Kellstrom,100 Backstroke SCY Female,100,Backstroke,SCY,Female,54.63,54.63,0 days 00:00:54.630000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-01-29,12
+Erin Volcan,100 Backstroke SCY Female,100,Backstroke,SCY,Female,54.70,54.7,0 days 00:00:54.700000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-01-12,12
+Megan Knepper,100 Backstroke SCY Female,100,Backstroke,SCY,Female,54.84,54.84,0 days 00:00:54.840000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1983-03-19,12
+Christina Swindle,100 Backstroke SCY Female,100,Backstroke,SCY,Female,55.16,55.16,0 days 00:00:55.160000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-06,12
+Brittany Davis,100 Backstroke SCY Female,100,Backstroke,SCY,Female,55.59,55.59,0 days 00:00:55.590000,2004-02-18,2004.0,Brigham Young University,2004 OK Mountain West Conference,1985-04-09,12
+Susan Johnson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,55.77,55.77,0 days 00:00:55.770000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1984-11-21,12
+Kaitlin Sandeno Hogan,100 Backstroke SCY Female,100,Backstroke,SCY,Female,56.05,56.05,0 days 00:00:56.050000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1983-03-13,12
+Molly Buhrandt,100 Backstroke SCY Female,100,Backstroke,SCY,Female,56.22,56.22,0 days 00:00:56.220000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-06-14,12
+Christina Thompson,100 Backstroke SCY Female,100,Backstroke,SCY,Female,56.23,56.23,0 days 00:00:56.230000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-06-09,12
+Catherine Koch,100 Backstroke SCY Female,100,Backstroke,SCY,Female,56.33,56.33,0 days 00:00:56.330000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-08-19,12
+Lindsay Leech,100 Backstroke SCY Female,100,Backstroke,SCY,Female,56.55,56.55,0 days 00:00:56.550000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-01-11,12
+Matthew Rose,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.91,46.91,0 days 00:00:46.910000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1981-07-10,12
+Raymond Hunt,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.94,46.94,0 days 00:00:46.940000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-07-07,12
+Adam Mania,100 Backstroke SCY Male,100,Backstroke,SCY,Male,47.07,47.07,0 days 00:00:47.070000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-08-31,12
+Chad Barlow,100 Backstroke SCY Male,100,Backstroke,SCY,Male,47.74,47.74,0 days 00:00:47.740000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-09-15,12
+Douglas Van Wie,100 Backstroke SCY Male,100,Backstroke,SCY,Male,47.85,47.85,0 days 00:00:47.850000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-31,12
+Derek Gibb,100 Backstroke SCY Male,100,Backstroke,SCY,Male,48.11,48.11,0 days 00:00:48.110000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-03-02,12
+Matthew Marshall,100 Backstroke SCY Male,100,Backstroke,SCY,Male,48.76,48.76,0 days 00:00:48.760000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-07-12,12
+Trent Staley,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.13,49.13,0 days 00:00:49.130000,2004-03-03,2004.0,University of Southern California,2004 PAC-10 Champs men,1982-01-08,12
+Calvin Zielsdorf,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.34,49.34,0 days 00:00:49.340000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-01-07,12
+Shawn McLin,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.36,49.36,0 days 00:00:49.360000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1984-05-25,12
+Daniel Berve,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.42,49.42,0 days 00:00:49.420000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1985-04-01,12
+Andreas Campioni,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.43,49.43,0 days 00:00:49.430000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1979-06-13,12
+Nathan Torok,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.65,49.65,0 days 00:00:49.650000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1985-01-19,12
+Daniel Blanchard,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.83,49.83,0 days 00:00:49.830000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-09-02,12
+Joshua Fulton,100 Backstroke SCY Male,100,Backstroke,SCY,Male,49.93,49.93,0 days 00:00:49.930000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1982-08-25,12
+Ales Volcansek,100 Backstroke SCY Male,100,Backstroke,SCY,Male,50.15,50.15,0 days 00:00:50.150000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-04-26,12
+Kirsty Coventry,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.15,113.15,0 days 00:01:53.150000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-09-16,13
+Erin Volcan,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:55.70,115.7,0 days 00:01:55.700000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-01-12,13
+Rebecca Sturdy,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:56.26,116.26,0 days 00:01:56.260000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-02-09,13
+Susan Johnson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:57.10,117.1,0 days 00:01:57.100000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-11-21,13
+Brittany Davis,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:58.00,118.0,0 days 00:01:58,2004-02-18,2004.0,Brigham Young University,2004 OK Mountain West Conference,1985-04-09,13
+Jeri Moss,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:58.23,118.23,0 days 00:01:58.230000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-23,13
+Joanna Fargus,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:59.09,119.09,0 days 00:01:59.090000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1982-01-03,13
+Erin Morris,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:59.15,119.15,0 days 00:01:59.150000,2004-02-26,2004.0,Pennsylvania State University,2004 ECAC Champs,1984-10-20,13
+Courtney Patterson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:59.45,119.45,0 days 00:01:59.450000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-06-17,13
+Megan Knepper,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:59.49,119.49,0 days 00:01:59.490000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1983-03-19,13
+Astrid Sperling,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:00.47,120.47,0 days 00:02:00.470000,2003-11-21,2004.0,University of Maryland Baltimore County (M),2003 PV Patriot Invitational,1980-07-07,13
+Kara Morelli,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:02.15,122.15,0 days 00:02:02.150000,2004-03-04,2004.0,Texas A&M University,2004 ST American SC Champs,1984-02-28,13
+Aleksandra Miciul,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:02.24,122.24,0 days 00:02:02.240000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1982-12-28,13
+Christina Thompson,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:02.28,122.28,0 days 00:02:02.280000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-06-09,13
+Inbal Levavi,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:02.30,122.3,0 days 00:02:02.300000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1984-01-12,13
+Tawnie Bethune,200 Backstroke SCY Female,200,Backstroke,SCY,Female,2:02.45,122.45,0 days 00:02:02.450000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-13,13
+Raymond Hunt,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.48,101.48,0 days 00:01:41.480000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-07-07,13
+Chad Barlow,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.87,102.87,0 days 00:01:42.870000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-09-15,13
+Douglas Van Wie,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:43.23,103.23,0 days 00:01:43.230000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-31,13
+Adam Mania,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:44.58,104.58,0 days 00:01:44.580000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-08-31,13
+Diego Urreta,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:45.57,105.57,0 days 00:01:45.570000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-03-04,13
+Adam Mitchell,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:45.79,105.79,0 days 00:01:45.790000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1984-01-06,13
+Joshua Hill,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:46.40,106.4,0 days 00:01:46.400000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1981-12-01,13
+Nathan Torok,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:46.99,106.99,0 days 00:01:46.990000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1985-01-19,13
+Trent Staley,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:47.00,107.0,0 days 00:01:47,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1982-01-08,13
+Christopher Franklin,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:47.23,107.23,0 days 00:01:47.230000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1985-02-01,13
+Nathan King,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:47.37,107.37,0 days 00:01:47.370000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1985-03-29,13
+Matthew Neal,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:47.66,107.66,0 days 00:01:47.660000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-07-13,13
+Shawn McLin,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:47.89,107.89,0 days 00:01:47.890000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1984-05-25,13
+Matthew Rose,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:47.98,107.98,0 days 00:01:47.980000,2004-03-04,2004.0,Texas A&M University,2004 ST American SC Champs,1981-07-10,13
+Andreas Campioni,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:48.16,108.16,0 days 00:01:48.160000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1979-06-13,13
+Calvin Zielsdorf,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:48.35,108.35,0 days 00:01:48.350000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-01-07,13
+Erin Briskie,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:01.22,61.22,0 days 00:01:01.220000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-07-05,15
+Amalia Sarnecki,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:02.44,62.44,0 days 00:01:02.440000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1984-05-04,15
+Laura Templin,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:02.52,62.52,0 days 00:01:02.520000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-01-05,15
+Anne Amardeilh,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:03.12,63.12,0 days 00:01:03.120000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-02-15,15
+Kristina Sieper,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:03.46,63.46,0 days 00:01:03.460000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-11-26,15
+Amy Wheatley,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:03.58,63.58,0 days 00:01:03.580000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-08-22,15
+Britney Pesek,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:03.76,63.76,0 days 00:01:03.760000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-03-21,15
+Laura Pomeroy,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:04.29,64.29,0 days 00:01:04.290000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-12-19,15
+Sara Nordenstam,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:04.68,64.68,0 days 00:01:04.680000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-02-28,15
+Elizabeth Andrade,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:04.79,64.79,0 days 00:01:04.790000,2003-11-22,2004.0,Northridge California State University,2003 CA CANY ABC 1103,1979-10-04,15
+Leeann Chang,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:05.07,65.07,0 days 00:01:05.070000,2004-02-26,2004.0,Harvard University,2004 NE  Women's Ivy Champs,1986-04-17,15
+Sierra Lewis,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:05.09,65.09,0 days 00:01:05.090000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-10-05,15
+Michelle Kohutek,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:05.10,65.1,0 days 00:01:05.100000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-10-08,15
+Kelly Jones,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:05.25,65.25,0 days 00:01:05.250000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-10-29,15
+Erin Kloos,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:05.62,65.62,0 days 00:01:05.620000,2003-12-05,2004.0,University of Washington,2003 IE CWU Invitational,1983-03-15,15
+Emily Paradis,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:05.62,65.62,0 days 00:01:05.620000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-07-11,15
+Mark Gangloff,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,53.21,53.21,0 days 00:00:53.210000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-06-08,15
+Mihail Alexandrov,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,53.44,53.44,0 days 00:00:53.440000,2004-02-26,2004.0,Northwestern University,2004 IN  Big Ten Men,1985-04-09,15
+Ian Clutten,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,54.24,54.24,0 days 00:00:54.240000,2004-02-26,2004.0,Michigan State University,2004 IN  Big Ten Men,1983-08-23,15
+Andrew Bree,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,54.58,54.58,0 days 00:00:54.580000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1981-03-16,15
+Alfredo Jacobo,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.14,55.14,0 days 00:00:55.140000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-04-07,15
+Kevin Zakrzewski,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.15,55.15,0 days 00:00:55.150000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1981-12-10,15
+Rob Kauscher,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.30,55.3,0 days 00:00:55.300000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1983-07-17,15
+Sean Osborne,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.39,55.39,0 days 00:00:55.390000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-09-26,15
+Spencer Raymond,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.46,55.46,0 days 00:00:55.460000,2003-11-20,2004.0,Syracuse University,2003 NC Nike Cup,1981-09-20,15
+Alejandro Jacobo,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.47,55.47,0 days 00:00:55.470000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1984-08-02,15
+Daniel Velez,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.54,55.54,0 days 00:00:55.540000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1983-12-09,15
+Kurt Cady,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.58,55.58,0 days 00:00:55.580000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-09-02,15
+David Friggel,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,55.75,55.75,0 days 00:00:55.750000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-08-06,15
+Matthew Jeffries,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,56.08,56.08,0 days 00:00:56.080000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1982-12-16,15
+Alexander Dawson,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,56.15,56.15,0 days 00:00:56.150000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-10-13,15
+Christopher Ippoliti,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,56.16,56.16,0 days 00:00:56.160000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1984-04-28,15
+Lauren Duerk,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:13.02,133.02,0 days 00:02:13.020000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-09,16
+Amalia Sarnecki,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:13.55,133.55,0 days 00:02:13.550000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-05-04,16
+Anne Amardeilh,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:14.84,134.84,0 days 00:02:14.840000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-02-15,16
+Amy Wheatley,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:15.16,135.16,0 days 00:02:15.160000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-08-22,16
+Erin Briskie,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:15.31,135.31,0 days 00:02:15.310000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-07-05,16
+Sara Nordenstam,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:16.70,136.7,0 days 00:02:16.700000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-02-28,16
+Leeann Chang,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:16.71,136.71,0 days 00:02:16.710000,2004-01-31,2004.0,Harvard University,2004 NJ Women's Harvard-Yale-Princeton,1986-04-17,16
+Michelle Kohutek,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:16.96,136.96,0 days 00:02:16.960000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-10-08,16
+Laura Templin,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:17.15,137.15,0 days 00:02:17.150000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-01-05,16
+Kristina Sieper,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:17.27,137.27,0 days 00:02:17.270000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-11-26,16
+Emily Paradis,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:17.63,137.63,0 days 00:02:17.630000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1982-07-11,16
+Elizabeth Andrade,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:18.20,138.2,0 days 00:02:18.200000,2003-11-22,2004.0,Northridge California State University,2003 CA CANY ABC 1103,1979-10-04,16
+Kelly Jones,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:19.61,139.61,0 days 00:02:19.610000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-10-29,16
+Erin Kloos,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:19.76,139.76,0 days 00:02:19.760000,2003-12-05,2004.0,University of Washington,2003 IE CWU Invitational,1983-03-15,16
+Sierra Lewis,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:20.81,140.81,0 days 00:02:20.810000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-10-05,16
+Britney Pesek,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:21.42,141.42,0 days 00:02:21.420000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-03-21,16
+Mark Gangloff,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:56.10,116.1,0 days 00:01:56.100000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-06-08,16
+Eric Shanteau,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:57.85,117.85,0 days 00:01:57.850000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-10-01,16
+Andrew Bree,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:57.96,117.96,0 days 00:01:57.960000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1981-03-16,16
+Alejandro Jacobo,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:59.21,119.21,0 days 00:01:59.210000,2004-03-04,2004.0,University of Minnesota,2004 ST American SC Champs,1984-08-02,16
+Ian Clutten,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:59.22,119.22,0 days 00:01:59.220000,2004-02-26,2004.0,Michigan State University,2004 IN  Big Ten Men,1983-08-23,16
+Sean Osborne,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:59.45,119.45,0 days 00:01:59.450000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-09-26,16
+Alexander Dawson,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:59.79,119.79,0 days 00:01:59.790000,2004-03-04,2004.0,Texas A&M University,2004 ST American SC Champs,1983-10-13,16
+Alfredo Jacobo,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:01.02,121.02,0 days 00:02:01.020000,2004-03-04,2004.0,Texas A&M University,2004 ST American SC Champs,1982-04-07,16
+Daniel Velez,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:01.08,121.08,0 days 00:02:01.080000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1983-12-09,16
+Dustin Chalfant,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:01.52,121.52,0 days 00:02:01.520000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-06-18,16
+Christopher Plummer,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:01.64,121.64,0 days 00:02:01.640000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-11-27,16
+Mihail Alexandrov,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:02.10,122.1,0 days 00:02:02.100000,2004-01-30,2004.0,Northwestern University,2004 WI Schroeder YMCA A+,1985-04-09,16
+Nathan Bernier,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:02.61,122.61,0 days 00:02:02.610000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-01-05,16
+David Friggel,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:02.62,122.62,0 days 00:02:02.620000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-08-06,16
+Rob Kauscher,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:02.93,122.93,0 days 00:02:02.930000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1983-07-17,16
+Michael Russo,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,2:03.08,123.08,0 days 00:02:03.080000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1984-05-26,16
+Margaret Hoelzer,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.52,52.52,0 days 00:00:52.520000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-03-30,18
+Demerae Christianson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.64,52.64,0 days 00:00:52.640000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-10-13,18
+Georgina Lee,100 Butterfly SCY Female,100,Butterfly,SCY,Female,53.33,53.33,0 days 00:00:53.330000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1981-08-14,18
+Jana Krohn,100 Butterfly SCY Female,100,Butterfly,SCY,Female,53.85,53.85,0 days 00:00:53.850000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1981-12-14,18
+Susan Johnson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,54.41,54.41,0 days 00:00:54.410000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1984-11-21,18
+Alessandra Lawless,100 Butterfly SCY Female,100,Butterfly,SCY,Female,54.64,54.64,0 days 00:00:54.640000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-04-10,18
+Leslie Lunsmann,100 Butterfly SCY Female,100,Butterfly,SCY,Female,55.04,55.04,0 days 00:00:55.040000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-07-01,18
+Tawnie Bethune,100 Butterfly SCY Female,100,Butterfly,SCY,Female,55.31,55.31,0 days 00:00:55.310000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-13,18
+Michelle Bird,100 Butterfly SCY Female,100,Butterfly,SCY,Female,55.43,55.43,0 days 00:00:55.430000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-03-09,18
+Sarah Hernandez,100 Butterfly SCY Female,100,Butterfly,SCY,Female,55.73,55.73,0 days 00:00:55.730000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-10-02,18
+Eileen Coparropa,100 Butterfly SCY Female,100,Butterfly,SCY,Female,55.88,55.88,0 days 00:00:55.880000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-03-31,18
+Caitlin Robinson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,55.92,55.92,0 days 00:00:55.920000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1985-06-04,18
+Kathryn Lietzau,100 Butterfly SCY Female,100,Butterfly,SCY,Female,56.09,56.09,0 days 00:00:56.090000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-05-25,18
+Martina Hrdinova,100 Butterfly SCY Female,100,Butterfly,SCY,Female,56.14,56.14,0 days 00:00:56.140000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1984-06-04,18
+Jenna Bickell,100 Butterfly SCY Female,100,Butterfly,SCY,Female,56.90,56.9,0 days 00:00:56.900000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-08-04,18
+Kara Morelli,100 Butterfly SCY Female,100,Butterfly,SCY,Female,56.99,56.99,0 days 00:00:56.990000,2004-03-04,2004.0,Texas A&M University,2004 ST American SC Champs,1984-02-28,18
+Frederick Bousquet,100 Butterfly SCY Male,100,Butterfly,SCY,Male,47.06,47.06,0 days 00:00:47.060000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-04-08,18
+Raymond Hunt,100 Butterfly SCY Male,100,Butterfly,SCY,Male,47.21,47.21,0 days 00:00:47.210000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-07-07,18
+Walter Newmann,100 Butterfly SCY Male,100,Butterfly,SCY,Male,47.60,47.6,0 days 00:00:47.600000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-02-07,18
+Neil Osten,100 Butterfly SCY Male,100,Butterfly,SCY,Male,47.85,47.85,0 days 00:00:47.850000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-05-28,18
+Ryan Wochomurka,100 Butterfly SCY Male,100,Butterfly,SCY,Male,47.93,47.93,0 days 00:00:47.930000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-06-20,18
+Matthew Marshall,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.05,48.05,0 days 00:00:48.050000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-07-12,18
+Brian Gettelfinger,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.13,48.13,0 days 00:00:48.130000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-07-22,18
+Chad Barlow,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.43,48.43,0 days 00:00:48.430000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-09-15,18
+Dustin Rogers,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.43,48.43,0 days 00:00:48.430000,2004-03-04,2004.0,University of Connecticut,2004 ST American SC Champs,1982-04-15,18
+Lyle Babcock,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.51,48.51,0 days 00:00:48.510000,2004-03-04,2004.0,Auburn University,2004 ST American SC Champs,1983-10-03,18
+Adam Mania,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.69,48.69,0 days 00:00:48.690000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-08-31,18
+Bryan Lundquist,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.77,48.77,0 days 00:00:48.770000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-05-30,18
+Christopher Nelan,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.84,48.84,0 days 00:00:48.840000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1980-10-29,18
+Daniel Berve,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.85,48.85,0 days 00:00:48.850000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1985-04-01,18
+Martin Tomes,100 Butterfly SCY Male,100,Butterfly,SCY,Male,48.89,48.89,0 days 00:00:48.890000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1983-10-31,18
+Michael Anstrom,100 Butterfly SCY Male,100,Butterfly,SCY,Male,49.28,49.28,0 days 00:00:49.280000,2003-11-20,2004.0,Syracuse University,2003 NC Nike Cup,1982-10-22,18
+Georgina Lee,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.23,115.23,0 days 00:01:55.230000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1981-08-14,19
+Demerae Christianson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.53,115.53,0 days 00:01:55.530000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-10-13,19
+Tawnie Bethune,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:58.96,118.96,0 days 00:01:58.960000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-10-13,19
+Jana Krohn,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:59.54,119.54,0 days 00:01:59.540000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1981-12-14,19
+Kalyn Keller,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:00.12,120.12,0 days 00:02:00.120000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-04-03,19
+Kaitlin Sandeno Hogan,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:00.54,120.54,0 days 00:02:00.540000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1983-03-13,19
+Jenna Bickell,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:01.47,121.47,0 days 00:02:01.470000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-08-04,19
+Kathryn Lietzau,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:02.37,122.37,0 days 00:02:02.370000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-05-25,19
+Alessandra Lawless,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:02.43,122.43,0 days 00:02:02.430000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-04-10,19
+Meghan Nebera,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:02.71,122.71,0 days 00:02:02.710000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-07-24,19
+Andrea Cassidy,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:03.17,123.17,0 days 00:02:03.170000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1982-07-14,19
+Elizabeth Lavell,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:03.55,123.55,0 days 00:02:03.550000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1982-03-04,19
+Kara Morelli,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:04.23,124.23,0 days 00:02:04.230000,2004-02-26,2004.0,Texas A&M University,2004 GU SpringSect Champs,1984-02-28,19
+Christina Thompson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:05.29,125.29,0 days 00:02:05.290000,2004-03-04,2004.0,Texas A&M University,2004 ST American SC Champs,1983-06-09,19
+Caitlin Robinson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:05.50,125.5,0 days 00:02:05.500000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1985-06-04,19
+Leeann Chang,200 Butterfly SCY Female,200,Butterfly,SCY,Female,2:06.04,126.04,0 days 00:02:06.040000,2003-12-11,2004.0,Harvard University,2003 NE North Shore Swim Invit,1986-04-17,19
+Jeremy Knowles,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.50,103.5,0 days 00:01:43.500000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-08-30,19
+Matthew Marshall,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:46.50,106.5,0 days 00:01:46.500000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-07-12,19
+Kurt Cady,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:46.74,106.74,0 days 00:01:46.740000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-09-02,19
+Mark Johnson,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:46.89,106.89,0 days 00:01:46.890000,2004-03-04,2004.0,Auburn University,2004 ST American SC Champs,1985-01-03,19
+Lyle Babcock,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:47.81,107.81,0 days 00:01:47.810000,2004-03-04,2004.0,Auburn University,2004 ST American SC Champs,1983-10-03,19
+Patrick Torpey,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:47.82,107.82,0 days 00:01:47.820000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1981-12-02,19
+Dustin Thompson,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:47.84,107.84,0 days 00:01:47.840000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1983-05-26,19
+John Scott,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:48.36,108.36,0 days 00:01:48.360000,2004-03-04,2004.0,Auburn University,2004 ST American SC Champs,1984-09-20,19
+Martin Tomes,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:48.47,108.47,0 days 00:01:48.470000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1983-10-31,19
+Brian Gettelfinger,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:49.40,109.4,0 days 00:01:49.400000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-07-22,19
+Zachary Wood,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:49.82,109.82,0 days 00:01:49.820000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1985-05-09,19
+Walter Newmann,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:49.93,109.93,0 days 00:01:49.930000,2004-03-04,2004.0,Texas A&M University,2004 ST American SC Champs,1984-02-07,19
+Ferdinand Postma,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:50.07,110.07,0 days 00:01:50.070000,2003-12-18,2004.0,Southern Methodist University,2003 OK KERR-MCGEE PRO-AM Elite Meet,1982-10-16,19
+Devin Saez,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:50.40,110.4,0 days 00:01:50.400000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-10-05,19
+Scott Hansen,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:50.75,110.75,0 days 00:01:50.750000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-07-13,19
+Daniel Slocki,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:50.86,110.86,0 days 00:01:50.860000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-24,19
+Kirsty Coventry,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.90,116.9,0 days 00:01:56.900000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-09-16,21
+Danielle Townsend,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:59.74,119.74,0 days 00:01:59.740000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-08-07,21
+Bethany Pendleton,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:00.05,120.05,0 days 00:02:00.050000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1982-04-15,21
+Lauren Duerk,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:00.09,120.09,0 days 00:02:00.090000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-09,21
+Kaitlin Sandeno Hogan,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:00.64,120.64,0 days 00:02:00.640000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1983-03-13,21
+Rebecca Sturdy,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:00.84,120.84,0 days 00:02:00.840000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1985-02-09,21
+Leslie Lunsmann,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:01.22,121.22,0 days 00:02:01.220000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-07-01,21
+Anna Heidinger,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:01.34,121.34,0 days 00:02:01.340000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1984-08-01,21
+Emily Paradis,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:01.88,121.88,0 days 00:02:01.880000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1982-07-11,21
+Demerae Christianson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:01.92,121.92,0 days 00:02:01.920000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-10-13,21
+Susan Johnson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:02.37,122.37,0 days 00:02:02.370000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1984-11-21,21
+Erin Briskie,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:02.67,122.67,0 days 00:02:02.670000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1984-07-05,21
+Courtney Patterson,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:02.77,122.77,0 days 00:02:02.770000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-06-17,21
+Inbal Levavi,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:03.39,123.39,0 days 00:02:03.390000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1984-01-12,21
+Michelle Vlasakova,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:03.41,123.41,0 days 00:02:03.410000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-10-15,21
+Leeann Chang,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,2:03.82,123.82,0 days 00:02:03.820000,2004-02-26,2004.0,Harvard University,2004 NE  Women's Ivy Champs,1986-04-17,21
+George Bovell,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.73,103.73,0 days 00:01:43.730000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-07-18,21
+Mark Gangloff,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.69,104.69,0 days 00:01:44.690000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-06-08,21
+Eric Shanteau,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:45.36,105.36,0 days 00:01:45.360000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-10-01,21
+Adam Mitchell,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:46.05,106.05,0 days 00:01:46.050000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1984-01-06,21
+Mihail Alexandrov,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:46.25,106.25,0 days 00:01:46.250000,2004-02-26,2004.0,Northwestern University,2004 IN  Big Ten Men,1985-04-09,21
+Kurt Cady,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:46.71,106.71,0 days 00:01:46.710000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-09-02,21
+Adam Mania,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:46.99,106.99,0 days 00:01:46.990000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1983-08-31,21
+Jeremy Knowles,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:47.44,107.44,0 days 00:01:47.440000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-08-30,21
+Scott Mueller,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:47.79,107.79,0 days 00:01:47.790000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-05-03,21
+Andrew Bree,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:48.16,108.16,0 days 00:01:48.160000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1981-03-16,21
+Douglas Van Wie,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:48.31,108.31,0 days 00:01:48.310000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-31,21
+Christopher Plummer,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:48.42,108.42,0 days 00:01:48.420000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-11-27,21
+Diego Urreta,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:48.52,108.52,0 days 00:01:48.520000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-03-04,21
+Diogo Yabe,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:49.02,109.02,0 days 00:01:49.020000,2004-02-27,2004.0,Brigham Young University,2004 UT SENIOR INVITATIONAL,1980-08-08,21
+Calvin Zielsdorf,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:49.40,109.4,0 days 00:01:49.400000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-01-07,21
+Sean Osborne,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:50.01,110.01,0 days 00:01:50.010000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-09-26,21
+Kirsty Coventry,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:08.87,248.87,0 days 00:04:08.870000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-09-16,22
+Adrienne Binder,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:12.97,252.97,0 days 00:04:12.970000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-03-20,22
+Lauren Duerk,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:13.24,253.24,0 days 00:04:13.240000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1984-05-09,22
+Bethany Pendleton,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:13.65,253.65,0 days 00:04:13.650000,2003-12-04,2004.0,University of Wisconsin Madison,2003  ST Univ. of Texas Invi SCY,1982-04-15,22
+Elizabeth Lavell,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:15.43,255.43,0 days 00:04:15.430000,2003-11-20,2004.0,University of Maryland,2003 PV Terrapin Cup Invitational,1982-03-04,22
+Kalyn Keller,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:15.46,255.46,0 days 00:04:15.460000,2004-02-25,2004.0,University of Southern California,2004 CA Women's Pac-10 Champs,1985-04-03,22
+Emily Paradis,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:17.12,257.12,0 days 00:04:17.120000,2003-12-04,2004.0,University of Wisconsin Madison,2003 ST UT Invitational Time Tria,1982-07-11,22
+Kaitlin Sandeno Hogan,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:17.94,257.94,0 days 00:04:17.940000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1983-03-13,22
+Anne Amardeilh,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:18.70,258.7,0 days 00:04:18.700000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1982-02-15,22
+Inbal Levavi,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:19.57,259.57,0 days 00:04:19.570000,2004-02-18,2004.0,University of Maryland,2004 VA ACC Women's Championships,1984-01-12,22
+Andrea Cassidy,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:20.32,260.32,0 days 00:04:20.320000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1982-07-14,22
+Hayley Peirsol,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:21.54,261.54,0 days 00:04:21.540000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1985-08-09,22
+Sara Nordenstam,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:22.19,262.19,0 days 00:04:22.190000,2004-02-25,2004.0,Southern Methodist University,2004 ST WAC Championship Meet,1983-02-28,22
+Kathryn Lietzau,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:22.72,262.72,0 days 00:04:22.720000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-05-25,22
+Christina Thompson,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:24.15,264.15,0 days 00:04:24.150000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1983-06-09,22
+Kelsey Savage,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:24.29,264.29,0 days 00:04:24.290000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-10-04,22
+Eric Shanteau,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.68,224.68,0 days 00:03:44.680000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-10-01,22
+Mihail Alexandrov,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:48.48,228.48,0 days 00:03:48.480000,2004-02-26,2004.0,Northwestern University,2004 IN  Big Ten Men,1985-04-09,22
+Jeremy Knowles,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:48.48,228.48,0 days 00:03:48.480000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1981-08-30,22
+Adam Mitchell,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:49.33,229.33,0 days 00:03:49.330000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1984-01-06,22
+George Bovell,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:50.01,230.01,0 days 00:03:50.010000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-07-18,22
+Diego Urreta,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:50.45,230.45,0 days 00:03:50.450000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-03-04,22
+Casey Dauw,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:50.70,230.7,0 days 00:03:50.700000,2004-02-25,2004.0,University of Tennessee,2004 SEC Champs,1984-08-04,22
+Christopher Plummer,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:50.71,230.71,0 days 00:03:50.710000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1981-11-27,22
+Scott Mueller,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:51.25,231.25,0 days 00:03:51.250000,2004-02-25,2004.0,Texas A&M University,2004 ST Big 12 Championships,1982-05-03,22
+Dustin Thompson,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:53.99,233.99,0 days 00:03:53.990000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1983-05-26,22
+Trent Staley,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:56.81,236.81,0 days 00:03:56.810000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1982-01-08,22
+David Moulder,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:58.41,238.41,0 days 00:03:58.410000,2004-02-26,2004.0,University of Minnesota,2004 IN  Big Ten Men,1983-06-10,22
+Nathan Knopf,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:58.52,238.52,0 days 00:03:58.520000,2004-02-25,2004.0,Auburn University,2004 SEC Champs,1983-01-24,22
+Nathan King,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:59.47,239.47,0 days 00:03:59.470000,2004-02-26,2004.0,Ohio State University,2004 IN  Big Ten Men,1985-03-29,22
+Ryan Donaldson,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:59.85,239.85,0 days 00:03:59.850000,2003-12-04,2004.0,University of Southern California,2003  ST Univ. of Texas Invi SCY,1983-08-29,22
+Richard Kornacki,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,4:00.15,240.15,0 days 00:04:00.150000,2004-02-26,2004.0,Pennsylvania State University,2004 IN  Big Ten Men,1984-08-20,22

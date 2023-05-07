@@ -1,0 +1,452 @@
+name,event,distance,stroke,course,gender,time_(string),time_(seconds),time_(HH:MM:SS),date,season,team,meet,birth_date,event_id
+Arianna Vanderpool-Wallace,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.34,21.34,0 days 00:00:21.340000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-03-04,1
+Liv Jensen,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.50,21.5,0 days 00:00:21.500000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1990-04-24,1
+Margo Geer,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.79,21.79,0 days 00:00:21.790000,2011-03-17,2011.0,University of Arizona,2011 NCAA DI - Women,1992-03-17,1
+Jane Rose,50 Freestyle SCY Female,50,Freestyle,SCY,Female,21.97,21.97,0 days 00:00:21.970000,2011-02-17,2011.0,Louisiana State University,2011 SEC Champs,1988-03-13,1
+Sarah Bateman,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.00,22.0,0 days 00:00:22,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1990-06-15,1
+Ann Fittin,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.00,22.0,0 days 00:00:22,2011-02-17,2011.0,University of Maryland,2011 ACC Champs women,1989-06-30,1
+Lauren Perdue,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.01,22.01,0 days 00:00:22.010000,2011-03-17,2011.0,University of Virginia,2011 NCAA DI - Women,1991-06-25,1
+Kate Dwelley,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.04,22.04,0 days 00:00:22.040000,2011-02-23,2011.0,Stanford University,2011 PAC 10 Champs women,1989-02-10,1
+Amanda Kendall,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.04,22.04,0 days 00:00:22.040000,2011-02-16,2011.0,Louisiana State University,2011 SEC Champs,1991-01-16,1
+Elizabeth Webb,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.05,22.05,0 days 00:00:22.050000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1990-08-27,1
+Kasey Carlson,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.13,22.13,0 days 00:00:22.130000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1991-11-26,1
+Shara French,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.16,22.16,0 days 00:00:22.160000,2011-03-17,2011.0,University of Florida,2011 NCAA DI - Women,1989-12-01,1
+Maria Sommer,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.17,22.17,0 days 00:00:22.170000,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1989-07-19,1
+Samantha Woodward,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.17,22.17,0 days 00:00:22.170000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1990-12-05,1
+Bethany Adams,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.18,22.18,0 days 00:00:22.180000,2011-03-17,2011.0,University of Texas,2011 NCAA DI - Women,1991-08-23,1
+Kelsey Amundsen,50 Freestyle SCY Female,50,Freestyle,SCY,Female,22.20,22.2,0 days 00:00:22.200000,2011-02-24,2011.0,University of Texas,2011 Big 12 Championships,1990-12-12,1
+Nathan Adrian,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.66,18.66,0 days 00:00:18.660000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-12-07,1
+Adam Brown,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.72,18.72,0 days 00:00:18.720000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1989-01-16,1
+James Feigen,50 Freestyle SCY Male,50,Freestyle,SCY,Male,18.97,18.97,0 days 00:00:18.970000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1989-09-26,1
+Alexander Coville,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.01,19.01,0 days 00:00:19.010000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1988-07-17,1
+Adam Small,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.03,19.03,0 days 00:00:19.030000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1989-11-14,1
+Michael Richards,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.05,19.05,0 days 00:00:19.050000,2011-02-25,2011.0,University of Minnesota,2011 Big 10 Champs men ,1989-07-14,1
+Vladimir Morozov,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.06,19.06,0 days 00:00:19.060000,2011-03-02,2011.0,University of Southern California,2011 PAC 10 Champs men,1992-06-16,1
+Karl Krug,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.27,19.27,0 days 00:00:19.270000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1989-08-11,1
+Graeme Moore,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.36,19.36,0 days 00:00:19.360000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1989-01-28,1
+Kohlton Norys,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.38,19.38,0 days 00:00:19.380000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1989-07-07,1
+Drew Modrov,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.41,19.41,0 days 00:00:19.410000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1989-11-17,1
+Eric Bruck,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.42,19.42,0 days 00:00:19.420000,2011-03-24,2011.0,Clemson University,2011 NCAA DI - Men,1990-06-11,1
+Joshua Daniels,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.45,19.45,0 days 00:00:19.450000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-06-18,1
+Christopher Peterson,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.49,19.49,0 days 00:00:19.490000,2011-03-02,2011.0,UC Santa Barbara (M),2011 PAC 10 Champs men,1990-03-15,1
+Douglas Robison,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.49,19.49,0 days 00:00:19.490000,2011-03-24,2011.0,University of Virginia,2011 NCAA DI - Men,1988-12-05,1
+Aaron Wayne,50 Freestyle SCY Male,50,Freestyle,SCY,Male,19.51,19.51,0 days 00:00:19.510000,2011-03-02,2011.0,Stanford University,2011 PAC 10 Champs men,1990-10-10,1
+Arianna Vanderpool-Wallace,100 Freestyle SCY Female,100,Freestyle,SCY,Female,46.81,46.81,0 days 00:00:46.810000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-03-04,2
+Morgan Scroggy,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.58,47.58,0 days 00:00:47.580000,2011-03-19,2011.0,University of Georgia,2011 NCAA DI - Women,1988-08-02,2
+Kate Dwelley,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.62,47.62,0 days 00:00:47.620000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1989-02-10,2
+Margo Geer,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.70,47.7,0 days 00:00:47.700000,2011-03-17,2011.0,University of Arizona,2011 NCAA DI - Women,1992-03-17,2
+Lauren Perdue,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.88,47.88,0 days 00:00:47.880000,2011-02-16,2011.0,University of Virginia,2011 ACC Champs women,1991-06-25,2
+Amanda Kendall,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.90,47.9,0 days 00:00:47.900000,2011-02-16,2011.0,Louisiana State University,2011 SEC Champs,1991-01-16,2
+Liv Jensen,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.94,47.94,0 days 00:00:47.940000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1990-04-24,2
+Karlee Carver,100 Freestyle SCY Female,100,Freestyle,SCY,Female,47.98,47.98,0 days 00:00:47.980000,2011-02-23,2011.0,University of Texas,2011 Big 12 Championships,1990-01-24,2
+Megan Romano,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.07,48.07,0 days 00:00:48.070000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1991-02-02,2
+Hannah Wilson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.12,48.12,0 days 00:00:48.120000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1989-03-10,2
+Erica Dagg,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.17,48.17,0 days 00:00:48.170000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1989-05-28,2
+Andrea Murez,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.28,48.28,0 days 00:00:48.280000,2011-02-23,2011.0,Stanford University,2011 PAC 10 Champs women,1992-01-29,2
+Amber Boucher,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.33,48.33,0 days 00:00:48.330000,2011-02-23,2011.0,Boise State University,2011 WAC Champs,1989-09-23,2
+Kasey Carlson,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.48,48.48,0 days 00:00:48.480000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1991-11-26,2
+Megan Detro,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.48,48.48,0 days 00:00:48.480000,2011-02-16,2011.0,Ohio State University,2011 Big Ten Champs women,1990-08-16,2
+Ann Fittin,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.48,48.48,0 days 00:00:48.480000,2011-03-17,2011.0,University of Maryland,2011 NCAA DI - Women,1989-06-30,2
+Allison Schmitt,100 Freestyle SCY Female,100,Freestyle,SCY,Female,48.48,48.48,0 days 00:00:48.480000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1990-06-07,2
+Nathan Adrian,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.10,41.1,0 days 00:00:41.100000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-12-07,2
+James Feigen,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.66,41.66,0 days 00:00:41.660000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1989-09-26,2
+Adam Brown,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.75,41.75,0 days 00:00:41.750000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1989-01-16,2
+Vladimir Morozov,100 Freestyle SCY Male,100,Freestyle,SCY,Male,41.88,41.88,0 days 00:00:41.880000,2011-03-24,2011.0,University of Southern California,2011 NCAA DI - Men,1992-06-16,2
+Daxon Hill,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.06,42.06,0 days 00:00:42.060000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-12-20,2
+Graeme Moore,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.11,42.11,0 days 00:00:42.110000,2011-03-26,2011.0,University of California Berkeley,2011 NCAA DI - Men,1989-01-28,2
+Marcelo Chierighini,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.26,42.26,0 days 00:00:42.260000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1991-01-15,2
+Austin Staab,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.30,42.3,0 days 00:00:42.300000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1988-11-21,2
+Jakob Allen,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.32,42.32,0 days 00:00:42.320000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1989-05-18,2
+Douglas Robison,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.32,42.32,0 days 00:00:42.320000,2011-02-23,2011.0,University of Virginia,2011 ACC Champs men,1988-12-05,2
+Nimrod Shapira Bar-Or,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.37,42.37,0 days 00:00:42.370000,2011-03-26,2011.0,University of Arizona,2011 NCAA DI - Men,1989-04-25,2
+Brett Fraser,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.45,42.45,0 days 00:00:42.450000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-08-28,2
+Steven Cebertowicz,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.51,42.51,0 days 00:00:42.510000,2011-02-23,2011.0,University of North Carolina Chapel Hill,2011 ACC Champs men,1989-10-17,2
+Alexander Coville,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.51,42.51,0 days 00:00:42.510000,2011-03-02,2011.0,Stanford University,2011 PAC 10 Champs men,1988-07-17,2
+Adam Small,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.74,42.74,0 days 00:00:42.740000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1989-11-14,2
+Karl Krug,100 Freestyle SCY Male,100,Freestyle,SCY,Male,42.78,42.78,0 days 00:00:42.780000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1989-08-11,2
+Allison Schmitt,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.08,102.08,0 days 00:01:42.080000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1990-06-07,3
+Morgan Scroggy,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.46,102.46,0 days 00:01:42.460000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1988-08-02,3
+Lauren Perdue,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.51,102.51,0 days 00:01:42.510000,2011-03-17,2011.0,University of Virginia,2011 NCAA DI - Women,1991-06-25,3
+Karlee Carver,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:42.81,102.81,0 days 00:01:42.810000,2011-03-17,2011.0,University of Texas,2011 NCAA DI - Women,1990-01-24,3
+Sara Isakovic,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.63,103.63,0 days 00:01:43.630000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1988-06-09,3
+Megan Romano,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.74,103.74,0 days 00:01:43.740000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1991-02-02,3
+Lindsay Gendron,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.75,103.75,0 days 00:01:43.750000,2011-03-17,2011.0,University of Tennessee,2011 NCAA DI - Women,1992-10-16,3
+Brittany Strumbel,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:43.93,103.93,0 days 00:01:43.930000,2011-02-16,2011.0,Indiana University,2011 Big Ten Champs women,1990-05-27,3
+Alyssa Anderson,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.05,104.05,0 days 00:01:44.050000,2011-03-18,2011.0,University of Arizona,2011 NCAA DI - Women,1990-09-30,3
+Katinka Hosszu,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.06,104.06,0 days 00:01:44.060000,2011-02-23,2011.0,University of Southern California,2011 PAC 10 Champs women,1989-05-03,3
+Shara French,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.11,104.11,0 days 00:01:44.110000,2011-03-17,2011.0,University of Florida,2011 NCAA DI - Women,1989-12-01,3
+Kate Dwelley,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.14,104.14,0 days 00:01:44.140000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1989-02-10,3
+Shannon Vreeland,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.23,104.23,0 days 00:01:44.230000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1991-11-15,3
+Liliana Ibanez Lopez,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.54,104.54,0 days 00:01:44.540000,2011-02-23,2011.0,Texas A&M University,2011 Big 12 Championships,1991-01-30,3
+Samantha Cheverton,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.56,104.56,0 days 00:01:44.560000,2011-02-16,2011.0,Ohio State University,2011 Big Ten Champs women,1988-08-11,3
+Jamie Bohunicky,200 Freestyle SCY Female,200,Freestyle,SCY,Female,1:44.75,104.75,0 days 00:01:44.750000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1990-09-28,3
+Conor Dwyer,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:31.73,91.73,0 days 00:01:31.730000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-01-10,3
+Brett Fraser,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.21,92.21,0 days 00:01:32.210000,2011-03-24,2011.0,University of Florida,2011 NCAA DI - Men,1989-08-28,3
+Ryan Harrison,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.38,92.38,0 days 00:01:32.380000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1989-06-10,3
+Douglas Robison,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.52,92.52,0 days 00:01:32.520000,2011-02-23,2011.0,University of Virginia,2011 ACC Champs men,1988-12-05,3
+Daxon Hill,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.64,92.64,0 days 00:01:32.640000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-12-20,3
+Thomas Shields,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:32.75,92.75,0 days 00:01:32.750000,2011-03-25,2011.0,University of California Berkeley,2011 NCAA DI - Men,1991-07-11,3
+Clement Lefert,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.12,93.12,0 days 00:01:33.120000,2011-03-25,2011.0,University of Southern California,2011 NCAA DI - Men,1987-09-26,3
+Matthew McLean,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.22,93.22,0 days 00:01:33.220000,2011-03-24,2011.0,University of Virginia,2011 NCAA DI - Men,1988-05-13,3
+Dimitri Colupaev,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.47,93.47,0 days 00:01:33.470000,2011-03-24,2011.0,University of Southern California,2011 NCAA DI - Men,1990-01-29,3
+Nimrod Shapira Bar-Or,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.50,93.5,0 days 00:01:33.500000,2010-12-02,2011.0,University of Arizona,2010 UT Invite,1989-04-25,3
+Robert Bollier,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.59,93.59,0 days 00:01:33.590000,2011-03-25,2011.0,Stanford University,2011 NCAA DI - Men,1989-08-22,3
+Sebastien Rousseau,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.87,93.87,0 days 00:01:33.870000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1990-09-10,3
+Jakob Allen,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:33.88,93.88,0 days 00:01:33.880000,2011-03-02,2011.0,Stanford University,2011 PAC 10 Champs men,1989-05-18,3
+Daniel Madwed,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:34.33,94.33,0 days 00:01:34.330000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1989-03-15,3
+Morgan Priestley,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:34.48,94.48,0 days 00:01:34.480000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1990-05-12,3
+Alexander Coville,200 Freestyle SCY Male,200,Freestyle,SCY,Male,1:34.54,94.54,0 days 00:01:34.540000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1988-07-17,3
+Allison Schmitt,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:32.71,272.71,0 days 00:04:32.710000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1990-06-07,4
+Alyssa Anderson,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.34,274.34,0 days 00:04:34.340000,2011-03-17,2011.0,University of Arizona,2011 NCAA DI - Women,1990-09-30,4
+Meredith Budner,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:34.56,274.56,0 days 00:04:34.560000,2011-03-17,2011.0,Towson University,2011 NCAA DI - Women,1989-03-31,4
+Shannon Vreeland,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.28,276.28,0 days 00:04:36.280000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1991-11-15,4
+Ashley Wise,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.48,276.48,0 days 00:04:36.480000,2011-03-17,2011.0,University of Minnesota,2011 NCAA DI - Women,1990-10-21,4
+Stephanie Peacock,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:36.86,276.86,0 days 00:04:36.860000,2011-02-16,2011.0,University of North Carolina Chapel Hill,2011 ACC Champs women,1992-07-08,4
+Wendy Trott,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.55,277.55,0 days 00:04:37.550000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1990-02-14,4
+Elizabeth Beisel,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.74,277.74,0 days 00:04:37.740000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1992-08-18,4
+Natalie Adams,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.81,277.81,0 days 00:04:37.810000,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1991-09-11,4
+Haley Anderson,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:37.92,277.92,0 days 00:04:37.920000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1991-11-20,4
+Rachel Naurath,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.48,278.48,0 days 00:04:38.480000,2011-03-17,2011.0,University of Virginia,2011 NCAA DI - Women,1992-05-02,4
+Katya Bachrouche,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.56,278.56,0 days 00:04:38.560000,2011-03-17,2011.0,University of Virginia,2011 NCAA DI - Women,1989-08-18,4
+Chelsea Nauta,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.61,278.61,0 days 00:04:38.610000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1988-10-14,4
+Brittany Strumbel,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.88,278.88,0 days 00:04:38.880000,2011-03-17,2011.0,Indiana University,2011 NCAA DI - Women,1990-05-27,4
+Lindsay Gendron,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:38.97,278.97,0 days 00:04:38.970000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1992-10-16,4
+Jessica White,500 Freestyle SCY Female,500,Freestyle,SCY,Female,4:39.57,279.57,0 days 00:04:39.570000,2011-02-16,2011.0,Indiana University,2011 Big Ten Champs women,1990-09-12,4
+Matthew McLean,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:10.15,250.15,0 days 00:04:10.150000,2011-03-24,2011.0,University of Virginia,2011 NCAA DI - Men,1988-05-13,4
+Conor Dwyer,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:11.36,251.36,0 days 00:04:11.360000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-01-10,4
+Robert Bollier,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:13.94,253.94,0 days 00:04:13.940000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1989-08-22,4
+Martin Grodzki,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:14.93,254.93,0 days 00:04:14.930000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1991-04-18,4
+Ryan Harrison,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.13,255.13,0 days 00:04:15.130000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1989-06-10,4
+Clement Lefert,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.59,255.59,0 days 00:04:15.590000,2011-03-02,2011.0,University of Southern California,2011 PAC 10 Champs men,1987-09-26,4
+Jackson Wilcox,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.85,255.85,0 days 00:04:15.850000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1989-08-16,4
+Sean Ryan,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:15.99,255.99,0 days 00:04:15.990000,2011-03-24,2011.0,University of Michigan,2011 NCAA DI - Men,1992-08-13,4
+Michael Flach,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:16.03,256.03,0 days 00:04:16.030000,2011-02-16,2011.0,University of South Carolina Columbia,2011 SEC Champs,1991-04-30,4
+Michael McBroom,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:16.14,256.14,0 days 00:04:16.140000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1991-05-16,4
+Chad La Tourette,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:16.15,256.15,0 days 00:04:16.150000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1988-10-07,4
+Zane Grothe,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:16.57,256.57,0 days 00:04:16.570000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1992-04-22,4
+Ryan Feeley,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:17.29,257.29,0 days 00:04:17.290000,2011-03-24,2011.0,University of Michigan,2011 NCAA DI - Men,1991-10-12,4
+Steven Hill,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:17.71,257.71,0 days 00:04:17.710000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1991-10-16,4
+Morgan Priestley,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:17.76,257.76,0 days 00:04:17.760000,2011-03-02,2011.0,Stanford University,2011 PAC 10 Champs men,1990-05-12,4
+Richard Charlesworth,500 Freestyle SCY Male,500,Freestyle,SCY,Male,4:17.88,257.88,0 days 00:04:17.880000,2010-12-02,2011.0,University of Southern California,2010 Winter Nationals,1988-10-26,4
+Haley Anderson,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:40.26,580.26,0 days 00:09:40.260000,2011-01-29,2011.0,University of Southern California,USC @ Stanford,1991-11-20,5
+Maureen McLaine,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.11,582.11,0 days 00:09:42.110000,2011-03-03,2011.0,Texas A&M University,2011 GU AGS Speedo Sectional Champs,1991-05-14,5
+Andrea Taylor,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:42.24,582.24,0 days 00:09:42.240000,2011-01-29,2011.0,Stanford University,USC @ Stanford,1991-10-24,5
+Kelsey Ditto,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.42,583.42,0 days 00:09:43.420000,2010-11-18,2011.0,Stanford University,2010 CA OB Arena Invitational,1989-04-21,5
+Ashley Wise,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:43.74,583.74,0 days 00:09:43.740000,2011-01-28,2011.0,University of Minnesota,Purdue Quad/Triple Duals,1990-10-21,5
+Shelby Fortin,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.17,585.17,0 days 00:09:45.170000,2011-02-24,2011.0,University of Pennsylvania,2011 Women's Ivy Champs,1992-07-25,5
+Lindsay Gendron,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:45.71,585.71,0 days 00:09:45.710000,2011-01-08,2011.0,University of Tennessee,2011 SE Tennessee vs Virginia,1992-10-16,5
+Wendy Trott,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:47.69,587.69,0 days 00:09:47.690000,2011-01-22,2011.0,University of Georgia,2011 SE Tennessee vs Georgia W,1990-02-14,5
+Alyssa Anderson,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:48.42,588.42,0 days 00:09:48.420000,2011-01-21,2011.0,University of Arizona,Arizona vs Stanford,1990-09-30,5
+Elizabeth Beisel,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:48.58,588.58,0 days 00:09:48.580000,2011-01-29,2011.0,University of Florida,UF vs. TN,1992-08-18,5
+Ashley Adams,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:48.69,588.69,0 days 00:09:48.690000,2011-03-03,2011.0,Texas A&M University,2011 GU AGS Speedo Sectional Champs,1991-09-11,5
+Rachel Naurath,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:48.73,588.73,0 days 00:09:48.730000,2011-01-22,2011.0,University of Virginia,UVA vs. UNC Women,1992-05-02,5
+Tristin Baxter,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:49.02,589.02,0 days 00:09:49.020000,2010-11-18,2011.0,Arizona State University,2010 CA OB Arena Invitational,1992-03-06,5
+Nicole Menzel,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:49.31,589.31,0 days 00:09:49.310000,2011-02-16,2011.0,University of Arkansas,2011 SEC Champs,1992-03-02,5
+Allysa Vavra,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:51.05,591.05,0 days 00:09:51.050000,2011-01-28,2011.0,Indiana University,Louisville vs Indiana vs Virgi,1990-01-03,5
+Katie Gardocki,1000 Freestyle SCY Female,1000,Freestyle,SCY,Female,9:52.11,592.11,0 days 00:09:52.110000,2011-01-21,2011.0,Auburn University,2011 SE Florida vs Auburn,1991-11-07,5
+Chad La Tourette,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,8:56.40,536.4,0 days 00:08:56.400000,2010-11-18,2011.0,Stanford University,2010 CA OB Arena Invitational,1988-10-07,5
+Josef Kinderwater,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.12,540.12,0 days 00:09:00.120000,2011-01-22,2011.0,University of North Carolina Chapel Hill,UVA vs. UNC Men,1989-03-31,5
+Conor Dwyer,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:00.48,540.48,0 days 00:09:00.480000,2010-10-25,2011.0,University of Florida,UGA vs Florida,1989-01-10,5
+William Freeman,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:02.27,542.27,0 days 00:09:02.270000,2010-10-25,2011.0,University of Georgia,UGA vs Florida,1991-10-18,5
+Nejc Zupan,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:03.37,543.37,0 days 00:09:03.370000,2011-03-03,2011.0,Dartmouth College,2011 Ivy League Champs men,1991-11-22,5
+Matthew McLean,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.75,545.75,0 days 00:09:05.750000,2010-11-19,2011.0,University of Virginia,UVA vs. Indiana & Penn State,1988-05-13,5
+Richard Charlesworth,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.98,545.98,0 days 00:09:05.980000,2010-12-17,2011.0,University of Southern California,2010 CA OB USC vs UNLV,1988-10-26,5
+Taylor Smith,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:05.99,545.99,0 days 00:09:05.990000,2010-11-19,2011.0,University of Virginia,UVA vs. Indiana & Penn State,1988-08-28,5
+Mark deSwardt,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:06.34,546.34,0 days 00:09:06.340000,2011-02-23,2011.0,Cleveland State University,2011 Horizon League Champs,1989-09-04,5
+Martin Grodzki,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:06.47,546.47,0 days 00:09:06.470000,2011-01-22,2011.0,University of Georgia,2011 SE Tennessee vs Indiana a,1991-04-18,5
+Mateo De Angulo,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:06.48,546.48,0 days 00:09:06.480000,2010-11-23,2011.0,Florida State University,Univ. of Florida vs. Florida S,1990-06-18,5
+Jackson Wilcox,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:06.58,546.58,0 days 00:09:06.580000,2010-11-05,2011.0,University of Texas,2010 IU Men vs Michigan vs Tex,1989-08-16,5
+Paul Nolle,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:06.61,546.61,0 days 00:09:06.610000,2011-03-03,2011.0,Princeton University,2011 Ivy League Champs men,1991-12-17,5
+Nelson Maitland,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:07.36,547.36,0 days 00:09:07.360000,2010-12-11,2011.0,Las Vegas (W) University of Nevada,2010 CA OB UNLV Winter Invitational,1988-11-16,5
+Scott Korotkin,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:07.76,547.76,0 days 00:09:07.760000,2010-11-18,2011.0,Stanford University,2010 CA OB Arena Invitational,1989-02-12,5
+Bradley Phillips,1000 Freestyle SCY Male,1000,Freestyle,SCY,Male,9:07.86,547.86,0 days 00:09:07.860000,2010-11-19,2011.0,University of Virginia,UVA vs. Indiana & Penn State,1992-05-31,5
+Wendy Trott,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:40.32,940.32,0 days 00:15:40.320000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1990-02-14,6
+Meredith Budner,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:44.26,944.26,0 days 00:15:44.260000,2011-03-17,2011.0,Towson University,2011 NCAA DI - Women,1989-03-31,6
+Haley Anderson,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:48.63,948.63,0 days 00:15:48.630000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1991-11-20,6
+Ashley Wise,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:53.80,953.8,0 days 00:15:53.800000,2011-03-17,2011.0,University of Minnesota,2011 NCAA DI - Women,1990-10-21,6
+Ashley Twichell,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:54.15,954.15,0 days 00:15:54.150000,2011-02-16,2011.0,Duke University,2011 ACC Champs women,1989-06-16,6
+Chelsea Nauta,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:57.21,957.21,0 days 00:15:57.210000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1988-10-14,6
+Chelsea Franklin,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,15:59.05,959.05,0 days 00:15:59.050000,2011-03-17,2011.0,University of Arkansas,2011 NCAA DI - Women,1990-09-07,6
+Kelsey Ditto,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:00.62,960.62,0 days 00:16:00.620000,2011-02-23,2011.0,Stanford University,2011 PAC 10 Champs women,1989-04-21,6
+Aleksa Akerfelds,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:00.84,960.84,0 days 00:16:00.840000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1989-08-03,6
+Lindsay Gendron,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:01.77,961.77,0 days 00:16:01.770000,2011-03-17,2011.0,University of Tennessee,2011 NCAA DI - Women,1992-10-16,6
+Corinne Showalter,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:02.36,962.36,0 days 00:16:02.360000,2011-03-17,2011.0,University of Florida,2011 NCAA DI - Women,1990-09-02,6
+Katya Bachrouche,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:03.52,963.52,0 days 00:16:03.520000,2011-03-17,2011.0,University of Virginia,2011 NCAA DI - Women,1989-08-18,6
+Caitlin Hamilton,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:04.36,964.36,0 days 00:16:04.360000,2011-03-17,2011.0,Purdue University,2011 NCAA DI - Women,1990-09-11,6
+Samantha Vanden Berge,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:04.81,964.81,0 days 00:16:04.810000,2011-03-17,2011.0,Los Angeles University of California,2011 NCAA DI - Women,1988-08-12,6
+Katie Gardocki,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:04.85,964.85,0 days 00:16:04.850000,2011-03-17,2011.0,Auburn University,2011 NCAA DI - Women,1991-11-07,6
+Loren Brandon,1650 Freestyle SCY Female,1650,Freestyle,SCY,Female,16:05.91,965.91,0 days 00:16:05.910000,2011-03-17,2011.0,University of Minnesota,2011 NCAA DI - Women,1991-04-20,6
+Michael McBroom,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:32.86,872.86,0 days 00:14:32.860000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1991-05-16,6
+Martin Grodzki,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:34.80,874.8,0 days 00:14:34.800000,2011-03-24,2011.0,University of Georgia,2011 NCAA DI - Men,1991-04-18,6
+Chad La Tourette,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:34.80,874.8,0 days 00:14:34.800000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1988-10-07,6
+Matthew McLean,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:39.62,879.62,0 days 00:14:39.620000,2011-03-24,2011.0,University of Virginia,2011 NCAA DI - Men,1988-05-13,6
+Josef Kinderwater,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:42.64,882.64,0 days 00:14:42.640000,2011-03-24,2011.0,University of North Carolina Chapel Hill,2011 NCAA DI - Men,1989-03-31,6
+Zane Grothe,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:47.09,887.09,0 days 00:14:47.090000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1992-04-22,6
+Sean Ryan,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:48.68,888.68,0 days 00:14:48.680000,2011-03-24,2011.0,University of Michigan,2011 NCAA DI - Men,1992-08-13,6
+Jackson Wilcox,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:48.69,888.69,0 days 00:14:48.690000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1989-08-16,6
+Ryan Feeley,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:52.09,892.09,0 days 00:14:52.090000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1991-10-12,6
+Connor Signorin,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:52.11,892.11,0 days 00:14:52.110000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1992-06-10,6
+Conor Dwyer,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:52.75,892.75,0 days 00:14:52.750000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-01-10,6
+Yoelvis Pedraza,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:53.84,893.84,0 days 00:14:53.840000,2011-03-24,2011.0,University of Florida,2011 NCAA DI - Men,1987-07-28,6
+Taylor Smith,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:53.99,893.99,0 days 00:14:53.990000,2011-03-24,2011.0,University of Virginia,2011 NCAA DI - Men,1988-08-28,6
+William Freeman,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:54.58,894.58,0 days 00:14:54.580000,2011-03-24,2011.0,University of Georgia,2011 NCAA DI - Men,1991-10-18,6
+Nelson Maitland,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:54.91,894.91,0 days 00:14:54.910000,2011-03-24,2011.0,Las Vegas (W) University of Nevada,2011 NCAA DI - Men,1988-11-16,6
+Daniel O'Connor,1650 Freestyle SCY Male,1650,Freestyle,SCY,Male,14:56.93,896.93,0 days 00:14:56.930000,2011-03-24,2011.0,University of North Carolina Chapel Hill,2011 NCAA DI - Men,1992-02-12,6
+Cindy Tran,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.22,51.22,0 days 00:00:51.220000,2011-02-23,2011.0,University of California Berkeley,2011 PAC 10 Champs women,1992-03-18,12
+Jennifer Hanselmann,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.39,51.39,0 days 00:00:51.390000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1990-01-12,12
+Deborah Roth,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.51,51.51,0 days 00:00:51.510000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1992-09-15,12
+Presley Bard,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.62,51.62,0 days 00:00:51.620000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1988-04-01,12
+Margaret Meyer,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.66,51.66,0 days 00:00:51.660000,2010-12-02,2011.0,University of Wisconsin Madison,2010 UT Invite,1989-05-26,12
+Sarah Bennett,100 Backstroke SCY Female,100,Backstroke,SCY,Female,51.89,51.89,0 days 00:00:51.890000,2011-03-17,2011.0,University of Arizona,2011 NCAA DI - Women,1992-04-08,12
+Carly Smith,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.20,52.2,0 days 00:00:52.200000,2011-03-17,2011.0,University of North Carolina Chapel Hill,2011 NCAA DI - Women,1991-08-28,12
+Taylor Wohrley,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.28,52.28,0 days 00:00:52.280000,2011-02-16,2011.0,Indiana University,2011 Big Ten Champs women,1991-08-14,12
+Megan Romano,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.35,52.35,0 days 00:00:52.350000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1991-02-02,12
+Therese Svendsen,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.35,52.35,0 days 00:00:52.350000,2011-03-17,2011.0,Southern Methodist University,2011 NCAA DI - Women,1989-03-13,12
+Kelsey Conci,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.36,52.36,0 days 00:00:52.360000,2011-03-17,2011.0,University of Wyoming (W),2011 NCAA DI - Women,1990-02-17,12
+Paige Miller,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.37,52.37,0 days 00:00:52.370000,2011-02-25,2011.0,Texas A&M University,2011 Big 12 Championships,1991-07-30,12
+Elizabeth Beisel,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.54,52.54,0 days 00:00:52.540000,2011-02-18,2011.0,University of Florida,2011 SEC Champs,1992-08-18,12
+Lily Moldenhauer,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.61,52.61,0 days 00:00:52.610000,2011-02-25,2011.0,University of Texas,2011 Big 12 Championships,1991-09-13,12
+Elizabeth Webb,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.63,52.63,0 days 00:00:52.630000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1990-08-27,12
+Colleen Fotsch,100 Backstroke SCY Female,100,Backstroke,SCY,Female,52.64,52.64,0 days 00:00:52.640000,2011-02-23,2011.0,University of California Berkeley,2011 PAC 10 Champs women,1990-01-11,12
+Thomas Shields,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.02,45.02,0 days 00:00:45.020000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1991-07-11,12
+Eric Ress,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.11,45.11,0 days 00:00:45.110000,2011-02-23,2011.0,Indiana University,2011 Big 10 Champs men ,1990-11-08,12
+Cole Cragin,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.56,45.56,0 days 00:00:45.560000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1991-04-07,12
+Marco Loughran,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.61,45.61,0 days 00:00:45.610000,2011-02-18,2011.0,University of Florida,2011 SEC Champs,1989-03-24,12
+Kyle Owens,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.63,45.63,0 days 00:00:45.630000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1990-11-12,12
+Anthony Cox,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.72,45.72,0 days 00:00:45.720000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-06-15,12
+Cory Chitwood,100 Backstroke SCY Male,100,Backstroke,SCY,Male,45.99,45.99,0 days 00:00:45.990000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1989-02-28,12
+Guy Barnea,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.07,46.07,0 days 00:00:46.070000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1987-09-09,12
+Mitchell Friedemann,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.09,46.09,0 days 00:00:46.090000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1992-04-07,12
+Andrew Elliott,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.15,46.15,0 days 00:00:46.150000,2010-12-02,2011.0,Ohio State University,2010 Winter Nationals,1989-12-27,12
+Ivan Tolic,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.27,46.27,0 days 00:00:46.270000,2011-03-04,2011.0,University of Arizona,2011 PAC 10 Champs men,1988-02-09,12
+Richard Henahan,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.57,46.57,0 days 00:00:46.570000,2011-03-24,2011.0,University of Tennessee,2011 NCAA DI - Men,1989-11-20,12
+Matthew Bartlett,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.58,46.58,0 days 00:00:46.580000,2011-03-24,2011.0,University of Georgia,2011 NCAA DI - Men,1987-07-10,12
+Jacob Jarzen,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.68,46.68,0 days 00:00:46.680000,2011-02-24,2011.0,Michigan State University,2011 Big 10 Champs men ,1990-10-03,12
+Matthew Swanston,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.73,46.73,0 days 00:00:46.730000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1991-03-25,12
+Jared White,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.75,46.75,0 days 00:00:46.750000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1989-02-07,12
+Tommy Wyher,100 Backstroke SCY Male,100,Backstroke,SCY,Male,46.75,46.75,0 days 00:00:46.750000,2011-02-25,2011.0,University of North Carolina Chapel Hill,2011 ACC Champs men,1988-10-17,12
+Margaret Meyer,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:50.76,110.76,0 days 00:01:50.760000,2011-03-17,2011.0,University of Wisconsin Madison,2011 NCAA DI - Women,1989-05-26,13
+Dominique Bouchard,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.54,111.54,0 days 00:01:51.540000,2011-03-17,2011.0,University of Missouri,2011 NCAA DI - Women,1991-05-29,13
+Elizabeth Beisel,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.55,111.55,0 days 00:01:51.550000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1992-08-18,13
+Teresa Crippen,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:51.61,111.61,0 days 00:01:51.610000,2011-03-17,2011.0,University of Florida,2011 NCAA DI - Women,1990-04-12,13
+Madeline Andrews,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.04,112.04,0 days 00:01:52.040000,2010-11-18,2011.0,Stanford University,2010 CA OB Arena Invitational,1993-04-05,13
+Presley Bard,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.70,112.7,0 days 00:01:52.700000,2010-12-02,2011.0,University of Southern California,2010 Winter Nationals,1988-04-01,13
+Kelsey Gaid,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.75,112.75,0 days 00:01:52.750000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1991-02-05,13
+Deborah Roth,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:52.96,112.96,0 days 00:01:52.960000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1992-09-15,13
+Carly Smith,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.08,113.08,0 days 00:01:53.080000,2011-02-16,2011.0,University of North Carolina Chapel Hill,2011 ACC Champs women,1991-08-28,13
+Hoi Shun Au,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.33,113.33,0 days 00:01:53.330000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1992-05-30,13
+Amy Modglin,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.66,113.66,0 days 00:01:53.660000,2011-03-17,2011.0,Pennsylvania State University,2011 NCAA DI - Women,1991-02-27,13
+Sarah Bennett,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.67,113.67,0 days 00:01:53.670000,2010-12-02,2011.0,University of Arizona,2010 UT Invite,1992-04-08,13
+Taylor Wohrley,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.70,113.7,0 days 00:01:53.700000,2011-02-16,2011.0,Indiana University,2011 Big Ten Champs women,1991-08-14,13
+Aubrey Peacock,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.78,113.78,0 days 00:01:53.780000,2011-03-17,2011.0,University of Arizona,2011 NCAA DI - Women,1991-10-18,13
+Therese Svendsen,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.82,113.82,0 days 00:01:53.820000,2011-02-23,2011.0,Southern Methodist University,2011 GU Conf USA Champs,1989-03-13,13
+Katharine Riefenstahl,200 Backstroke SCY Female,200,Backstroke,SCY,Female,1:53.83,113.83,0 days 00:01:53.830000,2011-03-17,2011.0,University of Texas,2011 NCAA DI - Women,1990-06-26,13
+Cory Chitwood,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.84,98.84,0 days 00:01:38.840000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1989-02-28,13
+Eric Ress,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:38.96,98.96,0 days 00:01:38.960000,2011-03-24,2011.0,Indiana University,2011 NCAA DI - Men,1990-11-08,13
+Marco Loughran,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.11,100.11,0 days 00:01:40.110000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-03-24,13
+Kyle Owens,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.36,100.36,0 days 00:01:40.360000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-11-12,13
+Matthew Swanston,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:40.88,100.88,0 days 00:01:40.880000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1991-03-25,13
+Austin Surhoff,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.62,101.62,0 days 00:01:41.620000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-11-27,13
+Michael Sheppard,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.66,101.66,0 days 00:01:41.660000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1992-02-28,13
+Andrew Elliott,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.69,101.69,0 days 00:01:41.690000,2011-02-23,2011.0,Ohio State University,2011 Big 10 Champs men ,1989-12-27,13
+Matthew Thompson,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:41.72,101.72,0 days 00:01:41.720000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1990-07-12,13
+Cole Cragin,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.04,102.04,0 days 00:01:42.040000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1991-04-07,13
+Max Murphy,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.14,102.14,0 days 00:01:42.140000,2011-03-24,2011.0,Auburn University,2011 NCAA DI - Men,1990-05-09,13
+Jared Christie-Goldthorpe,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.17,102.17,0 days 00:01:42.170000,2011-03-24,2011.0,West Virginia University,2011 NCAA DI - Men,1990-04-04,13
+James Lendrum,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.29,102.29,0 days 00:01:42.290000,2010-12-17,2011.0,University of Southern California,2010 CA Winter CA NV Sectional,1991-07-26,13
+Markus Sievers,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.50,102.5,0 days 00:01:42.500000,2011-03-24,2011.0,Ohio State University,2011 NCAA DI - Men,1988-05-13,13
+Patrick Murphy,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.61,102.61,0 days 00:01:42.610000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1991-10-13,13
+Guy Barnea,200 Backstroke SCY Male,200,Backstroke,SCY,Male,1:42.84,102.84,0 days 00:01:42.840000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1987-09-09,13
+Breeja Larson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.51,58.51,0 days 00:00:58.510000,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1992-04-16,15
+Laura Sogar,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.83,58.83,0 days 00:00:58.830000,2011-02-23,2011.0,University of Texas,2011 Big 12 Championships,1991-04-27,15
+Valerie Jones,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.88,58.88,0 days 00:00:58.880000,2010-10-08,2011.0,University of Evansville (W),BSU vs Evansville,1989-09-25,15
+Rebecca Ejdervik,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.90,58.9,0 days 00:00:58.900000,2011-02-23,2011.0,Arizona State University,2011 PAC 10 Champs women,1987-09-03,15
+Jane Rose,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,58.94,58.94,0 days 00:00:58.940000,2011-02-16,2011.0,Louisiana State University,2011 SEC Champs,1988-03-13,15
+Kasey Carlson,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.12,59.12,0 days 00:00:59.120000,2011-02-23,2011.0,University of Southern California,2011 PAC 10 Champs women,1991-11-26,15
+Ashley Wolter,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.23,59.23,0 days 00:00:59.230000,2011-03-17,2011.0,George Mason University,2011 NCAA DI - Women,1990-08-24,15
+Ellyn Baumgardner,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.38,59.38,0 days 00:00:59.380000,2011-03-17,2011.0,University of Arizona,2011 NCAA DI - Women,1990-12-30,15
+Ashley Wanland,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.57,59.57,0 days 00:00:59.570000,2011-03-17,2011.0,University of Wisconsin Madison,2011 NCAA DI - Women,1990-03-05,15
+Haley Spencer,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.75,59.75,0 days 00:00:59.750000,2011-02-16,2011.0,University of Minnesota,2011 Big Ten Champs women,1991-02-25,15
+Martina Moravcikova,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.78,59.78,0 days 00:00:59.780000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1988-08-13,15
+Sara Nicponski,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.84,59.84,0 days 00:00:59.840000,2010-12-03,2011.0,University of Georgia,Georgia Fall Invitational 2010,1988-09-06,15
+Micah Sumrall,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,59.95,59.95,0 days 00:00:59.950000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-07-20,15
+Hrafnhildur Luthersdottir,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:00.10,60.1,0 days 00:01:00.100000,2011-03-17,2011.0,University of Florida,2011 NCAA DI - Women,1991-08-02,15
+Caitlin Smith,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:00.14,60.14,0 days 00:01:00.140000,2011-02-23,2011.0,University of California Berkeley,2011 PAC 10 Champs women,1991-02-26,15
+Therese Bergstrom,100 Breaststroke SCY Female,100,Breaststroke,SCY,Female,1:00.15,60.15,0 days 00:01:00.150000,2011-02-16,2011.0,University of Louisville,2011 Big East Champs,1987-05-11,15
+Damir Dugonjic,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,50.94,50.94,0 days 00:00:50.940000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-02-21,15
+Nolan Koon,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,51.63,51.63,0 days 00:00:51.630000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1990-05-03,15
+Carlos Almeida,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.02,52.02,0 days 00:00:52.020000,2011-03-24,2011.0,University of Louisville,2011 NCAA DI - Men,1988-08-04,15
+Martti Aljand,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.24,52.24,0 days 00:00:52.240000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1987-11-22,15
+Nicholas Ferrif,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.76,52.76,0 days 00:00:52.760000,2011-03-02,2011.0,University of California Berkeley,2011 PAC 10 Champs men,1989-02-20,15
+Andrew Morrell,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.80,52.8,0 days 00:00:52.800000,2011-02-23,2011.0,Las Vegas (M) University of Nevada,2011 MW Champs,1990-06-27,15
+Eric Friedland,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.81,52.81,0 days 00:00:52.810000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-06-27,15
+Robert Lovelace,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.82,52.82,0 days 00:00:52.820000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1989-09-11,15
+Bradley Craig,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.88,52.88,0 days 00:00:52.880000,2011-03-24,2011.0,University of Tennessee,2011 NCAA DI - Men,1989-01-10,15
+Cody Miller,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.90,52.9,0 days 00:00:52.900000,2011-02-23,2011.0,Indiana University,2011 Big 10 Champs men ,1992-01-09,15
+Mitchell Scherer,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.96,52.96,0 days 00:00:52.960000,2011-02-23,2011.0,Pennsylvania State University,2011 Big 10 Champs men ,1990-04-20,15
+Scott Spann,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.97,52.97,0 days 00:00:52.970000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1988-05-11,15
+Lovro Bilonic,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,52.99,52.99,0 days 00:00:52.990000,2011-02-25,2011.0,Saint Peter's University,2011 ECAC Champs,1989-07-14,15
+Dillon Connolly,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,53.00,53.0,0 days 00:00:53,2010-12-02,2011.0,University of Southern California,2010 Winter Nationals,1988-11-05,15
+Stuart Ferguson,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,53.01,53.01,0 days 00:00:53.010000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1991-01-21,15
+Ivan Gutesa,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,53.03,53.03,0 days 00:00:53.030000,2011-03-24,2011.0,University of Minnesota,2011 NCAA DI - Men,1987-09-24,15
+Kevin Munsch,100 Breaststroke SCY Male,100,Breaststroke,SCY,Male,53.03,53.03,0 days 00:00:53.030000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1990-04-25,15
+Haley Spencer,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.12,126.12,0 days 00:02:06.120000,2011-03-17,2011.0,University of Minnesota,2011 NCAA DI - Women,1991-02-25,16
+Breeja Larson,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.18,126.18,0 days 00:02:06.180000,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1992-04-16,16
+Caitlin Smith,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:06.23,126.23,0 days 00:02:06.230000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1991-02-26,16
+Laura Sogar,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.43,127.43,0 days 00:02:07.430000,2010-12-02,2011.0,University of Texas,2010 UT Invite,1991-04-27,16
+Amanda Rutqvist,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:07.86,127.86,0 days 00:02:07.860000,2011-03-17,2011.0,University of South Carolina Columbia,2011 NCAA DI - Women,1991-10-05,16
+Ashley Wolter,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.52,128.52,0 days 00:02:08.520000,2011-03-17,2011.0,George Mason University,2011 NCAA DI - Women,1990-08-24,16
+Elizabeth Amuchastegui,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:08.76,128.76,0 days 00:02:08.760000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1989-01-11,16
+Jessica Kennedy,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.01,129.01,0 days 00:02:09.010000,2011-02-12,2011.0,University of Southern California,2011 OB USC vs UCLA,1991-02-06,16
+Allysa Vavra,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.25,129.25,0 days 00:02:09.250000,2011-02-16,2011.0,Indiana University,2011 Big Ten Champs women,1990-01-03,16
+Grace Kittle,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.49,129.49,0 days 00:02:09.490000,2011-03-17,2011.0,University of Denver,2011 NCAA DI - Women,1988-12-12,16
+Brittany Beauchan,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:09.54,129.54,0 days 00:02:09.540000,2011-03-17,2011.0,Los Angeles University of California,2011 NCAA DI - Women,1989-02-22,16
+Lauren Hall,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:10.15,130.15,0 days 00:02:10.150000,2011-02-23,2011.0,Los Angeles University of California,2011 PAC 10 Champs women,1989-07-12,16
+Michelle McKeehan,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:10.18,130.18,0 days 00:02:10.180000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1989-11-09,16
+Hrafnhildur Luthersdottir,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:10.19,130.19,0 days 00:02:10.190000,2011-03-17,2011.0,University of Florida,2011 NCAA DI - Women,1991-08-02,16
+Micah Sumrall,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:10.23,130.23,0 days 00:02:10.230000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-07-20,16
+Martina Moravcikova,200 Breaststroke SCY Female,200,Breaststroke,SCY,Female,2:10.31,130.31,0 days 00:02:10.310000,2011-03-17,2011.0,University of Tennessee,2011 NCAA DI - Women,1988-08-13,16
+Eric Friedland,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.43,112.43,0 days 00:01:52.430000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-06-27,16
+Martti Aljand,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:52.88,112.88,0 days 00:01:52.880000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1987-11-22,16
+Nicholas D'Innocenzo,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:53.13,113.13,0 days 00:01:53.130000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-10-04,16
+Robert Lovelace,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.01,114.01,0 days 00:01:54.010000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1989-09-11,16
+Damir Dugonjic,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.07,114.07,0 days 00:01:54.070000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-02-21,16
+Cody Miller,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.16,114.16,0 days 00:01:54.160000,2011-02-23,2011.0,Indiana University,2011 Big 10 Champs men ,1992-01-09,16
+Carlos Almeida,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.21,114.21,0 days 00:01:54.210000,2011-03-24,2011.0,University of Louisville,2011 NCAA DI - Men,1988-08-04,16
+Trevor Hoyt,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.21,114.21,0 days 00:01:54.210000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1991-05-04,16
+Bradley Craig,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.24,114.24,0 days 00:01:54.240000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1989-01-10,16
+Robert Holderness,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.36,114.36,0 days 00:01:54.360000,2011-03-24,2011.0,Florida State University,2011 NCAA DI - Men,1990-06-29,16
+Scott Spann,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.39,114.39,0 days 00:01:54.390000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1988-05-11,16
+Nolan Koon,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.42,114.42,0 days 00:01:54.420000,2011-03-02,2011.0,University of California Berkeley,2011 PAC 10 Champs men,1990-05-03,16
+Thomas Cole,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.54,114.54,0 days 00:01:54.540000,2011-02-23,2011.0,Southern Methodist University,2011 C-USA Champs Women's ,1989-05-26,16
+William Cregar,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.56,114.56,0 days 00:01:54.560000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1989-05-19,16
+Nicholas Ferrif,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.57,114.57,0 days 00:01:54.570000,2011-03-02,2011.0,University of California Berkeley,2011 PAC 10 Champs men,1989-02-20,16
+John Criste,200 Breaststroke SCY Male,200,Breaststroke,SCY,Male,1:54.61,114.61,0 days 00:01:54.610000,2011-03-02,2011.0,Stanford University,2011 PAC 10 Champs men,1989-01-17,16
+Amanda Sims,100 Butterfly SCY Female,100,Butterfly,SCY,Female,50.49,50.49,0 days 00:00:50.490000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1989-03-02,18
+Lyndsay De Paul,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.34,51.34,0 days 00:00:51.340000,2011-02-23,2011.0,University of Southern California,2011 PAC 10 Champs women,1988-11-30,18
+Jennifer Hanselmann,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.64,51.64,0 days 00:00:51.640000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1990-01-12,18
+Claire White,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.68,51.68,0 days 00:00:51.680000,2011-03-17,2011.0,Western Kentucky University,2011 NCAA DI - Women,1989-01-12,18
+Hannah Wilson,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.82,51.82,0 days 00:00:51.820000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1989-03-10,18
+Arianna Vanderpool-Wallace,100 Butterfly SCY Female,100,Butterfly,SCY,Female,51.98,51.98,0 days 00:00:51.980000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-03-04,18
+Amber Boucher,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.05,52.05,0 days 00:00:52.050000,2011-02-23,2011.0,Boise State University,2011 WAC Champs,1989-09-23,18
+Jane Rose,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.11,52.11,0 days 00:00:52.110000,2010-11-18,2011.0,Louisiana State University,2010 UH Cougar Classic,1988-03-13,18
+Amanda Kendall,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.14,52.14,0 days 00:00:52.140000,2011-02-16,2011.0,Louisiana State University,2011 SEC Champs,1991-01-16,18
+Kristel Vourna,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.16,52.16,0 days 00:00:52.160000,2011-02-16,2011.0,University of Alabama,2011 SEC Champs,1992-02-11,18
+Sarah Bateman,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.20,52.2,0 days 00:00:52.200000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1990-06-15,18
+Megan Lafferty,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.28,52.28,0 days 00:00:52.280000,2011-03-17,2011.0,University of Maryland,2011 NCAA DI - Women,1991-05-07,18
+Olivia Scott,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.29,52.29,0 days 00:00:52.290000,2011-03-17,2011.0,Auburn University,2011 NCAA DI - Women,1992-08-06,18
+Katinka Hosszu,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.33,52.33,0 days 00:00:52.330000,2011-02-12,2011.0,University of Southern California,2011 OB USC vs UCLA,1989-05-03,18
+Kelsey Floyd,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.34,52.34,0 days 00:00:52.340000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1991-05-12,18
+Caitlin Dauw,100 Butterfly SCY Female,100,Butterfly,SCY,Female,52.41,52.41,0 days 00:00:52.410000,2011-02-16,2011.0,University of Michigan,2011 Big Ten Champs women,1990-07-09,18
+Austin Staab,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.66,44.66,0 days 00:00:44.660000,2011-03-02,2011.0,Stanford University,2011 PAC 10 Champs men,1988-11-21,18
+Thomas Shields,100 Butterfly SCY Male,100,Butterfly,SCY,Male,44.78,44.78,0 days 00:00:44.780000,2011-03-02,2011.0,University of California Berkeley,2011 PAC 10 Champs men,1991-07-11,18
+Daniel Madwed,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.57,45.57,0 days 00:00:45.570000,2011-03-24,2011.0,University of Michigan,2011 NCAA DI - Men,1989-03-15,18
+Sean Fletcher,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.69,45.69,0 days 00:00:45.690000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1991-09-10,18
+Cody Roberts,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.70,45.7,0 days 00:00:45.700000,2011-02-23,2011.0,Las Vegas (M) University of Nevada,2011 MW Champs,1991-04-20,18
+Graeme Moore,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.71,45.71,0 days 00:00:45.710000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1989-01-28,18
+Hannes Heyl,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.77,45.77,0 days 00:00:45.770000,2011-03-24,2011.0,Louisiana State University,2011 NCAA DI - Men,1987-03-31,18
+Robert Bollier,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.85,45.85,0 days 00:00:45.850000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1989-08-22,18
+Nathan Adrian,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.89,45.89,0 days 00:00:45.890000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-12-07,18
+Timothy Phillips,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.90,45.9,0 days 00:00:45.900000,2011-03-24,2011.0,Ohio State University,2011 NCAA DI - Men,1990-01-30,18
+Mark Dylla,100 Butterfly SCY Male,100,Butterfly,SCY,Male,45.99,45.99,0 days 00:00:45.990000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1988-12-01,18
+Marcin Cieslak,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.03,46.03,0 days 00:00:46.030000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1992-04-07,18
+Mathias Gydesen,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.08,46.08,0 days 00:00:46.080000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-08-24,18
+Daniel Lester,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.19,46.19,0 days 00:00:46.190000,2011-03-24,2011.0,University of Wisconsin Madison,2011 NCAA DI - Men,1990-12-27,18
+Michael Derocco,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.29,46.29,0 days 00:00:46.290000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1987-11-02,18
+James Feigen,100 Butterfly SCY Male,100,Butterfly,SCY,Male,46.38,46.38,0 days 00:00:46.380000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1989-09-26,18
+Katinka Hosszu,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:51.02,111.02,0 days 00:01:51.020000,2010-12-02,2011.0,University of Southern California,2010 Winter Nationals,1989-05-03,19
+Lyndsay De Paul,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.79,112.79,0 days 00:01:52.790000,2011-02-12,2011.0,University of Southern California,2011 OB USC vs UCLA,1988-11-30,19
+Natalie Adams,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:52.93,112.93,0 days 00:01:52.930000,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1991-09-11,19
+Amanda Sims,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.17,113.17,0 days 00:01:53.170000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1989-03-02,19
+Alyssa Anderson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.79,113.79,0 days 00:01:53.790000,2011-03-17,2011.0,University of Arizona,2011 NCAA DI - Women,1990-09-30,19
+Teresa Crippen,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:53.95,113.95,0 days 00:01:53.950000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1990-04-12,19
+Kelsey Floyd,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.17,114.17,0 days 00:01:54.170000,2011-02-16,2011.0,University of Tennessee,2011 SEC Champs,1991-05-12,19
+Sara Isakovic,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:54.51,114.51,0 days 00:01:54.510000,2010-12-02,2011.0,University of California Berkeley,2010 Winter Nationals,1988-06-09,19
+Rita Medrano,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.00,115.0,0 days 00:01:55,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1990-01-26,19
+Cari Czarnecki,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.25,115.25,0 days 00:01:55.250000,2011-03-17,2011.0,Towson University,2011 NCAA DI - Women,1989-10-17,19
+Caitlin Smith,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.48,115.48,0 days 00:01:55.480000,2010-12-02,2011.0,University of California Berkeley,2010 Winter Nationals,1991-02-26,19
+Alexandra Forrester,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.51,115.51,0 days 00:01:55.510000,2010-12-02,2011.0,Yale University,2010 Winter Nationals,1991-10-18,19
+Jasmin Jahanshahi,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.53,115.53,0 days 00:01:55.530000,2011-02-12,2011.0,Los Angeles University of California,2011 OB USC vs UCLA,1990-10-03,19
+Tanya Krisman,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.63,115.63,0 days 00:01:55.630000,2010-12-02,2011.0,University of Southern California,2010 Winter Nationals,1989-12-28,19
+Rachel Naurath,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:55.88,115.88,0 days 00:01:55.880000,2011-02-16,2011.0,University of Virginia,2011 ACC Champs women,1992-05-02,19
+Brooke Watson,200 Butterfly SCY Female,200,Butterfly,SCY,Female,1:56.01,116.01,0 days 00:01:56.010000,2011-02-25,2011.0,University of Tennessee,2011 SE OB Championship Qualif,1991-08-08,19
+Thomas Shields,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.31,100.31,0 days 00:01:40.310000,2011-03-02,2011.0,University of California Berkeley,2011 PAC 10 Champs men,1991-07-11,19
+Mark Dylla,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.60,100.6,0 days 00:01:40.600000,2011-03-24,2011.0,University of Georgia,2011 NCAA DI - Men,1988-12-01,19
+Robert Bollier,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:40.76,100.76,0 days 00:01:40.760000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1989-08-22,19
+Daniel Madwed,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:41.70,101.7,0 days 00:01:41.700000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1989-03-15,19
+Marcin Cieslak,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.13,102.13,0 days 00:01:42.130000,2011-03-24,2011.0,University of Florida,2011 NCAA DI - Men,1992-04-07,19
+Daniel Lester,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.49,102.49,0 days 00:01:42.490000,2011-03-24,2011.0,University of Wisconsin Madison,2011 NCAA DI - Men,1990-12-27,19
+Alexander Tipton,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.67,102.67,0 days 00:01:42.670000,2010-12-02,2011.0,University of Arizona,2010 UT Invite,1990-02-15,19
+Sebastien Rousseau,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:42.80,102.8,0 days 00:01:42.800000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1990-09-10,19
+Thomas Luchsinger,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.15,103.15,0 days 00:01:43.150000,2011-03-24,2011.0,University of North Carolina Chapel Hill,2011 NCAA DI - Men,1991-02-28,19
+Robert Sullivan,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.18,103.18,0 days 00:01:43.180000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1990-01-06,19
+Kyle Whitaker,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.52,103.52,0 days 00:01:43.520000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1991-10-10,19
+Quincy Lee,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.57,103.57,0 days 00:01:43.570000,2011-02-23,2011.0,Ohio State University,2011 Big 10 Champs men ,1988-12-02,19
+Nimrod Shapira Bar-Or,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.71,103.71,0 days 00:01:43.710000,2010-12-02,2011.0,University of Arizona,2010 UT Invite,1989-04-25,19
+Cameron Martin,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.89,103.89,0 days 00:01:43.890000,2011-03-24,2011.0,University of Florida,2011 NCAA DI - Men,1991-03-24,19
+Clement Lefert,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:43.92,103.92,0 days 00:01:43.920000,2011-03-02,2011.0,University of Southern California,2011 PAC 10 Champs men,1987-09-26,19
+Balazs Gercsak,200 Butterfly SCY Male,200,Butterfly,SCY,Male,1:44.03,104.03,0 days 00:01:44.030000,2011-03-24,2011.0,University of Florida,2011 NCAA DI - Men,1986-10-14,19
+Katinka Hosszu,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:53.39,113.39,0 days 00:01:53.390000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1989-05-03,21
+Morgan Scroggy,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.58,114.58,0 days 00:01:54.580000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1988-08-02,21
+Madeline Andrews,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.66,114.66,0 days 00:01:54.660000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1993-04-05,21
+Caitlin Smith,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:54.97,114.97,0 days 00:01:54.970000,2011-02-23,2011.0,University of California Berkeley,2011 PAC 10 Champs women,1991-02-26,21
+Karlee Carver,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.07,115.07,0 days 00:01:55.070000,2011-03-17,2011.0,University of Texas,2011 NCAA DI - Women,1990-01-24,21
+Melanie Margalis,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:55.42,115.42,0 days 00:01:55.420000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1991-12-30,21
+Lyndsay De Paul,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.16,116.16,0 days 00:01:56.160000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1988-11-30,21
+Lauren Hall,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.67,116.67,0 days 00:01:56.670000,2011-03-17,2011.0,Los Angeles University of California,2011 NCAA DI - Women,1989-07-12,21
+Stina Gardell,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.78,116.78,0 days 00:01:56.780000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1990-03-28,21
+Caitlin Geary,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:56.89,116.89,0 days 00:01:56.890000,2011-03-17,2011.0,Auburn University,2011 NCAA DI - Women,1989-06-19,21
+Elizabeth Amuchastegui,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.00,117.0,0 days 00:01:57,2010-11-18,2011.0,Stanford University,2010 CA OB Arena Invitational,1989-01-11,21
+Allysa Vavra,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.01,117.01,0 days 00:01:57.010000,2011-02-16,2011.0,Indiana University,2011 Big Ten Champs women,1990-01-03,21
+Shara French,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.20,117.2,0 days 00:01:57.200000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-12-01,21
+Lindsey Loncarie,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.24,117.24,0 days 00:01:57.240000,2011-02-23,2011.0,Texas A&M University,2011 Big 12 Championships,1988-06-22,21
+Jana Mangimelli,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.38,117.38,0 days 00:01:57.380000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1991-01-21,21
+Ashley Wolter,200 Individual Medley SCY Female,200,Individual Medley,SCY,Female,1:57.51,117.51,0 days 00:01:57.510000,2011-03-17,2011.0,George Mason University,2011 NCAA DI - Women,1990-08-24,21
+Austin Staab,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:41.57,101.57,0 days 00:01:41.570000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1988-11-21,21
+Cory Chitwood,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:42.28,102.28,0 days 00:01:42.280000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1989-02-28,21
+William Cregar,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.21,103.21,0 days 00:01:43.210000,2011-03-24,2011.0,University of Georgia,2011 NCAA DI - Men,1989-05-19,21
+Kyle Whitaker,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.23,103.23,0 days 00:01:43.230000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1991-10-10,21
+Austin Surhoff,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.58,103.58,0 days 00:01:43.580000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-11-27,21
+Martin Liivamagi,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.59,103.59,0 days 00:01:43.590000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-07-05,21
+Marcin Cieslak,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.69,103.69,0 days 00:01:43.690000,2011-03-24,2011.0,University of Florida,2011 NCAA DI - Men,1992-04-07,21
+Nicholas D'Innocenzo,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.90,103.9,0 days 00:01:43.900000,2011-02-23,2011.0,University of Texas,2011 Big 12 Championships,1990-10-04,21
+Carlos Almeida,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:43.97,103.97,0 days 00:01:43.970000,2011-03-24,2011.0,University of Louisville,2011 NCAA DI - Men,1988-08-04,21
+Eric Ress,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.07,104.07,0 days 00:01:44.070000,2011-02-23,2011.0,Indiana University,2011 Big 10 Champs men ,1990-11-08,21
+Sebastien Rousseau,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.24,104.24,0 days 00:01:44.240000,2011-03-24,2011.0,University of Florida,2011 NCAA DI - Men,1990-09-10,21
+Austen Thompson,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.24,104.24,0 days 00:01:44.240000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1990-09-12,21
+Kyle Owens,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.28,104.28,0 days 00:01:44.280000,2011-02-16,2011.0,Auburn University,2011 SEC Champs,1990-11-12,21
+Daniel Madwed,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.41,104.41,0 days 00:01:44.410000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1989-03-15,21
+Marcin Tarczynski,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.47,104.47,0 days 00:01:44.470000,2011-03-02,2011.0,University of California Berkeley,2011 PAC 10 Champs men,1990-09-10,21
+Matthew Houser,200 Individual Medley SCY Male,200,Individual Medley,SCY,Male,1:44.51,104.51,0 days 00:01:44.510000,2011-03-24,2011.0,University of Virginia,2011 NCAA DI - Men,1990-10-15,21
+Katinka Hosszu,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,3:59.75,239.75,0 days 00:03:59.750000,2011-03-17,2011.0,University of Southern California,2011 NCAA DI - Women,1989-05-03,22
+Elizabeth Beisel,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:00.83,240.83,0 days 00:04:00.830000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1992-08-18,22
+Madeline Andrews,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.02,241.02,0 days 00:04:01.020000,2011-03-17,2011.0,Stanford University,2011 NCAA DI - Women,1993-04-05,22
+Caitlin Smith,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:01.72,241.72,0 days 00:04:01.720000,2011-03-17,2011.0,University of California Berkeley,2011 NCAA DI - Women,1991-02-26,22
+Stina Gardell,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:03.89,243.89,0 days 00:04:03.890000,2011-02-12,2011.0,University of Southern California,2011 OB USC vs UCLA,1990-03-28,22
+Allysa Vavra,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:04.30,244.3,0 days 00:04:04.300000,2011-03-17,2011.0,Indiana University,2011 NCAA DI - Women,1990-01-03,22
+Sarah Henry,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.30,245.3,0 days 00:04:05.300000,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1992-01-13,22
+Teresa Crippen,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.36,245.36,0 days 00:04:05.360000,2011-03-17,2011.0,University of Florida,2011 NCAA DI - Women,1990-04-12,22
+Lyndsay De Paul,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.42,245.42,0 days 00:04:05.420000,2010-12-17,2011.0,University of Southern California,2010 CA OB USC vs UNLV,1988-11-30,22
+Melanie Margalis,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:05.65,245.65,0 days 00:04:05.650000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1991-12-30,22
+Andrea Taylor,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.12,246.12,0 days 00:04:06.120000,2010-11-18,2011.0,Stanford University,2010 CA OB Arena Invitational,1991-10-24,22
+Lauren Hall,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.42,246.42,0 days 00:04:06.420000,2011-03-17,2011.0,Los Angeles University of California,2011 NCAA DI - Women,1989-07-12,22
+Jana Mangimelli,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.65,246.65,0 days 00:04:06.650000,2011-03-17,2011.0,University of Georgia,2011 NCAA DI - Women,1991-01-21,22
+Natalie Adams,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:06.98,246.98,0 days 00:04:06.980000,2011-03-17,2011.0,Texas A&M University,2011 NCAA DI - Women,1991-09-11,22
+Claire Crippen,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:07.29,247.29,0 days 00:04:07.290000,2011-02-16,2011.0,University of Virginia,2011 ACC Champs women,1988-11-28,22
+Mattie Kukors,400 Individual Medley SCY Female,400,Individual Medley,SCY,Female,4:07.59,247.59,0 days 00:04:07.590000,2011-02-16,2011.0,University of Michigan,2011 Big Ten Champs women,1991-07-05,22
+Conor Dwyer,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:37.75,217.75,0 days 00:03:37.750000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-01-10,22
+William Cregar,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:40.97,220.97,0 days 00:03:40.970000,2011-03-24,2011.0,University of Georgia,2011 NCAA DI - Men,1989-05-19,22
+Kyle Whitaker,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.06,221.06,0 days 00:03:41.060000,2011-02-23,2011.0,University of Michigan,2011 Big 10 Champs men ,1991-10-10,22
+William Harris,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:41.51,221.51,0 days 00:03:41.510000,2011-02-23,2011.0,University of North Carolina Chapel Hill,2011 ACC Champs men,1988-09-23,22
+Austen Thompson,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:42.37,222.37,0 days 00:03:42.370000,2011-03-24,2011.0,University of Arizona,2011 NCAA DI - Men,1990-09-12,22
+Bryan Collins,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:43.91,223.91,0 days 00:03:43.910000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1988-01-07,22
+Martin Liivamagi,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:43.93,223.93,0 days 00:03:43.930000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1988-07-05,22
+Michael Joyce,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.07,224.07,0 days 00:03:44.070000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1989-08-02,22
+Nicholas D'Innocenzo,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.08,224.08,0 days 00:03:44.080000,2011-02-23,2011.0,University of Texas,2011 Big 12 Championships,1990-10-04,22
+Connor Signorin,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.09,224.09,0 days 00:03:44.090000,2011-02-16,2011.0,University of Florida,2011 SEC Champs,1992-06-10,22
+Austin Surhoff,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.35,224.35,0 days 00:03:44.350000,2011-03-24,2011.0,University of Texas,2011 NCAA DI - Men,1990-11-27,22
+Thomas Luchsinger,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.81,224.81,0 days 00:03:44.810000,2011-03-24,2011.0,University of North Carolina Chapel Hill,2011 NCAA DI - Men,1991-02-28,22
+Matthew Thompson,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.82,224.82,0 days 00:03:44.820000,2011-03-24,2011.0,Stanford University,2011 NCAA DI - Men,1990-07-12,22
+Peter Benner,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:44.84,224.84,0 days 00:03:44.840000,2011-02-16,2011.0,University of Georgia,2011 SEC Champs,1989-11-16,22
+Benjamin Hinshaw,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:45.30,225.3,0 days 00:03:45.300000,2011-03-24,2011.0,University of California Berkeley,2011 NCAA DI - Men,1991-04-30,22
+Matthew Houser,400 Individual Medley SCY Male,400,Individual Medley,SCY,Male,3:45.89,225.89,0 days 00:03:45.890000,2011-03-24,2011.0,University of Virginia,2011 NCAA DI - Men,1990-10-15,22
