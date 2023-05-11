@@ -456,15 +456,17 @@ def clean_later_records(dictionary):
     # Fill team name as name for relays
     df['name'] = df['name'].fillna(df['team'])
 
-    name_dict = {
-        r'\bKara\b': 'Kara Lynn Joyce',
-        r'\bVlad M\b': 'Vladimir Morozov',
-        r'\bCear Cielo\b': 'Cesar Cielo',
-        r'\bAriana Vanderpool-Wallace\b': 'Arianna Vanderpool-Wallace'
-    }
+    df['name'] = df['name'].apply(
+        lambda x: 'Kara Lynn Joyce' if 'Kara' in x else x)
 
-    for pattern, replacement in name_dict.items():
-        df['name'] = df['name'].str.replace(pattern, replacement, regex=True)
+    df['name'] = df['name'].apply(
+        lambda x: 'Vladimir Morozov' if 'Vlad M' in x else x)
+
+    df['name'] = df['name'].apply(
+        lambda x: 'Cesar Cielo' if x == 'Cear Cielo' else x)
+
+    df['name'] = df['name'].apply(
+        lambda x: 'Arianna Vanderpool-Wallace' if x == 'Ariana Vanderpool-Wallace' else x)
 
     # Convert time to seconds
     for i in range(len(df)):
